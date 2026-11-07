@@ -61,6 +61,17 @@
             "LocalDesc": {
               "CultureInvariantString": null
             }
+          },
+          {
+            "CharacterID": "1090",
+            "bUseLocalDesc": false,
+            "ReactionAbilityID": "GA_Elyms_Passive1",
+            "LocalDesc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+              "Key": "GA_Elyms_Passive_1_2",
+              "SourceString": "<TextHLT>「延滞」强化</>：队伍中任意角色对目标施加「延滞」时，曳尔沐会在<NumGreen>7.5</>秒后对该目标追加一次「延滞」。该效果每<NumGreen>7</>秒至多触发一次，且通过该效果施加的「延滞」不会再次触发该效果。",
+              "LocalizedString": "<TextHLT>「延滞」强化</>：队伍中任意角色对目标施加「延滞」时，曳尔沐会在<NumGreen>7.5</>秒后对该目标追加一次「延滞」。该效果每<NumGreen>7</>秒至多触发一次，且通过该效果施加的「延滞」不会再次触发该效果。"
+            }
           }
         ],
         "TriggerTeachArray": [
@@ -357,6 +368,17 @@
             "ReactionAbilityID": "GA_Shinku_Passive_1",
             "LocalDesc": {
               "CultureInvariantString": null
+            }
+          },
+          {
+            "CharacterID": "1090",
+            "bUseLocalDesc": false,
+            "ReactionAbilityID": "GA_Elyms_Passive1",
+            "LocalDesc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+              "Key": "GA_Elyms_Passive_1_1",
+              "SourceString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。",
+              "LocalizedString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。"
             }
           }
         ],

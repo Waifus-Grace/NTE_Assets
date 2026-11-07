@@ -2808,7 +2808,7 @@
         "SequenceId": "droplist_Annulith",
         "HiddenCounts": false,
         "SequenceWeight": 1.0,
-        "ModifyNum": 100,
+        "ModifyNum": 50,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
         "DropConditions": []
       },
@@ -4539,6 +4539,86 @@
         "HiddenCounts": false,
         "SequenceWeight": 1.0,
         "ModifyNum": 25,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_0": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_HunterLvExp",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 2000,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_1": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_Annulith",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 150,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_2": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_CharacterUpMaterial_lv3",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 30,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_3": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_WeaponUpMaterial_lv3",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 30,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_4": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_fons",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 200000,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_5": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_gold",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 500000,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_6": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_Common_material_01",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 20,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
+        "DropConditions": []
+      },
+      "drop_mainquest_q111088_7": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_Common_material_02",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 50,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL",
         "DropConditions": []
       }

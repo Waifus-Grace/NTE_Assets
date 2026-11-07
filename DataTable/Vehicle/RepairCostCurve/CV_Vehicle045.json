@@ -1,0 +1,1192 @@
+[
+  {
+    "Type": "CurveTable",
+    "Name": "CV_Vehicle045",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveTable'",
+    "Package": "/Game/DataTable/Vehicle/RepairCostCurve/CV_Vehicle045",
+    "CurveTableMode": "SimpleCurves",
+    "Rows": {
+      "EP_Front": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 80.0
+          },
+          {
+            "Time": 1400.0,
+            "Value": 110.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 150.0
+          },
+          {
+            "Time": 1800.0,
+            "Value": 180.0
+          },
+          {
+            "Time": 2200.0,
+            "Value": 260.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 340.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 500.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 600.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 870.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 920.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 960.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1210.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1270.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1320.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1380.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 1430.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_FrontLeft": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 80.0
+          },
+          {
+            "Time": 1400.0,
+            "Value": 110.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 150.0
+          },
+          {
+            "Time": 1800.0,
+            "Value": 180.0
+          },
+          {
+            "Time": 2200.0,
+            "Value": 260.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 340.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 500.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 600.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 870.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 920.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 960.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1210.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1270.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1320.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1380.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 1430.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_FrontRight": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 80.0
+          },
+          {
+            "Time": 1400.0,
+            "Value": 110.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 150.0
+          },
+          {
+            "Time": 1800.0,
+            "Value": 180.0
+          },
+          {
+            "Time": 2200.0,
+            "Value": 260.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 340.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 500.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 600.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 870.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 920.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 960.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1210.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1270.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1320.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1380.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 1430.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_LeftFront": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 800.0,
+            "Value": 90.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 210.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 370.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 420.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 410.0
+          },
+          {
+            "Time": 3000.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 580.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 700.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 760.0
+          },
+          {
+            "Time": 4000.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 890.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 970.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 1040.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1280.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1370.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1450.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 1540.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 1640.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 1730.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1930.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 2040.0
+          },
+          {
+            "Time": 7000.0,
+            "Value": 2140.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 2360.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2720.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_LeftBack": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 800.0,
+            "Value": 90.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 210.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 370.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 420.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 410.0
+          },
+          {
+            "Time": 3000.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 580.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 700.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 760.0
+          },
+          {
+            "Time": 4000.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 890.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 970.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 1040.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1280.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1370.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1450.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 1540.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 1640.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 1730.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1930.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 2040.0
+          },
+          {
+            "Time": 7000.0,
+            "Value": 2140.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 2360.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2720.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_RightFront": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 800.0,
+            "Value": 90.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 210.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 370.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 420.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 410.0
+          },
+          {
+            "Time": 3000.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 580.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 700.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 760.0
+          },
+          {
+            "Time": 4000.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 890.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 970.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 1040.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1280.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1370.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1450.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 1540.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 1640.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 1730.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1930.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 2040.0
+          },
+          {
+            "Time": 7000.0,
+            "Value": 2140.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 2360.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2720.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_RightBack": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 800.0,
+            "Value": 90.0
+          },
+          {
+            "Time": 1600.0,
+            "Value": 210.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 370.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 420.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 410.0
+          },
+          {
+            "Time": 3000.0,
+            "Value": 460.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 580.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 630.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 700.0
+          },
+          {
+            "Time": 3800.0,
+            "Value": 760.0
+          },
+          {
+            "Time": 4000.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 890.0
+          },
+          {
+            "Time": 4400.0,
+            "Value": 970.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 1040.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1280.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1370.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1450.0
+          },
+          {
+            "Time": 5800.0,
+            "Value": 1540.0
+          },
+          {
+            "Time": 6000.0,
+            "Value": 1640.0
+          },
+          {
+            "Time": 6200.0,
+            "Value": 1730.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1930.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 2040.0
+          },
+          {
+            "Time": 7000.0,
+            "Value": 2140.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 2360.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2720.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_Back": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 40.0
+          },
+          {
+            "Time": 1000.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 140.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 360.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 390.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 470.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 520.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 710.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4800.0,
+            "Value": 880.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1000.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1070.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1130.0
+          },
+          {
+            "Time": 6400.0,
+            "Value": 1410.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1490.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 1560.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1720.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1810.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1890.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1980.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2060.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_BackLeft": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 40.0
+          },
+          {
+            "Time": 1000.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 140.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 360.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 390.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 470.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 520.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 710.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4800.0,
+            "Value": 880.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1000.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1070.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1130.0
+          },
+          {
+            "Time": 6400.0,
+            "Value": 1410.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1490.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 1560.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1720.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1810.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1890.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1980.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2060.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_BackRight": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 200.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 400.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 600.0,
+            "Value": 40.0
+          },
+          {
+            "Time": 1000.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 1200.0,
+            "Value": 140.0
+          },
+          {
+            "Time": 2400.0,
+            "Value": 320.0
+          },
+          {
+            "Time": 2600.0,
+            "Value": 360.0
+          },
+          {
+            "Time": 2800.0,
+            "Value": 390.0
+          },
+          {
+            "Time": 3200.0,
+            "Value": 470.0
+          },
+          {
+            "Time": 3400.0,
+            "Value": 520.0
+          },
+          {
+            "Time": 3600.0,
+            "Value": 560.0
+          },
+          {
+            "Time": 4200.0,
+            "Value": 710.0
+          },
+          {
+            "Time": 4600.0,
+            "Value": 830.0
+          },
+          {
+            "Time": 4800.0,
+            "Value": 880.0
+          },
+          {
+            "Time": 5200.0,
+            "Value": 1000.0
+          },
+          {
+            "Time": 5400.0,
+            "Value": 1070.0
+          },
+          {
+            "Time": 5600.0,
+            "Value": 1130.0
+          },
+          {
+            "Time": 6400.0,
+            "Value": 1410.0
+          },
+          {
+            "Time": 6600.0,
+            "Value": 1490.0
+          },
+          {
+            "Time": 6800.0,
+            "Value": 1560.0
+          },
+          {
+            "Time": 7200.0,
+            "Value": 1720.0
+          },
+          {
+            "Time": 7400.0,
+            "Value": 1810.0
+          },
+          {
+            "Time": 7600.0,
+            "Value": 1890.0
+          },
+          {
+            "Time": 7800.0,
+            "Value": 1980.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 2060.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_FrontGlass": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_LeftGlass": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_RightGlass": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "EP_BackGlass": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 8000.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      }
+    }
+  }
+]

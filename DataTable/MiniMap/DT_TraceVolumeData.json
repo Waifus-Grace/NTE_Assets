@@ -1682,12 +1682,12 @@
           "Min": {
             "X": -984.3143,
             "Y": 271552.47,
-            "Z": 26112.402
+            "Z": 27312.402
           },
           "Max": {
             "X": 9015.686,
             "Y": 280452.47,
-            "Z": 29512.402
+            "Z": 28312.402
           },
           "IsValid": 1
         },
@@ -1763,6 +1763,10 @@
           {
             "Key": "HTRoomVolume_TrinityOffice",
             "Value": "YiGuanjuOffic"
+          },
+          {
+            "Key": "HTRoomVolume_Trinity11F",
+            "Value": "HTRoomVolume_Trinity11F_Enter"
           }
         ],
         "VolumeTransform": {
@@ -1850,7 +1854,7 @@
       "HTRoomVolume_TrinityOffice_Quest": {
         "CurAreaId": "HTRoomVolume_TrinityOffice_Quest",
         "LevelMap": "XL_map_bigworld_test",
-        "Priority": 3,
+        "Priority": 90,
         "ParentAreaId": "None",
         "ExitMapIcon": "None",
         "bShowExitIcon": false,
@@ -1899,7 +1903,12 @@
           "Y": 0.0,
           "Z": 0.0
         },
-        "WhiteQuestIDList": []
+        "WhiteQuestIDList": [
+          {
+            "BeginQuestID": "q110005",
+            "EndQuestID": "q110027"
+          }
+        ]
       },
       "HTRoomVolume_Dunner_Tree": {
         "CurAreaId": "HTRoomVolume_Dunner_Tree",
@@ -3281,6 +3290,119 @@
             "X": 177.22313,
             "Y": 177.22313,
             "Z": 139.61235
+          }
+        },
+        "LocalExtent": {
+          "X": 100.0,
+          "Y": 100.0,
+          "Z": 100.0
+        },
+        "WhiteQuestIDList": []
+      },
+      "HTRoomVolume_11F": {
+        "CurAreaId": "HTRoomVolume_11F",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 5,
+        "ParentAreaId": "HTRoomVolume_Trinity11F",
+        "ExitMapIcon": "HTRoomVolume_11F_Exit",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": 1970.0,
+            "Y": 268930.0,
+            "Z": -4700.0
+          },
+          "Max": {
+            "X": 5970.0,
+            "Y": 273930.0,
+            "Z": -1700.0
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 3970.0,
+          "Y": 271430.0,
+          "Z": -3200.0
+        },
+        "SubAreaEntranceList": [],
+        "VolumeTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3970.0,
+            "Y": 271430.0,
+            "Z": -3200.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "LocalExtent": {
+          "X": 2000.0,
+          "Y": 2500.0,
+          "Z": 1500.0
+        },
+        "WhiteQuestIDList": []
+      },
+      "HTRoomVolume_Trinity11F": {
+        "CurAreaId": "HTRoomVolume_Trinity11F",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 4,
+        "ParentAreaId": "HTRoomVolume_Elevator",
+        "ExitMapIcon": "HTRoomVolume_Trinity11F_Exit",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -984.3143,
+            "Y": 271552.47,
+            "Z": 28452.402
+          },
+          "Max": {
+            "X": 9015.686,
+            "Y": 280452.47,
+            "Z": 29452.402
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 4015.6858,
+          "Y": 276002.47,
+          "Z": 28952.402
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_11F",
+            "Value": "HTRoomVolume_Trinity11F_Enter"
+          }
+        ],
+        "VolumeTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 4015.6858,
+            "Y": 276002.47,
+            "Z": 28952.402
+          },
+          "Scale3D": {
+            "X": 50.0,
+            "Y": 44.5,
+            "Z": 5.0
           }
         },
         "LocalExtent": {

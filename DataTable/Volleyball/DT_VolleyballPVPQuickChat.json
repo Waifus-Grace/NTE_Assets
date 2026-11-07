@@ -1,0 +1,561 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_VolleyballPVPQuickChat",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Volleyball/DT_VolleyballPVPQuickChat",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'VolleyballPVPQuickChatRow'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1046_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NZ_002.UI_T_Memes_NZ_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1046_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NZ_003.UI_T_Memes_NZ_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1046_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NZ_001.UI_T_Memes_NZ_001",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1046_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NZ_003.UI_T_Memes_NZ_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1051_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NvZ_002.UI_T_Memes_NvZ_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1051_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NvZ_003.UI_T_Memes_NvZ_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1051_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NvZ_001.UI_T_Memes_NvZ_001",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1051_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NvZ_003.UI_T_Memes_NvZ_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1019_1": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0028.YH_UI_Memes_0028",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1019_2": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0029.YH_UI_Memes_0029",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1019_3": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0030.YH_UI_Memes_0030",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1019_4": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0003.YH_UI_Memes_0003",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1075_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_YLY_004.UI_T_Memes_YLY_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1075_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_YLY_002.UI_T_Memes_YLY_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1075_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_YLY_003.UI_T_Memes_YLY_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1075_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_YLY_002.UI_T_Memes_YLY_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1010_1": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0043.YH_UI_Memes_0043",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1010_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_NNL_004.UI_T_Memes_NNL_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1010_3": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0013.YH_UI_Memes_0013",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1010_4": {
+        "EmojiTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0042.YH_UI_Memes_0042",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1076_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_ZH_004.UI_T_Memes_ZH_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1076_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_ZH_003.UI_T_Memes_ZH_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1076_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_ZH_002.UI_T_Memes_ZH_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1076_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_ZH_002.UI_T_Memes_ZH_002",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1071_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_KES_001.UI_T_Memes_KES_001",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1071_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_KES_001.UI_T_Memes_KES_001",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1071_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_KES_003.UI_T_Memes_KES_003",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1071_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_KES_004.UI_T_Memes_KES_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1036_1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_CH_004.UI_T_Memes_CH_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_01",
+          "SourceString": "好球",
+          "LocalizedString": "好球"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1036_2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_CH_001.UI_T_Memes_CH_001",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_02",
+          "SourceString": "好耶",
+          "LocalizedString": "好耶"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1036_3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_CH_004.UI_T_Memes_CH_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_03",
+          "SourceString": "谢谢",
+          "LocalizedString": "谢谢"
+        },
+        "DisplayDuration": 4.0
+      },
+      "1036_4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_CH_004.UI_T_Memes_CH_004",
+          "SubPathString": ""
+        },
+        "EmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball_Chat_04",
+          "SourceString": "加油",
+          "LocalizedString": "加油"
+        },
+        "DisplayDuration": 4.0
+      }
+    }
+  }
+]

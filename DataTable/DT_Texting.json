@@ -1,0 +1,357 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Texting",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_Texting",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TextingData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_01",
+          "SourceString": "X：可恶！",
+          "LocalizedString": "X：可恶！"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.075
+      },
+      "1": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_02",
+          "SourceString": "Y：\\(>▽<)/",
+          "LocalizedString": "Y：\\(>▽<)/"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.02
+      },
+      "2": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_03",
+          "SourceString": "X：明明我没有失误啊？专门练了那套",
+          "LocalizedString": "X：明明我没有失误啊？专门练了那套"
+        },
+        "IntervalTime": 2.0,
+        "Rate": 0.075
+      },
+      "3": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_04",
+          "SourceString": "X：结果就差那么一点还是赢不了你！",
+          "LocalizedString": "X：结果就差那么一点还是赢不了你！"
+        },
+        "IntervalTime": 2.0,
+        "Rate": 0.075
+      },
+      "4": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_05",
+          "SourceString": "Y：X，也该考虑换个英雄了",
+          "LocalizedString": "Y：X，也该考虑换个英雄了"
+        },
+        "IntervalTime": 0.1,
+        "Rate": 0.075
+      },
+      "5": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_06",
+          "SourceString": "X：Y，你确定你没耍赖吧？",
+          "LocalizedString": "X：Y，你确定你没耍赖吧？"
+        },
+        "IntervalTime": 2.0,
+        "Rate": 0.075
+      },
+      "6": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_07",
+          "SourceString": "Y：才没啊！！",
+          "LocalizedString": "Y：才没啊！！"
+        },
+        "IntervalTime": 0.6,
+        "Rate": 0.075
+      },
+      "7": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_08",
+          "SourceString": "Y：当然只要我想，我在这台电脑里就是无敌的哦？",
+          "LocalizedString": "Y：当然只要我想，我在这台电脑里就是无敌的哦？"
+        },
+        "IntervalTime": 1.8,
+        "Rate": 0.06
+      },
+      "8": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_09",
+          "SourceString": "Y：但这次没有啦，和你打对抗的话我不想开挂",
+          "LocalizedString": "Y：但这次没有啦，和你打对抗的话我不想开挂"
+        },
+        "IntervalTime": 2.0,
+        "Rate": 0.06
+      },
+      "9": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_10",
+          "SourceString": "X：emmmm",
+          "LocalizedString": "X：emmmm"
+        },
+        "IntervalTime": 2.5,
+        "Rate": 0.3
+      },
+      "10": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_11",
+          "SourceString": "X：那还是我掌握得不够？",
+          "LocalizedString": "X：那还是我掌握得不够？"
+        },
+        "IntervalTime": 1.7,
+        "Rate": 0.075
+      },
+      "11": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_12",
+          "SourceString": "Y：别灰心嘛~其实已经很厉害啦！",
+          "LocalizedString": "Y：别灰心嘛~其实已经很厉害啦！"
+        },
+        "IntervalTime": 1.6,
+        "Rate": 0.075
+      },
+      "12": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_13",
+          "SourceString": "Y：(☆ω☆)",
+          "LocalizedString": "Y：(☆ω☆)"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.02
+      },
+      "13": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_14",
+          "SourceString": "Y：我估摸也有角色相性的原因",
+          "LocalizedString": "Y：我估摸也有角色相性的原因"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.06
+      },
+      "14": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_15",
+          "SourceString": "Y：要不要改变下选择看看？",
+          "LocalizedString": "Y：要不要改变下选择看看？"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.06
+      },
+      "15": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_16",
+          "SourceString": "Y：有点下次结果就说不准了的感觉",
+          "LocalizedString": "Y：有点下次结果就说不准了的感觉"
+        },
+        "IntervalTime": 3.0,
+        "Rate": 0.075
+      },
+      "16": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_17",
+          "SourceString": "X：等等",
+          "LocalizedString": "X：等等"
+        },
+        "IntervalTime": 0.5,
+        "Rate": 0.06
+      },
+      "17": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_18",
+          "SourceString": "X：哈哈",
+          "LocalizedString": "X：哈哈"
+        },
+        "IntervalTime": 0.4,
+        "Rate": 0.04
+      },
+      "18": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_19",
+          "SourceString": "Y：哦？什么什么？",
+          "LocalizedString": "Y：哦？什么什么？"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.04
+      },
+      "19": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_20",
+          "SourceString": "X：我有点子了Y！",
+          "LocalizedString": "X：我有点子了Y！"
+        },
+        "IntervalTime": 1.2,
+        "Rate": 0.05
+      },
+      "20": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_21",
+          "SourceString": "X：下次会有新的破解之法",
+          "LocalizedString": "X：下次会有新的破解之法"
+        },
+        "IntervalTime": 1.1,
+        "Rate": 0.05
+      },
+      "21": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_22",
+          "SourceString": "Y：不愧是X！",
+          "LocalizedString": "Y：不愧是X！"
+        },
+        "IntervalTime": 0.8,
+        "Rate": 0.075
+      },
+      "22": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_23",
+          "SourceString": "Y：(*ˊ▽ˋ*)",
+          "LocalizedString": "Y：(*ˊ▽ˋ*)"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.02
+      },
+      "23": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_24",
+          "SourceString": "X：跟你说好咯！",
+          "LocalizedString": "X：跟你说好咯！"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.075
+      },
+      "24": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_25",
+          "SourceString": "X：等着吧！",
+          "LocalizedString": "X：等着吧！"
+        },
+        "IntervalTime": 0.8,
+        "Rate": 0.075
+      },
+      "25": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_26",
+          "SourceString": "Y：好好我等着w",
+          "LocalizedString": "Y：好好我等着w"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.06
+      },
+      "26": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_27",
+          "SourceString": "Y：那今天还玩别的不？",
+          "LocalizedString": "Y：那今天还玩别的不？"
+        },
+        "IntervalTime": 2.5,
+        "Rate": 0.06
+      },
+      "27": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_28",
+          "SourceString": "Y：啊已经很晚了，你要回去了吧？",
+          "LocalizedString": "Y：啊已经很晚了，你要回去了吧？"
+        },
+        "IntervalTime": 2.0,
+        "Rate": 0.06
+      },
+      "28": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_29",
+          "SourceString": "X：今天玩得眼睛都酸了",
+          "LocalizedString": "X：今天玩得眼睛都酸了"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.075
+      },
+      "29": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_30",
+          "SourceString": "X：下了下了",
+          "LocalizedString": "X：下了下了"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.075
+      },
+      "30": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_31",
+          "SourceString": "X：明天再玩吧，Y！",
+          "LocalizedString": "X：明天再玩吧，Y！"
+        },
+        "IntervalTime": 1.3,
+        "Rate": 0.075
+      },
+      "31": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_32",
+          "SourceString": "Y：嗯拜拜",
+          "LocalizedString": "Y：嗯拜拜"
+        },
+        "IntervalTime": 0.8,
+        "Rate": 0.075
+      },
+      "32": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_33",
+          "SourceString": "Y：(∪。∪)。。。zzZ",
+          "LocalizedString": "Y：(∪。∪)。。。zzZ"
+        },
+        "IntervalTime": 1.0,
+        "Rate": 0.02
+      },
+      "33": {
+        "Text": {
+          "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+          "Key": "Exe01_TypeText_34",
+          "SourceString": "Y：明天见啦，X！",
+          "LocalizedString": "Y：明天见啦，X！"
+        },
+        "IntervalTime": 1.5,
+        "Rate": 0.075
+      }
+    }
+  }
+]

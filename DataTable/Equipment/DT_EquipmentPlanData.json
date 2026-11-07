@@ -1129,6 +1129,98 @@
           "AssetPathName": "/Game/UI/UI/Appearance/Fashion/YH_UI_shizhuang_lihui_mingyin.YH_UI_shizhuang_lihui_mingyin",
           "SubPathString": ""
         }
+      },
+      "1090": {
+        "CoreID": "Cosmos_orange",
+        "CoreLvl": 20,
+        "CoreMainAttrList": [
+          "DamageUpCosmosBase",
+          "CritBase",
+          "CritDamageBase",
+          "AtkUp"
+        ],
+        "RecommendAttrList": [
+          "DamageUpCosmosBase",
+          "CritBase",
+          "CritDamageBase",
+          "DamageUpGeneralBase",
+          "AtkUp",
+          "AtkAdd"
+        ],
+        "EquipmentList": [
+          "cell3_style3_1_Orange",
+          "cell3_style5_1_Orange",
+          "cell4_style2_1_Orange",
+          "cell2_style1_1_Orange",
+          "cell2_style1_1_Orange",
+          "cell3_style2_1_Orange",
+          "cell3_style1_1_Orange"
+        ],
+        "EquipmentLvl": 20,
+        "EquipmentSlots": [
+          "-1,-1,-1,-1,-1,-1,-1",
+          "-1,cell3_style3_1_Orange,cell3_style5_1_Orange,0,0,-1,-1",
+          "-1,0,0,0,cell4_style2_1_Orange,-1,-1",
+          "-1,cell2_style1_1_Orange,0,-1,0,0,-1",
+          "-1,-1,cell2_style1_1_Orange,0,0,cell3_style2_1_Orange,-1",
+          "-1,-1,0,cell3_style1_1_Orange,0,0,-1",
+          "-1,-1,-1,-1,-1,-1,-1"
+        ],
+        "ReferScore": 120,
+        "EquipPlanBg": {
+          "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip_Bg1.Development_Equip_Bg1",
+          "SubPathString": ""
+        },
+        "CharacterTabImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/980_Fashion_1090_0.980_Fashion_1090_0",
+          "SubPathString": ""
+        }
+      },
+      "1074": {
+        "CoreID": "Chaos_orange",
+        "CoreLvl": 20,
+        "CoreMainAttrList": [
+          "DamageUpChaosBase",
+          "CritBase",
+          "CritDamageBase",
+          "AtkUp"
+        ],
+        "RecommendAttrList": [
+          "DamageUpChaosBase",
+          "CritBase",
+          "CritDamageBase",
+          "DamageUpGeneralBase",
+          "AtkUp",
+          "AtkAdd"
+        ],
+        "EquipmentList": [
+          "cell3_style4_1_Orange",
+          "cell3_style6_1_Orange",
+          "cell3_style1_1_Orange",
+          "cell3_style1_1_Orange",
+          "cell4_style1_1_Orange",
+          "cell2_style1_1_Orange",
+          "cell2_style2_1_Orange"
+        ],
+        "EquipmentLvl": 20,
+        "EquipmentSlots": [
+          "-1,-1,-1,-1,-1,-1,-1",
+          "-1,cell2_style1_1_Orange,0,-1,cell3_style6_1_Orange,cell2_style2_1_Orange,-1",
+          "-1,cell3_style4_1_Orange,0,0,0,0,-1",
+          "-1,0,0,cell4_style1_1_Orange,0,0,-1",
+          "-1,-1,0,cell3_style1_1_Orange,0,-1,-1",
+          "-1,-1,0,cell3_style1_1_Orange,0,-1,-1",
+          "-1,-1,-1,-1,-1,-1,-1"
+        ],
+        "ReferScore": 120,
+        "EquipPlanBg": {
+          "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip_Bg2.Development_Equip_Bg2",
+          "SubPathString": ""
+        },
+        "CharacterTabImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/980_Fashion_1074_0.980_Fashion_1074_0",
+          "SubPathString": ""
+        }
       }
     }
   }

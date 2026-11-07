@@ -1,0 +1,509 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_VehicleSkillDamage",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Vehicle/VehicleCombat/DT_VehicleSkillDamage",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'VehicleSkillDamageData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "GE_VehicleCombatDamage_RPG": {
+        "BaseDamageValue": 5000.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.78,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_General": {
+        "BaseDamageValue": 5000.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.78,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Cosmos": {
+        "BaseDamageValue": 1250.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.68,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [
+          {
+            "CoefficientCurve": {
+              "ObjectName": "CurveFloat'CF_RechargeProjectile_TankBattle'",
+              "ObjectPath": "/Game/DataTable/Vehicle/VehicleCombat/CF_RechargeProjectile_TankBattle.0"
+            }
+          }
+        ],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Nature": {
+        "BaseDamageValue": 5000.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.68,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [
+          {
+            "CoefficientCurve": {
+              "ObjectName": "CurveFloat'CT_VehicleSkillDamageDistance_TankBattle'",
+              "ObjectPath": "/Game/DataTable/Vehicle/VehicleCombat/CT_VehicleSkillDamageDistance_TankBattle.0"
+            }
+          }
+        ],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Lakshana": {
+        "BaseDamageValue": 5000.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.68,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [
+          {
+            "SlowStrength": 0.2,
+            "SlowDuration": 5.0,
+            "StrengthByDistanceCurve": null,
+            "DurationByDistanceCurve": null
+          },
+          {
+            "SlowStrength": 0.99,
+            "SlowDuration": 1.5,
+            "StrengthByDistanceCurve": {
+              "ObjectName": "CurveFloat'CT_VehicleSkill_SlowEffect'",
+              "ObjectPath": "/Game/DataTable/Vehicle/VehicleCombat/CT_VehicleSkill_SlowEffect.0"
+            },
+            "DurationByDistanceCurve": {
+              "ObjectName": "CurveFloat'CT_VehicleSkill_SlowTime'",
+              "ObjectPath": "/Game/DataTable/Vehicle/VehicleCombat/CT_VehicleSkill_SlowTime.0"
+            }
+          }
+        ],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Chaos": {
+        "BaseDamageValue": 5000.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.68,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Psyche": {
+        "BaseDamageValue": 500.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.3,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": true
+      },
+      "GE_VehicleCombatDamage_RPG_Incantation": {
+        "BaseDamageValue": 200.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.68,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": false
+      },
+      "GE_VehicleCombatDamage_RPG_Incantation_Direct": {
+        "BaseDamageValue": 200.0,
+        "WorldDamageCoefficientMap": [
+          {
+            "Key": "7",
+            "Value": 75.0
+          },
+          {
+            "Key": "6",
+            "Value": 55.0
+          },
+          {
+            "Key": "5",
+            "Value": 35.0
+          },
+          {
+            "Key": "4",
+            "Value": 20.0
+          },
+          {
+            "Key": "3",
+            "Value": 7.0
+          },
+          {
+            "Key": "2",
+            "Value": 4.0
+          },
+          {
+            "Key": "1",
+            "Value": 2.0
+          },
+          {
+            "Key": "0",
+            "Value": 1.0
+          }
+        ],
+        "BossCoefficient": 0.4,
+        "BigWorldVehicleDamageCoefficient": 0.3,
+        "TankBattleVehicleDamageCoefficient": 1.0,
+        "Coefficients": [],
+        "Effects": [],
+        "HitNiagaraEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HitAudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bIgnoreDamageCD": true
+      }
+    }
+  }
+]

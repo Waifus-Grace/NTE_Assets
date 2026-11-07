@@ -909,7 +909,7 @@
         ],
         "GroupNameText": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_074",
+          "Key": "Role_Name_072",
           "SourceString": "灵可",
           "LocalizedString": "灵可"
         },
@@ -1019,6 +1019,44 @@
           "SubPathString": ""
         },
         "MainPlotChatItemID": "1042_1_1"
+      },
+      "1090": {
+        "RoleIds": [
+          "1090"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_090",
+          "SourceString": "曳尔沐",
+          "LocalizedString": "曳尔沐"
+        },
+        "SignatureText": {
+          "CultureInvariantString": null
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "1090_1_1"
+      },
+      "1074": {
+        "RoleIds": [
+          "1074"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_074",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "SignatureText": {
+          "CultureInvariantString": null
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "1074_1_1"
       }
     }
   }

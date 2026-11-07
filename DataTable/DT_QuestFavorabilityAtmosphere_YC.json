@@ -8672,6 +8672,888 @@
         "CustomTrackText": {
           "CultureInvariantString": null
         }
+      },
+      "WJ107501_YC": {
+        "QuestId": "WJ107501_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "WJ107601_YC": {
+        "QuestId": "WJ107601_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "WJ107701_YC": {
+        "QuestId": "WJ107701_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "WJ107801_YC": {
+        "QuestId": "WJ107801_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "WJ107901_YC": {
+        "QuestId": "WJ107901_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "WJ108001_YC": {
+        "QuestId": "WJ108001_YC",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "WJ100101_dec",
+              "SourceString": "与<blue>娜娜莉</>对话",
+              "LocalizedString": "与<blue>娜娜莉</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 22411.0,
+                "Y": 62150.0,
+                "Z": 6314.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": true,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "WJ100101_des",
+          "SourceString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……",
+          "LocalizedString": "车铺门口，娜娜莉正看着各式各样的自行车与小踏板，犹豫不决……"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

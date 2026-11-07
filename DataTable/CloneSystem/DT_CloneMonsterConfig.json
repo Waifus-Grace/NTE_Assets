@@ -4748,7 +4748,7 @@
             "bNeedAdditionalDropItem": false
           }
         ],
-        "OverrideLevelName": "None"
+        "OverrideLevelName": "DLC_TrainStation_Traffic"
       },
       "MammonClone_Boss17": {
         "SpawnWaveEntriesOverride": [
@@ -6020,6 +6020,1356 @@
                       "X": -291280.0,
                       "Y": 392700.0,
                       "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv1": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv1",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv2": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv2",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv3": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv3",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv4": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv4",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv5": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv5",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv6": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv6",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T1_Lv7": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36/boss_36_T1_BP_Weekly.boss_36_T1_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T1_BP_Weekly_Lv7",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv1": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv1",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv2": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv2",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv3": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv3",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv4": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv4",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv5": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv5",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv6": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv6",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "WeeklyClone_Boss36_T2_Lv7": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "1",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_36_2/boss_36_T2_BP_Weekly.boss_36_T2_BP_Weekly_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -1.0,
+                      "W": 6.123234E-17,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": 1330.0,
+                      "Y": 15.0,
+                      "Z": 140.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "boss_36_T2_BP_Weekly_Lv7",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "boss_09_BP_Diy": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/boss_09/boss_09_BP_Diy.boss_09_BP_Diy_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.17364818,
+                      "W": 0.9848077,
+                      "IsNormalized": true,
+                      "Size": 0.99999994,
+                      "SizeSquared": 0.99999994
+                    },
+                    "Translation": {
+                      "X": -291280.0,
+                      "Y": 392700.0,
+                      "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "mon_051_BP_Diy": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/mon_51/mon_051_BP_Diy.mon_051_BP_Diy_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.17364818,
+                      "W": 0.9848077,
+                      "IsNormalized": true,
+                      "Size": 0.99999994,
+                      "SizeSquared": 0.99999994
+                    },
+                    "Translation": {
+                      "X": -291280.0,
+                      "Y": 392700.0,
+                      "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "boss_039_BP_Diy": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_39/Boss_039_BP_Diy.Boss_039_BP_Diy_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.17364818,
+                      "W": 0.9848077,
+                      "IsNormalized": true,
+                      "Size": 0.99999994,
+                      "SizeSquared": 0.99999994
+                    },
+                    "Translation": {
+                      "X": -291280.0,
+                      "Y": 392700.0,
+                      "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              },
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Maps_4N/Blueprints/Character/Monster/boss_39_2/Boss_039_2_BP_Diy.Boss_039_2_BP_Diy_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.173648,
+                      "W": 0.984808,
+                      "IsNormalized": true,
+                      "Size": 1.0000002,
+                      "SizeSquared": 1.0000005
+                    },
+                    "Translation": {
+                      "X": -291280.0,
+                      "Y": 392700.0,
+                      "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 1,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "mon_48_BP_Diy": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/boss_17/Abyss/boss_17_BP_DiyBoss.boss_17_BP_DiyBoss_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.34202015,
+                      "W": 0.9396926,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": -293661.62,
+                      "Y": 390684.66,
+                      "Z": 2350.0
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              },
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/mon_48/mon_48_BP_Diy.mon_48_BP_Diy_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.087155744,
+                      "W": 0.9961947,
+                      "IsNormalized": true,
+                      "Size": 1.0,
+                      "SizeSquared": 1.0
+                    },
+                    "Translation": {
+                      "X": -294971.47,
+                      "Y": 392051.22,
+                      "Z": 2610.0
                     },
                     "Scale3D": {
                       "X": 1.0,

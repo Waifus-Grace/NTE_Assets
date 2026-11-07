@@ -5252,6 +5252,542 @@
             }
           }
         ]
+      },
+      "WJ107801": {
+        "Captions": [
+          {
+            "StartTime": 8000,
+            "CultureStartTimes": [],
+            "EndTime": 10000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "HW_WJ1078_001",
+              "SourceString": "气球？",
+              "LocalizedString": "气球？"
+            }
+          }
+        ]
+      },
+      "WJ107901": {
+        "Captions": [
+          {
+            "StartTime": 7000,
+            "CultureStartTimes": [],
+            "EndTime": 9000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC030_WJ1079_015",
+              "SourceString": "你找到我了！",
+              "LocalizedString": "你找到我了！"
+            }
+          },
+          {
+            "StartTime": 10000,
+            "CultureStartTimes": [],
+            "EndTime": 20000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1079_Player_017",
+              "SourceString": "是吗？可是我总觉得，我好像还没找到呢。",
+              "LocalizedString": "是吗？可是我总觉得，我好像还没找到呢。"
+            }
+          },
+          {
+            "StartTime": 22000,
+            "CultureStartTimes": [],
+            "EndTime": 29000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC030_WJ1079_016",
+              "SourceString": "你意识到了啊，那么很可惜，你没有找到！你输啦！",
+              "LocalizedString": "你意识到了啊，那么很可惜，你没有找到！你输啦！"
+            }
+          }
+        ]
+      },
+      "WJ108001": {
+        "Captions": [
+          {
+            "StartTime": 2000,
+            "CultureStartTimes": [],
+            "EndTime": 5000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "HM_WJ1080_001",
+              "SourceString": "来来来~慢慢挑！",
+              "LocalizedString": "来来来~慢慢挑！"
+            }
+          },
+          {
+            "StartTime": 14000,
+            "CultureStartTimes": [],
+            "EndTime": 16000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "HM_WJ1080_002",
+              "SourceString": "就是这个！",
+              "LocalizedString": "就是这个！"
+            }
+          },
+          {
+            "StartTime": 19000,
+            "CultureStartTimes": [],
+            "EndTime": 22000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "HM_WJ1080_003",
+              "SourceString": "下次再来一起挑哦！",
+              "LocalizedString": "下次再来一起挑哦！"
+            }
+          }
+        ]
+      },
+      "q111060": {
+        "Captions": [
+          {
+            "StartTime": 410,
+            "CultureStartTimes": [],
+            "EndTime": 1280,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_001",
+              "SourceString": "（这样应该就……）",
+              "LocalizedString": "（这样应该就……）"
+            }
+          },
+          {
+            "StartTime": 3330,
+            "CultureStartTimes": [],
+            "EndTime": 3710,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_002",
+              "SourceString": "嗯？",
+              "LocalizedString": "嗯？"
+            }
+          },
+          {
+            "StartTime": 4280,
+            "CultureStartTimes": [],
+            "EndTime": 5180,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_003",
+              "SourceString": "啊，你是——",
+              "LocalizedString": "啊，你是——"
+            }
+          },
+          {
+            "StartTime": 13570,
+            "CultureStartTimes": [],
+            "EndTime": 16510,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_004",
+              "SourceString": "妮夏照片上那位……副队长？",
+              "LocalizedString": "妮夏照片上那位……副队长？"
+            }
+          },
+          {
+            "StartTime": 19860,
+            "CultureStartTimes": [],
+            "EndTime": 24730,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_005",
+              "SourceString": "太好了，真的是你，我是来找你和Exe队长汇合……",
+              "LocalizedString": "太好了，真的是你，我是来找你和Exe队长汇合……"
+            }
+          },
+          {
+            "StartTime": 32020,
+            "CultureStartTimes": [],
+            "EndTime": 33770,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM01_NPC029_001",
+              "SourceString": "破坏掉了你的登录端口",
+              "LocalizedString": "破坏掉了你的登录端口"
+            }
+          },
+          {
+            "StartTime": 37500,
+            "CultureStartTimes": [],
+            "EndTime": 38140,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM01_NPC029_002",
+              "SourceString": "「变量Z」。",
+              "LocalizedString": "「变量Z」。"
+            }
+          },
+          {
+            "StartTime": 39630,
+            "CultureStartTimes": [],
+            "EndTime": 44060,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe01_HM01_Player_006",
+              "SourceString": "那是……什么意思？",
+              "LocalizedString": "那是……什么意思？"
+            }
+          },
+          {
+            "StartTime": 45830,
+            "CultureStartTimes": [],
+            "EndTime": 46300,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM01_NPC029_003",
+              "SourceString": "抱歉。",
+              "LocalizedString": "抱歉。"
+            }
+          },
+          {
+            "StartTime": 46970,
+            "CultureStartTimes": [],
+            "EndTime": 48200,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM01_NPC029_004",
+              "SourceString": "在我处理完之前……",
+              "LocalizedString": "在我处理完之前……"
+            }
+          },
+          {
+            "StartTime": 48900,
+            "CultureStartTimes": [],
+            "EndTime": 51040,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM01_NPC029_005",
+              "SourceString": "暂时会让你退登到一个安全的地方。",
+              "LocalizedString": "暂时会让你退登到一个安全的地方。"
+            }
+          }
+        ]
+      },
+      "q111070": {
+        "Captions": [
+          {
+            "StartTime": 3230,
+            "CultureStartTimes": [],
+            "EndTime": 6560,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCA_001",
+              "SourceString": "电脑里的东西都是虚构的，这都分不清吗？",
+              "LocalizedString": "电脑里的东西都是虚构的，这都分不清吗？"
+            }
+          },
+          {
+            "StartTime": 7260,
+            "CultureStartTimes": [],
+            "EndTime": 10770,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCB_001",
+              "SourceString": "说是电脑里的人物死了，怎么可能按照这个去定罪啊……",
+              "LocalizedString": "说是电脑里的人物死了，怎么可能按照这个去定罪啊……"
+            }
+          },
+          {
+            "StartTime": 11140,
+            "CultureStartTimes": [],
+            "EndTime": 14710,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCA_002",
+              "SourceString": "一台废品电脑，几个存档。砸了就砸了呗。",
+              "LocalizedString": "一台废品电脑，几个存档。砸了就砸了呗。"
+            }
+          },
+          {
+            "StartTime": 14900,
+            "CultureStartTimes": [],
+            "EndTime": 19120,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCA_003",
+              "SourceString": "游戏玩得脑子进水的有见过，没见过去臆想自己真杀了人的。",
+              "LocalizedString": "游戏玩得脑子进水的有见过，没见过去臆想自己真杀了人的。"
+            }
+          },
+          {
+            "StartTime": 19250,
+            "CultureStartTimes": [],
+            "EndTime": 20730,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCA_004",
+              "SourceString": "管理局也调查过了吧？",
+              "LocalizedString": "管理局也调查过了吧？"
+            }
+          },
+          {
+            "StartTime": 20960,
+            "CultureStartTimes": [],
+            "EndTime": 25360,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCB_002",
+              "SourceString": "嗯，除开他自己受了点伤之外，没什么大事。",
+              "LocalizedString": "嗯，除开他自己受了点伤之外，没什么大事。"
+            }
+          },
+          {
+            "StartTime": 25590,
+            "CultureStartTimes": [],
+            "EndTime": 32000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCA_005",
+              "SourceString": "果然啊，这根本就不该当个案子来报的，那孩子非要自顾自这么乱搞……",
+              "LocalizedString": "果然啊，这根本就不该当个案子来报的，那孩子非要自顾自这么乱搞……"
+            }
+          },
+          {
+            "StartTime": 33340,
+            "CultureStartTimes": [],
+            "EndTime": 41760,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_001",
+              "SourceString": "从未深究过对方的真实姓名、性别、容貌、身份和来历，一无所知的「X」。",
+              "LocalizedString": "从未深究过对方的真实姓名、性别、容貌、身份和来历，一无所知的「X」。"
+            }
+          },
+          {
+            "StartTime": 42120,
+            "CultureStartTimes": [],
+            "EndTime": 49570,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_002",
+              "SourceString": "满足于维持现状、视一切为理所当然、天真又傲慢、无忧无虑的「X」。",
+              "LocalizedString": "满足于维持现状、视一切为理所当然、天真又傲慢、无忧无虑的「X」。"
+            }
+          },
+          {
+            "StartTime": 49950,
+            "CultureStartTimes": [],
+            "EndTime": 57500,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_003",
+              "SourceString": "在没有尸体的「Y」损毁到无影无踪之后，当然无法证明它「真的存在过」。",
+              "LocalizedString": "在没有尸体的「Y」损毁到无影无踪之后，当然无法证明它「真的存在过」。"
+            }
+          },
+          {
+            "StartTime": 58400,
+            "CultureStartTimes": [],
+            "EndTime": 59900,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC029_001",
+              "SourceString": "这个梦我做了多少次？",
+              "LocalizedString": "这个梦我做了多少次？"
+            }
+          },
+          {
+            "StartTime": 61060,
+            "CultureStartTimes": [],
+            "EndTime": 63840,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC029_002",
+              "SourceString": "早就习惯了，别白费力气。",
+              "LocalizedString": "早就习惯了，别白费力气。"
+            }
+          },
+          {
+            "StartTime": 64770,
+            "CultureStartTimes": [],
+            "EndTime": 66050,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC029_003",
+              "SourceString": "结果不会有变化。",
+              "LocalizedString": "结果不会有变化。"
+            }
+          },
+          {
+            "StartTime": 67200,
+            "CultureStartTimes": [],
+            "EndTime": 69630,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_004",
+              "SourceString": "……真可惜。",
+              "LocalizedString": "……真可惜。"
+            }
+          },
+          {
+            "StartTime": 70850,
+            "CultureStartTimes": [],
+            "EndTime": 73700,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_005",
+              "SourceString": "明明只要向电话那头请求再见……",
+              "LocalizedString": "明明只要向电话那头请求再见……"
+            }
+          },
+          {
+            "StartTime": 74340,
+            "CultureStartTimes": [],
+            "EndTime": 78950,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_006",
+              "SourceString": "缺憾将得以弥补，故事将得以延续。",
+              "LocalizedString": "缺憾将得以弥补，故事将得以延续。"
+            }
+          },
+          {
+            "StartTime": 79180,
+            "CultureStartTimes": [],
+            "EndTime": 83370,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCY_001",
+              "SourceString": "「X」，我们互相道歉然后和好吧！我先来~",
+              "LocalizedString": "「X」，我们互相道歉然后和好吧！我先来~"
+            }
+          },
+          {
+            "StartTime": 83540,
+            "CultureStartTimes": [],
+            "EndTime": 89350,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCY_002",
+              "SourceString": "对不起！以后我一定百分百支持你的意愿！再也不和你吵架啦！我发誓！",
+              "LocalizedString": "对不起！以后我一定百分百支持你的意愿！再也不和你吵架啦！我发誓！"
+            }
+          },
+          {
+            "StartTime": 89580,
+            "CultureStartTimes": [],
+            "EndTime": 91860,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPCY_003",
+              "SourceString": "其实，「我也想永远都和你在一起玩！」",
+              "LocalizedString": "其实，「我也想永远都和你在一起玩！」"
+            }
+          },
+          {
+            "StartTime": 95500,
+            "CultureStartTimes": [],
+            "EndTime": 102140,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_007",
+              "SourceString": "验证结果——用户「X」在「空号」系统中，始终是一个无法解析的异常值。",
+              "LocalizedString": "验证结果——用户「X」在「空号」系统中，始终是一个无法解析的异常值。"
+            }
+          },
+          {
+            "StartTime": 102340,
+            "CultureStartTimes": [],
+            "EndTime": 103100,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC029_006",
+              "SourceString": "说完了？",
+              "LocalizedString": "说完了？"
+            }
+          },
+          {
+            "StartTime": 103490,
+            "CultureStartTimes": [],
+            "EndTime": 104000,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_008",
+              "SourceString": "说完了。",
+              "LocalizedString": "说完了。"
+            }
+          },
+          {
+            "StartTime": 105950,
+            "CultureStartTimes": [],
+            "EndTime": 106550,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_009",
+              "SourceString": "就这样——",
+              "LocalizedString": "就这样——"
+            }
+          },
+          {
+            "StartTime": 106750,
+            "CultureStartTimes": [],
+            "EndTime": 112870,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_010",
+              "SourceString": "他宁可拒接那条温柔的、轻松的、能够通往未来的路线。",
+              "LocalizedString": "他宁可拒接那条温柔的、轻松的、能够通往未来的路线。"
+            }
+          },
+          {
+            "StartTime": 113110,
+            "CultureStartTimes": [],
+            "EndTime": 120900,
+            "CultureEndTimes": [],
+            "Text": {
+              "TableId": "/Game/Text/Dialogue/ST_Main_Exe01.ST_Main_Exe01",
+              "Key": "Exe_HM02_NPC030_011",
+              "SourceString": "也要死守他的痛苦、悔恨、那些珍贵的记忆与真切的时光……",
+              "LocalizedString": "也要死守他的痛苦、悔恨、那些珍贵的记忆与真切的时光……"
+            }
+          }
+        ]
       }
     }
   }

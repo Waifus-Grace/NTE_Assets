@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SideQuest_JYS",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Text/ST_SideQuest_JYS",
+    "StringTable": {
+      "TableNamespace": "ST_SideQuest_JYS",
+      "KeysToEntries": {
+        "K112701_QuestName": "朋友的邀请",
+        "K112701_QuestPanel": "前往<blue>六队的办公室</>",
+        "K112701_ObjDes_1": "你收到了一位朋友的邀请，去六队的办公室看看吧。",
+        "K112702_QuestName": "共享猫咪",
+        "K112702_QuestPanel": "与<blue>曳尔沐</>交谈",
+        "K112702_ObjDes_1": "曳尔沐特意邀请你来，会是为了什么呢？",
+        "K112703_QuestName": "隐藏身份",
+        "K112703_QuestPanel": "触碰<blue>猫咪</>",
+        "K112703_ObjDes_1": "像曳尔沐说的那样，摸一摸这只猫咪的肉垫吧。",
+        "K112704_QuestName": "猫咪模仿大师",
+        "K112704_QuestPanel": "与<blue>「谜之猫咪」</>交谈",
+        "K112704_ObjDes_1": "原来这只猫咪是谜皮鬼变的，真是稀奇……",
+        "K112705_QuestName": "寻找小谜",
+        "K112705_QuestPanel": "前往<blue>公园中心</>",
+        "K112705_ObjDes_1": "曳尔沐要晚到片刻，先去找小谜聊一聊吧。",
+        "K112706_QuestName": "不寻常的闲聊",
+        "K112706_QuestPanel": "与<blue>「谜之猫咪」</>交谈",
+        "K112706_ObjDes_1": "和异象聊天的机会可不常有，听听小谜对其他人的看法吧。",
+        "K112707_QuestName": "谜皮哲学家",
+        "K112707_QuestPanel": "跟随<blue>「谜之猫咪」</>",
+        "K112707_ObjDes_1": "小谜思考的东西比想象中还多，跟着它走走吧。",
+        "K112708_QuestName": "未完的问答",
+        "K112708_QuestPanel": "与<blue>曳尔沐</>交谈",
+        "K112708_ObjDes_1": "曳尔沐给小谜准备了两个问题，但只说出了一个。",
+        "K112709_QuestName": "失猫招领",
+        "K112709_QuestPanel": "前往<blue>车站</>",
+        "K112709_ObjDes_1": "曳尔沐联系到了小谜的失主，去看看情况吧。",
+        "K112710_QuestName": "赝造的真心",
+        "K112710_QuestPanel": "与<blue>「谜之猫咪」</>告别",
+        "K112710_ObjDes_1": "于虚构之物中，真实存在的是什么呢？"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

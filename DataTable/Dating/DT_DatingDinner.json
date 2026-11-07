@@ -927,6 +927,122 @@
           }
         ],
         "DinnerActorMap": []
+      },
+      "firework_elms": {
+        "DinnerActionMap": [
+          {
+            "Key": "firework_elms",
+            "Value": {
+              "Montages": [
+                {
+                  "Role": "EDatingRole::Player",
+                  "ActionMontageMap": [
+                    {
+                      "Key": "1046",
+                      "Value": {
+                        "ObjectName": "AnimMontage'char_m_elyms_date_photo03_loop_Montage'",
+                        "ObjectPath": "/Game/Characters/Player/046_male/animation/date/char_m_elyms_date_photo03_loop_Montage.0"
+                      }
+                    },
+                    {
+                      "Key": "1051",
+                      "Value": {
+                        "ObjectName": "AnimMontage'char_m_elyms_date_photo03_loop_Montage'",
+                        "ObjectPath": "/Game/Characters/Player/046_male/animation/date/char_m_elyms_date_photo03_loop_Montage.0"
+                      }
+                    }
+                  ],
+                  "CAS_ActionMap": [
+                    {
+                      "Key": "1046",
+                      "Value": {
+                        "CASAssetMap": [
+                          {
+                            "Key": "NPC_004",
+                            "Value": {
+                              "ObjectName": "ContextualAnimSceneAsset'ContextAnim_EatIcecream_lacrimosa_m02'",
+                              "ObjectPath": "/Game/Blueprints/Character/ContextAnim/Date/Icecream/ContextAnim_EatIcecream_lacrimosa_m02.0"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "Key": "1051",
+                      "Value": {
+                        "CASAssetMap": [
+                          {
+                            "Key": "NPC_004",
+                            "Value": {
+                              "ObjectName": "ContextualAnimSceneAsset'ContextAnim_EatIcecream_lacrimosa_F'",
+                              "ObjectPath": "/Game/Blueprints/Character/ContextAnim/Date/Icecream/ContextAnim_EatIcecream_lacrimosa_F.0"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
+              "DisplayName": "Date_firework_elms",
+              "icon": null,
+              "DateEatMontageName": "Date_firework_elms"
+            }
+          }
+        ],
+        "DinnerActorMap": []
+      },
+      "firework_elms3": {
+        "DinnerActionMap": [
+          {
+            "Key": "kite",
+            "Value": {
+              "Montages": [
+                {
+                  "Role": "EDatingRole::Both",
+                  "ActionMontageMap": [],
+                  "CAS_ActionMap": [
+                    {
+                      "Key": "1046",
+                      "Value": {
+                        "CASAssetMap": [
+                          {
+                            "Key": "NPC_032",
+                            "Value": {
+                              "ObjectName": "ContextualAnimSceneAsset'ContextAnim_kite_shinku_M'",
+                              "ObjectPath": "/Game/Blueprints/Character/ContextAnim/Date/Kite/ContextAnim_kite_shinku_M.0"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "Key": "1051",
+                      "Value": {
+                        "CASAssetMap": [
+                          {
+                            "Key": "NPC_032",
+                            "Value": {
+                              "ObjectName": "ContextualAnimSceneAsset'ContextAnim_kite_shinku_F'",
+                              "ObjectPath": "/Game/Blueprints/Character/ContextAnim/Date/Kite/ContextAnim_kite_shinku_F.0"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
+              "DisplayName": "",
+              "icon": {
+                "ObjectName": "Texture2D'YH_UI_Likeability_Butten_07'",
+                "ObjectPath": "/Game/UI/UI/likeability/Date/YH_UI_Likeability_Butten_07.0"
+              },
+              "DateEatMontageName": "Date_firework_elms"
+            }
+          }
+        ],
+        "DinnerActorMap": []
       }
     }
   }

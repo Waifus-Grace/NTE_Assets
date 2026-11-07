@@ -89,7 +89,7 @@
         },
         "bHidden": false,
         "ItemQuality": "EItemQuality::ITEM_QUALITY_RED",
-        "Tier": 7,
+        "Tier": 9,
         "TypeID": "jewel",
         "Cols": 1,
         "Rows": 1,
@@ -1186,6 +1186,130 @@
         },
         "ExhibitionEarnings": 59,
         "ExhibitionEarnings_Fons": 9,
+        "EffectTypeWeight": 1.0
+      },
+      "bidding_item_red_37": {
+        "CollectionName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "bidding_item_red_37",
+          "SourceString": "家用电影机",
+          "LocalizedString": "家用电影机"
+        },
+        "bHidden": false,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_RED",
+        "Tier": 9,
+        "TypeID": "technology",
+        "Cols": 3,
+        "Rows": 4,
+        "Price": 3210000,
+        "CollectionIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/Grids/bidding_item_red_37_Grid.bidding_item_red_37_Grid",
+          "SubPathString": ""
+        },
+        "SilhouetteIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/256/bidding_item_red_37.bidding_item_red_37",
+          "SubPathString": ""
+        },
+        "bCanRotate": false,
+        "SortOrder": 20,
+        "CollectionDesc": {
+          "CultureInvariantString": null
+        },
+        "ExhibitionEarnings": 3210,
+        "ExhibitionEarnings_Fons": 84,
+        "EffectTypeWeight": 1.0
+      },
+      "bidding_item_red_38": {
+        "CollectionName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "bidding_item_red_38",
+          "SourceString": "乐园巧克力",
+          "LocalizedString": "乐园巧克力"
+        },
+        "bHidden": false,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_RED",
+        "Tier": 9,
+        "TypeID": "food",
+        "Cols": 2,
+        "Rows": 3,
+        "Price": 2333333,
+        "CollectionIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/Grids/bidding_item_red_38_Grid.bidding_item_red_38_Grid",
+          "SubPathString": ""
+        },
+        "SilhouetteIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/256/bidding_item_red_38.bidding_item_red_38",
+          "SubPathString": ""
+        },
+        "bCanRotate": false,
+        "SortOrder": 20,
+        "CollectionDesc": {
+          "CultureInvariantString": null
+        },
+        "ExhibitionEarnings": 2333,
+        "ExhibitionEarnings_Fons": 42,
+        "EffectTypeWeight": 1.0
+      },
+      "bidding_item_red_39": {
+        "CollectionName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "bidding_item_red_39",
+          "SourceString": "守望者",
+          "LocalizedString": "守望者"
+        },
+        "bHidden": false,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_RED",
+        "Tier": 9,
+        "TypeID": "antique",
+        "Cols": 1,
+        "Rows": 3,
+        "Price": 1100000,
+        "CollectionIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/Grids/bidding_item_red_39_Grid.bidding_item_red_39_Grid",
+          "SubPathString": ""
+        },
+        "SilhouetteIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/256/bidding_item_red_39.bidding_item_red_39",
+          "SubPathString": ""
+        },
+        "bCanRotate": false,
+        "SortOrder": 20,
+        "CollectionDesc": {
+          "CultureInvariantString": null
+        },
+        "ExhibitionEarnings": 1100,
+        "ExhibitionEarnings_Fons": 21,
+        "EffectTypeWeight": 1.0
+      },
+      "bidding_item_red_999": {
+        "CollectionName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "bidding_item_red_999",
+          "SourceString": "猎龙显卡",
+          "LocalizedString": "猎龙显卡"
+        },
+        "bHidden": true,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_RED",
+        "Tier": 999,
+        "TypeID": "technology",
+        "Cols": 3,
+        "Rows": 2,
+        "Price": 9999999,
+        "CollectionIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/Grids/bidding_item_red_999_Grid.bidding_item_red_999_Grid",
+          "SubPathString": ""
+        },
+        "SilhouetteIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/CollectionsIcon/256/bidding_item_red_999.bidding_item_red_999",
+          "SubPathString": ""
+        },
+        "bCanRotate": false,
+        "SortOrder": 20,
+        "CollectionDesc": {
+          "CultureInvariantString": null
+        },
+        "ExhibitionEarnings": 1999,
+        "ExhibitionEarnings_Fons": 42,
         "EffectTypeWeight": 1.0
       },
       "bidding_item_gold_01": {

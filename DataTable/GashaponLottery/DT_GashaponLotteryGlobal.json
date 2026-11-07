@@ -3679,6 +3679,923 @@
             ]
           }
         ]
+      },
+      "MangHe_005": {
+        "GiftList": [
+          {
+            "ItemID": "Vehicle045",
+            "ItemAmout": 1,
+            "WeightList": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "GiftAmout": 1,
+            "bRare": true,
+            "GiftSequence": {
+              "AssetPathName": "/Game/Blueprints/Level/SingleLevel/tank/sea_tank_seq.sea_tank_seq",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "Vehicle047",
+            "ItemAmout": 1,
+            "WeightList": [
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ],
+            "GiftAmout": 1,
+            "bRare": true,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "Vehicle045_Skin_3",
+            "ItemAmout": 1,
+            "WeightList": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "SpecialGift_letter",
+            "ItemAmout": 3,
+            "WeightList": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "Fons",
+            "ItemAmout": 500000,
+            "WeightList": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "Frame_MangHe_005",
+            "ItemAmout": 1,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "BussinessCard_MangHe_005",
+            "ItemAmout": 1,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "weeklycloneboss_selectbox_02",
+            "ItemAmout": 5,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "DiceNormal",
+            "ItemAmout": 3,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "SpecialGift_ticket",
+            "ItemAmout": 3,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "CharacterUpMaterial_lv3",
+            "ItemAmout": 10,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 2,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "CityAbility_UpMaterial",
+            "ItemAmout": 10,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 1,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          },
+          {
+            "ItemID": "Gold",
+            "ItemAmout": 100000,
+            "WeightList": [
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99,
+              99
+            ],
+            "GiftAmout": 2,
+            "bRare": false,
+            "GiftSequence": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "SequenceVideoID": "None"
+          }
+        ],
+        "PayItemList": [
+          {
+            "ItemID": "Annulith",
+            "PayInfoList": [
+              {
+                "MinCount": 1,
+                "MaxCount": 1,
+                "Price": 50
+              },
+              {
+                "MinCount": 2,
+                "MaxCount": 2,
+                "Price": 80
+              },
+              {
+                "MinCount": 3,
+                "MaxCount": 3,
+                "Price": 100
+              },
+              {
+                "MinCount": 4,
+                "MaxCount": 4,
+                "Price": 150
+              },
+              {
+                "MinCount": 5,
+                "MaxCount": 5,
+                "Price": 200
+              },
+              {
+                "MinCount": 6,
+                "MaxCount": 6,
+                "Price": 300
+              },
+              {
+                "MinCount": 7,
+                "MaxCount": 7,
+                "Price": 500
+              },
+              {
+                "MinCount": 8,
+                "MaxCount": 8,
+                "Price": 600
+              },
+              {
+                "MinCount": 9,
+                "MaxCount": 9,
+                "Price": 800
+              },
+              {
+                "MinCount": 10,
+                "MaxCount": 10,
+                "Price": 1200
+              },
+              {
+                "MinCount": 11,
+                "MaxCount": 11,
+                "Price": 1400
+              },
+              {
+                "MinCount": 12,
+                "MaxCount": 12,
+                "Price": 1600
+              },
+              {
+                "MinCount": 13,
+                "MaxCount": 13,
+                "Price": 1800
+              },
+              {
+                "MinCount": 14,
+                "MaxCount": 14,
+                "Price": 2000
+              },
+              {
+                "MinCount": 15,
+                "MaxCount": 15,
+                "Price": 2200
+              }
+            ]
+          },
+          {
+            "ItemID": "Fons",
+            "PayInfoList": [
+              {
+                "MinCount": 1,
+                "MaxCount": 1,
+                "Price": 50000
+              },
+              {
+                "MinCount": 2,
+                "MaxCount": 2,
+                "Price": 80000
+              },
+              {
+                "MinCount": 3,
+                "MaxCount": 3,
+                "Price": 100000
+              },
+              {
+                "MinCount": 4,
+                "MaxCount": 4,
+                "Price": 150000
+              },
+              {
+                "MinCount": 5,
+                "MaxCount": 5,
+                "Price": 200000
+              },
+              {
+                "MinCount": 6,
+                "MaxCount": 6,
+                "Price": 300000
+              },
+              {
+                "MinCount": 7,
+                "MaxCount": 7,
+                "Price": 500000
+              },
+              {
+                "MinCount": 8,
+                "MaxCount": 8,
+                "Price": 800000
+              },
+              {
+                "MinCount": 9,
+                "MaxCount": 9,
+                "Price": 1000000
+              },
+              {
+                "MinCount": 10,
+                "MaxCount": 10,
+                "Price": 1500000
+              },
+              {
+                "MinCount": 11,
+                "MaxCount": 11,
+                "Price": 2000000
+              },
+              {
+                "MinCount": 12,
+                "MaxCount": 12,
+                "Price": 2500000
+              },
+              {
+                "MinCount": 13,
+                "MaxCount": 13,
+                "Price": 3000000
+              },
+              {
+                "MinCount": 14,
+                "MaxCount": 14,
+                "Price": 3500000
+              },
+              {
+                "MinCount": 15,
+                "MaxCount": 15,
+                "Price": 4200000
+              }
+            ]
+          }
+        ],
+        "LotteryRateList": [
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+              "Key": "MangHe_bsj_pro0",
+              "SourceString": "抽数",
+              "LocalizedString": "抽数"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "1"
+              },
+              {
+                "CultureInvariantString": "2"
+              },
+              {
+                "CultureInvariantString": "3"
+              },
+              {
+                "CultureInvariantString": "4"
+              },
+              {
+                "CultureInvariantString": "5"
+              },
+              {
+                "CultureInvariantString": "6"
+              },
+              {
+                "CultureInvariantString": "7"
+              },
+              {
+                "CultureInvariantString": "8"
+              },
+              {
+                "CultureInvariantString": "9"
+              },
+              {
+                "CultureInvariantString": "10"
+              },
+              {
+                "CultureInvariantString": "11"
+              },
+              {
+                "CultureInvariantString": "12"
+              },
+              {
+                "CultureInvariantString": "13"
+              },
+              {
+                "CultureInvariantString": "14"
+              },
+              {
+                "CultureInvariantString": "15"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+              "Key": "Vehicle_045_name",
+              "SourceString": "「坦途」",
+              "LocalizedString": "「坦途」"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "0.00%"
+              },
+              {
+                "CultureInvariantString": "0.00%"
+              },
+              {
+                "CultureInvariantString": "0.00%"
+              },
+              {
+                "CultureInvariantString": "0.00%"
+              },
+              {
+                "CultureInvariantString": "0.00%"
+              },
+              {
+                "CultureInvariantString": "0.19%"
+              },
+              {
+                "CultureInvariantString": "0.23%"
+              },
+              {
+                "CultureInvariantString": "0.29%"
+              },
+              {
+                "CultureInvariantString": "0.39%"
+              },
+              {
+                "CultureInvariantString": "0.64%"
+              },
+              {
+                "CultureInvariantString": "1.97%"
+              },
+              {
+                "CultureInvariantString": "4.12%"
+              },
+              {
+                "CultureInvariantString": "7.60%"
+              },
+              {
+                "CultureInvariantString": "16.43%"
+              },
+              {
+                "CultureInvariantString": "68.14%"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+              "Key": "Vehicle_047_name",
+              "SourceString": "「试作型陆地霸者001」",
+              "LocalizedString": "「试作型陆地霸者001」"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "0.29%"
+              },
+              {
+                "CultureInvariantString": "0.32%"
+              },
+              {
+                "CultureInvariantString": "0.36%"
+              },
+              {
+                "CultureInvariantString": "0.41%"
+              },
+              {
+                "CultureInvariantString": "0.47%"
+              },
+              {
+                "CultureInvariantString": "0.55%"
+              },
+              {
+                "CultureInvariantString": "0.67%"
+              },
+              {
+                "CultureInvariantString": "0.84%"
+              },
+              {
+                "CultureInvariantString": "1.16%"
+              },
+              {
+                "CultureInvariantString": "1.86%"
+              },
+              {
+                "CultureInvariantString": "5.81%"
+              },
+              {
+                "CultureInvariantString": "11.58%"
+              },
+              {
+                "CultureInvariantString": "19.86%"
+              },
+              {
+                "CultureInvariantString": "36.55%"
+              },
+              {
+                "CultureInvariantString": "19.26%"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+              "Key": "V045_Skin_02_name",
+              "SourceString": "小心涂鸦-涂装",
+              "LocalizedString": "小心涂鸦-涂装"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "0.49%"
+              },
+              {
+                "CultureInvariantString": "0.54%"
+              },
+              {
+                "CultureInvariantString": "0.60%"
+              },
+              {
+                "CultureInvariantString": "0.68%"
+              },
+              {
+                "CultureInvariantString": "0.77%"
+              },
+              {
+                "CultureInvariantString": "0.91%"
+              },
+              {
+                "CultureInvariantString": "1.09%"
+              },
+              {
+                "CultureInvariantString": "1.38%"
+              },
+              {
+                "CultureInvariantString": "1.89%"
+              },
+              {
+                "CultureInvariantString": "3.02%"
+              },
+              {
+                "CultureInvariantString": "9.53%"
+              },
+              {
+                "CultureInvariantString": "17.87%"
+              },
+              {
+                "CultureInvariantString": "27.34%"
+              },
+              {
+                "CultureInvariantString": "25.38%"
+              },
+              {
+                "CultureInvariantString": "8.51%"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+              "Key": "MangHe_bsj_pro4",
+              "SourceString": "一封手写信*3",
+              "LocalizedString": "一封手写信*3"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "0.98%"
+              },
+              {
+                "CultureInvariantString": "1.08%"
+              },
+              {
+                "CultureInvariantString": "1.19%"
+              },
+              {
+                "CultureInvariantString": "1.33%"
+              },
+              {
+                "CultureInvariantString": "1.52%"
+              },
+              {
+                "CultureInvariantString": "1.76%"
+              },
+              {
+                "CultureInvariantString": "2.11%"
+              },
+              {
+                "CultureInvariantString": "2.65%"
+              },
+              {
+                "CultureInvariantString": "3.58%"
+              },
+              {
+                "CultureInvariantString": "5.70%"
+              },
+              {
+                "CultureInvariantString": "18.21%"
+              },
+              {
+                "CultureInvariantString": "25.85%"
+              },
+              {
+                "CultureInvariantString": "21.30%"
+              },
+              {
+                "CultureInvariantString": "10.70%"
+              },
+              {
+                "CultureInvariantString": "2.04%"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+              "Key": "MangHe_bsj_pro5",
+              "SourceString": "方斯*500000",
+              "LocalizedString": "方斯*500000"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "0.98%"
+              },
+              {
+                "CultureInvariantString": "1.08%"
+              },
+              {
+                "CultureInvariantString": "1.19%"
+              },
+              {
+                "CultureInvariantString": "1.33%"
+              },
+              {
+                "CultureInvariantString": "1.52%"
+              },
+              {
+                "CultureInvariantString": "1.76%"
+              },
+              {
+                "CultureInvariantString": "2.11%"
+              },
+              {
+                "CultureInvariantString": "2.65%"
+              },
+              {
+                "CultureInvariantString": "3.58%"
+              },
+              {
+                "CultureInvariantString": "5.70%"
+              },
+              {
+                "CultureInvariantString": "18.21%"
+              },
+              {
+                "CultureInvariantString": "25.85%"
+              },
+              {
+                "CultureInvariantString": "21.30%"
+              },
+              {
+                "CultureInvariantString": "10.70%"
+              },
+              {
+                "CultureInvariantString": "2.04%"
+              }
+            ]
+          },
+          {
+            "RateTitle": {
+              "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+              "Key": "MangHe_bsj_pro6",
+              "SourceString": "其他",
+              "LocalizedString": "其他"
+            },
+            "EveryLotteryRate": [
+              {
+                "CultureInvariantString": "97.2%"
+              },
+              {
+                "CultureInvariantString": "97.0%"
+              },
+              {
+                "CultureInvariantString": "96.7%"
+              },
+              {
+                "CultureInvariantString": "96.2%"
+              },
+              {
+                "CultureInvariantString": "95.7%"
+              },
+              {
+                "CultureInvariantString": "94.8%"
+              },
+              {
+                "CultureInvariantString": "93.8%"
+              },
+              {
+                "CultureInvariantString": "92.2%"
+              },
+              {
+                "CultureInvariantString": "89.4%"
+              },
+              {
+                "CultureInvariantString": "83.1%"
+              },
+              {
+                "CultureInvariantString": "46.3%"
+              },
+              {
+                "CultureInvariantString": "14.7%"
+              },
+              {
+                "CultureInvariantString": "2.60%"
+              },
+              {
+                "CultureInvariantString": "0.20%"
+              },
+              {
+                "CultureInvariantString": "0.00%"
+              }
+            ]
+          }
+        ]
       }
     }
   }

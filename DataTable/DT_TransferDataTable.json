@@ -26532,13 +26532,13 @@
       "q111074_heimu_Transfer": {
         "Transform": {
           "Rotation": {
-            "X": -0.0,
-            "Y": 0.0,
-            "Z": -0.70710677,
-            "W": 0.70710677,
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.008726535,
+            "W": 0.9999619,
             "IsNormalized": true,
-            "Size": 0.99999994,
-            "SizeSquared": 0.99999994
+            "Size": 1.0,
+            "SizeSquared": 1.0
           },
           "Translation": {
             "X": -1690.4337,
@@ -26554,7 +26554,7 @@
         "BelongLevelName": "DLC_DeadNumber",
         "CameraRotation": {
           "Pitch": 0.0,
-          "Yaw": -90.0,
+          "Yaw": 1.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -26579,18 +26579,18 @@
       "q111078_heimu_Transfer": {
         "Transform": {
           "Rotation": {
-            "X": 0.0,
-            "Y": -0.0,
-            "Z": 1.0,
-            "W": 6.123234E-17,
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70090926,
+            "W": 0.71325046,
             "IsNormalized": true,
             "Size": 1.0,
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 161.6459,
-            "Y": 11554.699,
-            "Z": -83697.04
+            "X": 160.99995,
+            "Y": 12785.49,
+            "Z": -83691.67
           },
           "Scale3D": {
             "X": 1.0,
@@ -26601,7 +26601,7 @@
         "BelongLevelName": "DLC_DeadNumber",
         "CameraRotation": {
           "Pitch": 0.0,
-          "Yaw": 180.0,
+          "Yaw": -90.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -27191,8 +27191,8 @@
           "Rotation": {
             "X": 0.0,
             "Y": -0.0,
-            "Z": 0.551937,
-            "W": 0.83388585,
+            "Z": 0.56640625,
+            "W": 0.8241262,
             "IsNormalized": true,
             "Size": 1.0,
             "SizeSquared": 1.0
@@ -27292,8 +27292,8 @@
         },
         "BelongLevelName": "XL_map_bigworld_test",
         "CameraRotation": {
-          "Pitch": 0.0,
-          "Yaw": 0.0,
+          "Pitch": -5.0,
+          "Yaw": 60.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -27329,8 +27329,8 @@
         },
         "BelongLevelName": "XL_map_bigworld_test",
         "CameraRotation": {
-          "Pitch": 0.0,
-          "Yaw": 0.0,
+          "Pitch": -5.0,
+          "Yaw": 60.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -27366,8 +27366,8 @@
         },
         "BelongLevelName": "XL_map_bigworld_test",
         "CameraRotation": {
-          "Pitch": 0.0,
-          "Yaw": 0.0,
+          "Pitch": -5.0,
+          "Yaw": 60.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -27442,6 +27442,1177 @@
         "CameraRotation": {
           "Pitch": 0.0,
           "Yaw": 1.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "ResourceCloneEasyGoTo_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.0784591,
+            "W": 0.9969173,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -90525.5,
+            "Y": 131897.0,
+            "Z": 9564.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "TalentCloneEasyGoTo_001": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -60657.5,
+            "Y": 50716.0,
+            "Z": 7832.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "ForkbreakthroughCloneEasyGoTo_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.2172915,
+            "W": 0.97610676,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -45158.5,
+            "Y": 118025.0,
+            "Z": 2945.5
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "EquipmentCloneEasyGoTo_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.11320321,
+            "W": 0.9935719,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 18003.5,
+            "Y": 144179.0,
+            "Z": 8550.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "WeeklyCloneEasyGoTo_Boss005": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -112436.414,
+            "Y": 129720.0,
+            "Z": 12182.714
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "WeeklyCloneEasyGoTo_Boss010": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.12838899,
+            "W": 0.9917239,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -33350.387,
+            "Y": 149166.52,
+            "Z": 2999.9102
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "WeeklyCloneEasyGoTo_Boss026": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.4617486,
+            "W": 0.8870108,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 40146.098,
+            "Y": -12362.191,
+            "Z": 8060.418
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "WeeklyCloneEasyGoTo_Boss036": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.5,
+            "W": 0.8660254,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -225263.5,
+            "Y": 96173.0,
+            "Z": 9444.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "Gang_L200008": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.4780533,
+            "W": 0.8783308,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 157297.7,
+            "Y": 143692.14,
+            "Z": 3237.8425
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": {
+          "FadeInOutEffectUI": "FadeInOutEffect",
+          "TransferLoadingUI": "Gang_L200008",
+          "LoadingUITextID": "",
+          "LoadingPlayMediaIDs": [],
+          "ShowSkipButtonTime": -1.0,
+          "LoadingConfigID": "",
+          "IsLoopMedia": false
+        },
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112021_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.34202015,
+            "W": 0.9396926,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 100191.45,
+            "Y": 146271.42,
+            "Z": 3109.8853
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112029_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.38268343,
+            "W": 0.9238795,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 110138.54,
+            "Y": 154346.72,
+            "Z": 3081.2397
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112030_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9396926,
+            "W": 0.34202015,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 111622.11,
+            "Y": 158896.47,
+            "Z": 3122.81
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 140.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112034_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9238795,
+            "W": 0.38268343,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 61377.36,
+            "Y": 163007.6,
+            "Z": 3080.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112044_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9396926,
+            "W": 0.34202015,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 76150.0,
+            "Y": 161800.0,
+            "Z": 3080.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -140.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112046_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9238795,
+            "W": 0.38268343,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 69150.0,
+            "Y": 154790.0,
+            "Z": 3080.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -135.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112048_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.38268343,
+            "W": 0.9238795,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 68630.0,
+            "Y": 154270.0,
+            "Z": 3082.6091
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112054_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.5372996,
+            "W": 0.8433915,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 97720.0,
+            "Y": 148960.0,
+            "Z": -22155.812
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -65.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112062_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.34202015,
+            "W": 0.9396926,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 107860.0,
+            "Y": 147110.0,
+            "Z": 41150.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112065_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.461749,
+            "W": 0.887011,
+            "IsNormalized": true,
+            "Size": 1.0000004,
+            "SizeSquared": 1.0000007
+          },
+          "Translation": {
+            "X": 111150.0,
+            "Y": 161520.0,
+            "Z": 3240.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112067_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 8.726646E-09,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 110100.0,
+            "Y": 160130.0,
+            "Z": -32380.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112069_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 100900.0,
+            "Y": 161780.0,
+            "Z": -43340.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112071_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.4617486,
+            "W": 0.8870108,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 101490.0,
+            "Y": 168710.0,
+            "Z": -54000.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 55.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112075_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.3007058,
+            "W": 0.95371693,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 108368.75,
+            "Y": 162076.0,
+            "Z": -54008.504
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -35.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112076_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.34202015,
+            "W": 0.9396926,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 108700.0,
+            "Y": 161720.0,
+            "Z": -54010.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112077_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.42261827,
+            "W": 0.9063078,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 111068.375,
+            "Y": 161457.62,
+            "Z": 3236.598
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 50.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112078_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.5,
+            "W": 0.8660254,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 63266.242,
+            "Y": 184241.02,
+            "Z": 3079.9985
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 60.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "PUKA_q112082_Teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 83891.2,
+            "Y": 199830.62,
+            "Z": -29523.557
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_MainQuestPUKA",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "LogisticsRestore": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -146668.67,
+            "Y": 171004.14,
+            "Z": 8122.641
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": {
+          "FadeInOutEffectUI": "FadeInOutEffect",
+          "TransferLoadingUI": "TransferLoading",
+          "LoadingUITextID": "",
+          "LoadingPlayMediaIDs": [],
+          "ShowSkipButtonTime": -1.0,
+          "LoadingConfigID": "",
+          "IsLoopMedia": false
+        },
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "LogisticsRestore_Test": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -146668.67,
+            "Y": 171004.14,
+            "Z": 8122.641
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": {
+          "FadeInOutEffectUI": "FadeInOutEffect",
+          "TransferLoadingUI": "TransferLoading",
+          "LoadingUITextID": "",
+          "LoadingPlayMediaIDs": [],
+          "ShowSkipButtonTime": -1.0,
+          "LoadingConfigID": "",
+          "IsLoopMedia": false
+        },
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "Boss_40_Finish": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.018509898,
+            "Y": -0.030843565,
+            "Z": -0.7064338,
+            "W": 0.7068645,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 272.19336,
+            "Y": -497.93018,
+            "Z": 49251.184
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_DeadNumber",
+        "CameraRotation": {
+          "Pitch": 15.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferCondition": null,
+        "TransferWithVehicle": false,
+        "bKeepVehicelVelocity": true,
+        "bEnableTeamTransferOffset": false,
+        "TeamTransferOffsets": [],
+        "bDisablePlayVoice": true
+      },
+      "q111068_Exe_01_protectTrans": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -159.28893,
+            "Y": 12419.164,
+            "Z": -53026.5
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_DeadNumber",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -90.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,

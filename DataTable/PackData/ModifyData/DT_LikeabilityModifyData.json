@@ -264,6 +264,28 @@
             "SortKey": 0
           }
         ]
+      },
+      "likeatt_1090": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.05,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "likeatt_1074": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.08,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
       }
     }
   }

@@ -7211,6 +7211,246 @@
             "UseStickValid": true
           }
         ]
+      },
+      "1090": {
+        "SpawnMontage": null,
+        "CustomNearClippingPlane": 0.1,
+        "SelfieAnimationDatas": [
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_076",
+              "SourceString": "默认",
+              "LocalizedString": "默认"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_00.YH_UI_selfie_emoji_00",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_076",
+              "SourceString": "默认",
+              "LocalizedString": "默认"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_00.YH_UI_selfie_emoji_00",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji1",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_077",
+              "SourceString": "开心",
+              "LocalizedString": "开心"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_01.YH_UI_selfie_emoji_01",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_077",
+              "SourceString": "开心",
+              "LocalizedString": "开心"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_01.YH_UI_selfie_emoji_01",
+              "SubPathString": ""
+            },
+            "Index": 1,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji2",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_078",
+              "SourceString": "俏皮",
+              "LocalizedString": "俏皮"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_02.YH_UI_selfie_emoji_02",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_078",
+              "SourceString": "俏皮",
+              "LocalizedString": "俏皮"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_02.YH_UI_selfie_emoji_02",
+              "SubPathString": ""
+            },
+            "Index": 2,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji3",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_079",
+              "SourceString": "皱眉",
+              "LocalizedString": "皱眉"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_03.YH_UI_selfie_emoji_03",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_079",
+              "SourceString": "皱眉",
+              "LocalizedString": "皱眉"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_03.YH_UI_selfie_emoji_03",
+              "SubPathString": ""
+            },
+            "Index": 3,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji4",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_080",
+              "SourceString": "大笑",
+              "LocalizedString": "大笑"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_04.YH_UI_selfie_emoji_04",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_080",
+              "SourceString": "大笑",
+              "LocalizedString": "大笑"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_04.YH_UI_selfie_emoji_04",
+              "SubPathString": ""
+            },
+            "Index": 4,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji5",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_081",
+              "SourceString": "生气",
+              "LocalizedString": "生气"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_05.YH_UI_selfie_emoji_05",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_081",
+              "SourceString": "生气",
+              "LocalizedString": "生气"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_05.YH_UI_selfie_emoji_05",
+              "SubPathString": ""
+            },
+            "Index": 5,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji6",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_082",
+              "SourceString": "沮丧",
+              "LocalizedString": "沮丧"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_06.YH_UI_selfie_emoji_06",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_082",
+              "SourceString": "沮丧",
+              "LocalizedString": "沮丧"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_06.YH_UI_selfie_emoji_06",
+              "SubPathString": ""
+            },
+            "Index": 6,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji7",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_083",
+              "SourceString": "无语",
+              "LocalizedString": "无语"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_07.YH_UI_selfie_emoji_07",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_083",
+              "SourceString": "无语",
+              "LocalizedString": "无语"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_07.YH_UI_selfie_emoji_07",
+              "SubPathString": ""
+            },
+            "Index": 7,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Emoji8",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_084",
+              "SourceString": "惊讶",
+              "LocalizedString": "惊讶"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_08.YH_UI_selfie_emoji_08",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_084",
+              "SourceString": "惊讶",
+              "LocalizedString": "惊讶"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_emoji_08.YH_UI_selfie_emoji_08",
+              "SubPathString": ""
+            },
+            "Index": 8,
+            "NormalValid": true,
+            "UseStickValid": true
+          }
+        ]
       }
     }
   }

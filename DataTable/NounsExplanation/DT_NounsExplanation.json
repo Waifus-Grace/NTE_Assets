@@ -795,6 +795,34 @@
           "SourceString": "释放「极轨终结：音障爆鸣」第一段后，进入持续<NumGreen>20</>秒的<TextEXPL>「华彩连段」</>状态。状态持续期间，抗打断能力提升<NumGreen>75%</>。状态持续4秒后，可随时再次点按极轨终结释放第二段并提前结束<TextEXPL>「华彩连段」</>状态。第二段需手动释放，不会在状态结束时自动触发。状态结束时仍未释放，第二段将失效。\r\n该状态独立于<TextEXPL>「泛音列」</>和<TextEXPL>「音域」</>，不会移除或替代当前生效的效果。",
           "LocalizedString": "释放「极轨终结：音障爆鸣」第一段后，进入持续<NumGreen>20</>秒的<TextEXPL>「华彩连段」</>状态。状态持续期间，抗打断能力提升<NumGreen>75%</>。状态持续4秒后，可随时再次点按极轨终结释放第二段并提前结束<TextEXPL>「华彩连段」</>状态。第二段需手动释放，不会在状态结束时自动触发。状态结束时仍未释放，第二段将失效。\r\n该状态独立于<TextEXPL>「泛音列」</>和<TextEXPL>「音域」</>，不会移除或替代当前生效的效果。"
         }
+      },
+      "Elyms_propNoun1": {
+        "Title": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Elyms_propNoun1_name",
+          "SourceString": "信号强度",
+          "LocalizedString": "信号强度"
+        },
+        "Explanation": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Elyms_propNoun1_des",
+          "SourceString": "作为电子世界的存在，曳尔沐与现实的连接存在<TextHLT>「信号强度」</>的区别，分为<TextHLT>「弱信号」</>、<TextHLT>「中等信号」</>、<TextHLT>「强信号」</>三个级别。\r\n释放「援护技：我在」或「变轨技能：不连续的存在」后，若处于<TextHLT>「弱信号」</>状态，则增强至<TextHLT>「中等信号」</>状态。\r\n释放「变轨技能：对你说再见」后，若处于<TextHLT>「中等信号」</>状态，则增强至<TextHLT>「强信号」</>状态。\r\n释放「极轨终结：一如昨日光景」或脱战后，<TextHLT>「信号强度」</>重置为<TextHLT>「弱信号」</>。\r\n曳尔沐处于后台时，不可增强<TextHLT>「信号强度」</>。\r\n\r\n<TextHLT>「弱信号」</>状态下释放「普通攻击：即时故障」最后一段或「变轨技能：离去的人们」后，可在一定时间内直接激活「变轨技能：不连续的存在」；释放该技能或不再处于<TextHLT>「弱信号」</>状态时，取消该激活状态。\r\n<TextHLT>「中等信号」</>或<TextHLT>「强信号」</>状态下释放「普通攻击：错频故障」最后一段后，可在一定时间内直接激活「变轨技能：对你说再见」；释放该技能或信号强度降为<TextHLT>「弱信号」</>时，取消该激活状态。",
+          "LocalizedString": "作为电子世界的存在，曳尔沐与现实的连接存在<TextHLT>「信号强度」</>的区别，分为<TextHLT>「弱信号」</>、<TextHLT>「中等信号」</>、<TextHLT>「强信号」</>三个级别。\r\n释放「援护技：我在」或「变轨技能：不连续的存在」后，若处于<TextHLT>「弱信号」</>状态，则增强至<TextHLT>「中等信号」</>状态。\r\n释放「变轨技能：对你说再见」后，若处于<TextHLT>「中等信号」</>状态，则增强至<TextHLT>「强信号」</>状态。\r\n释放「极轨终结：一如昨日光景」或脱战后，<TextHLT>「信号强度」</>重置为<TextHLT>「弱信号」</>。\r\n曳尔沐处于后台时，不可增强<TextHLT>「信号强度」</>。\r\n\r\n<TextHLT>「弱信号」</>状态下释放「普通攻击：即时故障」最后一段或「变轨技能：离去的人们」后，可在一定时间内直接激活「变轨技能：不连续的存在」；释放该技能或不再处于<TextHLT>「弱信号」</>状态时，取消该激活状态。\r\n<TextHLT>「中等信号」</>或<TextHLT>「强信号」</>状态下释放「普通攻击：错频故障」最后一段后，可在一定时间内直接激活「变轨技能：对你说再见」；释放该技能或信号强度降为<TextHLT>「弱信号」</>时，取消该激活状态。"
+        }
+      },
+      "Elyms_propNoun2": {
+        "Title": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Elyms_propNoun2_name",
+          "SourceString": "错视幻觉",
+          "LocalizedString": "错视幻觉"
+        },
+        "Explanation": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Elyms_propNoun2_des",
+          "SourceString": "<Italic>哪怕希望只是重叠的错觉……</>\r\n信号强度从<TextHLT>「弱信号」</>增强至<TextHLT>「中等信号」</>后，获得增益效果<TextHLT>「错视幻觉」</>，持续一定时间。\r\n释放「变轨技能：对你说再见」时，消耗所有<TextHLT>「错视幻觉」</>，并依据消耗层数提高本次技能的伤害倍率。",
+          "LocalizedString": "<Italic>哪怕希望只是重叠的错觉……</>\r\n信号强度从<TextHLT>「弱信号」</>增强至<TextHLT>「中等信号」</>后，获得增益效果<TextHLT>「错视幻觉」</>，持续一定时间。\r\n释放「变轨技能：对你说再见」时，消耗所有<TextHLT>「错视幻觉」</>，并依据消耗层数提高本次技能的伤害倍率。"
+        }
       }
     }
   }

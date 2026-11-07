@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TankBattleItemBuff",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/TankBattle/DT_TankBattleItemBuff",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TankBattleDropItemBuff'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "TankBattleItem_Defense01": {
+        "ItemID": "TankBattleItem_Defense01",
+        "DropItemType": "ETankBattleDropItemType::SmokeBomb",
+        "ItemBuff": {
+          "SmokeRadius": 1600.0,
+          "duration": 12.0
+        },
+        "ItemEffect": {
+          "AssetPathName": "/Game/FX/Nia/Scene/Tank/NS_Tank_smoke.NS_Tank_smoke",
+          "SubPathString": ""
+        }
+      },
+      "TankBattleItem_Defense02": {
+        "ItemID": "TankBattleItem_Defense02",
+        "DropItemType": "ETankBattleDropItemType::DamageShield",
+        "ItemBuff": {
+          "ShieldDamage": 4000.0,
+          "duration": 30.0
+        },
+        "ItemEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "TankBattleItem_Defense03": {
+        "ItemID": "TankBattleItem_Defense03",
+        "DropItemType": "ETankBattleDropItemType::HitCountShield",
+        "ItemBuff": {
+          "ShieldHitCount": 5,
+          "duration": 30.0
+        },
+        "ItemEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "TankBattleItem_Functional01": {
+        "ItemID": "TankBattleItem_Functional01",
+        "DropItemType": "ETankBattleDropItemType::Repair",
+        "ItemBuff": {
+          "RepairValue": 2000.0,
+          "bUsePercent": false,
+          "duration": 0.0
+        },
+        "ItemEffect": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "TankBattleItem_Functional02": {
+        "ItemID": "TankBattleItem_Functional02",
+        "DropItemType": "ETankBattleDropItemType::NitroBoost",
+        "ItemBuff": {
+          "SpeedRate": 1.3,
+          "duration": 20.0
+        },
+        "ItemEffect": {
+          "AssetPathName": "/Game/FX/Nia/Scene/Tank/NS_Tank_speed.NS_Tank_speed",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

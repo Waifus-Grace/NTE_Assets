@@ -56026,7 +56026,7 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": false,
+        "bShowQuestAcceptTips": true,
         "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
@@ -56082,7 +56082,7 @@
         "bFreezeSinPoint": false,
         "bNeedTmporaryTrack": true,
         "bForceTrack": false,
-        "bForceTrackExceptMain": false,
+        "bForceTrackExceptMain": true,
         "NeedIgnoreFavorabilityNPCWhenTracking": false,
         "bCanMainQuestChangeTrack": false,
         "LikeabilityData": {
@@ -56106,9 +56106,12 @@
         "SubmitActivateYahahaIDs": [],
         "AcceptActivateYahahaIDs": [],
         "ActivateFogID": "None",
-        "bChangeTrackAnim": false,
+        "bChangeTrackAnim": true,
         "CustomTrackText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Description.ST_Description",
+          "Key": "TextMessage_001",
+          "SourceString": "查看任务消息",
+          "LocalizedString": "查看任务消息"
         }
       },
       "L110402": {
@@ -63251,9 +63254,9 @@
         "ReloadLocation": {
           "LevelName": "DLC_School_boss01_WP",
           "Location": {
-            "X": 286.0,
-            "Y": -300.0,
-            "Z": 212.0
+            "X": 328.0,
+            "Y": -978.0,
+            "Z": 156.0
           },
           "Rotator": {
             "Pitch": 0.0,
@@ -66391,10 +66394,7 @@
       "L110446_h1": {
         "QuestId": "L110446_h1",
         "QuestName": {
-          "Namespace": "",
-          "Key": "E8A80EE644895A859714D99A93C4B853",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -66546,10 +66546,7 @@
       "L110446_h2": {
         "QuestId": "L110446_h2",
         "QuestName": {
-          "Namespace": "",
-          "Key": "68D58CC048E0A2762760B896B322FAE2",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -66701,10 +66698,7 @@
       "L110446_h3": {
         "QuestId": "L110446_h3",
         "QuestName": {
-          "Namespace": "",
-          "Key": "F0675ABC4ACB8E892F4469AF957BF76B",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -66856,10 +66850,7 @@
       "L110446_h4": {
         "QuestId": "L110446_h4",
         "QuestName": {
-          "Namespace": "",
-          "Key": "A304561B4D14CF84B57805B6475975C6",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67011,10 +67002,7 @@
       "L110446_h5": {
         "QuestId": "L110446_h5",
         "QuestName": {
-          "Namespace": "",
-          "Key": "433EB6EB47ECFD7C902F19BCE3E12B2F",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67166,10 +67154,7 @@
       "L110446_h6": {
         "QuestId": "L110446_h6",
         "QuestName": {
-          "Namespace": "",
-          "Key": "64D6CAE74F3EC4C20D4ED6840B042249",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67321,10 +67306,7 @@
       "L110446_h7": {
         "QuestId": "L110446_h7",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67476,10 +67458,7 @@
       "L110446_h8": {
         "QuestId": "L110446_h8",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67631,10 +67610,7 @@
       "L110446_h9": {
         "QuestId": "L110446_h9",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67786,10 +67762,7 @@
       "L110446_h10": {
         "QuestId": "L110446_h10",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -67941,10 +67914,7 @@
       "L110446_h11": {
         "QuestId": "L110446_h11",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -68096,10 +68066,7 @@
       "L110446_h12": {
         "QuestId": "L110446_h12",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -68251,10 +68218,7 @@
       "L110446_h13": {
         "QuestId": "L110446_h13",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -68406,10 +68370,7 @@
       "L110446_h14": {
         "QuestId": "L110446_h14",
         "QuestName": {
-          "Namespace": "",
-          "Key": "3BF732564F8AA99F4F5ABB8A86482581",
-          "SourceString": "#隐藏任务#众人对话",
-          "LocalizedString": "#隐藏任务#众人对话"
+          "CultureInvariantString": "#隐藏任务#众人对话"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -68578,7 +68539,7 @@
         "bAllowPukalandCancelTracking": false,
         "ObjectivesInfo": [
           {
-            "ConvoyProtectTime": 120.0,
+            "ConvoyProtectTime": 10.0,
             "ConvoyLocation": {
               "X": 0.0,
               "Y": 0.0,
@@ -68602,8 +68563,8 @@
             "Description": {
               "TableId": "/Game/Text/Dialogue/ST_Legend_Celebration.ST_Legend_Celebration",
               "Key": "L110446_ObjDes_1",
-              "SourceString": "和大家随便聊聊天吧",
-              "LocalizedString": "和大家随便聊聊天吧"
+              "SourceString": "随便逛逛吧",
+              "LocalizedString": "随便逛逛吧"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -68660,8 +68621,8 @@
         "PanelDescription": {
           "TableId": "/Game/Text/Dialogue/ST_Legend_Celebration.ST_Legend_Celebration",
           "Key": "L110446_QuestPanel",
-          "SourceString": "热闹的篝火晚会，和大家随意聊聊天吧。",
-          "LocalizedString": "热闹的篝火晚会，和大家随意聊聊天吧。"
+          "SourceString": "热闹的篝火晚会，自由逛逛吧。",
+          "LocalizedString": "热闹的篝火晚会，自由逛逛吧。"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -69064,10 +69025,7 @@
       "L110448_h1": {
         "QuestId": "L110448_h1",
         "QuestName": {
-          "Namespace": "",
-          "Key": "E6F57F9544AB5F2F1E71C0ADF0707951",
-          "SourceString": "#隐藏任务#复原场景",
-          "LocalizedString": "#隐藏任务#复原场景"
+          "CultureInvariantString": "#隐藏任务#复原场景"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,

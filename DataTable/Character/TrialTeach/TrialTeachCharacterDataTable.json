@@ -5293,12 +5293,9 @@
                     }
                   },
                   "Type": "ETeachApplyTargetType::Player",
-                  "TeachGE": {
-                    "ObjectName": "BlueprintGeneratedClass'Buff_Skia_ShadowControl_C'",
-                    "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Effect/Buff_Skia_ShadowControl.1"
-                  },
+                  "TeachGE": null,
                   "SoftTeachGE": {
-                    "AssetPathName": "",
+                    "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Effect/Buff_Skia_ShadowControl.Buff_Skia_ShadowControl_C",
                     "SubPathString": ""
                   },
                   "GEApplyCount": 1
@@ -5317,12 +5314,9 @@
                     }
                   },
                   "Type": "ETeachApplyTargetType::Monster",
-                  "TeachGE": {
-                    "ObjectName": "BlueprintGeneratedClass'GE_Player_Skia_SkillShadowAtk_Damage_C'",
-                    "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Damage/GE_Player_Skia_SkillShadowAtk_Damage.1"
-                  },
+                  "TeachGE": null,
                   "SoftTeachGE": {
-                    "AssetPathName": "",
+                    "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Damage/GE_Player_Skia_SkillShadowAtk_Damage.GE_Player_Skia_SkillShadowAtk_Damage_C",
                     "SubPathString": ""
                   },
                   "GEApplyCount": 3
@@ -10867,12 +10861,9 @@
                     }
                   },
                   "Type": "ETeachApplyTargetType::Player",
-                  "TeachGE": {
-                    "ObjectName": "BlueprintGeneratedClass'Buff_HathorAngerStack_C'",
-                    "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Buff/Buff_HathorAngerStack.1"
-                  },
+                  "TeachGE": null,
                   "SoftTeachGE": {
-                    "AssetPathName": "",
+                    "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Buff/Buff_HathorAngerStack.Buff_HathorAngerStack_C",
                     "SubPathString": ""
                   },
                   "GEApplyCount": 1
@@ -14813,12 +14804,9 @@
                     }
                   },
                   "Type": "ETeachApplyTargetType::Monster",
-                  "TeachGE": {
-                    "ObjectName": "BlueprintGeneratedClass'GE_Player_Shinku_Watch_Damage_C'",
-                    "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_076_Shinku/Damage/GE_Player_Shinku_Watch_Damage.1"
-                  },
+                  "TeachGE": null,
                   "SoftTeachGE": {
-                    "AssetPathName": "",
+                    "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_076_Shinku/Damage/GE_Player_Shinku_Watch_Damage.GE_Player_Shinku_Watch_Damage_C",
                     "SubPathString": ""
                   },
                   "GEApplyCount": 1
@@ -16988,7 +16976,7 @@
               "StageFinishWaitTime": 0.0,
               "TeachApplyEffects": [
                 {
-                  "GuideID": "Teach_Radio_2_1",
+                  "GuideID": "Teach_Elyms_3_1",
                   "ApplyTargetType": "ETeachApplyTargetType::Player",
                   "ApplyOperation": "ETeachApplyOperation::Add",
                   "ApplyTime": 1,
@@ -18992,8 +18980,8 @@
                 "Title": {
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Akane_5_1",
-                  "SourceString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」",
-                  "LocalizedString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」"
+                  "SourceString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」并通过普通攻击同时命中复数敌人",
+                  "LocalizedString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」并通过普通攻击同时命中复数敌人"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19494,6 +19482,1875 @@
           {
             "ObjectName": "BlueprintGeneratedClass'Buff_CantUseGskill_TA_Infinity_C'",
             "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseGskill_TA_Infinity.0"
+          }
+        ],
+        "ExitActorLocation": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -183.0,
+            "Y": -1234.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "1090": {
+        "CloneID": "ElymsClone",
+        "TeachGuide": "CharacterTeach_Elyms",
+        "PreLoadTrialID": [
+          "TeachChar_elyms"
+        ],
+        "TeachStateContents": [
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": true,
+            "TeachSateges": {
+              "Distance": 1200.0,
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Normal_Phase1",
+                  "SourceString": "靠近敌人开始教学",
+                  "LocalizedString": "靠近敌人开始教学"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": []
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "GaCounterTeachStages": [
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Melee1.MeleePre",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Melee2",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Melee3",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Melee4",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Melee5",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                }
+              ],
+              "PeriodGAName": "GA_Elyms_Melee",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Lacrimosa_Phase1",
+                  "SourceString": "进行连续的5次普通攻击",
+                  "LocalizedString": "进行连续的5次普通攻击"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": []
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "GaCounterTeachStages": [
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Elyms_Melee",
+                  "AbilitySectionName": "Branch1",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                }
+              ],
+              "PeriodGAName": "None",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Trial_Elyms_3_1",
+                  "SourceString": "长按普攻发动「普通攻击：干扰故障」",
+                  "LocalizedString": "长按普攻发动「普通攻击：干扰故障」"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "GuideID": "Teach_Elyms_3_1",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": true,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "bEndNestStage": true,
+              "bStartListenAllNestStage": false,
+              "TeachSateges": [
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_Skill",
+                      "AbilitySectionName": "Skill2",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_4_1",
+                      "SourceString": "释放强化技能「不连续的存在」，增强至「中等信号」",
+                      "LocalizedString": "释放强化技能「不连续的存在」，增强至「中等信号」"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_4_1",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": {
+                        "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_SkillE1_C'",
+                        "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_SkillE1.0"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_MeleeB",
+                      "AbilitySectionName": "MeleeB1.MeleeBPre",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    },
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_MeleeB",
+                      "AbilitySectionName": "MeleeB2",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                      "DelayFinishTime": -1.0
+                    },
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_MeleeB",
+                      "AbilitySectionName": "MeleeB3",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "GA_Elyms_MeleeB",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_5_1",
+                      "SourceString": "进行连续的3次普通攻击",
+                      "LocalizedString": "进行连续的3次普通攻击"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": []
+                },
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_Skill",
+                      "AbilitySectionName": "Skill3",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_5_2",
+                      "SourceString": "释放进阶强化技能「对你说再见」，增强至「强信号」",
+                      "LocalizedString": "释放进阶强化技能「对你说再见」，增强至「强信号」"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_5_1",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": {
+                        "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_SkillE2_C'",
+                        "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_SkillE2.0"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "IndependentShowUI": true,
+              "SlotContent": {
+                "Title": {
+                  "CultureInvariantString": null
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": true,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "bEndNestStage": true,
+              "bStartListenAllNestStage": false,
+              "TeachSateges": [
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_UltraSkill.GA_Elyms_UltraSkillB",
+                      "AbilitySectionName": "UltraSkill",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_6_1",
+                      "SourceString": "释放1次「极轨终结：一如昨日光景」-对单",
+                      "LocalizedString": "释放1次「极轨终结：一如昨日光景」-对单"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_6_1",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": {
+                        "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                        "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "NetPolicy": "ETeachApplyNetPolicy::Client",
+                  "GameplayEffectTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "Type": "ETeachApplyTargetType::Monster",
+                      "TeachGE": null,
+                      "SoftTeachGE": {
+                        "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_090_Elyms/Damage/GE_Player_Elyms_Skill1_Damage.GE_Player_Elyms_Skill1_Damage_C",
+                        "SubPathString": ""
+                      },
+                      "GEApplyCount": 1
+                    }
+                  ],
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_7_1",
+                      "SourceString": "释放1次基础变轨技能「离去的人们」",
+                      "LocalizedString": "释放1次基础变轨技能「离去的人们」"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_7_1",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": {
+                        "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                        "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_XieTongSkillA.GA_Elyms_XieTongSkillB",
+                      "AbilitySectionName": "SkillA.SkillB",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_7_2",
+                      "SourceString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对单",
+                      "LocalizedString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对单"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_7_2",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": {
+                        "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                        "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "IndependentShowUI": true,
+              "SlotContent": {
+                "Title": {
+                  "CultureInvariantString": null
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_NoConsume_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_NoConsume_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_UltraSkillEnergyAdd_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Abyss/Buff_UltraSkillEnergyAdd.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "TrialID": "TeachChar_elyms",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": true,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "ReactionResultTypes": [
+                "REACTION_RESULT_TYPE_0"
+              ],
+              "CanTriggerGuide": "None",
+              "TriggerGuide": "None",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Trial_Elyms_8_1",
+                  "SourceString": "前台角色切换为曳尔沐，释放1次援护技",
+                  "LocalizedString": "前台角色切换为曳尔沐，释放1次援护技"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "SpawnMonsterId": "None",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Remove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": {
+                    "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                    "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                  }
+                },
+                {
+                  "SpawnMonsterId": "TrailTeach01_Monster3",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": {
+                    "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                    "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                  }
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_NoConsume_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_NoConsume_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_UltraSkillEnergyAdd_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Abyss/Buff_UltraSkillEnergyAdd.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_Guide_AddReactionEnergy_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/Guide/Buff_Guide_AddReactionEnergy.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": {
+                    "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExcludeElyms_C'",
+                    "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExcludeElyms.0"
+                  }
+                },
+                {
+                  "HeterochromePercent": 100.0,
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": {
+                    "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExcludeElyms_C'",
+                    "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExcludeElyms.0"
+                  }
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "GuideID": "Teach_Elyms_8_1",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": true,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "bEndNestStage": true,
+              "bStartListenAllNestStage": false,
+              "TeachSateges": [
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_UltraSkillB.GA_Elyms_UltraSkill",
+                      "AbilitySectionName": "UltraSkill",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_9_1",
+                      "SourceString": "释放1次「极轨终结：一如昨日光景」-对群",
+                      "LocalizedString": "释放1次「极轨终结：一如昨日光景」-对群"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": []
+                },
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Elyms_XieTongSkillA.GA_Elyms_XieTongSkillB",
+                      "AbilitySectionName": "SkillA.SkillB",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Elyms_9_2",
+                      "SourceString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对群",
+                      "LocalizedString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对群"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Elyms_9_3",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": null
+                    }
+                  ]
+                }
+              ],
+              "IndependentShowUI": true,
+              "SlotContent": {
+                "Title": {
+                  "CultureInvariantString": null
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_NoConsume_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_NoConsume_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_UltraSkillEnergyAdd_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Abyss/Buff_UltraSkillEnergyAdd.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "GuideID": "Teach_Elyms_9_2",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": {
+                    "ObjectName": "BlueprintGeneratedClass'TeachCloneCondition_Elyms_ExecuteOnce_C'",
+                    "ObjectPath": "/Game/Blueprints/Level/World/Common/ResourceClone/HoudiniMagicDoor/TeachCloneCondition/Elyms/TeachCloneCondition_Elyms_ExecuteOnce.0"
+                  }
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": true,
+            "TeachSateges": {
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Normal_Phase2",
+                  "SourceString": "自由练习或离开教学",
+                  "LocalizedString": "自由练习或离开教学"
+                },
+                "SlotClass": {
+                  "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseAim_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseAim_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "SpawnMonsterId": "TrailTeach01_MonsterWood_01",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "TrialID": "TeachChar_elyms_single",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          }
+        ],
+        "LoopMonsterID": "TrailTeach01_MonsterLoop_01",
+        "CloneExitTemplate": {
+          "AssetPathName": "/Game/Blueprints/Actors/CloneSystem/BP_CloneChest_Trial.BP_CloneChest_Trial_C",
+          "SubPathString": ""
+        },
+        "TeachFinishTitle": {
+          "CultureInvariantString": null
+        },
+        "GlobalBuffs": [
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseAim_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseAim_TA_Infinity.1"
+          },
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+          },
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+          }
+        ],
+        "ExitActorLocation": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -183.0,
+            "Y": -1234.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "1074": {
+        "CloneID": "ExeClone",
+        "TeachGuide": "CharacterTeach_Exe",
+        "PreLoadTrialID": [],
+        "TeachStateContents": [
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": true,
+            "TeachSateges": {
+              "Distance": 1200.0,
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Normal_Phase1",
+                  "SourceString": "靠近敌人开始教学",
+                  "LocalizedString": "靠近敌人开始教学"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": []
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "GaCounterTeachStages": [
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Melee1.MeleePre",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Melee2",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Melee3",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Melee4",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                },
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Melee5",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                }
+              ],
+              "PeriodGAName": "GA_Exe_Melee",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Lacrimosa_Phase1",
+                  "SourceString": "进行连续的5次普通攻击",
+                  "LocalizedString": "进行连续的5次普通攻击"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "GuideID": "Teach_Exe_2_1",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "GaCounterTeachStages": [
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Melee",
+                  "AbilitySectionName": "Branch",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_None",
+                  "DelayFinishTime": -1.0
+                }
+              ],
+              "PeriodGAName": "None",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Trial_Exe_3_1",
+                  "SourceString": "普攻过程中长按普攻键发动1次「普通攻击：纵深侵入」",
+                  "LocalizedString": "普攻过程中长按普攻键发动1次「普通攻击：纵深侵入」"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": []
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "GaCounterTeachStages": [
+                {
+                  "SlotContent": {
+                    "Title": {
+                      "CultureInvariantString": null
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "AbilityName": "GA_Exe_Skill",
+                  "AbilitySectionName": "Skill",
+                  "FinishCount": 1,
+                  "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_Trigger",
+                  "DelayFinishTime": -1.0
+                }
+              ],
+              "PeriodGAName": "None",
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Trial_Exe_4_1",
+                  "SourceString": "操作Exe释放1次变轨技能",
+                  "LocalizedString": "操作Exe释放1次变轨技能"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "LogicObjClass": {
+                    "AssetPathName": "/Script/HTGame.ExeLogicObj",
+                    "SubPathString": ""
+                  },
+                  "FunctionName": "ModifyExeFrame",
+                  "FunctionParams": "50",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "GuideID": "Teach_Exe_4_1",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "bEndNestStage": false,
+              "bStartListenAllNestStage": false,
+              "TeachSateges": [
+                {
+                  "GaCounterTeachStages": [
+                    {
+                      "SlotContent": {
+                        "Title": {
+                          "CultureInvariantString": null
+                        },
+                        "SlotClass": {
+                          "AssetPathName": "",
+                          "SubPathString": ""
+                        }
+                      },
+                      "AbilityName": "GA_Exe_UltraSkill",
+                      "AbilitySectionName": "Default",
+                      "FinishCount": 1,
+                      "DetailConditionType": "ETrialTeachFinishDetailConditionType::FinisDetailCondition_End",
+                      "DelayFinishTime": -1.0
+                    }
+                  ],
+                  "PeriodGAName": "None",
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Exe_5_1",
+                      "SourceString": "释放1次极轨终结，进入「方程构建」状态",
+                      "LocalizedString": "释放1次极轨终结，进入「方程构建」状态"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Exe_5_1",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": null
+                    }
+                  ]
+                },
+                {
+                  "IndependentShowUI": false,
+                  "SlotContent": {
+                    "Title": {
+                      "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                      "Key": "Trial_Exe_5_2",
+                      "SourceString": "普攻命中敌人并导出1个「数字残像」",
+                      "LocalizedString": "普攻命中敌人并导出1个「数字残像」"
+                    },
+                    "SlotClass": {
+                      "AssetPathName": "",
+                      "SubPathString": ""
+                    }
+                  },
+                  "StageFinishWaitTime": 0.0,
+                  "TeachApplyEffects": [
+                    {
+                      "GuideID": "Teach_Exe_5_2",
+                      "ApplyTargetType": "ETeachApplyTargetType::Player",
+                      "ApplyOperation": "ETeachApplyOperation::Add",
+                      "ApplyTime": 1,
+                      "ApplyTime_GEClass": "None",
+                      "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                      "ConditionClass": null
+                    }
+                  ]
+                }
+              ],
+              "IndependentShowUI": true,
+              "SlotContent": {
+                "Title": {
+                  "CultureInvariantString": null
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_NoConsume_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_NoConsume_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_UltraSkillEnergyAdd_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Abyss/Buff_UltraSkillEnergyAdd.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": false,
+            "TeachSateges": {
+              "ExecutionBuffGE": {
+                "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Buff/Buff_Player_Exe_Kill.Buff_Player_Exe_Kill_C",
+                "SubPathString": ""
+              },
+              "LockHPBuffGE": {
+                "AssetPathName": "/Game/Blueprints/Character/Monster/mon_16/Trial/buff_Trial_LockHP100_BP.buff_Trial_LockHP100_BP_C",
+                "SubPathString": ""
+              },
+              "MonsterHPPercent": 10.0,
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Trial_Exe_6_1",
+                  "SourceString": "Exe处于「方程构建」状态时，发动「普通攻击：纵深侵入」处决敌人",
+                  "LocalizedString": "Exe处于「方程构建」状态时，发动「普通攻击：纵深侵入」处决敌人"
+                },
+                "SlotClass": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_NoConsume_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_NoConsume_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_UltraSkillEnergyAdd_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Abyss/Buff_UltraSkillEnergyAdd.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_ClearSkillCD_TA_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_ClearSkillCD_TA.0"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 5,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "GuideID": "Teach_Exe_6_1",
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::Add",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Client",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          },
+          {
+            "bStateMonsterNeedAttack": false,
+            "bMonsterDeadDontRefresh": false,
+            "bNoShowProgressCount": true,
+            "TeachSateges": {
+              "IndependentShowUI": false,
+              "SlotContent": {
+                "Title": {
+                  "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                  "Key": "Normal_Phase2",
+                  "SourceString": "自由练习或离开教学",
+                  "LocalizedString": "自由练习或离开教学"
+                },
+                "SlotClass": {
+                  "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
+                  "SubPathString": ""
+                }
+              },
+              "StageFinishWaitTime": 0.0,
+              "TeachApplyEffects": [
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseAim_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseAim_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                },
+                {
+                  "ApplyGEClass": {
+                    "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+                    "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
+                  },
+                  "ApplyGESoftClass": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  },
+                  "ApplyTargetType": "ETeachApplyTargetType::Player",
+                  "ApplyOperation": "ETeachApplyOperation::FillOrRemove",
+                  "ApplyTime": 1,
+                  "ApplyTime_GEClass": "None",
+                  "ApplyNetPolicy": "ETeachApplyNetPolicy::Server",
+                  "ConditionClass": null
+                }
+              ]
+            }
+          }
+        ],
+        "LoopMonsterID": "TrailTeach01_MonsterLoop_01",
+        "CloneExitTemplate": {
+          "AssetPathName": "/Game/Blueprints/Actors/CloneSystem/BP_CloneChest_Trial.BP_CloneChest_Trial_C",
+          "SubPathString": ""
+        },
+        "TeachFinishTitle": {
+          "CultureInvariantString": null
+        },
+        "GlobalBuffs": [
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseAim_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseAim_TA_Infinity.1"
+          },
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseSkill_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseSkill_TA_Infinity.1"
+          },
+          {
+            "ObjectName": "BlueprintGeneratedClass'Buff_CantUseUltraSkill_TA_Infinity_C'",
+            "ObjectPath": "/Game/Blueprints/Abilities/Buff/Level/TA/Buff_CantUseUltraSkill_TA_Infinity.1"
           }
         ],
         "ExitActorLocation": {

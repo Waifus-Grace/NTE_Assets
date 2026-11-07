@@ -32,6 +32,27 @@
           "SubPathString": ""
         },
         "bHideDefaultDashBoard": true
+      },
+      "Vehicle047": {
+        "DashBoardWidgetClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Vehicle/VehicleSpecialDashBoard/BPUI_VehicleDashBoard047.BPUI_VehicleDashBoard047_C",
+          "SubPathString": ""
+        },
+        "bHideDefaultDashBoard": true
+      },
+      "Vehicle045": {
+        "DashBoardWidgetClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Vehicle/VehicleSpecialDashBoard/BPUI_VehicleDashBoard045_BigWorld.BPUI_VehicleDashBoard045_BigWorld_C",
+          "SubPathString": ""
+        },
+        "bHideDefaultDashBoard": true
+      },
+      "Vehicle045_game": {
+        "DashBoardWidgetClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Vehicle/VehicleSpecialDashBoard/BPUI_VehicleDashBoard045.BPUI_VehicleDashBoard045_C",
+          "SubPathString": ""
+        },
+        "bHideDefaultDashBoard": true
       }
     }
   }

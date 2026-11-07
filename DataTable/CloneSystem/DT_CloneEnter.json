@@ -630,6 +630,47 @@
           "AssetPathName": "",
           "SubPathString": ""
         }
+      },
+      "WeeklyClone_Boss36": {
+        "CloneSystemContainID": "WeeklyClone_Boss36",
+        "BelongLevelName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "BelongsAreaID": "001",
+        "CloneSystemIDs": [
+          "WeeklyClone_Boss36"
+        ],
+        "NotContainsCloneIDsToMap": [],
+        "UnlockLevel": 1,
+        "AwardDropID": "None",
+        "VisionID": "None",
+        "YaHahaID": "Yahaha_Weekly_Boss36",
+        "FuncUnlockID": "None",
+        "bWeeklyClone": true,
+        "CloneName": {
+          "TableId": "/Game/Text/ST_Clone.ST_Clone",
+          "Key": "WeeklyClone_Name_36",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "CloneDes": {
+          "TableId": "/Game/Text/ST_Clone.ST_Clone",
+          "Key": "WeeklyClone_Des_36",
+          "SourceString": "母亲将我栽种到花园里，那里有温暖的阳光，甘甜的露水，有我的兄弟姊妹……可是母亲啊，人应该被栽种吗？",
+          "LocalizedString": "母亲将我栽种到花园里，那里有温暖的阳光，甘甜的露水，有我的兄弟姊妹……可是母亲啊，人应该被栽种吗？"
+        },
+        "WeeklyIconTips": {
+          "AssetPathName": "/Game/UI/UI/SystematicGameFeatureUnlock/UnlockIcon/UI_YH_FB_FunctionUnLockIcon_4.UI_YH_FB_FunctionUnLockIcon_4",
+          "SubPathString": ""
+        },
+        "ExitCloneTransferID": "WeeklyCloneExit_Boss36",
+        "StaminaCount": 60,
+        "bShowSkipUI": false,
+        "CloneSystemContainIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -14,31 +14,30 @@
     "Rows": {
       "Res_FonsLimitShop": {
         "Name": {
-          "Namespace": "",
-          "Key": "D1AEE23F43D5DBB0DAAD3280F60C0F95",
-          "SourceString": "<!>猎人交易所",
-          "LocalizedString": "<!>猎人交易所"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "fonshop",
+          "SourceString": "猎人交易所",
+          "LocalizedString": "猎人交易所"
         },
         "Cate": "EResSummaryCate::Res_Limited",
         "SubCate": "None",
         "Tags": [
-          "test1",
-          "test2"
+          "Fons"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/AbyssCoin_001.AbyssCoin_001",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_HunterLevel_Icon.YH_UI_ResSummary_HunterLevel_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
         "JumpPath": "fonshop",
         "UnLockID": "FonsShop01",
-        "bShowBrief": true,
+        "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "100E90C149179D1B62083E8DA5E3F7C5",
-          "SourceString": "<!>猎人交易所描述",
-          "LocalizedString": "<!>猎人交易所描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_1",
+          "SourceString": "所有商品根据大亨等级解锁。非限定的商品会定期刷新，限定商品仅可购买一次。",
+          "LocalizedString": "所有商品根据大亨等级解锁。非限定的商品会定期刷新，限定商品仅可购买一次。"
         },
         "ShowAwards": [
           "Annulith",
@@ -65,34 +64,36 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_Abyss": {
         "Name": {
-          "Namespace": "",
-          "Key": "1A6A043D446F604F154C6C826CCEC504",
-          "SourceString": "<!>常驻深渊",
-          "LocalizedString": "<!>常驻深渊"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "AbyssClone_main_1",
+          "SourceString": "全日路线",
+          "LocalizedString": "全日路线"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/AbyssCoin_002.AbyssCoin_002",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Abyss_Icon.YH_UI_ResSummary_Abyss_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
-        "UseTime": 7200,
+        "UseTime": 0,
         "JumpPath": "abyss_map",
         "UnLockID": "Abyss",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_2",
+          "SourceString": "永久开放，通关后仅可领取一次奖励。",
+          "LocalizedString": "永久开放，通关后仅可领取一次奖励。"
         },
         "ShowAwards": [
           "Annulith",
@@ -119,92 +120,267 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "AbyssID": "Abyss_Common"
-        }
+        "ResDatas": [
+          {
+            "AbyssID": "Abyss_Common"
+          }
+        ]
       },
-      "Res_AbyssLimit1": {
+      "Res_AbyssLimit13": {
         "Name": {
-          "Namespace": "",
-          "Key": "BC7EB2EB49164EC79C9A67B22077B8EF",
-          "SourceString": "<!>限时深渊1",
-          "LocalizedString": "<!>限时深渊1"
+          "TableId": "/Game/DataAssets/DataAssetSet/Abyss/ST_AbyssBattle.ST_AbyssBattle",
+          "Key": "Abyss_13_name",
+          "SourceString": "飞芒环线",
+          "LocalizedString": "飞芒环线"
         },
         "Cate": "EResSummaryCate::Res_Limited",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Hard"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/AbyssCoin_002.AbyssCoin_002",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Abyss_Icon.YH_UI_ResSummary_Abyss_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
-        "UseTime": 7200,
+        "UseTime": 0,
         "JumpPath": "abyss_map",
         "UnLockID": "Abyss",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_3",
+          "SourceString": "周期性开放的高难关卡，内容与奖励随版本更新。",
+          "LocalizedString": "周期性开放的高难关卡，内容与奖励随版本更新。"
         },
         "ShowAwards": [
           "Annulith",
           "Fons"
         ],
         "CurrencyIds": [],
-        "ActivityType": "Abyss",
+        "ActivityType": "",
         "StartActivityTime": {
           "MainlandTime": {
-            "Year": 2026,
-            "Month": 9,
-            "Day": 18,
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
             "Hour": 0,
             "minute": 0,
             "Second": 0
           },
           "OverseaTime": {
-            "Year": 2026,
-            "Month": 9,
-            "Day": 28,
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
             "Hour": 0,
             "minute": 0,
             "Second": 0
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "AbyssID": "Abyss_10"
-        }
+        "ResDatas": [
+          {
+            "AbyssID": "Abyss_13"
+          }
+        ]
+      },
+      "Res_AbyssLimit14": {
+        "Name": {
+          "TableId": "/Game/DataAssets/DataAssetSet/Abyss/ST_AbyssBattle.ST_AbyssBattle",
+          "Key": "Abyss_14_name",
+          "SourceString": "霜寒环线",
+          "LocalizedString": "霜寒环线"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Hard"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Abyss_Icon.YH_UI_ResSummary_Abyss_Icon",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "abyss_map",
+        "UnLockID": "Abyss",
+        "bShowBrief": false,
+        "Desc": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_3",
+          "SourceString": "周期性开放的高难关卡，内容与奖励随版本更新。",
+          "LocalizedString": "周期性开放的高难关卡，内容与奖励随版本更新。"
+        },
+        "ShowAwards": [
+          "Annulith",
+          "Fons"
+        ],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "AbyssID": "Abyss_14"
+          }
+        ]
+      },
+      "Res_AbyssLimit15": {
+        "Name": {
+          "TableId": "/Game/DataAssets/DataAssetSet/Abyss/ST_AbyssBattle.ST_AbyssBattle",
+          "Key": "Abyss_15_name",
+          "SourceString": "云集环线",
+          "LocalizedString": "云集环线"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Hard"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Abyss_Icon.YH_UI_ResSummary_Abyss_Icon",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "abyss_map",
+        "UnLockID": "Abyss",
+        "bShowBrief": false,
+        "Desc": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_3",
+          "SourceString": "周期性开放的高难关卡，内容与奖励随版本更新。",
+          "LocalizedString": "周期性开放的高难关卡，内容与奖励随版本更新。"
+        },
+        "ShowAwards": [
+          "Annulith",
+          "Fons"
+        ],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "AbyssID": "Abyss_15"
+          }
+        ]
+      },
+      "Res_AbyssLimit16": {
+        "Name": {
+          "TableId": "/Game/DataAssets/DataAssetSet/Abyss/ST_AbyssBattle.ST_AbyssBattle",
+          "Key": "Abyss_16_name",
+          "SourceString": "铸心环线",
+          "LocalizedString": "铸心环线"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Hard"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Abyss_Icon.YH_UI_ResSummary_Abyss_Icon",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "abyss_map",
+        "UnLockID": "Abyss",
+        "bShowBrief": false,
+        "Desc": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_3",
+          "SourceString": "周期性开放的高难关卡，内容与奖励随版本更新。",
+          "LocalizedString": "周期性开放的高难关卡，内容与奖励随版本更新。"
+        },
+        "ShowAwards": [
+          "Annulith",
+          "Fons"
+        ],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "AbyssID": "Abyss_16"
+          }
+        ]
       },
       "Res_QuestMain": {
         "Name": {
-          "Namespace": "",
-          "Key": "BB9B73C24FE1D7E45AB67AA458096DC4",
-          "SourceString": "<!>主线＆番外任务",
-          "LocalizedString": "<!>主线＆番外任务"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummary_14",
+          "SourceString": "正篇任务与番外任务",
+          "LocalizedString": "正篇任务与番外任务"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Story"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_MainStory_Icon.YH_UI_ResSummary_MainStory_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "questpanel_ui",
+        "UnLockID": "Quest",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [
           "Annulith",
@@ -231,56 +407,62 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "QuestIds": [
-            "q110026",
-            "q110057",
-            "q110088",
-            "q110137",
-            "q110159",
-            "q110192",
-            "q110332",
-            "q110394",
-            "q110424",
-            "q110493",
-            "q110529",
-            "q1105992",
-            "L110355",
-            "q110784",
-            "L110052",
-            "L110123",
-            "L110139",
-            "L110240",
-            "L110266"
-          ]
-        }
+        "ResDatas": [
+          {
+            "QuestIds": [
+              "q110026",
+              "q110057",
+              "q110088",
+              "q110137",
+              "q110159",
+              "q110192",
+              "q110332",
+              "q110394",
+              "q110424",
+              "q110493",
+              "q110529",
+              "q1105992",
+              "L110355",
+              "q110784",
+              "L110052",
+              "L110123",
+              "L110139",
+              "L110240",
+              "L110266",
+              "L110448",
+              "q110978",
+              "q111088"
+            ]
+          }
+        ]
       },
       "Res_Vision": {
         "Name": {
-          "Namespace": "",
-          "Key": "16E4BC0841749D302C0AC5B25175843C",
-          "SourceString": "<!>异象委托",
-          "LocalizedString": "<!>异象委托"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_VisionList_Putongweituo",
+          "SourceString": "普通委托",
+          "LocalizedString": "普通委托"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat",
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Commission_Icon.YH_UI_ResSummary_Commission_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "VisionMain",
+        "UnLockID": "VisionExplore",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_4",
+          "SourceString": "由鉴定师在城市中巡查、调查并处理各类常规异象。成功完成后可获得相应奖励。",
+          "LocalizedString": "由鉴定师在城市中巡查、调查并处理各类常规异象。成功完成后可获得相应奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -304,34 +486,36 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_TreasureBox": {
         "Name": {
-          "Namespace": "",
-          "Key": "B6BC85154468991FE461DF98A4BAEA9D",
-          "SourceString": "<!>宝箱",
-          "LocalizedString": "<!>宝箱"
+          "TableId": "/Game/Text/ST_TeachAndIllustrate.ST_TeachAndIllustrate",
+          "Key": "TreasureBox_Name",
+          "SourceString": "「21的赠礼」",
+          "LocalizedString": "「21的赠礼」"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Chest_Icon.YH_UI_ResSummary_Chest_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
+        "JumpPath": "map_explore_ui",
         "UnLockID": "None",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_5",
+          "SourceString": "赌徒「21」将赢来的筹码丢在城市各处，想要得到奖励，需要先解决一些麻烦......",
+          "LocalizedString": "赌徒「21」将赢来的筹码丢在城市各处，想要得到奖励，需要先解决一些麻烦......"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -355,87 +539,38 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "Tag": "common"
-        }
-      },
-      "Res_Divination": {
-        "Name": {
-          "Namespace": "",
-          "Key": "9EA02F4F482F85632109CDB2018F8AE2",
-          "SourceString": "<!>占卜屋",
-          "LocalizedString": "<!>占卜屋"
-        },
-        "Cate": "EResSummaryCate::Res_Permanent",
-        "SubCate": "None",
-        "Tags": [
-          "test1"
-        ],
-        "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
-          "SubPathString": ""
-        },
-        "RecommendLevel": 0,
-        "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
-        "bShowBrief": false,
-        "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
-        },
-        "ShowAwards": [],
-        "CurrencyIds": [],
-        "ActivityType": "",
-        "StartActivityTime": {
-          "MainlandTime": {
-            "Year": 1,
-            "Month": 1,
-            "Day": 1,
-            "Hour": 0,
-            "minute": 0,
-            "Second": 0
-          },
-          "OverseaTime": {
-            "Year": 1,
-            "Month": 1,
-            "Day": 1,
-            "Hour": 0,
-            "minute": 0,
-            "Second": 0
-          },
-          "OverseaUseUTCTime": true
-        },
-        "ResData": {}
+        "ResDatas": [
+          {
+            "Tag": "common"
+          }
+        ]
       },
       "Res_FurnitureCollect": {
         "Name": {
-          "Namespace": "",
-          "Key": "EC933AD249250A20D25E1780F60409D3",
-          "SourceString": "<!>家具收藏值",
-          "LocalizedString": "<!>家具收藏值"
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "BPUI_RealEstatesList_8",
+          "SourceString": "家具收藏",
+          "LocalizedString": "家具收藏"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_jiaju_Icon.YH_UI_ResSummary_jiaju_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "RealEstates_ui",
+        "UnLockID": "RealEstateList",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_7",
+          "SourceString": "点亮家具收藏获得收藏值，收藏值符合要求时可领取奖励。",
+          "LocalizedString": "点亮家具收藏获得收藏值，收藏值符合要求时可领取奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -459,34 +594,36 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_RoleLevel": {
         "Name": {
-          "Namespace": "",
-          "Key": "9C5F765A47D8DC9BD73CBCA826ADF91F",
-          "SourceString": "<!>猎人等级",
-          "LocalizedString": "<!>猎人等级"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "ui_activity_strongpath_02",
+          "SourceString": "猎人等级",
+          "LocalizedString": "猎人等级"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_HunterLevel_Icon.YH_UI_ResSummary_HunterLevel_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "WorldLevelReward",
+        "UnLockID": "WorldLevelReward",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_8",
+          "SourceString": "猎人等级提升后，可前往猎人奖励界面领取对应等级的奖励。",
+          "LocalizedString": "猎人等级提升后，可前往猎人奖励界面领取对应等级的奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -510,34 +647,33 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_AdventureManual": {
         "Name": {
-          "Namespace": "",
-          "Key": "946C492C4528A8BAD846CDB52E19EB2E",
-          "SourceString": "<!>探索指南",
-          "LocalizedString": "<!>探索指南"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "WB_AdventureManual_MainTitle",
+          "SourceString": "探索指南",
+          "LocalizedString": "探索指南"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_F1_Icon.YH_UI_ResSummary_F1_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "adventure_wizard_ui",
+        "UnLockID": "AdventureManual",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -561,34 +697,36 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_Tycoon": {
         "Name": {
-          "Namespace": "",
-          "Key": "CF8AA5E94E33073A4A3F3F8CC3FB5AE3",
-          "SourceString": "<!>大亨",
-          "LocalizedString": "<!>大亨"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "citytycoon_ui_name",
+          "SourceString": "都市大亨",
+          "LocalizedString": "都市大亨"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Daheng_Icon.YH_UI_ResSummary_Daheng_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "citytycoon_ui",
+        "UnLockID": "CityTycoon",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_9",
+          "SourceString": "在都市大亨中累计获得方斯并达成任务目标即可提升等级，每级均享升级权益及对应奖励。",
+          "LocalizedString": "在都市大亨中累计获得方斯并达成任务目标即可提升等级，每级均享升级权益及对应奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -612,36 +750,33 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "TycoonType": "ECityTycoonType::TycoonType_Tycoon"
-        }
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_MapExplore": {
         "Name": {
-          "Namespace": "",
-          "Key": "4569229E47A47DE7C62175981F4A2EA4",
-          "SourceString": "<!>探索度",
-          "LocalizedString": "<!>探索度"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Exploration_name",
+          "SourceString": "探索度",
+          "LocalizedString": "探索度"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Map_Icon.YH_UI_ResSummary_Map_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
+        "JumpPath": "map_explore_ui",
         "UnLockID": "None",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -665,34 +800,37 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_InteriorDecoration": {
         "Name": {
-          "Namespace": "",
-          "Key": "858AB32D49DB5DA5624AA8BB02A8D5AD",
-          "SourceString": "<!>房屋装修",
-          "LocalizedString": "<!>房屋装修"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "RealEstates_ui_name",
+          "SourceString": "房产",
+          "LocalizedString": "房产"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Property_Icon.YH_UI_ResSummary_Property_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "RealEstates_ui",
+        "UnLockID": "RealEstateList",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_10",
+          "SourceString": "完成房屋装修指南内置目标可领取奖励。",
+          "LocalizedString": "完成房屋装修指南内置目标可领取奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -716,34 +854,37 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_StoreBrand": {
         "Name": {
-          "Namespace": "",
-          "Key": "2085483441BE4035DE5705BE61CBFED1",
-          "SourceString": "<!>店铺经营",
-          "LocalizedString": "<!>店铺经营"
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "Building_Dining_OneCafe",
+          "SourceString": "一咖舍",
+          "LocalizedString": "一咖舍"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Cafe_Icon.YH_UI_ResSummary_Cafe_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "ShopOperationGuide",
+        "UnLockID": "StoreOnline",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_11",
+          "SourceString": "完成一咖舍商铺经营指南内置目标可领取奖励。",
+          "LocalizedString": "完成一咖舍商铺经营指南内置目标可领取奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -767,34 +908,37 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_StoreBrandOnline": {
         "Name": {
-          "Namespace": "",
-          "Key": "8E80F3114FA5A2F41837B9A67966108D",
-          "SourceString": "<!>店长特供",
-          "LocalizedString": "<!>店长特供"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Storeonline",
+          "SourceString": "店长特供",
+          "LocalizedString": "店长特供"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Cafe_Icon.YH_UI_ResSummary_Cafe_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "StoreOnline",
+        "UnLockID": "StoreOnline",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_12",
+          "SourceString": "「店长特供」玩法中累计达成经营目标可得环石奖励。",
+          "LocalizedString": "「店长特供」玩法中累计达成经营目标可得环石奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -818,34 +962,33 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_AdventureTeaching": {
         "Name": {
-          "Namespace": "",
-          "Key": "D7B38F2243633E6570EAE8B8BB5EF5DD",
-          "SourceString": "<!>战斗教学",
-          "LocalizedString": "<!>战斗教学"
+          "TableId": "/Game/Text/Gamepad/ST_Gamepad.ST_Gamepad",
+          "Key": "GamepadTips_0035",
+          "SourceString": "教学",
+          "LocalizedString": "教学"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_CharacterTeach_Icon.YH_UI_ResSummary_CharacterTeach_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "adventure_teach_ui",
+        "UnLockID": "AdventureTeach",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -869,34 +1012,34 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_Racing": {
         "Name": {
-          "Namespace": "",
-          "Key": "0E9478D449664AD7DD5600AA69317E8C",
-          "SourceString": "<!>赛车PVE",
-          "LocalizedString": "<!>赛车PVE"
+          "TableId": "/Game/Text/ST_TeachAndIllustrate.ST_TeachAndIllustrate",
+          "Key": "WanFa_Name_12",
+          "SourceString": "车辆赛事",
+          "LocalizedString": "车辆赛事"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Racing_Icon.YH_UI_ResSummary_Racing_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "RacingPVE",
+        "UnLockID": "RacePVE",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -920,34 +1063,34 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_RobBank": {
         "Name": {
-          "Namespace": "",
-          "Key": "E8E5064C4C918BDF5DFE2D8C4D2E1184",
-          "SourceString": "<!>抢银行",
-          "LocalizedString": "<!>抢银行"
+          "TableId": "/Game/Text/ST_Clone.ST_Clone",
+          "Key": "DLC_bank_Safety_Name",
+          "SourceString": "粉爪大劫案",
+          "LocalizedString": "粉爪大劫案"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat",
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Bank_Icon.YH_UI_ResSummary_Bank_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "RobbankShop",
+        "UnLockID": "Robbank",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -971,34 +1114,42 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {},
+          {
+            "ShopIds": [
+              "RobbankShop"
+            ]
+          }
+        ]
       },
       "Res_Fish": {
         "Name": {
-          "Namespace": "",
-          "Key": "35CF7E44480F8A2E7515BFA243464B8A",
-          "SourceString": "<!>钓鱼",
-          "LocalizedString": "<!>钓鱼"
+          "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
+          "Key": "UI_Fishing_Spot_Type",
+          "SourceString": "海上钓客",
+          "LocalizedString": "海上钓客"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Fishing_Icon.YH_UI_ResSummary_Fishing_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "FishLevel",
+        "UnLockID": "Fishing",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_13",
+          "SourceString": "「海上钓客」玩法中提高垂钓等级及收集垂钓图鉴可得环石奖励。",
+          "LocalizedString": "「海上钓客」玩法中提高垂钓等级及收集垂钓图鉴可得环石奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1022,41 +1173,46 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "QuestTypes": [
-            "ESimpleQuestType::FishGrade",
-            "ESimpleQuestType::FishHandbook"
-          ]
-        }
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::FishGrade",
+              "ESimpleQuestType::FishHandbook"
+            ]
+          }
+        ]
       },
       "Res_Volleyball": {
         "Name": {
-          "Namespace": "",
-          "Key": "14BDF6A44BD18F36CA01988BD070A1F0",
-          "SourceString": "<!>排球",
-          "LocalizedString": "<!>排球"
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_Volleyball",
+          "SourceString": "排球之星",
+          "LocalizedString": "排球之星"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban",
+          "Casual"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_paiqiu.YH_UI_ziyuanhuizhong_lihui_paiqiu",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
-        "bShowBrief": false,
+        "JumpPath": "Volleyball",
+        "UnLockID": "Volleyball",
+        "bShowBrief": true,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_14",
+          "SourceString": "阳光、沙滩、排球！光脚踩在细沙上，与队友配合扣杀救球。",
+          "LocalizedString": "阳光、沙滩、排球！光脚踩在细沙上，与队友配合扣杀救球。"
         },
-        "ShowAwards": [],
+        "ShowAwards": [
+          "Annulith"
+        ],
         "CurrencyIds": [],
         "ActivityType": "",
         "StartActivityTime": {
@@ -1078,40 +1234,49 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "QuestTypes": [
-            "ESimpleQuestType::BeachVolleyballPVEAward"
-          ]
-        }
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::BeachVolleyballPVEAward"
+            ]
+          }
+        ]
       },
       "Res_999": {
         "Name": {
-          "Namespace": "",
-          "Key": "ECDDA63343C399DAC09108BDAA34863D",
-          "SourceString": "<!>999夜",
-          "LocalizedString": "<!>999夜"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "FinalTower_Title",
+          "SourceString": "九百九十九夜",
+          "LocalizedString": "九百九十九夜"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_999Nights_Icon.YH_UI_ResSummary_999Nights_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
-        "bShowBrief": false,
+        "JumpPath": "FinalTowerShop",
+        "UnLockID": "FinalTowerAdventure",
+        "bShowBrief": true,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
+          "Key": "FinalTower_Activity_Desc",
+          "SourceString": "勇者小队集结完毕！目标是征服整片沃伦大陆！",
+          "LocalizedString": "勇者小队集结完毕！目标是征服整片沃伦大陆！"
         },
-        "ShowAwards": [],
+        "ShowAwards": [
+          "Annulith",
+          "Fons",
+          "CharacterUpMaterial_lv3",
+          "WeaponUpMaterial_lv3",
+          "Common_material_01",
+          "Common_material_02"
+        ],
         "CurrencyIds": [],
         "ActivityType": "",
         "StartActivityTime": {
@@ -1133,38 +1298,40 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "ShopIds": [
-            "FTSheepShop"
-          ]
-        }
+        "ResDatas": [
+          {
+            "ShopIds": [
+              "FTSheepShop"
+            ]
+          }
+        ]
       },
       "Res_AdvVision": {
         "Name": {
-          "Namespace": "",
-          "Key": "026197B34BAEEAA4A69AE586F21E2648",
-          "SourceString": "<!>高危委托",
-          "LocalizedString": "<!>高危委托"
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_VisionList_Gaoweiweituo",
+          "SourceString": "高危委托",
+          "LocalizedString": "高危委托"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_Commission_Icon.YH_UI_ResSummary_Commission_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "VisionMain",
+        "UnLockID": "AdvVision",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_15",
+          "SourceString": "面对更强大的异象，仅在达成目标条件后才会开放挑战。高危委托包含多档挑战难度，完成后将获得丰厚的奖励。",
+          "LocalizedString": "面对更强大的异象，仅在达成目标条件后才会开放挑战。高危委托包含多档挑战难度，完成后将获得丰厚的奖励。"
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1188,34 +1355,33 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_StrongPath": {
         "Name": {
-          "Namespace": "",
-          "Key": "CF6CF4B3429ECE557EA01CB952C3A4B7",
-          "SourceString": "<!>异猎征途",
-          "LocalizedString": "<!>异猎征途"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "ActivityStrongPath_ui_name",
+          "SourceString": "异猎征途",
+          "LocalizedString": "异猎征途"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_actHunterLv_Icon.YH_UI_ResSummary_actHunterLv_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "ActivityStrongPath_ui",
+        "UnLockID": "Activity",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1239,34 +1405,33 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
       },
       "Res_AbyssActivity": {
         "Name": {
-          "Namespace": "",
-          "Key": "68DE935F49A09137708B00B932E1ECE2",
-          "SourceString": "<!>鸮羽特快",
-          "LocalizedString": "<!>鸮羽特快"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "AbyssCommonMain_name",
+          "SourceString": "鸮羽特快",
+          "LocalizedString": "鸮羽特快"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Combat"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_actAbyss_Icon.YH_UI_ResSummary_actAbyss_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "AbyssCommonMain",
+        "UnLockID": "Activity",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1290,38 +1455,37 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "QuestTypes": [
-            "ESimpleQuestType::AbyssAwardActivity"
-          ]
-        }
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::AbyssAwardActivity"
+            ]
+          }
+        ]
       },
       "Res_CityGameplay": {
         "Name": {
-          "Namespace": "",
-          "Key": "FAEE38144338C681050F0AADD365B3A8",
-          "SourceString": "<!>都市指南",
-          "LocalizedString": "<!>都市指南"
+          "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
+          "Key": "BPUI_ActivityCityGameplay_001",
+          "SourceString": "都市指南",
+          "LocalizedString": "都市指南"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_actUrban_Icon.YH_UI_ResSummary_actUrban_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "Activity_CityGameplay",
+        "UnLockID": "Activity",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1345,38 +1509,37 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {
-          "QuestTypes": [
-            "ESimpleQuestType::CityQuest"
-          ]
-        }
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::CityQuest"
+            ]
+          }
+        ]
       },
       "Res_ActivitySignIn": {
         "Name": {
-          "Namespace": "",
-          "Key": "0E635DB246FD0E31B827C7AD82CF6202",
-          "SourceString": "<!>登录赠礼",
-          "LocalizedString": "<!>登录赠礼"
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ActSigne",
+          "SourceString": "登录赠礼",
+          "LocalizedString": "登录赠礼"
         },
         "Cate": "EResSummaryCate::Res_Permanent",
         "SubCate": "None",
         "Tags": [
-          "test1"
+          "Urban"
         ],
         "icon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Item/Icon_01_256.Icon_01_256",
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ResSummary_actLogin_Icon.YH_UI_ResSummary_actLogin_Icon",
           "SubPathString": ""
         },
         "RecommendLevel": 0,
         "UseTime": 0,
-        "JumpPath": "None",
-        "UnLockID": "None",
+        "JumpPath": "ActivitySignInMain_ui",
+        "UnLockID": "Activity",
         "bShowBrief": false,
         "Desc": {
-          "Namespace": "",
-          "Key": "9E1A1F024930852A06895CA9AD2DBD93",
-          "SourceString": "<!>描述",
-          "LocalizedString": "<!>描述"
+          "CultureInvariantString": null
         },
         "ShowAwards": [],
         "CurrencyIds": [],
@@ -1400,7 +1563,544 @@
           },
           "OverseaUseUTCTime": true
         },
-        "ResData": {}
+        "ResDatas": [
+          {}
+        ]
+      },
+      "Res_DiyBoss": {
+        "Name": {
+          "TableId": "/Game/Text/ST_UI_N.ST_UI_N",
+          "Key": "DiyBoss_Mainform_Name",
+          "SourceString": "争锋赏宴·攻坚",
+          "LocalizedString": "争锋赏宴·攻坚"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Hard"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_diyboss.YH_UI_ziyuanhuizhong_lihui_diyboss",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "DiyBossMainForm",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "DiyBoss",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {}
+        ]
+      },
+      "Res_NetFishing": {
+        "Name": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "NetFishing_01",
+          "SourceString": "渔获大作战",
+          "LocalizedString": "渔获大作战"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Urban",
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_fishBoom.YH_UI_ziyuanhuizhong_lihui_fishBoom",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "Summer_NetFishing",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "NetFishing",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {}
+        ]
+      },
+      "Res_BalatroLike": {
+        "Name": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_balatrolike.YH_UI_ziyuanhuizhong_lihui_balatrolike",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "Activity_Balatrolike",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "BalatroLike",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::OpActivity_BalatroLike"
+            ]
+          }
+        ]
+      },
+      "Res_OpActLogistics": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_LogisticsCenterUI.ST_LogisticsCenterUI",
+          "Key": "YHUI_Logistics_Event_Name",
+          "SourceString": "运通全城",
+          "LocalizedString": "运通全城"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Urban",
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_company.YH_UI_ziyuanhuizhong_lihui_company",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "OptLogistics",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "Logistics",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::OpActivity_Logistics"
+            ]
+          },
+          {
+            "ShopID": "LogisticsShop"
+          }
+        ]
+      },
+      "Res_Pukaland": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+          "Key": "PukaLand_Name",
+          "SourceString": "噗卡乐园游记",
+          "LocalizedString": "噗卡乐园游记"
+        },
+        "Cate": "EResSummaryCate::Res_Permanent",
+        "SubCate": "None",
+        "Tags": [
+          "Urban",
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_Pukaland.YH_UI_ziyuanhuizhong_lihui_Pukaland",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "Activity_Pukaland",
+        "UnLockID": "Activity",
+        "bShowBrief": true,
+        "Desc": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "ui_ResSummaryDesc_pukaland",
+          "SourceString": "欢迎来到噗卡乐园，奇妙旅程就此开启！",
+          "LocalizedString": "欢迎来到噗卡乐园，奇妙旅程就此开启！"
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "QuestTypes": [
+              "ESimpleQuestType::PukalandManual"
+            ]
+          }
+        ]
+      },
+      "Res_TankBattle": {
+        "Name": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "UI_TankBattle_01",
+          "SourceString": "征途坦荡",
+          "LocalizedString": "征途坦荡"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_tank.YH_UI_ziyuanhuizhong_lihui_tank",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "TankBattle",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "TankBattle",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "ShopIds": [
+              "TankBattleShop"
+            ]
+          }
+        ]
+      },
+      "Res_LimitedSignIn": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Activity_OpSignIn",
+          "SourceString": "环期赠礼",
+          "LocalizedString": "环期赠礼"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_signin.YH_UI_ziyuanhuizhong_lihui_signin",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "LimitedSignIn",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "SignIn",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {}
+        ]
+      },
+      "Res_FlipSignIn": {
+        "Name": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "FlipSignInCard_1",
+          "SourceString": "奇想翻翻乐",
+          "LocalizedString": "奇想翻翻乐"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Casual"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_flipsignin.YH_UI_ziyuanhuizhong_lihui_flipsignin",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "FlipSign",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "FlipSignIn",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {}
+        ]
+      },
+      "Res_LotteryTrial_1": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Activity_Lottery_Title",
+          "SourceString": "「开市预演」",
+          "LocalizedString": "「开市预演」"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Combat"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_trial_1.YH_UI_ziyuanhuizhong_lihui_trial_1",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "LotteryTrial",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "CharacterIds": [
+              "1090",
+              "1076"
+            ]
+          }
+        ]
+      },
+      "Res_LotteryTrial_2": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Activity_Lottery_Title",
+          "SourceString": "「开市预演」",
+          "LocalizedString": "「开市预演」"
+        },
+        "Cate": "EResSummaryCate::Res_Limited",
+        "SubCate": "None",
+        "Tags": [
+          "Combat"
+        ],
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/zyhz/pic/YH_UI_ziyuanhuizhong_lihui_trial_2.YH_UI_ziyuanhuizhong_lihui_trial_2",
+          "SubPathString": ""
+        },
+        "RecommendLevel": 0,
+        "UseTime": 0,
+        "JumpPath": "LotteryTrial",
+        "UnLockID": "Activity",
+        "bShowBrief": false,
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "ShowAwards": [],
+        "CurrencyIds": [],
+        "ActivityType": "",
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ResDatas": [
+          {
+            "CharacterIds": [
+              "1074",
+              "1071"
+            ]
+          }
+        ]
       }
     }
   }

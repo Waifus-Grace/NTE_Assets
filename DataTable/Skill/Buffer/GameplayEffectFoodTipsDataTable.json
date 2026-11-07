@@ -4100,6 +4100,39 @@
         "IsValueOnlyAndCustomDesc": false,
         "IsShowCustomModifierInfo": false,
         "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Food_143": {
+        "Name": {
+          "TableId": "/Game/Text/ST_food.ST_food",
+          "Key": "Food_0143_name",
+          "SourceString": "空想特饮",
+          "LocalizedString": "空想特饮"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_food.ST_food",
+          "Key": "Food_0143_usedesc",
+          "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
+          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 101,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
       }
     }
   }

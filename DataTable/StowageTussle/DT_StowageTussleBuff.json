@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StowageTussleBuff",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/StowageTussle/DT_StowageTussleBuff",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'StowageTussleBuffConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {}
+  }
+]

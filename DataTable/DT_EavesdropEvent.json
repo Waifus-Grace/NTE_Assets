@@ -1,0 +1,46 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_EavesdropEvent",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_EavesdropEvent",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTEavesdropEventData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "CodexEavesdropNPC1004_20261015": {
+        "bEnabled": true,
+        "bInitiallyAvailable": true,
+        "LevelName": "MassAI_wtao",
+        "Dialogue": {
+          "AssetPathName": "/Game/Tests/Codex/Eavesdrop/Task3_20261010/DLG_EavesdropCase.DLG_EavesdropCase",
+          "SubPathString": ""
+        },
+        "CompletionSignal": "CodexCaseEavesdropComplete",
+        "HeadUpWidgetClass": {
+          "AssetPathName": "/Game/UI/Blueprints/HeadUp/BPUI_EavesdropHeadUp.BPUI_EavesdropHeadUp_C",
+          "SubPathString": ""
+        },
+        "SocketName": "None",
+        "DisplayOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 120.0
+        },
+        "MaxShowDistanceCm": 1500.0,
+        "TooCloseAlertDistanceCm": 200.0,
+        "NPCAlertIdleState": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "DistanceMetric": "EHTEavesdropHeadUpMetric::ThreeDimensional",
+        "DistanceBoundary": "EHTEavesdropHeadUpBoundary::Exclusive",
+        "RefreshInterval": 0.25
+      }
+    }
+  }
+]

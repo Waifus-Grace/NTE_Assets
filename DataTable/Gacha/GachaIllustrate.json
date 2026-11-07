@@ -3508,6 +3508,310 @@
           "Hex": "4079CC"
         }
       },
+      "1090": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/1024_Fashion_1090_0.1024_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "/Game/sequence_pack/cutscenes/CardDrawSettlement/Sequence_getplayer_090_elyms/Sequence_getplayer_090_elyms.Sequence_getplayer_090_elyms",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": true,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": true,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": true,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": true,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": true,
+          "bIsSequenceFadeOut": true,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": true,
+          "bResetCamera": false,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 50,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 17.0,
+        "SequenceSpawnOffset": {
+          "X": 30000.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 30000.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_Music_Single/Play_Music_CG_Gacha_YeErMu.Play_Music_CG_Gacha_YeErMu",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_SFX_Char/Play_SFX_Gacha_Char_YEM.Play_SFX_Gacha_Char_YEM",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_Vo_Char/Play_VO_Gacha_Char_YEM.Play_VO_Gacha_Char_YEM",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "CultureInvariantString": null
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/Banner_Fashion_1090_0.Banner_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/Banner_Fashion_1090_0.Banner_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.014444,
+          "G": 0.23074,
+          "B": 0.913099,
+          "A": 1.0,
+          "Hex": "2084F5"
+        },
+        "BloomColor": {
+          "R": 0.014444,
+          "G": 0.23074,
+          "B": 0.913099,
+          "A": 1.0,
+          "Hex": "2084F5"
+        }
+      },
+      "1074": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/1024_Fashion_1074_0.1024_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "/Game/sequence_pack/cutscenes/CardDrawSettlement/sequence_getplayer_057_akane/sequence_getplayer_057_akane.sequence_getplayer_057_akane",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": true,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": true,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": true,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": true,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": true,
+          "bIsSequenceFadeOut": true,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": true,
+          "bResetCamera": false,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 50,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 12.0,
+        "SequenceSpawnOffset": {
+          "X": 30000.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "/Game/sequence_pack/cutscenes/CardDrawSettlement/sequence_getplayer_057_akane/DLC_MoonDog_ck.DLC_MoonDog_ck",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 30000.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_Music_Single/Play_Music_CG_Gacha_MingYin.Play_Music_CG_Gacha_MingYin",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_SFX_Char/Play_SFX_Gacha_Char_MingYin.Play_SFX_Gacha_Char_MingYin",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Gacha/Gacha_Vo_Char/Play_VO_Gacha_Char_MY.Play_VO_Gacha_Char_MY",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "CultureInvariantString": null
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/Banner_Fashion_1074_0.Banner_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/Banner_Fashion_1074_0.Banner_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.051269,
+          "G": 0.191202,
+          "B": 0.603828,
+          "A": 1.0,
+          "Hex": "4079CC"
+        },
+        "BloomColor": {
+          "R": 0.051269,
+          "G": 0.191202,
+          "B": 0.603828,
+          "A": 1.0,
+          "Hex": "4079CC"
+        }
+      },
       "Fashion_character_1010": {
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_nanali3.YH_lihui_character_nanali3",
@@ -14792,6 +15096,930 @@
           "Key": "Glide_9_Kachi",
           "SourceString": "预兆鸟-滑翔翼",
           "LocalizedString": "预兆鸟-滑翔翼"
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_character_1090_02": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/1024_Fashion_1090_2.1024_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/256_Fashion_1090_2.256_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "CultureInvariantString": null
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_vehicle_1090_V060a": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Vehicle_1090/1024_Fashion_Vehicle_1090.1024_Fashion_Vehicle_1090",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Vehicle_1090/256_Fashion_Vehicle_1090.256_Fashion_Vehicle_1090",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "V060a_Decal_02_name",
+          "SourceString": "+友情急救中心+-涂装",
+          "LocalizedString": "+友情急救中心+-涂装"
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_glide_1090": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Glide_1090/1024_Fashion_Glide_1090.1024_Fashion_Glide_1090",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Glide_1090/256_Fashion_Glide_1090.256_Fashion_Glide_1090",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1090_kachi",
+          "SourceString": "出游浮标-滑翔翼",
+          "LocalizedString": "出游浮标-滑翔翼"
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_character_1074_01": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/1024_Fashion_1074_1.1024_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/256_Fashion_1074_1.256_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "CultureInvariantString": null
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_vehicle_1074_V060b": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Vehicle_1074/1024_Fashion_Vehicle_1074.1024_Fashion_Vehicle_1074",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Vehicle_1074/256_Fashion_Vehicle_1074.256_Fashion_Vehicle_1074",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "V060b_Decal_02_name",
+          "SourceString": "executer-涂装",
+          "LocalizedString": "executer-涂装"
+        },
+        "ActivityHeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "MaterialTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OutlineColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        "BloomColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Fashion_glide_1074": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Glide_1074/1024_Fashion_Glide_1074.1024_Fashion_Glide_1074",
+          "SubPathString": ""
+        },
+        "CharacterSequence": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Settings": {
+          "bAutoPlay": false,
+          "LoopCount": {
+            "Value": 0
+          },
+          "TickInterval": {
+            "TickIntervalSeconds": 0.0,
+            "EvaluationBudgetMicroseconds": 0.0,
+            "bTickWhenPaused": false,
+            "bAllowRounding": true
+          },
+          "PlayRate": 1.0,
+          "StartTime": 0.0,
+          "bRandomStartTime": false,
+          "bDisableMovementInput": false,
+          "bDisableLookAtInput": false,
+          "bHidePlayer": false,
+          "bHideHud": false,
+          "bDisableCameraCuts": false,
+          "FinishCompletionStateOverride": "EMovieSceneCompletionModeOverride::None",
+          "bPauseAtEnd": false,
+          "bInheritTickIntervalFromOwner": true,
+          "bDynamicWeighting": false
+        },
+        "GameplaySettings": {
+          "bDisableKeyboardInput": true,
+          "bHideUI": true,
+          "bHideCursor": true,
+          "bRecoverAllUIWhenEnd": true,
+          "bHideHeadUpInfo": true,
+          "bPauseCameraSwitch": true,
+          "bHideSpawnedNpc": true,
+          "bStopBehaviorTree": true,
+          "bHideVehicle": true,
+          "SpawnedNpcHideDistance": 3000.0,
+          "bHideSpawnedVisualActor": false,
+          "SpawnedVisualActorHideDistance": 3000.0,
+          "bStopToEnd": true,
+          "BackwardFrameStopTo": 6,
+          "bCheckSafeDistanceToPlayer": true,
+          "bDontSendClientSideCameraUpdatesToServer": true,
+          "bShowBulletScreen": true,
+          "bPauseGameSound": true,
+          "bBestViewDistanceQuality": false,
+          "CantSkipTime": 2.0,
+          "bSkipNeedConfirm": true,
+          "bCanFinishWhenFadeInOut": false,
+          "bIsSequenceFadeIn": false,
+          "bIsSequenceFadeOut": false,
+          "FadeOutSequenceTime": 0.8,
+          "bUseTransformOrigin": false,
+          "TransformOriginActor": null,
+          "TransformOrigin": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          },
+          "bBreakAllSkillMontange": true,
+          "bActuallyStopBeforeAnim": false,
+          "bResetCamera": true,
+          "bSyncCameraYaw": false,
+          "bForceAddToNewSpawnedTickGroup": true,
+          "ShowSimpleActorNum": 60,
+          "bIgnoreWeatherInRoom": false,
+          "bNeverSilent": true,
+          "bHandlePause": false,
+          "bInvitedNpcHidden": true,
+          "bCanInterruptWhenTransfer": false,
+          "bIgnorDialogue": true
+        },
+        "DelayShouUITime": 1.0,
+        "SequenceSpawnOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterSubLevel": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SubLevelOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "CharacterBGM": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CharacterVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Glide_1074/256_Fashion_Glide_1074.256_Fashion_Glide_1074",
+          "SubPathString": ""
+        },
+        "ItemName_Override": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1074_kachi",
+          "SourceString": "Y之手-滑翔翼",
+          "LocalizedString": "Y之手-滑翔翼"
         },
         "ActivityHeadIcon": {
           "AssetPathName": "",

@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NPCCharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_NPCCharacterDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'NPCCharacterDataTable'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "npc01": {
+        "NPCName": {
+          "Namespace": "",
+          "Key": "8F6D32144024AD719FF3A590813E540D",
+          "SourceString": "NPC",
+          "LocalizedString": "NPC"
+        },
+        "NPCHeadIcon": {
+          "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/jiaohu/character_icon/1.1",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

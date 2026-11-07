@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_UGCTrackModule",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/UGC/DT_UGCTrackModule",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'UGCTrackModuleData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Module01": {
+        "TrackModuleActor": {
+          "AssetPathName": "/Game/Blueprints/UGC/UGCTrackModules/Module01.Module01_C",
+          "SubPathString": ""
+        },
+        "TrackModuleType": "EUGCTrackModuleType::Start",
+        "Length": 0.0
+      },
+      "Module02": {
+        "TrackModuleActor": {
+          "AssetPathName": "/Game/Blueprints/UGC/UGCTrackModules/Module02.Module02_C",
+          "SubPathString": ""
+        },
+        "TrackModuleType": "EUGCTrackModuleType::Common",
+        "Length": 0.0
+      },
+      "Module03": {
+        "TrackModuleActor": {
+          "AssetPathName": "/Game/Blueprints/UGC/UGCTrackModules/Module03.Module03_C",
+          "SubPathString": ""
+        },
+        "TrackModuleType": "EUGCTrackModuleType::End",
+        "Length": 0.0
+      }
+    }
+  }
+]

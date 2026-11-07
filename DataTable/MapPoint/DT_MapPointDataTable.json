@@ -3791,6 +3791,174 @@
         "BelongsGameplayAreaID": "None",
         "BelongsFloorArea": "None",
         "floor": 0
+      },
+      "BigWorld_To_DeadNumber": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 4967.946,
+            "Y": 271337.2,
+            "Z": -3215.7834
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
+      },
+      "HTRoomVolume_Exit": {
+        "Comment": "管理局六队办公室出口",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3990.0,
+            "Y": 272540.0,
+            "Z": -3200.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
+      },
+      "HTRoomVolume_Enter": {
+        "Comment": "管理局六队办公室入口",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 4003.6,
+            "Y": 274369.34,
+            "Z": 28733.91
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
+      },
+      "HTRoomVolume_Trinity11F_Enter": {
+        "Comment": "管理局11f电梯入口",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 4010.0,
+            "Y": 274470.0,
+            "Z": 28770.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
+      },
+      "HTRoomVolume_Trinity11F_Exit": {
+        "Comment": "管理局11f电梯出口",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3970.0,
+            "Y": 273180.0,
+            "Z": 28810.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
+      },
+      "Vehicle045": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -400000.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0
       }
     }
   }

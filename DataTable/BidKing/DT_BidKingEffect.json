@@ -135,7 +135,7 @@
           "LocalizedString": "本局内，竞拍将按照标准规则进行。"
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
-        "Weight": 750,
+        "Weight": 700,
         "RatioValue": 0.0
       },
       "EZ_effect_1": {
@@ -207,7 +207,7 @@
           "LocalizedString": "本局内，竞拍将按照标准规则进行。"
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
-        "Weight": 800,
+        "Weight": 780,
         "RatioValue": 0.0
       },
       "HD_effect_8": {
@@ -333,7 +333,61 @@
           "LocalizedString": "本局内，竞拍将按照标准规则进行。"
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
-        "Weight": 650,
+        "Weight": 630,
+        "RatioValue": 0.0
+      },
+      "EZ_effect_5": {
+        "EffectPoolId": "efffectpool_1",
+        "EffectName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency",
+          "SourceString": "紧迫危机",
+          "LocalizedString": "紧迫危机"
+        },
+        "EffectDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency_Desc",
+          "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
+          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+        },
+        "EffectType": "EBidKingEffectType::BKE_Urgency",
+        "Weight": 20,
+        "RatioValue": 0.0
+      },
+      "NM_effect_8": {
+        "EffectPoolId": "efffectpool_2",
+        "EffectName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency",
+          "SourceString": "紧迫危机",
+          "LocalizedString": "紧迫危机"
+        },
+        "EffectDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency_Desc",
+          "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
+          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+        },
+        "EffectType": "EBidKingEffectType::BKE_Urgency",
+        "Weight": 50,
+        "RatioValue": 0.0
+      },
+      "HD_effect_15": {
+        "EffectPoolId": "efffectpool_3",
+        "EffectName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency",
+          "SourceString": "紧迫危机",
+          "LocalizedString": "紧迫危机"
+        },
+        "EffectDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingEffect_Urgency_Desc",
+          "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
+          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+        },
+        "EffectType": "EBidKingEffectType::BKE_Urgency",
+        "Weight": 20,
         "RatioValue": 0.0
       }
     }

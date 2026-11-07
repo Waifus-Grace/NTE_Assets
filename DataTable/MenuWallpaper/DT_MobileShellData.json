@@ -151,6 +151,41 @@
           "AssetPathName": "/Game/Characters/Player/051_female/HoldingGood/BP_Phone_Porsche.BP_Phone_Porsche_C",
           "SubPathString": ""
         }
+      },
+      "PhoneCase_Logistics": {
+        "ID": "PhoneCase_Logistics",
+        "CharacterID": "None",
+        "bLeadingActor": true,
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "PhoneCase_Logistics_Name",
+          "SourceString": "好评多多",
+          "LocalizedString": "好评多多"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "PhoneCase_Logistics_Desc",
+          "SourceString": "库霸快送，什么都送！",
+          "LocalizedString": "库霸快送，什么都送！"
+        },
+        "AccessChannels": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "PhoneCase_Logistics_Obtain",
+          "SourceString": "物流中心奖励",
+          "LocalizedString": "物流中心奖励"
+        },
+        "ShellImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/PhoneCase_Logistics_List.PhoneCase_Logistics_List",
+          "SubPathString": ""
+        },
+        "ShellDisplayImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/PhoneCase_Logistics.PhoneCase_Logistics",
+          "SubPathString": ""
+        },
+        "MobileActorClass": {
+          "AssetPathName": "/Game/Characters/Player/051_female/HoldingGood/BP_Phone_LogisticsCenter.BP_Phone_LogisticsCenter_C",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SideQuest_DYD",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Text/ST_SideQuest_DYD",
+    "StringTable": {
+      "TableNamespace": "ST_SideQuest_DYD",
+      "KeysToEntries": {
+        "S112101_QuestName": "创立库霸分部",
+        "S112101_ObjDes_1": "前往<blue>库霸快送站</>",
+        "S112102_QuestName": "创立库霸分部",
+        "S112102_ObjDes_1": "前往<blue>库霸快送站</>"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

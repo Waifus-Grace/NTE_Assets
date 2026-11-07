@@ -1364,6 +1364,26 @@
           "YaHahaID": "BusStopDataLoad_Tajiduo",
           "bNeedComplete": false
         }
+      },
+      "S111501": {
+        "DataLayerAssets": [
+          {
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/QuestDataLayer/S111501.S111501",
+            "SubPathString": ""
+          }
+        ],
+        "AutoActive": false,
+        "OnlyInHybridMode": false,
+        "AreaIds": [],
+        "bOnlyLoadNotActive": false,
+        "ActiveCondition": {
+          "ActivityType": "BalatroLike",
+          "bNeedOpen": true
+        },
+        "UnLoadCondition": {
+          "ActivityType": "BalatroLike",
+          "bNeedOpen": false
+        }
       }
     }
   }

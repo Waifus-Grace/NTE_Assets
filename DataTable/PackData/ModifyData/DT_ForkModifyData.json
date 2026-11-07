@@ -23680,6 +23680,244 @@
             "SortKey": 0
           }
         ]
+      },
+      "fork_elyms_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.096,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 26.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.12,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.144,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.168,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.192,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.216,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_elyms_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.24,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.192,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 26.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.24,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.288,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.336,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.384,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.432,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_exe_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.48,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
       }
     }
   }

@@ -6,7 +6,7 @@
     "Class": "UScriptClass'StringTable'",
     "Package": "/Game/Text/ST_Fork",
     "StringTable": {
-      "TableNamespace": "ST_Fork",
+      "TableNamespace": "",
       "KeysToEntries": {
         "fork_wushoutieyu_name": "焰魂狂飙",
         "fork_yuren_name": "勿忘伞",
@@ -266,8 +266,16 @@
         "fork_prism_des": "站在对跖点上的你我，每走出一步都是在靠近彼此。",
         "buff_fork_TwinBirds_name": "「双生鸟」",
         "buff_fork_TwinBirds_effect": "环合强度提高<lv>{0}</>。\r\n装备者魂属性伤害提高<lv>{1}</> ，释放「极轨终结」后全队角色暴击伤害提高<lv>{2}</>，装备者额外提高<lv>{3}</>，持续<lv>{4}</>秒，重复触发刷新持续时间。",
-        "buff_fork_prism_effect": "暴击率提升<lv>{0}</>。\r\n装备者的「变轨技能」造成的伤害提高<lv>{1}</>；装备者在释放「变轨技能」后，自身「普通攻击」造成的伤害提高<lv>{2}</>，并获得<lv>{3}</>相属性伤害提升，持续<lv>{4}</>秒。",
-        "buff_fork_prism_name": "「引力潮」"
+        "buff_fork_prism_effect": "暴击率提升<lv>{0}</>。\r\n装备者「变轨技能」的伤害提高<lv>{1}</>；装备者在释放「变轨技能」后，自身「普通攻击」造成的伤害提高<lv>{2}</>，并获得<lv>{3}</>相属性伤害提升，持续<lv>{4}</>秒。",
+        "buff_fork_prism_name": "「引力潮」",
+        "fork_elyms_name": "静候彩铃",
+        "fork_elyms_des": "假装按键、假装留言、假装等待，听听传回了什么？",
+        "fork_exe_name": "虚线彼方",
+        "fork_exe_des": "无数次想象过的风景、一次也未曾想象的未来。",
+        "buff_fork_elyms_name": "「留声#重拨」",
+        "buff_fork_elyms_effect": "攻击力提升<lv>{0}</>。\r\n装备者释放「极轨终结」后，若造成3次「追加攻击伤害」，则全队获得<lv>{1}</>无视防御，装备者额外获得<lv>{2}</>无视防御，持续<lv>{3}</>秒，重复触发刷新持续时间，该效果队伍内唯一。\r\n装备者释放变轨技能时全队无视敌人<lv>{4}</>光属性异能抗性，持续<lv>{5}</>秒，重复触发刷新持续时间，该效果队伍内唯一。\r\n装备者在进入战斗时直接触发以上所有效果。",
+        "buff_fork_exe_effect": "暴击伤害提升<lv>{0}</>。\r\n装备者的召唤物造成的伤害提高<lv>{1}</>；装备者每造成1次暗属性伤害，额外提高全场召唤物的伤害<lv>{2}</>，最高<lv>10</>层，持续<lv>{3}</>秒，重复获得刷新持续时间。",
+        "buff_fork_exe_name": "「缥缈的执手同行」"
       },
       "KeysToMetaData": {}
     }

@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ViewerInteractionReward",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_ViewerInteractionReward",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'ViewerInteractionRewardData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "ViewerInteraction1": {
+        "RewardDropID": "drop_SpecialGift_elyms1"
+      },
+      "ViewerInteraction2": {
+        "RewardDropID": "drop_SpecialGift_elyms2"
+      },
+      "ViewerInteraction3": {
+        "RewardDropID": "drop_SpecialGift_elyms3"
+      }
+    }
+  }
+]

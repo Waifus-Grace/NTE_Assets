@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BidKingCabinetCitySkill",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/BidKing/DT_BidKingCabinetCitySkill",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'BidKingCabinetCitySkillConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "City_Ability_Elyms_02_lv1_01": {
+        "CitySkillName": "City_Ability_Elyms_02_lv1",
+        "Index": 1,
+        "ReduceCount": 1
+      },
+      "City_Ability_Elyms_02_lv2_01": {
+        "CitySkillName": "City_Ability_Elyms_02_lv2",
+        "Index": 2,
+        "ReduceCount": 1
+      }
+    }
+  }
+]

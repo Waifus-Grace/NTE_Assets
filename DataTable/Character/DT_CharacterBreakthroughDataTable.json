@@ -3179,6 +3179,270 @@
           "AssetPathName": "",
           "SubPathString": ""
         }
+      },
+      "elyms_Breakthrough_0": {
+        "MaxCharacterLevel": 20,
+        "NeedMaxWorldLevel": 0,
+        "NeedItems": "",
+        "NeedGolds": "",
+        "ModifyPackID": "elyms_stage_0",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_1": {
+        "MaxCharacterLevel": 30,
+        "NeedMaxWorldLevel": 1,
+        "NeedItems": "OrdinaryMonMaterial_02_lv1:5",
+        "NeedGolds": "gold:25000",
+        "ModifyPackID": "elyms_stage_1",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_2": {
+        "MaxCharacterLevel": 40,
+        "NeedMaxWorldLevel": 2,
+        "NeedItems": "OrdinaryMonMaterial_02_lv1:12,Worldboss_material_07:2",
+        "NeedGolds": "gold:50000",
+        "ModifyPackID": "elyms_stage_2",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_3": {
+        "MaxCharacterLevel": 50,
+        "NeedMaxWorldLevel": 3,
+        "NeedItems": "OrdinaryMonMaterial_02_lv2:6,Worldboss_material_07:8",
+        "NeedGolds": "gold:75000",
+        "ModifyPackID": "elyms_stage_3",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_4": {
+        "MaxCharacterLevel": 60,
+        "NeedMaxWorldLevel": 4,
+        "NeedItems": "OrdinaryMonMaterial_02_lv2:12,Worldboss_material_07:16",
+        "NeedGolds": "gold:100000",
+        "ModifyPackID": "elyms_stage_4",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_5": {
+        "MaxCharacterLevel": 70,
+        "NeedMaxWorldLevel": 5,
+        "NeedItems": "OrdinaryMonMaterial_02_lv3:6,Worldboss_material_07:24",
+        "NeedGolds": "gold:125000",
+        "ModifyPackID": "elyms_stage_5",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "elyms_Breakthrough_6": {
+        "MaxCharacterLevel": 80,
+        "NeedMaxWorldLevel": 6,
+        "NeedItems": "OrdinaryMonMaterial_02_lv3:9,Worldboss_material_07:36",
+        "NeedGolds": "gold:150000",
+        "ModifyPackID": "elyms_stage_6",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_0": {
+        "MaxCharacterLevel": 20,
+        "NeedMaxWorldLevel": 0,
+        "NeedItems": "",
+        "NeedGolds": "",
+        "ModifyPackID": "Exe_stage_0",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_1": {
+        "MaxCharacterLevel": 30,
+        "NeedMaxWorldLevel": 1,
+        "NeedItems": "OrdinaryMonMaterial_03_lv1:5",
+        "NeedGolds": "gold:25000",
+        "ModifyPackID": "Exe_stage_1",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_2": {
+        "MaxCharacterLevel": 40,
+        "NeedMaxWorldLevel": 2,
+        "NeedItems": "OrdinaryMonMaterial_03_lv1:12,Worldboss_material_01:2",
+        "NeedGolds": "gold:50000",
+        "ModifyPackID": "Exe_stage_2",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_3": {
+        "MaxCharacterLevel": 50,
+        "NeedMaxWorldLevel": 3,
+        "NeedItems": "OrdinaryMonMaterial_03_lv2:6,Worldboss_material_01:8",
+        "NeedGolds": "gold:75000",
+        "ModifyPackID": "Exe_stage_3",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_4": {
+        "MaxCharacterLevel": 60,
+        "NeedMaxWorldLevel": 4,
+        "NeedItems": "OrdinaryMonMaterial_03_lv2:12,Worldboss_material_01:16",
+        "NeedGolds": "gold:100000",
+        "ModifyPackID": "Exe_stage_4",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_5": {
+        "MaxCharacterLevel": 70,
+        "NeedMaxWorldLevel": 5,
+        "NeedItems": "OrdinaryMonMaterial_03_lv3:6,Worldboss_material_01:24",
+        "NeedGolds": "gold:125000",
+        "ModifyPackID": "Exe_stage_5",
+        "RewardItems": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "DiceNormal",
+            "Amount": 1,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Exe_Breakthrough_6": {
+        "MaxCharacterLevel": 80,
+        "NeedMaxWorldLevel": 6,
+        "NeedItems": "OrdinaryMonMaterial_03_lv3:9,Worldboss_material_01:36",
+        "NeedGolds": "gold:150000",
+        "ModifyPackID": "Exe_stage_6",
+        "RewardItems": [],
+        "AudioEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

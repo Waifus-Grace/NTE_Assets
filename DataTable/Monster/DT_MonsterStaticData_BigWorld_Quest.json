@@ -11879,6 +11879,59 @@
         "MonsterType": "EMonsterType::Normal",
         "MonsterExtendArray": []
       },
+      "BP_Boss_40_Summon": {
+        "Comment": "1.5主线-空想故知Boss召唤小怪（队伍：Exe单人）",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 1.9,
+        "Tags": [
+          "BP_Boss_40_Summon"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "BP_Boss_40_Summon_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "BP_Boss_40_Summon_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "BP_Boss_40_Summon_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": true,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.004,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
       "BP_Boss_Exe_q111000": {
         "Comment": "1.5主线-Exe（卡池角色那个exe）Boss  队伍（主角单人）",
         "TextName": {
@@ -11920,6 +11973,59 @@
           {
             "MonsterCloneLevel": 85,
             "MonsterClonePropModifyID": "BP_Boss_Exe_q111000_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": true,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.004,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_04_BP_q111000": {
+        "Comment": "1.5主线-洄廊-迷失种",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 3.2,
+        "Tags": [
+          "mon_04_BP_q111000"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 8,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_04_BP_q111000_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 75,
+            "MonsterWorldLevelPropModifyID": "mon_04_BP_q111000_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 75,
+            "MonsterClonePropModifyID": "mon_04_BP_q111000_DataPack0"
           }
         ],
         "bIsAbyssCloneLevel": false,

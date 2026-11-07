@@ -5437,6 +5437,50 @@
           "PreCloseUI": []
         }
       },
+      "Shop_039_06_01": {
+        "Type": "EItemOutputSource::OS_SHOP",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Shop_039_06_01_name",
+          "SourceString": "泊来车行",
+          "LocalizedString": "泊来车行"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "Shop_039_06_01",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonMapPoint",
+          "UIParaming": [
+            "BigMap",
+            "Shop_Core_7",
+            "Shop_039_06_01"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
       "Shop_Pukaland_01": {
         "Type": "EItemOutputSource::OS_UI_ICON",
         "icon": {
@@ -5921,17 +5965,17 @@
           "PreCloseUI": []
         }
       },
-      "clone_equipment_001": {
+      "clone_equip": {
         "Type": "EItemOutputSource::OS_UI_ICON",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_001_Name",
-          "SourceString": "钟表把戏",
-          "LocalizedString": "钟表把戏"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "EquipmentCloneEnter_001",
+          "SourceString": "兔子洞",
+          "LocalizedString": "兔子洞"
         },
         "Location": {
           "X": 0.0,
@@ -5947,6 +5991,54 @@
           "QuestUIType": "EQuestUIType::QUT_None",
           "UIParaming": [],
           "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "clone_equipment_001": {
+        "Type": "EItemOutputSource::OS_Clone",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_001",
+          "SourceString": "兔子洞·钟表把戏",
+          "LocalizedString": "兔子洞·钟表把戏"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_001",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -5962,16 +6054,16 @@
         }
       },
       "clone_equipment_002": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_002_Name",
-          "SourceString": "雕塑展馆",
-          "LocalizedString": "雕塑展馆"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_002",
+          "SourceString": "兔子洞·雕塑展馆",
+          "LocalizedString": "兔子洞·雕塑展馆"
         },
         "Location": {
           "X": 0.0,
@@ -5982,11 +6074,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "EquipmentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_002",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6002,16 +6102,16 @@
         }
       },
       "clone_equipment_003": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_003_Name",
-          "SourceString": "纬线织机",
-          "LocalizedString": "纬线织机"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_003",
+          "SourceString": "兔子洞·纬线织机",
+          "LocalizedString": "兔子洞·纬线织机"
         },
         "Location": {
           "X": 0.0,
@@ -6022,11 +6122,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "EquipmentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_003",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6042,16 +6150,16 @@
         }
       },
       "clone_equipment_004": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_004_Name",
-          "SourceString": "守卫萝卜",
-          "LocalizedString": "守卫萝卜"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_004",
+          "SourceString": "兔子洞·守卫萝卜",
+          "LocalizedString": "兔子洞·守卫萝卜"
         },
         "Location": {
           "X": 0.0,
@@ -6062,11 +6170,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "EquipmentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_004",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6082,16 +6198,16 @@
         }
       },
       "clone_equipment_005": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_005_Name",
-          "SourceString": "精神图谱",
-          "LocalizedString": "精神图谱"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_005",
+          "SourceString": "兔子洞·精神图谱",
+          "LocalizedString": "兔子洞·精神图谱"
         },
         "Location": {
           "X": 0.0,
@@ -6102,11 +6218,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "EquipmentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_001",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6122,16 +6246,16 @@
         }
       },
       "clone_equipment_006": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_equipment_006_Name",
-          "SourceString": "轨道之夜",
-          "LocalizedString": "轨道之夜"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_equipment_006",
+          "SourceString": "兔子洞·轨道之夜",
+          "LocalizedString": "兔子洞·轨道之夜"
         },
         "Location": {
           "X": 0.0,
@@ -6142,11 +6266,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "EquipmentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "EquipmentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "EquipmentCloneEasyGoTo_001",
+            "CloneID": "DLC_equipment_001",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6162,16 +6294,16 @@
         }
       },
       "clone_talent_001": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_talent_001_Name",
-          "SourceString": "小心鸽子",
-          "LocalizedString": "小心鸽子"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_talent_001",
+          "SourceString": "胡迪尼的诡计舞台·小心鸽子",
+          "LocalizedString": "胡迪尼的诡计舞台·小心鸽子"
         },
         "Location": {
           "X": 0.0,
@@ -6182,12 +6314,18 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "TalentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "TalentCloneEasyGoTo_001",
+            "CloneID": "DLC_talent_001",
+            "CloseForms": []
+          },
+          "UnlockFunctionID": "CloneSystemMainForm",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -6202,16 +6340,16 @@
         }
       },
       "clone_talent_002": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_talent_002_Name",
-          "SourceString": "扑克茶会",
-          "LocalizedString": "扑克茶会"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_talent_002",
+          "SourceString": "胡迪尼的诡计舞台·扑克茶会",
+          "LocalizedString": "胡迪尼的诡计舞台·扑克茶会"
         },
         "Location": {
           "X": 0.0,
@@ -6222,12 +6360,18 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "TalentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "TalentCloneEasyGoTo_001",
+            "CloneID": "DLC_talent_002",
+            "CloseForms": []
+          },
+          "UnlockFunctionID": "CloneSystemMainForm",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -6242,16 +6386,16 @@
         }
       },
       "clone_talent_003": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_talent_003_Name",
-          "SourceString": "惊喜派对",
-          "LocalizedString": "惊喜派对"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_talent_003",
+          "SourceString": "胡迪尼的诡计舞台·惊喜派对",
+          "LocalizedString": "胡迪尼的诡计舞台·惊喜派对"
         },
         "Location": {
           "X": 0.0,
@@ -6262,12 +6406,18 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "TalentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "TalentCloneEasyGoTo_001",
+            "CloneID": "DLC_talent_003",
+            "CloseForms": []
+          },
+          "UnlockFunctionID": "CloneSystemMainForm",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -6282,16 +6432,16 @@
         }
       },
       "clone_talent_004": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_talent_004_Name",
-          "SourceString": "心电感应",
-          "LocalizedString": "心电感应"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_talent_004",
+          "SourceString": "胡迪尼的诡计舞台·心电感应",
+          "LocalizedString": "胡迪尼的诡计舞台·心电感应"
         },
         "Location": {
           "X": 0.0,
@@ -6302,12 +6452,18 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "TalentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "TalentCloneEasyGoTo_001",
+            "CloneID": "DLC_talent_004",
+            "CloseForms": []
+          },
+          "UnlockFunctionID": "CloneSystemMainForm",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -6322,16 +6478,16 @@
         }
       },
       "clone_talent_005": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Clone.ST_Clone",
-          "Key": "DLC_talent_005_Name",
-          "SourceString": "越狱艺术",
-          "LocalizedString": "越狱艺术"
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "clone_talent_005",
+          "SourceString": "胡迪尼的诡计舞台·越狱艺术",
+          "LocalizedString": "胡迪尼的诡计舞台·越狱艺术"
         },
         "Location": {
           "X": 0.0,
@@ -6342,12 +6498,18 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "TalentCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "TalentCloneEasyGoTo_001",
+            "CloneID": "DLC_talent_005",
+            "CloseForms": []
+          },
+          "UnlockFunctionID": "CloneSystemMainForm",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -6382,7 +6544,7 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "TalentCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
           "QuestUIType": "EQuestUIType::QUT_None",
           "UIParaming": [],
@@ -6402,7 +6564,7 @@
         }
       },
       "clone_forkbreakthrough_001": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -6422,11 +6584,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ForkbreakthroughCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ForkbreakthroughCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ForkbreakthroughCloneEasyGoTo_001",
+            "CloneID": "DLC_forkbreakthrough_001",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6442,7 +6612,7 @@
         }
       },
       "clone_forkbreakthrough_002": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -6462,11 +6632,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ForkbreakthroughCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ForkbreakthroughCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ForkbreakthroughCloneEasyGoTo_001",
+            "CloneID": "DLC_forkbreakthrough_002",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6482,7 +6660,7 @@
         }
       },
       "clone_forkbreakthrough_003": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -6502,11 +6680,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ForkbreakthroughCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ForkbreakthroughCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ForkbreakthroughCloneEasyGoTo_001",
+            "CloneID": "DLC_forkbreakthrough_003",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6522,7 +6708,7 @@
         }
       },
       "clone_forkbreakthrough_004": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -6542,11 +6728,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ForkbreakthroughCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ForkbreakthroughCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ForkbreakthroughCloneEasyGoTo_001",
+            "CloneID": "DLC_forkbreakthrough_004",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6562,7 +6756,7 @@
         }
       },
       "clone_forkbreakthrough_005": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -6582,11 +6776,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ForkbreakthroughCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ForkbreakthroughCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ForkbreakthroughCloneEasyGoTo_001",
+            "CloneID": "DLC_forkbreakthrough_005",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6642,16 +6844,16 @@
         }
       },
       "clone_Wpexp": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "clone_Wpexp_name",
-          "SourceString": "魔术师的心灵感应",
-          "LocalizedString": "魔术师的心灵感应"
+          "Key": "clone_Wpexp",
+          "SourceString": "胡迪尼的魔术舞台·万花筒",
+          "LocalizedString": "胡迪尼的魔术舞台·万花筒"
         },
         "Location": {
           "X": 0.0,
@@ -6662,11 +6864,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ResourceCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ResourceCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ResourceCloneEasyGoTo_001",
+            "CloneID": "Trailclone_Wpexp",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6682,16 +6892,16 @@
         }
       },
       "clone_exp": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "clone_exp_name",
-          "SourceString": "灵魂的召唤",
-          "LocalizedString": "灵魂的召唤"
+          "Key": "clone_exp",
+          "SourceString": "胡迪尼的魔术舞台·合订本",
+          "LocalizedString": "胡迪尼的魔术舞台·合订本"
         },
         "Location": {
           "X": 0.0,
@@ -6702,11 +6912,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ResourceCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ResourceCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ResourceCloneEasyGoTo_001",
+            "CloneID": "Trailclone_exp",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -6722,16 +6940,16 @@
         }
       },
       "clone_gold": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
         "ContentDesc": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "clone_gold_name",
-          "SourceString": "点石成金",
-          "LocalizedString": "点石成金"
+          "Key": "clone_gold",
+          "SourceString": "胡迪尼的魔术舞台·硬币记",
+          "LocalizedString": "胡迪尼的魔术舞台·硬币记"
         },
         "Location": {
           "X": 0.0,
@@ -6742,11 +6960,19 @@
         "Path": "",
         "UnlockFuncID": "None",
         "FindPathid": "None",
-        "FindMapFixedIcon": "ResourceCloneEnter_001",
+        "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "JumpConfig": null,
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "ResourceCloneEnter_001"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "ResourceCloneEasyGoTo_001",
+            "CloneID": "Trailclone_gold",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -7426,7 +7652,7 @@
         },
         "ContentDesc": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "weeklyclone_name",
+          "Key": "EquipmentCloneEnter_001",
           "SourceString": "兔子洞",
           "LocalizedString": "兔子洞"
         },
@@ -8692,10 +8918,10 @@
         "JumpToUIData": {
           "QuestUIType": "EQuestUIType::QUT_MapCityGameplay",
           "UIParaming": [
-            "Takeorders"
+            "Logistics"
           ],
           "JumpConfig": null,
-          "UnlockFunctionID": "CityGameplay",
+          "UnlockFunctionID": "DelegateMission",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -9362,7 +9588,7 @@
         }
       },
       "weeklycloneboss_a01": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -9384,11 +9610,17 @@
         "FindPathid": "None",
         "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_CloneEnter",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
           "UIParaming": [
             "WeeklyClone_Boss05"
           ],
-          "JumpConfig": null,
+          "JumpConfig": {
+            "CloneJumpTransferID": "WeeklyCloneEasyGoTo_Boss005",
+            "CloneID": "WeeklyClone_Boss05",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -9404,7 +9636,7 @@
         }
       },
       "weeklycloneboss_a02": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -9426,11 +9658,17 @@
         "FindPathid": "None",
         "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_CloneEnter",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
           "UIParaming": [
             "WeeklyClone_Boss10"
           ],
-          "JumpConfig": null,
+          "JumpConfig": {
+            "CloneJumpTransferID": "WeeklyCloneEasyGoTo_Boss010",
+            "CloneID": "WeeklyClone_Boss10",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -9446,7 +9684,7 @@
         }
       },
       "weeklycloneboss_a03": {
-        "Type": "EItemOutputSource::OS_UI_ICON",
+        "Type": "EItemOutputSource::OS_Clone",
         "icon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -9468,11 +9706,65 @@
         "FindPathid": "None",
         "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_CloneEnter",
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
           "UIParaming": [
             "WeeklyClone_Boss26"
           ],
-          "JumpConfig": null,
+          "JumpConfig": {
+            "CloneJumpTransferID": "WeeklyCloneEasyGoTo_Boss026",
+            "CloneID": "WeeklyClone_Boss26",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "weeklycloneboss_a04": {
+        "Type": "EItemOutputSource::OS_Clone",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "weeklycloneboss_a04",
+          "SourceString": "异象巡礼「贵腐巢母」",
+          "LocalizedString": "异象巡礼「贵腐巢母」"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_NewCloneEnter",
+          "UIParaming": [
+            "WeeklyClone_Boss36"
+          ],
+          "JumpConfig": {
+            "CloneJumpTransferID": "WeeklyCloneEasyGoTo_Boss036",
+            "CloneID": "WeeklyClone_Boss36",
+            "CloseForms": [
+              "CloneSystemMainForm"
+            ]
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -11490,7 +11782,7 @@
         },
         "ContentDesc": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "weeklyclone_name",
+          "Key": "EquipmentCloneEnter_001",
           "SourceString": "兔子洞",
           "LocalizedString": "兔子洞"
         },
@@ -14544,9 +14836,9 @@
         "JumpToUIData": {
           "QuestUIType": "EQuestUIType::QUT_MapCityGameplay",
           "UIParaming": [
-            "Takeorders"
+            "Logistics"
           ],
-          "JumpConfig": {},
+          "JumpConfig": null,
           "UnlockFunctionID": "DelegateMission",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -17397,6 +17689,51 @@
           "PreCloseUI": []
         }
       },
+      "Giftpackage_TimeLimit": {
+        "Type": "EItemOutputSource::OS_SHOP",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Giftpackage_TimeLimit",
+          "SourceString": "限时礼包获取",
+          "LocalizedString": "限时礼包获取"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "Mall",
+            "GiftShop",
+            "",
+            "1"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
       "RacingRank": {
         "Type": "EItemOutputSource::OS_TEXT",
         "icon": {
@@ -17553,6 +17890,7 @@
           "QuestUIType": "EQuestUIType::QUT_CommonMapPoint",
           "UIParaming": [
             "BigMap",
+            "Place_21",
             "Bank_05_00"
           ],
           "JumpConfig": null,
@@ -17965,8 +18303,8 @@
         "ContentDesc": {
           "TableId": "/Game/Text/ST_UI_N.ST_UI_N",
           "Key": "DiyBoss_Mainform_Name",
-          "SourceString": "争锋赏宴",
-          "LocalizedString": "争锋赏宴"
+          "SourceString": "争锋赏宴·攻坚",
+          "LocalizedString": "争锋赏宴·攻坚"
         },
         "Location": {
           "X": 0.0,
@@ -18444,6 +18782,86 @@
           "PreCloseUI": []
         }
       },
+      "Figure_elyms_01": {
+        "Type": "EItemOutputSource::OS_TEXT",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Figure_elyms_01",
+          "SourceString": "曳尔沐-6级觉醒后获得",
+          "LocalizedString": "曳尔沐-6级觉醒后获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_None",
+          "UIParaming": [],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Figure_Exe_01": {
+        "Type": "EItemOutputSource::OS_TEXT",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Figure_Exe_01",
+          "SourceString": "Exe-6级觉醒后获得",
+          "LocalizedString": "Exe-6级觉醒后获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_None",
+          "UIParaming": [],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
       "Likeability_Chaos": {
         "Type": "EItemOutputSource::OS_UI_PATH",
         "icon": {
@@ -18736,6 +19154,94 @@
             "LikeabilityMain",
             "1057",
             "Fashion_1072_nighty"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Likeability_1090": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Likeability_1090",
+          "SourceString": "「曳尔沐」羁遇等级达到10级获得",
+          "LocalizedString": "「曳尔沐」羁遇等级达到10级获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Likeability",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "LikeabilityMain",
+            "1057",
+            "Fashion_1090_nighty"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Likeability_1074": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Likeability_1074",
+          "SourceString": "「Exe」羁遇等级达到10级获得",
+          "LocalizedString": "「Exe」羁遇等级达到10级获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Likeability",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "LikeabilityMain",
+            "1057",
+            "Fashion_1074_nighty"
           ],
           "JumpConfig": null,
           "UnlockFunctionID": "None",
@@ -19372,11 +19878,13 @@
         "FindPathid": "None",
         "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_FishMapPoint",
+          "QuestUIType": "EQuestUIType::QUT_SelectMapIconByUnique",
           "UIParaming": [
             "FishingSpot_sp001"
           ],
-          "JumpConfig": null,
+          "JumpConfig": {
+            "MapIconUniqueID": "Activity_NetFishing"
+          },
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
@@ -19525,8 +20033,8 @@
         "ContentDesc": {
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "FlipSignInCard_1",
-          "SourceString": "噗卡翻翻乐",
-          "LocalizedString": "噗卡翻翻乐"
+          "SourceString": "奇想翻翻乐",
+          "LocalizedString": "奇想翻翻乐"
         },
         "Location": {
           "X": 0.0,
@@ -19543,6 +20051,50 @@
           "UIParaming": [
             "ActivityMainForm",
             "FlipSignIn",
+            "1"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "OptLogistics": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/UI/ST_LogisticsCenterUI.ST_LogisticsCenterUI",
+          "Key": "YHUI_Logistics_Event_Name",
+          "SourceString": "运通全城",
+          "LocalizedString": "运通全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "Logistics",
             "1"
           ],
           "JumpConfig": null,
@@ -20226,14 +20778,12 @@
         "FindPathid": "None",
         "FindMapFixedIcon": "None",
         "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_OpActivity",
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
           "UIParaming": [
-            "ActivityMainForm",
-            "DiyBoss",
-            "DiyBoss"
+            "DiyBossMainForm"
           ],
           "JumpConfig": null,
-          "UnlockFunctionID": "None",
+          "UnlockFunctionID": "Activity",
           "UnlockNoticeMessage": {
             "CultureInvariantString": null
           },
@@ -20814,6 +21364,50 @@
           "PreCloseUI": []
         }
       },
+      "Manghe_005": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "MangHe_005_name",
+          "SourceString": "盲盒「所行皆坦途」",
+          "LocalizedString": "盲盒「所行皆坦途」"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Activity",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_OpActivity",
+          "UIParaming": [
+            "ActivityMainForm",
+            "GashaponLottery",
+            "MangHe_005"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
       "Tycoon_Donation": {
         "Type": "EItemOutputSource::OS_UI_PATH",
         "icon": {
@@ -21035,10 +21629,10 @@
           "SubPathString": ""
         },
         "ContentDesc": {
-          "TableId": "/Game/Text/ST_Output.ST_Output",
-          "Key": "JumpSelectionBox_name",
-          "SourceString": "开启材料自选箱",
-          "LocalizedString": "开启材料自选箱"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "weeklycloneboss_selectbox_01_name",
+          "SourceString": "异象巡礼材料自选箱",
+          "LocalizedString": "异象巡礼材料自选箱"
         },
         "Location": {
           "X": 0.0,
@@ -21054,6 +21648,48 @@
           "QuestUIType": "EQuestUIType::QUT_OptionalBox",
           "UIParaming": [
             "weeklycloneboss_selectbox_02"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "weeklycloneboss_SelectionBox_03": {
+        "Type": "EItemOutputSource::OS_SHOP",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "weeklycloneboss_selectbox_03_name",
+          "SourceString": "异象巡礼材料自选箱Ⅱ",
+          "LocalizedString": "异象巡礼材料自选箱Ⅱ"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_OptionalBox",
+          "UIParaming": [
+            "weeklycloneboss_selectbox_03"
           ],
           "JumpConfig": null,
           "UnlockFunctionID": "None",
@@ -21953,6 +22589,1116 @@
         "JumpToUIData": {
           "QuestUIType": "EQuestUIType::QUT_None",
           "UIParaming": [],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatrolikeMain": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeMain"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "CumLottery": {
+        "Type": "EItemOutputSource::OS_TEXT",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "CumLottery_name",
+          "SourceString": "「集市分福」活动获得",
+          "LocalizedString": "「集市分福」活动获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_None",
+          "UIParaming": [],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "JumpToLogisticsShop": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Logistics_Shop",
+          "SourceString": "「物流中心」物流商店兑换获得",
+          "LocalizedString": "「物流中心」物流商店兑换获得"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "LogisticsCenter",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "Mall",
+            "GameShop",
+            "",
+            "1"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "LogisticsCenter",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "JumpToLogisticsCompanyLevel": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Logistics_CompanyLevel",
+          "SourceString": "「物流中心」商誉等级奖励",
+          "LocalizedString": "「物流中心」商誉等级奖励"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "DelegateMission",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "LogisticsLevelAwardMain"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "DelegateMission",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "LogisticsGuide": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Logistics_Guide",
+          "SourceString": "引导任务「创立库霸分部」",
+          "LocalizedString": "引导任务「创立库霸分部」"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "DelegateMission",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_MapCityGameplay",
+          "UIParaming": [
+            "Logistics"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "DelegateMission",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BidKingReport": {
+        "Type": "EItemOutputSource::OS_SHOP",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "CultureInvariantString": null
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BidKingReport",
+            "BidKing"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "JumpToLogistics": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/UI/ST_LogisticsCenterUI.ST_LogisticsCenterUI",
+          "Key": "YHUI_Logistics_Event_Name",
+          "SourceString": "运通全城",
+          "LocalizedString": "运通全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "DelegateMission",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_MapCityGameplay",
+          "UIParaming": [
+            "Logistics"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "DelegateMission",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "TankBattle": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "UI_TankBattle_01",
+          "SourceString": "征途坦荡",
+          "LocalizedString": "征途坦荡"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "TankBattle",
+            "1"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_01": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_01"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_02": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_02"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_03": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_03"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_04": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_04"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_05": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_05"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_06": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_06"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_07": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_07"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BalatroLikeNPCChallenge_08": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "Balatrolike",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BalatroLikeNPCChallenge",
+            "Challenge_08"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "Balatrolike",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Activity_CityGameplay": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
+          "Key": "BPUI_ActivityCityGameplay_001",
+          "SourceString": "都市指南",
+          "LocalizedString": "都市指南"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "CityGameplay",
+            "0"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Activity_Pukaland": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+          "Key": "PukaLand_Name",
+          "SourceString": "噗卡乐园游记",
+          "LocalizedString": "噗卡乐园游记"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "Pukaland",
+            "0"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "JumpToLogisticsCenter": {
+        "Type": "EItemOutputSource::OS_UI_ICON",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "CultureInvariantString": "物流中心大世界场景"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonMapPoint",
+          "UIParaming": [
+            "BigMap",
+            "LogisticsCenter",
+            "LogisticsCenter"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "VisionMain": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "vision_ui_name",
+          "SourceString": "异象委托",
+          "LocalizedString": "异象委托"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_Vision",
+          "UIParaming": [
+            "VisionList"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "LimitedSignIn": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Activity_OpSignIn",
+          "SourceString": "环期赠礼",
+          "LocalizedString": "环期赠礼"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "SignIn",
+            "1"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "LotteryTrial": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Activity_Lottery_Title",
+          "SourceString": "「开市预演」",
+          "LocalizedString": "「开市预演」"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "LotteryActivity"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "None",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "BidKing_cabinet": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "BidKing_cabinet",
+          "SourceString": "「即刻落槌」收藏展柜",
+          "LocalizedString": "「即刻落槌」收藏展柜"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "BidKing",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "BidKingMainForm"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "BidKing",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Volleyball_WeeklyRank1": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Volleyball_WeeklyRank1",
+          "SourceString": "排球之星「世界排名」第1名",
+          "LocalizedString": "排球之星「世界排名」第1名"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "VolleyballWeek",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_MapIcon",
+          "UIParaming": [
+            "BigMap",
+            "Volleyball_weekly"
+          ],
+          "JumpConfig": null,
+          "UnlockFunctionID": "VolleyballWeek",
+          "UnlockNoticeMessage": {
+            "CultureInvariantString": null
+          },
+          "SwitchArray": [],
+          "DynamicParam": {
+            "ParameterWrappers": []
+          },
+          "bShowBlackEffect": false,
+          "EffectStayTime": 0.5,
+          "bCloseBigMap": true,
+          "PreCloseUI": []
+        }
+      },
+      "Activity_Balatrolike": {
+        "Type": "EItemOutputSource::OS_UI_PATH",
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ContentDesc": {
+          "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+          "Key": "ActName_Balatrolike",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "LevelName": "",
+        "Path": "",
+        "UnlockFuncID": "None",
+        "FindPathid": "None",
+        "FindMapFixedIcon": "None",
+        "JumpToUIData": {
+          "QuestUIType": "EQuestUIType::QUT_CommonUI",
+          "UIParaming": [
+            "ActivityMainForm",
+            "BalatroLike",
+            "1"
+          ],
           "JumpConfig": null,
           "UnlockFunctionID": "None",
           "UnlockNoticeMessage": {

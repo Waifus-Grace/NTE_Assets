@@ -1,0 +1,83 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_RichImageStyle_Balatro",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/UIStyle/DT_RichImageStyle_Balatro",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'RichImageRow'",
+        "ObjectPath": "/Script/UMG"
+      }
+    },
+    "Rows": {
+      "Coin": {
+        "Brush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::FullColor",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": {
+            "ObjectName": "Texture2D'Coin'",
+            "ObjectPath": "/Game/UI/UI/BalatroLike/Shop/Coin.0"
+          },
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        }
+      }
+    }
+  }
+]

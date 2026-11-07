@@ -1313,7 +1313,7 @@
       },
       "q110977": {
         "BeginQuestID": "q110977",
-        "EndQuestID": "q110978",
+        "EndQuestID": "q110977",
         "bStopAtEnd": true,
         "StopDelayTime": 0,
         "MusicEvent": {
@@ -1325,6 +1325,81 @@
           "ObjectPath": "/Game/WwiseAudio/States/Default_Work_Unit/Music_States/Music_Talk/Music_Talk-Music_Talk_Warm_01.0"
         },
         "Desc": "黑羽副本后对话"
+      },
+      "q110909": {
+        "BeginQuestID": "q110909",
+        "EndQuestID": "q110913",
+        "bStopAtEnd": true,
+        "StopDelayTime": 0,
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Talk/Play_Music_Talk.Play_Music_Talk",
+          "SubPathString": ""
+        },
+        "MusicStateValue": {
+          "ObjectName": "AkStateValue'Music_Talk-Music_Talk_HeiYu_MiWu_02'",
+          "ObjectPath": "/Game/WwiseAudio/States/Default_Work_Unit/Music_States/Music_Talk/Music_Talk-Music_Talk_HeiYu_MiWu_02.0"
+        },
+        "Desc": "黑羽大世界音乐"
+      },
+      "q110914": {
+        "BeginQuestID": "q110914",
+        "EndQuestID": "q110923",
+        "bStopAtEnd": true,
+        "StopDelayTime": 0,
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Talk/Play_Music_Talk.Play_Music_Talk",
+          "SubPathString": ""
+        },
+        "MusicStateValue": {
+          "ObjectName": "AkStateValue'Music_Talk-Music_Talk_HeiYu_MiWu_01'",
+          "ObjectPath": "/Game/WwiseAudio/States/Default_Work_Unit/Music_States/Music_Talk/Music_Talk-Music_Talk_HeiYu_MiWu_01.0"
+        },
+        "Desc": "黑羽大世界音乐2"
+      },
+      "q111072_Meta_01": {
+        "BeginQuestID": "q111072_Meta_02",
+        "EndQuestID": "q111072_Meta_06",
+        "bStopAtEnd": true,
+        "StopDelayTime": 0,
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Exe/Play_Music_Exe_Sence.Play_Music_Exe_Sence",
+          "SubPathString": ""
+        },
+        "MusicStateValue": {
+          "ObjectName": "AkStateValue'Music_Exe-Music_Sence_Exe_Meta_Day'",
+          "ObjectPath": "/Game/WwiseAudio/States/States_2026/Music_Exe/Music_Exe-Music_Sence_Exe_Meta_Day.0"
+        },
+        "Desc": ""
+      },
+      "q111072_Meta_07": {
+        "BeginQuestID": "q111072_Meta_07",
+        "EndQuestID": "q111073",
+        "bStopAtEnd": true,
+        "StopDelayTime": 0,
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Exe/Play_Music_Exe_Sence.Play_Music_Exe_Sence",
+          "SubPathString": ""
+        },
+        "MusicStateValue": {
+          "ObjectName": "AkStateValue'Music_Exe-Music_Sence_Exe_Meta_Night'",
+          "ObjectPath": "/Game/WwiseAudio/States/States_2026/Music_Exe/Music_Exe-Music_Sence_Exe_Meta_Night.0"
+        },
+        "Desc": ""
+      },
+      "q111029_Room1_01": {
+        "BeginQuestID": "q111029_Room1_01",
+        "EndQuestID": "q111029_Room1_16",
+        "bStopAtEnd": true,
+        "StopDelayTime": 0,
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Exe/Play_Music_Exe_Sence.Play_Music_Exe_Sence",
+          "SubPathString": ""
+        },
+        "MusicStateValue": {
+          "ObjectName": "AkStateValue'Music_Exe-Music_Sence_Exe_SystemBlueRoomAMB'",
+          "ObjectPath": "/Game/WwiseAudio/States/States_2026/Music_Exe/Music_Exe-Music_Sence_Exe_SystemBlueRoomAMB.0"
+        },
+        "Desc": ""
       }
     }
   }

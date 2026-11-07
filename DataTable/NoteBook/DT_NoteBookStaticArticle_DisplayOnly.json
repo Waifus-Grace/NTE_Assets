@@ -1,0 +1,152 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NoteBookStaticArticle_DisplayOnly",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/NoteBook/DT_NoteBookStaticArticle_DisplayOnly",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'NoteBookStaticArticle'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "TestArticle": {
+        "NPCID": "TestArticleNPC",
+        "ArticleType": "EHTNoteBookPostListType::Created",
+        "StartDateTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "EndDateTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "UnlockQuestID": "None",
+        "ArticleInfo": {
+          "feedType": 0,
+          "articleItem": {
+            "articleId": 0,
+            "uid": 0,
+            "UserId": "123_119592",
+            "RoleId": "122500",
+            "Type": 1,
+            "Title": "呗果是啥  111",
+            "staticTitle": {
+              "TableId": "/Game/Text/Bagel/ST_Bagel_TitleContent.ST_Bagel_TitleContent",
+              "Key": "Bagel_T016_001",
+              "SourceString": "这是一个女仆咖啡厅的repo",
+              "LocalizedString": "这是一个女仆咖啡厅的repo"
+            },
+            "Content": "万字长文  111",
+            "staticContent": {
+              "TableId": "/Game/Text/Bagel/ST_Bagel_TitleContent.ST_Bagel_TitleContent",
+              "Key": "Bagel_NPCB016_001",
+              "SourceString": "更确切地说应该是咖啡厅＋棋牌室的结合吧……？不管了先上结论：本宅这辈子花的最值的一笔方斯！\n一进门就有超可爱的女仆姐姐摇铃欢迎，瞬间被治愈到了(*////▽////*)社恐也完全不用担心会找不到话题，她们会主动带动气氛的，绝对不会冷场。\n餐饮可以打五星！据说这里的咖啡和甜品都施了爱心魔法，所以都变得超美味！还可以边吃边欣赏店里的舞台演出，我们阿宅有自己的驻唱场！\n不过特色果然还是麻将环节！堪称本店的灵魂所在！非常推荐想认真较量的朋友来上两局，我自认牌技挺不错，拼尽全力也没能赢过女仆长大人qwq不过输了也会有温柔的女仆姐姐送上鼓励，不用担心被嘲笑，所以对新手也很友好。总而言之，无论输赢都能玩得超开心~\n\n唯一有点意外的是，打麻将时大家一认真起来，表情就会变得莫名的可怕……果然真正想赢的人脸上是不会有笑容的！",
+              "LocalizedString": "更确切地说应该是咖啡厅＋棋牌室的结合吧……？不管了先上结论：本宅这辈子花的最值的一笔方斯！\n一进门就有超可爱的女仆姐姐摇铃欢迎，瞬间被治愈到了(*////▽////*)社恐也完全不用担心会找不到话题，她们会主动带动气氛的，绝对不会冷场。\n餐饮可以打五星！据说这里的咖啡和甜品都施了爱心魔法，所以都变得超美味！还可以边吃边欣赏店里的舞台演出，我们阿宅有自己的驻唱场！\n不过特色果然还是麻将环节！堪称本店的灵魂所在！非常推荐想认真较量的朋友来上两局，我自认牌技挺不错，拼尽全力也没能赢过女仆长大人qwq不过输了也会有温柔的女仆姐姐送上鼓励，不用担心被嘲笑，所以对新手也很友好。总而言之，无论输赢都能玩得超开心~\n\n唯一有点意外的是，打麻将时大家一认真起来，表情就会变得莫名的可怕……果然真正想赢的人脸上是不会有笑容的！"
+            },
+            "imgItems": [
+              {
+                "URL": "",
+                "Width": 1024,
+                "Height": 1024,
+                "StaticImage": {
+                  "AssetPathName": "/Game/Maps_4N/Characters/Monster/mon_65/ter/T_mon_65_d.T_mon_65_d",
+                  "SubPathString": ""
+                }
+              }
+            ],
+            "likeCount": 9999,
+            "commentCount": 0,
+            "viewCount": 0,
+            "collectCount": 432,
+            "isLiked": true,
+            "isCollected": false,
+            "showStatus": 0,
+            "visibleScope": 0,
+            "tagItems": [],
+            "Snapshot": {
+              "URL": "",
+              "Width": 1920,
+              "Height": 1080,
+              "StaticImage": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              }
+            },
+            "Video": "",
+            "staticVideoPath": "",
+            "bIsStaticVideo": false,
+            "CreateTime": 0
+          },
+          "staticArticle": true
+        },
+        "CommentData": [
+          {
+            "uid": 0,
+            "UserId": "",
+            "RoleId": "TestArticleNPC2",
+            "articleId": 0,
+            "commentId": 1,
+            "TargetType": 0,
+            "userIpAttribution": "",
+            "Content": "",
+            "staticContent": {
+              "TableId": "/Game/Text/Bagel/ST_Bagel_Reply.ST_Bagel_Reply",
+              "Key": "Bagel_NPCB016_001_001",
+              "SourceString": "码住了，等休息日我也要去玩。",
+              "LocalizedString": "码住了，等休息日我也要去玩。"
+            },
+            "likeCount": 0,
+            "commentCount": 0,
+            "Level": 0,
+            "floor": 0,
+            "score": 0,
+            "isHot": 0,
+            "visibilityType": 0,
+            "IsVisible": 0,
+            "isLike": 0,
+            "isHostLike": false,
+            "CreateTime": "",
+            "createDateTime": 0,
+            "createDateSec": 0,
+            "isHost": false
+          }
+        ],
+        "bHiddenInGame": true,
+        "TotalWeight": 0
+      }
+    }
+  }
+]

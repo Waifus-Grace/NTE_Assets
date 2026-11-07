@@ -8331,6 +8331,994 @@
         "AutoAdd": false,
         "ForbidLevelSceneAdd": [],
         "ForbidAddSceneNames": []
+      },
+      "OpActBalatroLikeMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/BPUI_OpActBalatroLikeMain.BPUI_OpActBalatroLikeMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "MapIconDetails_YHBalatro": {
+        "Slot": {
+          "TagName": "HUD.Slot.BigMapPopUpBoardRight"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/MiniMap/IconDetails/BPUI_MapIconDetail_YHBalatro.BPUI_MapIconDetail_YHBalatro_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "StowageTussleItemTips": {
+        "Slot": {
+          "TagName": "HUD.Slot.StowageTussle.ItemTips"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/BPUI_StowageTussleItemTips.BPUI_StowageTussleItemTips_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "VolleyballScoreChange": {
+        "Slot": {
+          "TagName": "HUD.Slot.Volleyball.RankScore"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Volleyball/BPUI_Volley_SeasonScoreChange.BPUI_Volley_SeasonScoreChange_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LogisticsBigMapMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.BigMapPopUpBoardLeft"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsMainForm.BPUI_LogisticsMainForm_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LogisticsMapIconDetails": {
+        "Slot": {
+          "TagName": "HUD.Slot.BigMapPopUpBoardRight"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsMapIconDetails.BPUI_LogisticsMapIconDetails_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LogisticsDispatchTrack": {
+        "Slot": {
+          "TagName": "HUD.Slot.TakeOrdersDispatchTrack"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsDispatchTrack.BPUI_LogisticsDispatchTrack_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LogisticsVehicleBoard": {
+        "Slot": {
+          "TagName": "HUD.Slot.Logistics"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsVehicleBoard.BPUI_LogisticsVehicleBoard_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "OpActCumLotteryMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/cumLottery/BPUI_OpActCumLotteryMain.BPUI_OpActCumLotteryMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LogisticsDriverSelect": {
+        "Slot": {
+          "TagName": "HUD.Slot.BigMapPopUpBoardLeft"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsDriverSelectMain.BPUI_LogisticsDriverSelectMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "MetaMainForm": {
+        "Slot": {
+          "TagName": "HUD.Slot.Meta"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/UI/Meta/BPUI_MetaMainForm.BPUI_MetaMainForm_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "MainJoyStick_HotAir": {
+        "Slot": {
+          "TagName": "HUD.Slot.MainJoyStickHotAir"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/JoyStick/BPUI_JoyStick_Main.BPUI_JoyStick_Main_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "MuseumDetectiveEntryButtons": {
+        "Slot": {
+          "TagName": "HUD.Slot.MuseumDetective"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/SideStory/MuseumDetective/BPUI_MuseumDetectiveEntryButtons.BPUI_MuseumDetectiveEntryButtons_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "OpActBossRushMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BossRush/WBP_OpActBossRushMain.WBP_OpActBossRushMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "VolleyInteract": {
+        "Slot": {
+          "TagName": "HUD.Slot.Volleyball.ChatInteract"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Volleyball/UI_VolleyInteractPC.UI_VolleyInteractPC_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": true,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "/Game/UI/Blueprints/Volleyball/UI_VolleyInteractPS.UI_VolleyInteractPS_C",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "/Game/UI/Blueprints/Volleyball/UI_VolleyInteractMobile.UI_VolleyInteractMobile_C",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "/Game/UI/Blueprints/Volleyball/UI_VolleyInteractPS.UI_VolleyInteractPS_C",
+          "SubPathString": ""
+        },
+        "AutoAdd": true,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "StowageTussleDragWidget": {
+        "Slot": {
+          "TagName": "HUD.Slot.StowageTussle.DragWidget"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Warehouse/BPUI_StowageTussleDragWidget.BPUI_StowageTussleDragWidget_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "OpActCumRecharge": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/CumRecharge/BPUI_CumRechargeActivityMain.BPUI_CumRechargeActivityMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "TPSMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.TPSMain"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/TPS/BPUI_TPSMain.BPUI_TPSMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "TankBattleActMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/TankBattle/BPUI_TankBattleActivityMain.BPUI_TankBattleActivityMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "TankBattleInGameMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.CloneMainForm"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleGameMain.BPUI_TankBattleGameMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "StowageTussleManualImport": {
+        "Slot": {
+          "TagName": "HUD.Slot.StowageTussle.RecommendManual"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Manual/BPUI_StowageTussleManualImport.BPUI_StowageTussleManualImport_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "OpActLogistics": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/LogisticsCenter/BPUI_OpActLogisticsMain.BPUI_OpActLogisticsMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "StowageTussle": {
+        "Slot": {
+          "TagName": "HUD.Slot.Activity"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/BPUI_OpActStwoageTussle.BPUI_OpActStwoageTussle_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "LionDrivePanel": {
+        "Slot": {
+          "TagName": "HUD.Slot.ExtraSkillPane"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Skill/VehicleSkill/BPUI_LionDrivePanel.BPUI_LionDrivePanel_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": true,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "/Game/UI/Blueprints/Skill/VehicleSkill/BPUI_LionDrivePanel_PlayStation.BPUI_LionDrivePanel_PlayStation_C",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "/Game/UI/Blueprints/Skill/VehicleSkill/BPUI_LionDrivePanel_Mobile.BPUI_LionDrivePanel_Mobile_C",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "/Game/UI/Blueprints/Skill/VehicleSkill/BPUI_LionDrivePanel_PlayStation.BPUI_LionDrivePanel_PlayStation_C",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "TankBattleDropInteract": {
+        "Slot": {
+          "TagName": "HUD.Slot.TankBattleDropInteract"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleDropInteract.BPUI_TankBattleDropInteract_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": true,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleDropInteract.BPUI_TankBattleDropInteract_C",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "VehicleCombatShoot_Tank": {
+        "Slot": {
+          "TagName": "HUD.Slot.WaterGunAim"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Skill/VehicleCombat/BPUI_VehicleCombatShoot_Tank.BPUI_VehicleCombatShoot_Tank_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_BuildingHand": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_BuildingHand.UI_BalatroLikeHover_BuildingHand_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_BoardBuilding": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_BoardBuilding.UI_BalatroLikeHover_BoardBuilding_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_EmpowerHand": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_EmpowerHand.UI_BalatroLikeHover_EmpowerHand_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_Joker": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_Joker.UI_BalatroLikeHover_Joker_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_Boss": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_Boss.UI_BalatroLikeHover_Boss_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_ShopPack": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_ShopPack.UI_BalatroLikeHover_ShopPack_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_ShopPlot": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_ShopPlot.UI_BalatroLikeHover_ShopPlot_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BalatroHover_ShopCoupon": {
+        "Slot": {
+          "TagName": "HUD.Slot.BalatroLikeHover"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeHover_ShopCoupon.UI_BalatroLikeHover_ShopCoupon_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "MapIconDetails_LogisticsWorldDriver": {
+        "Slot": {
+          "TagName": "HUD.Slot.BigMapPopUpBoardRight"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_MapIconDetails_LogisticsWorldDriver.BPUI_MapIconDetails_LogisticsWorldDriver_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "BossRushMain": {
+        "Slot": {
+          "TagName": "HUD.Slot.CloneMainForm"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BossRush/Clone/WBP_BossRushMain.WBP_BossRushMain_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "StowageTussleDragWidget2": {
+        "Slot": {
+          "TagName": "HUD.Slot.StowageTussle.DragWidget2"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Warehouse/BPUI_StowageTussleDragWidget.BPUI_StowageTussleDragWidget_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
+      },
+      "DatingFirework": {
+        "Slot": {
+          "TagName": "HUD.Slot.Date"
+        },
+        "ExtraData": null,
+        "UITemplet": {
+          "AssetPathName": "/Game/UI/Blueprints/Dating/UI_CharacterNpcInteractfirework.UI_CharacterNpcInteractfirework_C",
+          "SubPathString": ""
+        },
+        "bChangedExtensionOnInputTypeChanged": false,
+        "UITemplate_Gamepad": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_Mobile": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UITemplate_PlayStation": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "AutoAdd": false,
+        "ForbidLevelSceneAdd": [],
+        "ForbidAddSceneNames": []
       }
     }
   }

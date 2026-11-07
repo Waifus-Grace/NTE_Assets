@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "CurveTable",
+    "Name": "DT_ExeEffectFigure_ScoreDecay",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveTable'",
+    "Package": "/Game/DataTable/Skill/GlobalCharacterData/DT_ExeEffectFigure_ScoreDecay",
+    "CurveTableMode": "SimpleCurves",
+    "Rows": {
+      "Exe_ScoreDecay": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 3.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 200.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      }
+    }
+  }
+]

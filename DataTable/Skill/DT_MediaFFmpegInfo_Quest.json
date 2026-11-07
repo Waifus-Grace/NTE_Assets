@@ -391,29 +391,29 @@
       },
       "q111074": {
         "Path": {
-          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_temp_w.mp4"
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/1_5_DeadNumber/HM_U01C09_003a/HM_U01C09_003a_w.mp4"
         },
         "UIZOrder": 0,
         "bShowBlack": true,
         "bShowSkipButton": false,
-        "bNeedSex": true,
+        "bNeedSex": false,
         "bCanDisableInSettings": false,
         "StringTableID": "DeadNumber",
         "InOutTime": 1.0,
         "PlaySound": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003a/Play_Sfx_Music_CG_HM_U01C09_003a.Play_Sfx_Music_CG_HM_U01C09_003a",
           "SubPathString": ""
         },
         "StopSound": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003a/Stop_Sfx_Music_CG_HM_U01C09_003a.Stop_Sfx_Music_CG_HM_U01C09_003a",
           "SubPathString": ""
         },
         "PlayVoice": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003a/Play_Vo_CG_HM_U01C09_003a.Play_Vo_CG_HM_U01C09_003a",
           "SubPathString": ""
         },
         "StopVoice": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003a/Stop_Vo_CG_HM_U01C09_003a.Stop_Vo_CG_HM_U01C09_003a",
           "SubPathString": ""
         },
         "bEnableInteractiveMusic": false,
@@ -424,7 +424,7 @@
       },
       "q111078": {
         "Path": {
-          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_temp_w.mp4"
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/1_5_DeadNumber/HM_U01C09_003b/HM_U01C09_003b_w.mp4"
         },
         "UIZOrder": 0,
         "bShowBlack": true,
@@ -434,19 +434,19 @@
         "StringTableID": "DeadNumber",
         "InOutTime": 1.0,
         "PlaySound": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003b/Play_Sfx_Music_CG_HM_U01C09_003b.Play_Sfx_Music_CG_HM_U01C09_003b",
           "SubPathString": ""
         },
         "StopSound": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003b/Stop_Sfx_Music_CG_HM_U01C09_003b.Stop_Sfx_Music_CG_HM_U01C09_003b",
           "SubPathString": ""
         },
         "PlayVoice": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003b/Play_Vo_CG_HM_U01C09_003b.Play_Vo_CG_HM_U01C09_003b",
           "SubPathString": ""
         },
         "StopVoice": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_003b/Stop_Vo_CG_HM_U01C09_003b.Stop_Vo_CG_HM_U01C09_003b",
           "SubPathString": ""
         },
         "bEnableInteractiveMusic": false,
@@ -457,7 +457,7 @@
       },
       "q111082": {
         "Path": {
-          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_temp_w.mp4"
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/1_5_DeadNumber/HM_U01C09_004/HM_U01C09_004_w.mp4"
         },
         "UIZOrder": 0,
         "bShowBlack": true,
@@ -467,26 +467,31 @@
         "StringTableID": "DeadNumber",
         "InOutTime": 1.0,
         "PlaySound": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_004/Play_Sfx_Music_CG_HM_U01C09_004.Play_Sfx_Music_CG_HM_U01C09_004",
           "SubPathString": ""
         },
         "StopSound": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_004/Stop_Sfx_Music_CG_HM_U01C09_004.Stop_Sfx_Music_CG_HM_U01C09_004",
           "SubPathString": ""
         },
         "PlayVoice": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_004/Play_Vo_CG_HM_U01C09_004.Play_Vo_CG_HM_U01C09_004",
           "SubPathString": ""
         },
         "StopVoice": {
-          "AssetPathName": "/Game/WwiseAudio/Events/CG/CG_Cmn/Stop_CG_Delay_2S.Stop_CG_Delay_2S",
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/Exe/HM_U01C09_004/Stop_Vo_CG_HM_U01C09_004.Stop_Vo_CG_HM_U01C09_004",
           "SubPathString": ""
         },
         "bEnableInteractiveMusic": false,
         "InteractiveMusicNodes": [],
         "bRemoveMusicOnEnd": true,
         "FeedBackEffectID": "None",
-        "MediaIntroduceArray": []
+        "MediaIntroduceArray": [
+          {
+            "StartTime": 93000,
+            "MediaInfoClassID": "Texting"
+          }
+        ]
       }
     }
   }

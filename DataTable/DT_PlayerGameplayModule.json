@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PlayerGameplayModule",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_PlayerGameplayModule",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTPlayerGameplayModuleRow'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Example": {
+        "ModuleClass": {
+          "ObjectName": "Class'HTPlayerGameplayExampleModule'",
+          "ObjectPath": "/Script/HTGame"
+        },
+        "ReplicationScope": "EHTPlayerGameplayReplicationScope::AllRelevantClients"
+      }
+    }
+  }
+]

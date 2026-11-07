@@ -1,0 +1,5088 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "dt_quest_ZWQ_WS3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/dt_quest_ZWQ_WS3",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'QuestData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "S113000": {
+        "QuestId": "S111300",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "S111300_QuestName",
+          "SourceString": "展厅维护中",
+          "LocalizedString": "展厅维护中"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "BeginTime": 10.0,
+            "EndTime": 23.0,
+            "WaittingDays": 1,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "<!>改时间到第二天",
+            "ObjectiveType": "EObjectiveType::EOT_CHANGE_TIME",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "S111300_ObjDes_1",
+              "SourceString": "等待到<blue>第二天</>",
+              "LocalizedString": "等待到<blue>第二天</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EASTER_EGG",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "S111300_QuestPanel",
+          "SourceString": "钨丝先生说故事是需要等待的，耐心点再等等吧。",
+          "LocalizedString": "钨丝先生说故事是需要等待的，耐心点再等等吧。"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S111329",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": {
+          "ActiveChatItemID": "None",
+          "AcceptChatItemID": "None",
+          "PushChatItemIDs": []
+        },
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": true,
+        "CustomTrackText": {
+          "TableId": "/Game/Text/ST_Description.ST_Description",
+          "Key": "TextMessage_002",
+          "SourceString": "按下以调整时间",
+          "LocalizedString": "按下以调整时间"
+        }
+      },
+      "S1130001": {
+        "QuestId": "S1130001",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "B432FED34859E40E9CD206A50AC42BF1",
+          "SourceString": "去金苹果展馆",
+          "LocalizedString": "去金苹果展馆"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "JinPingGuoCangGuan",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": true,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "NeedArriveMapName": "XL_map_bigworld_test",
+            "bNeedTrack": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "<!>【移动】前往博物馆",
+            "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "S1113001_ObjDes_1",
+              "SourceString": "前往<blue>金苹果藏馆</>",
+              "LocalizedString": "前往<blue>金苹果藏馆</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": {
+              "bNeedBeginIntroduce": true,
+              "BeginIntroduceArray": [
+                {
+                  "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
+                  "Key": "SU031_Player_001",
+                  "SourceString": "（不知道钨丝先生准备的怎么样了，有时间过去看看吧。）",
+                  "LocalizedString": "（不知道钨丝先生准备的怎么样了，有时间过去看看吧。）"
+                }
+              ]
+            },
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 26204.035,
+                "Y": 120810.734,
+                "Z": 7076.854
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "XL_map_bigworld_test",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": true,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "S1113001_QuestPanel",
+          "SourceString": "不知道钨丝先生准备的怎么样了，去金苹果藏馆找他吧。",
+          "LocalizedString": "不知道钨丝先生准备的怎么样了，去金苹果藏馆找他吧。"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S1130002": {
+        "QuestId": "S1130002",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "D440AD8149559E736A6CB8B83160ED25",
+          "SourceString": "第三盏灯",
+          "LocalizedString": "第三盏灯"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 0.5,
+        "DisplayMapName": "JinPingGuoCangGuan",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": true,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "NeedArriveMapName": "DLC_Museum_Lamp_Story2",
+            "bNeedTrack": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "【交互】和灯交互进入副本",
+            "ObjectiveType": "EObjectiveType::EOT_ARRIVE",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+              "Key": "S111301_ObjDes_1",
+              "SourceString": "进入<blue>钨丝展厅</>",
+              "LocalizedString": "进入<blue>钨丝展厅</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 26284.383,
+                "Y": 121162.74,
+                "Z": 7080.6396
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "XL_map_bigworld_test",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": true,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
+          "Key": "S111301_QuestPanel",
+          "SourceString": "一盏小小的灯里竟然有一个这么大的异象空间，就算是第二次进入也觉得很奇妙啊。",
+          "LocalizedString": "一盏小小的灯里竟然有一个这么大的异象空间，就算是第二次进入也觉得很奇妙啊。"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S111300",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113001"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113001": {
+        "QuestId": "S113001",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "E23609234DA7AC88E66EEFB987E68A8C",
+          "SourceString": "和钨丝对话",
+          "LocalizedString": "和钨丝对话"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": false,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_1004/BP_NPC_1004_s113001.BP_NPC_1004_s113001_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "D9C92EC0481AD86741680183E6C8DC94",
+              "SourceString": "与钨丝交谈",
+              "LocalizedString": "与钨丝交谈"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 210.0,
+                "Y": 2040.0,
+                "Z": 90.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113000",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113002"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": true,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": {
+          "LevelName": "DLC_Lamp_Story3",
+          "Location": {
+            "X": 200.0,
+            "Y": 2040.0,
+            "Z": 120.0
+          },
+          "Rotator": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113002": {
+        "QuestId": "S113002",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "8DB67C7047E17775675E5E8E2F2A0E9D",
+          "SourceString": "信箱前对话",
+          "LocalizedString": "信箱前对话"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 2.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": false,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "57F865B8452AECE921154F8A8F0294A9",
+              "SourceString": "出门找找",
+              "LocalizedString": "出门找找"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -6038.0,
+                "Y": 8980.0,
+                "Z": -1024.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "Namespace": "",
+          "Key": "C08948EB4E6817494C26C79552CA565B",
+          "SourceString": "找个信箱把信投了",
+          "LocalizedString": "找个信箱把信投了"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113001",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113003"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": true,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": {
+          "LevelName": "DLC_Lamp_Story3",
+          "Location": {
+            "X": -5213.0,
+            "Y": 8331.0,
+            "Z": -730.0
+          },
+          "Rotator": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113003": {
+        "QuestId": "s113003",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "A519EA044A5644F4985E198F59708579",
+          "SourceString": "和小林一起一起前往别墅",
+          "LocalizedString": "和小林一起一起前往别墅"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 3.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "ConvoyProtectTime": 22.0,
+            "ConvoyLocation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "bBindOnTracking": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_CONVOY",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/NPC_10309/BP_NPC_10309_S113003.BP_NPC_10309_S113003_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "7FF6558246E88610B2E9FC8ED886BDC0",
+              "SourceString": "和小林一起前往别墅吧",
+              "LocalizedString": "和小林一起前往别墅吧"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113002",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113004"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": {
+          "LevelName": "DLC_Lamp_Story3",
+          "Location": {
+            "X": -5213.0,
+            "Y": 8331.0,
+            "Z": -733.0
+          },
+          "Rotator": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113004": {
+        "QuestId": "S113004",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "8AE95F8F43AA8EC87D4BF6B57DB50839",
+          "SourceString": "追上小林",
+          "LocalizedString": "追上小林"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 4.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "NeedArriveMapName": "",
+            "bNeedTrack": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "C34F30A44B3BC7AC4268A6B6DA323EC5",
+              "SourceString": "快点追上小林",
+              "LocalizedString": "快点追上小林"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -1259.0,
+                "Y": 21239.0,
+                "Z": -1600.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113003",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113005"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113005": {
+        "QuestId": "s113005",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "A5D6F35E41C58B5247716F8EADE6E13A",
+          "SourceString": "门口对话",
+          "LocalizedString": "门口对话"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 5.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "55766D3B4CA066F7E525409746C3A62C",
+              "SourceString": "在门口和小林聊聊",
+              "LocalizedString": "在门口和小林聊聊"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -1043.0,
+                "Y": 21193.0,
+                "Z": -1590.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113004",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113006"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113006": {
+        "QuestId": "s113006",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "98B8FAD1450EA56DF1E5CA81CE66DEA9",
+          "SourceString": "门口至前庭",
+          "LocalizedString": "门口至前庭"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 6.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "StorySequenceID": "q111070",
+            "bNeedPlaySequenceEnd": true,
+            "bCanAddProgress": true,
+            "bReloadReplay": false,
+            "bNeedInTargetMap": false,
+            "TargetMap": "",
+            "ObjectiveID": "None",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_SEQUENCE",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": {
+              "CompletedTeleportPosition": {
+                "X": -39.0,
+                "Y": 26267.0,
+                "Z": -714.0
+              },
+              "CompletedRotation": {
+                "Pitch": 0.0,
+                "Yaw": 0.0,
+                "Roll": 0.0
+              },
+              "LoadingUIType": "ETransferLoadingUIType::AutoWaitLoading_FadeOut",
+              "CameraRotation": {
+                "Pitch": 0.0,
+                "Yaw": 0.0,
+                "Roll": 0.0
+              },
+              "bKeepPlayerRotation": true
+            },
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "Namespace": "",
+          "Key": "4C067873479C273BEA6D819C86FF5117",
+          "SourceString": "使用钥匙打开别墅门",
+          "LocalizedString": "使用钥匙打开别墅门"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113005",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113007"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113007": {
+        "QuestId": "s113007",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "4F608241490AD2B67CDF2B8DD18A9F63",
+          "SourceString": "房屋入户",
+          "LocalizedString": "房屋入户"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 7.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "20D8D6B44B16A0DECA1E12A2F2388225",
+              "SourceString": "门开了，进去看看",
+              "LocalizedString": "门开了，进去看看"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -39.0,
+                "Y": 266667.0,
+                "Z": -714.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "Namespace": "",
+          "Key": "4691EE214CEC90DF83C46C865CFB9E8C",
+          "SourceString": "门开了，进去探索一下",
+          "LocalizedString": "门开了，进去探索一下"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113006",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113008"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113008": {
+        "QuestId": "S113008",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "E88BFC184D8E67DF51FD9BBA4F6A7B00",
+          "SourceString": "获得合照",
+          "LocalizedString": "获得合照"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 8.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "E705E528491DC80566CA1B8C7E401595",
+              "SourceString": "去找小林看看他发现了什么",
+              "LocalizedString": "去找小林看看他发现了什么"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -6.3,
+                "Y": 27439.0,
+                "Z": -714.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "Namespace": "",
+          "Key": "D0BA1F9248D373E056BBA7AE76BA6EF2",
+          "SourceString": "小林似乎发现了什么，去找他聊聊吧",
+          "LocalizedString": "小林似乎发现了什么，去找他聊聊吧"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113007",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113009"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113009": {
+        "QuestId": "s113009",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "37A7AC4B4F01E8DAC5A40F9BA06FA3C6",
+          "SourceString": "宴会厅对话",
+          "LocalizedString": "宴会厅对话"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 9.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "2D2F284F4EBA35C09AE41D8EE21A24CB",
+              "SourceString": "向内探索",
+              "LocalizedString": "向内探索"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 24.0,
+                "Y": 28110.0,
+                "Z": -780.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "Namespace": "",
+          "Key": "99F8E1CB4437D5FA018710B16D6583A3",
+          "SourceString": "向里探索",
+          "LocalizedString": "向里探索"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113008",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113010"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113010": {
+        "QuestId": "s113010",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "23CA286B42C2EE5F14C0CFAA2F25ACF5",
+          "SourceString": "第一轮自由探索",
+          "LocalizedString": "第一轮自由探索"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 10.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "6ABECDD34A6F39AE01146D91FB695D5F",
+              "SourceString": "四处找找线索",
+              "LocalizedString": "四处找找线索"
+            },
+            "CompletedDescription": {
+              "Namespace": "",
+              "Key": "42A749C54451FBA06C25D88DB91B561D",
+              "SourceString": "线索集齐了，在笔记本里总结一下吧",
+              "LocalizedString": "线索集齐了，在笔记本里总结一下吧"
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": {
+              "bNeedBeginIntroduce": true,
+              "BeginIntroduceArray": [
+                {
+                  "Namespace": "",
+                  "Key": "4083B6414E5EA1DB6BEA7CA8F23867CE",
+                  "SourceString": "找找看吧，有没有别的可以调查的线索",
+                  "LocalizedString": "找找看吧，有没有别的可以调查的线索"
+                }
+              ]
+            },
+            "bOnlyInClient": true,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113009",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113011"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113011": {
+        "QuestId": "s113011",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "F14FA0A742C806B0450AB5A34E15B7EC",
+          "SourceString": "一轮复盘",
+          "LocalizedString": "一轮复盘"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 13.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "DECAEED3445ABA53BBEA03AECCA99F2F",
+              "SourceString": "复盘一下",
+              "LocalizedString": "复盘一下"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113010",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113012"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113012": {
+        "QuestId": "s113012",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "CE4531F44953B9145C69E686D8571213",
+          "SourceString": "第二轮自由探索",
+          "LocalizedString": "第二轮自由探索"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 14.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "8A70EA224367BCA888139ABFD6F5E8F0",
+              "SourceString": "四处找找遗漏的线索（二轮",
+              "LocalizedString": "四处找找遗漏的线索（二轮"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113011",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s1130121"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s1130121": {
+        "QuestId": "s1130121",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "6598F03A4545BB75C26157A8354EC21D",
+          "SourceString": "二轮复盘",
+          "LocalizedString": "二轮复盘"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 15.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113012",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113013"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113013": {
+        "QuestId": "S113013",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "09F467504E35BEAFD81B5CAACDE7197F",
+          "SourceString": "二轮seq",
+          "LocalizedString": "二轮seq"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 16.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "StorySequenceID": "q111070",
+            "bNeedPlaySequenceEnd": true,
+            "bCanAddProgress": true,
+            "bReloadReplay": false,
+            "bNeedInTargetMap": false,
+            "TargetMap": "",
+            "ObjectiveID": "None",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_SEQUENCE",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": {
+              "CompletedTeleportPosition": {
+                "X": -2312.0,
+                "Y": 22582.0,
+                "Z": -1600.0
+              },
+              "CompletedRotation": {
+                "Pitch": -6.0,
+                "Yaw": -176.7028,
+                "Roll": 0.0
+              },
+              "LoadingUIType": "ETransferLoadingUIType::AutoWaitLoading_FadeOut",
+              "CameraRotation": {
+                "Pitch": 0.0,
+                "Yaw": 0.0,
+                "Roll": 0.0
+              },
+              "bKeepPlayerRotation": true
+            },
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s1130121",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113014"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113014": {
+        "QuestId": "s113014",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "8F4784CA427C7DE0196EED9480D211A0",
+          "SourceString": "前往楼梯间",
+          "LocalizedString": "前往楼梯间"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 17.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "22F671014D73CC73EF85EF9465791DA7",
+              "SourceString": "前往楼梯间",
+              "LocalizedString": "前往楼梯间"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113013",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113015"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113015": {
+        "QuestId": "S113015",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "F4BF8F554476AF405AD158A8334BCCB1",
+          "SourceString": "交互机关",
+          "LocalizedString": "交互机关"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 18.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "38EF29A54F90BAEAC909CBA8B6715379",
+              "SourceString": "启动机关",
+              "LocalizedString": "启动机关"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113014",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113016"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113016": {
+        "QuestId": "s113016",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "D84F52814E078FE601E242874A50AD68",
+          "SourceString": "探索隐藏楼梯",
+          "LocalizedString": "探索隐藏楼梯"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 19.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "NeedArriveMapName": "",
+            "bNeedTrack": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "A38FCA004B18682A8659739521B12B4F",
+              "SourceString": "探索一下楼梯",
+              "LocalizedString": "探索一下楼梯"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 861.0,
+                "Y": 30000.0,
+                "Z": 110.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113015",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113017"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113017": {
+        "QuestId": "s113017",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "57917E1F4E3EDBEBFC98C3B4B926C7E4",
+          "SourceString": "黑幕动画",
+          "LocalizedString": "黑幕动画"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 20.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "StorySequenceID": "TempVedio",
+            "bNeedPlaySequenceEnd": true,
+            "bCanAddProgress": true,
+            "bReloadReplay": false,
+            "bNeedInTargetMap": false,
+            "TargetMap": "",
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_SEQUENCE",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": {
+              "CompletedTeleportPosition": {
+                "X": -5232.0,
+                "Y": 21113.0,
+                "Z": -1300.0
+              },
+              "CompletedRotation": {
+                "Pitch": -0.44,
+                "Yaw": 95.0,
+                "Roll": 0.0
+              },
+              "LoadingUIType": "ETransferLoadingUIType::AutoWaitLoading_FadeOut",
+              "CameraRotation": {
+                "Pitch": 0.0,
+                "Yaw": 0.0,
+                "Roll": 0.0
+              },
+              "bKeepPlayerRotation": true
+            },
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113016",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113018"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113018": {
+        "QuestId": "s113018",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "AAB4E2674FCD66DBD93E78960798EE7B",
+          "SourceString": "记忆空间对话",
+          "LocalizedString": "记忆空间对话"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 21.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113017",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s1130181"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s1130181": {
+        "QuestId": "s1130181",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "EF1F65F94C971F8ED588BDAE7B1E79AF",
+          "SourceString": "返回表世界",
+          "LocalizedString": "返回表世界"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 22.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "NeedArriveMapName": "",
+            "bNeedTrack": false,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "2B90500A4324B3E1D8DA9FAAA519C156",
+              "SourceString": "回到表世界，没做呢",
+              "LocalizedString": "回到表世界，没做呢"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113018",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113019"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113019": {
+        "QuestId": "S113019",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "441B31934D90C900A81355ABE9B2D434",
+          "SourceString": "第三轮自由探索",
+          "LocalizedString": "第三轮自由探索"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 23.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "F3AE8612483A58AE1A5D0898390B964C",
+              "SourceString": "集齐最后线索",
+              "LocalizedString": "集齐最后线索"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s1130181",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s113020"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s113020": {
+        "QuestId": "s113020",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "EB5272CC46C064A41D838B868B7F96DB",
+          "SourceString": "开门",
+          "LocalizedString": "开门"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 24.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "BC3AAF4A4AF810BC1817D1BBC3EC3BA5",
+              "SourceString": "真相就在门后",
+              "LocalizedString": "真相就在门后"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113019",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "s1130201"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "s1130201": {
+        "QuestId": "s1130201",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "F25200D54181D34E28680DA31B1132F2",
+          "SourceString": "最终复盘",
+          "LocalizedString": "最终复盘"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 25.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "None",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113020",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "None"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113021": {
+        "QuestId": "S113021",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "A312ACE54BA3ABA46C52A9ADDA2C768D",
+          "SourceString": "真相揭露",
+          "LocalizedString": "真相揭露"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 26.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "B395413B44CFD515FBB099BBAF1D02DE",
+              "SourceString": "对话，揭露真相",
+              "LocalizedString": "对话，揭露真相"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": {
+              "CompletedTeleportPosition": {
+                "X": -6244.0,
+                "Y": 8322.0,
+                "Z": -652.0
+              },
+              "CompletedRotation": {
+                "Pitch": -28.0,
+                "Yaw": 88.0,
+                "Roll": 0.0
+              },
+              "LoadingUIType": "ETransferLoadingUIType::AutoWaitLoading_FadeOut",
+              "CameraRotation": {
+                "Pitch": 0.0,
+                "Yaw": 0.0,
+                "Roll": 0.0
+              },
+              "bKeepPlayerRotation": true
+            },
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "s113020",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113022"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113022": {
+        "QuestId": "S113022",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "F1DA984747A5EA6E4F87B68D3BC05B84",
+          "SourceString": "分道扬镳",
+          "LocalizedString": "分道扬镳"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 27.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "ADD83ED5420DECAB457B71A2FD225524",
+              "SourceString": "三人就此分别",
+              "LocalizedString": "三人就此分别"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -6230.0,
+                "Y": 8580.0,
+                "Z": -1050.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113021",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113023"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113023": {
+        "QuestId": "S113023",
+        "QuestName": {
+          "Namespace": "",
+          "Key": "E886FCF04798A41ECDCDA48096A1B4C8",
+          "SourceString": "回到钨丝商店",
+          "LocalizedString": "回到钨丝商店"
+        },
+        "ChapterID": "SU020_02",
+        "ChapterProgress": 28.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "005C77FA464FF9EE83D90E9ACA1C0343",
+              "SourceString": "回去和钨丝先生聊聊吧",
+              "LocalizedString": "回去和钨丝先生聊聊吧"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 210.0,
+                "Y": 2040.0,
+                "Z": 90.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_Lamp_Story3",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113022",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113024"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113026": {
+        "QuestId": "S113026",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113025",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113027"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113027": {
+        "QuestId": "S113027",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "DLC_Lamp_Story3",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113026",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113028"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113029": {
+        "QuestId": "S113029",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113028",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113030"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113030": {
+        "QuestId": "S113030",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113029",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113031"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113031": {
+        "QuestId": "S113031",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113030",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113032"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "S113032": {
+        "QuestId": "S113032",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S113031",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S113033"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      }
+    }
+  }
+]

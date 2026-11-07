@@ -1188,6 +1188,790 @@
         "MonsterType": "EMonsterType::Normal",
         "MonsterExtendArray": []
       },
+      "boss_36_T1_BP_Weekly_Lv1": {
+        "Comment": "周本T女士-难度1",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv1"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 25,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv1_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 25,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv1_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 25,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv1_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv2": {
+        "Comment": "周本T女士-难度2",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv2"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 40,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv2_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv2_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv2_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv3": {
+        "Comment": "周本T女士-难度3",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv3"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 50,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv3_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv3_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv3_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv4": {
+        "Comment": "周本T女士-难度4",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv4"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 60,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv4_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv4_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv4_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv5": {
+        "Comment": "周本T女士-难度5",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv5"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 70,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv5_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 70,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv5_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 70,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv5_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv6": {
+        "Comment": "周本T女士-难度6",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv6"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv6_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 80,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv6_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 80,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv6_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T1_BP_Weekly_Lv7": {
+        "Comment": "周本T女士-难度7",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_Name",
+          "SourceString": "卫冕的「T」",
+          "LocalizedString": "卫冕的「T」"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36.Boss_36",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T1_BP_Weekly_Lv7"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 85,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T1_BP_Weekly_Lv7_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 85,
+            "MonsterWorldLevelPropModifyID": "boss_36_T1_BP_Weekly_Lv7_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 85,
+            "MonsterClonePropModifyID": "boss_36_T1_BP_Weekly_Lv7_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv1": {
+        "Comment": "周本T女士二阶段-难度1",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv1"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 25,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv1_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 25,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv1_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 25,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv1_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv2": {
+        "Comment": "周本T女士二阶段-难度2",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv2"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 40,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv2_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv2_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv2_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv3": {
+        "Comment": "周本T女士二阶段-难度3",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv3"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 50,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv3_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv3_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv3_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv4": {
+        "Comment": "周本T女士二阶段-难度4",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv4"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 60,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv4_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv4_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv4_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv5": {
+        "Comment": "周本T女士二阶段-难度5",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv5"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 70,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv5_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 70,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv5_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 70,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv5_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv6": {
+        "Comment": "周本T女士二阶段-难度6",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv6"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv6_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 80,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv6_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 80,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv6_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_36_T2_BP_Weekly_Lv7": {
+        "Comment": "周本T女士二阶段-难度7",
+        "TextName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "boss_36_2_Name",
+          "SourceString": "贵腐巢母",
+          "LocalizedString": "贵腐巢母"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/Boss_36_2.Boss_36_2",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_36_T2_BP_Weekly_Lv7"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 85,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_36_T2_BP_Weekly_Lv7_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 85,
+            "MonsterWorldLevelPropModifyID": "boss_36_T2_BP_Weekly_Lv7_DataPack0"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 85,
+            "MonsterClonePropModifyID": "boss_36_T2_BP_Weekly_Lv7_DataPack0"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
       "mon_14_1_BP_Trial": {
         "Comment": "试用关卡-垃圾桶",
         "TextName": {

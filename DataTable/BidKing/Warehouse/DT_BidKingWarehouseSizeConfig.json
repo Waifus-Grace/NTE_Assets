@@ -21,25 +21,25 @@
       "small": {
         "SizeName": "小仓",
         "MinCellCount": 51,
-        "MaxCellCount": 70,
+        "MaxCellCount": 80,
         "AverageCompletionValue": 5.0
       },
       "middle": {
         "SizeName": "中仓",
-        "MinCellCount": 71,
-        "MaxCellCount": 100,
+        "MinCellCount": 81,
+        "MaxCellCount": 120,
         "AverageCompletionValue": 5.0
       },
       "big": {
         "SizeName": "中大仓",
-        "MinCellCount": 101,
-        "MaxCellCount": 130,
+        "MinCellCount": 121,
+        "MaxCellCount": 150,
         "AverageCompletionValue": 5.0
       },
       "large": {
         "SizeName": "大仓",
-        "MinCellCount": 131,
-        "MaxCellCount": 180,
+        "MinCellCount": 151,
+        "MaxCellCount": 200,
         "AverageCompletionValue": 6.0
       }
     }

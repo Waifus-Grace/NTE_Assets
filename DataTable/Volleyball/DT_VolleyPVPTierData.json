@@ -1,0 +1,1139 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_VolleyPVPTierData",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Volleyball/DT_VolleyPVPTierData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'VolleyPVPTierData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "VolleyRank_1_4": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank04",
+          "SourceString": "新人球员Ⅳ",
+          "LocalizedString": "新人球员Ⅳ"
+        },
+        "TierColor": {
+          "R": 0.527115,
+          "G": 0.423268,
+          "B": 0.258183,
+          "A": 1.0,
+          "Hex": "C0AE8B"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_01.UI_YH_Volleyball_Rank_Icon_01",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 1000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_1_3": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank03",
+          "SourceString": "新人球员Ⅲ",
+          "LocalizedString": "新人球员Ⅲ"
+        },
+        "TierColor": {
+          "R": 0.527115,
+          "G": 0.423268,
+          "B": 0.258183,
+          "A": 1.0,
+          "Hex": "C0AE8B"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_01.UI_YH_Volleyball_Rank_Icon_01",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 2000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_1_2": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank02",
+          "SourceString": "新人球员Ⅱ",
+          "LocalizedString": "新人球员Ⅱ"
+        },
+        "TierColor": {
+          "R": 0.527115,
+          "G": 0.423268,
+          "B": 0.258183,
+          "A": 1.0,
+          "Hex": "C0AE8B"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_01.UI_YH_Volleyball_Rank_Icon_01",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 3000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_1_1": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank01",
+          "SourceString": "新人球员Ⅰ",
+          "LocalizedString": "新人球员Ⅰ"
+        },
+        "TierColor": {
+          "R": 0.527115,
+          "G": 0.423268,
+          "B": 0.258183,
+          "A": 1.0,
+          "Hex": "C0AE8B"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_01.UI_YH_Volleyball_Rank_Icon_01",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 4000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_2_4": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank14",
+          "SourceString": "业余球员Ⅳ",
+          "LocalizedString": "业余球员Ⅳ"
+        },
+        "TierColor": {
+          "R": 0.012286,
+          "G": 0.571125,
+          "B": 0.300544,
+          "A": 1.0,
+          "Hex": "1DC795"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_02.UI_YH_Volleyball_Rank_Icon_02",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 5000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_2_3": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank13",
+          "SourceString": "业余球员Ⅲ",
+          "LocalizedString": "业余球员Ⅲ"
+        },
+        "TierColor": {
+          "R": 0.012286,
+          "G": 0.571125,
+          "B": 0.300544,
+          "A": 1.0,
+          "Hex": "1DC795"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_02.UI_YH_Volleyball_Rank_Icon_02",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 6000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_2_2": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank12",
+          "SourceString": "业余球员Ⅱ",
+          "LocalizedString": "业余球员Ⅱ"
+        },
+        "TierColor": {
+          "R": 0.012286,
+          "G": 0.571125,
+          "B": 0.300544,
+          "A": 1.0,
+          "Hex": "1DC795"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_02.UI_YH_Volleyball_Rank_Icon_02",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 7000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_2_1": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank11",
+          "SourceString": "业余球员Ⅰ",
+          "LocalizedString": "业余球员Ⅰ"
+        },
+        "TierColor": {
+          "R": 0.012286,
+          "G": 0.571125,
+          "B": 0.300544,
+          "A": 1.0,
+          "Hex": "1DC795"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_02.UI_YH_Volleyball_Rank_Icon_02",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 8000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_3_4": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank24",
+          "SourceString": "职业球员Ⅳ",
+          "LocalizedString": "职业球员Ⅳ"
+        },
+        "TierColor": {
+          "R": 0.015996,
+          "G": 0.361307,
+          "B": 0.768151,
+          "A": 1.0,
+          "Hex": "22A2E3"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_03.UI_YH_Volleyball_Rank_Icon_03",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 9000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_3_3": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank23",
+          "SourceString": "职业球员Ⅲ",
+          "LocalizedString": "职业球员Ⅲ"
+        },
+        "TierColor": {
+          "R": 0.015996,
+          "G": 0.361307,
+          "B": 0.768151,
+          "A": 1.0,
+          "Hex": "22A2E3"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_03.UI_YH_Volleyball_Rank_Icon_03",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 10000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_3_2": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank22",
+          "SourceString": "职业球员Ⅱ",
+          "LocalizedString": "职业球员Ⅱ"
+        },
+        "TierColor": {
+          "R": 0.015996,
+          "G": 0.361307,
+          "B": 0.768151,
+          "A": 1.0,
+          "Hex": "22A2E3"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_03.UI_YH_Volleyball_Rank_Icon_03",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 11000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_3_1": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank21",
+          "SourceString": "职业球员Ⅰ",
+          "LocalizedString": "职业球员Ⅰ"
+        },
+        "TierColor": {
+          "R": 0.015996,
+          "G": 0.361307,
+          "B": 0.768151,
+          "A": 1.0,
+          "Hex": "22A2E3"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_03.UI_YH_Volleyball_Rank_Icon_03",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 12000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_4_4": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank34",
+          "SourceString": "传奇球员Ⅳ",
+          "LocalizedString": "传奇球员Ⅳ"
+        },
+        "TierColor": {
+          "R": 0.428691,
+          "G": 0.076185,
+          "B": 0.686686,
+          "A": 1.0,
+          "Hex": "AF4ED8"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_04.UI_YH_Volleyball_Rank_Icon_04",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 13000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_4_3": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank33",
+          "SourceString": "传奇球员Ⅲ",
+          "LocalizedString": "传奇球员Ⅲ"
+        },
+        "TierColor": {
+          "R": 0.428691,
+          "G": 0.076185,
+          "B": 0.686686,
+          "A": 1.0,
+          "Hex": "AF4ED8"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_04.UI_YH_Volleyball_Rank_Icon_04",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 14000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_4_2": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank32",
+          "SourceString": "传奇球员Ⅱ",
+          "LocalizedString": "传奇球员Ⅱ"
+        },
+        "TierColor": {
+          "R": 0.428691,
+          "G": 0.076185,
+          "B": 0.686686,
+          "A": 1.0,
+          "Hex": "AF4ED8"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_04.UI_YH_Volleyball_Rank_Icon_04",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 15000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_4_1": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank31",
+          "SourceString": "传奇球员Ⅰ",
+          "LocalizedString": "传奇球员Ⅰ"
+        },
+        "TierColor": {
+          "R": 0.428691,
+          "G": 0.076185,
+          "B": 0.686686,
+          "A": 1.0,
+          "Hex": "AF4ED8"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_04.UI_YH_Volleyball_Rank_Icon_04",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": 16000,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      },
+      "VolleyRank_5_1": {
+        "TierText": {
+          "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
+          "Key": "UI_VolleyBall_Rank41",
+          "SourceString": "球王",
+          "LocalizedString": "球王"
+        },
+        "TierColor": {
+          "R": 0.799103,
+          "G": 0.462077,
+          "B": 0.023153,
+          "A": 1.0,
+          "Hex": "E7B52A"
+        },
+        "TierIcon": {
+          "AssetPathName": "/Game/UI/UI/Volleyball/Rank/UI_YH_Volleyball_Rank_Icon_05.UI_YH_Volleyball_Rank_Icon_05",
+          "SubPathString": ""
+        },
+        "TierQualityImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_IconBkg_01.UI_YH_Racing_‌Rank_Reward_IconBkg_01",
+          "SubPathString": ""
+        },
+        "UpgradeScore": -1,
+        "DowngradeBufferScore": 200,
+        "WithdrawPunishmentScore": 200,
+        "RankScore": [
+          {
+            "Key": "1",
+            "Value": 200
+          },
+          {
+            "Key": "2",
+            "Value": -200
+          }
+        ],
+        "WinSupplemenScoreRatio": 1.0,
+        "LoseSupplemenScoreRatio": 1.0,
+        "RankSupplemenScoreLimit": [
+          {
+            "Key": "1",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 100
+              }
+            }
+          },
+          {
+            "Key": "2",
+            "Value": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": -100
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": 0
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

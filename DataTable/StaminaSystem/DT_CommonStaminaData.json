@@ -24,6 +24,23 @@
         "CaptitalItemID": "Annulith",
         "PotionItemID": "CityStamina_addpotion",
         "bIsWeeklyRecovery": true,
+        "WeeklyBakStaminaTransferRate": 0.333333,
+        "BakStartTime": {
+          "Year": 2026,
+          "Month": 11,
+          "Day": 5,
+          "Hour": 6,
+          "minute": 0,
+          "Second": 0
+        },
+        "BakStartTimeOverseas": {
+          "Year": 2026,
+          "Month": 11,
+          "Day": 10,
+          "Hour": 22,
+          "minute": 0,
+          "Second": 0
+        },
         "bUseMaxRight": true,
         "bUseConsumeRight": true,
         "bUseFurnitureAdd": false,
@@ -55,7 +72,14 @@
           "ShowItemID": "CityStamina",
           "bAddCurValueOnMaxChange": true
         },
-        "BakRecoveryData": null,
+        "BakRecoveryData": {
+          "InitValue": 0,
+          "MaxValue": 1000,
+          "RecoveryInterval": 0,
+          "RecoveryValue": 0,
+          "ShowItemID": "BackupCityStamina",
+          "bAddCurValueOnMaxChange": false
+        },
         "FurnitureType": "ESpecialFurnitureType::None",
         "IntervalFurnitureType": "ESpecialFurnitureType::None",
         "AddProgressFurnitureType": "ESpecialFurnitureType::None",
@@ -99,6 +123,23 @@
         "CaptitalItemID": "Annulith",
         "PotionItemID": "Stamina_addpotion",
         "bIsWeeklyRecovery": false,
+        "WeeklyBakStaminaTransferRate": 1.0,
+        "BakStartTime": {
+          "Year": 0,
+          "Month": 1,
+          "Day": 1,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "BakStartTimeOverseas": {
+          "Year": 0,
+          "Month": 1,
+          "Day": 1,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
         "bUseMaxRight": false,
         "bUseConsumeRight": false,
         "bUseFurnitureAdd": true,
@@ -121,7 +162,14 @@
           "ShowItemID": "Stamina",
           "bAddCurValueOnMaxChange": false
         },
-        "BakRecoveryData": null,
+        "BakRecoveryData": {
+          "InitValue": 0,
+          "MaxValue": 2400,
+          "RecoveryInterval": 1080,
+          "RecoveryValue": 1,
+          "ShowItemID": "BackupStamina",
+          "bAddCurValueOnMaxChange": false
+        },
         "FurnitureType": "ESpecialFurnitureType::DreamWeaver",
         "IntervalFurnitureType": "ESpecialFurnitureType::None",
         "AddProgressFurnitureType": "ESpecialFurnitureType::DreamWeaver",

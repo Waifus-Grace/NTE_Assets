@@ -1,0 +1,117 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TankBattleTeamInformation",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/TankBattle/DT_TankBattleTeamInformation",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TankBattleTeamInformation'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "A": {
+        "TeamType": "ETankBattleTeamType::A",
+        "TeamTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -233311.0,
+            "Y": -259427.0,
+            "Z": 25259.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "MapName": "XL_map_bigworld_test"
+      },
+      "B": {
+        "TeamType": "ETankBattleTeamType::B",
+        "TeamTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -246516.0,
+            "Y": -270158.0,
+            "Z": 25633.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "MapName": "XL_map_bigworld_test"
+      },
+      "C": {
+        "TeamType": "ETankBattleTeamType::C",
+        "TeamTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -233443.0,
+            "Y": -284160.0,
+            "Z": 25415.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "MapName": "XL_map_bigworld_test"
+      },
+      "D": {
+        "TeamType": "ETankBattleTeamType::D",
+        "TeamTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 8.726646E-09,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -221368.0,
+            "Y": -271344.0,
+            "Z": 24889.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "MapName": "XL_map_bigworld_test"
+      }
+    }
+  }
+]

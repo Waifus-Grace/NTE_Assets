@@ -6436,6 +6436,446 @@
         "AbilityGroupType": [
           "ECharacterCityAbilityGroupType::GROUP_OTHER"
         ]
+      },
+      "City_Ability_Elyms_01": {
+        "GroupId": "City_Ability_Elyms_01",
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/YINeng/CityAbilityIcon/YH_UI_Skill_sjwl.YH_UI_Skill_sjwl",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AbilityName": {
+          "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+          "Key": "City_Ability_Elyms_01_name",
+          "SourceString": "社会网络",
+          "LocalizedString": "社会网络"
+        },
+        "AbilityCityAttributeArray": [
+          {
+            "AttributeID": "City_Ability_Elyms_01",
+            "AttributeLevel": 1,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_1.Anhun_H_1",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_01_lv1",
+              "SourceString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。",
+              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DispatchScoreAdd",
+                "Value": 5,
+                "PercentValue": 0.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Elyms_01",
+            "AttributeLevel": 2,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_2.Anhun_H_2",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性2"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_01_lv2",
+              "SourceString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。",
+              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DriverCapacityAdd",
+                "Value": 1,
+                "PercentValue": 0.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Elyms_01",
+            "AttributeLevel": 3,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_3.Anhun_H_3",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_01_lv3",
+              "SourceString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。",
+              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DispatchScoreAdd",
+                "Value": 5,
+                "PercentValue": 0.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Elyms_01",
+            "AttributeLevel": 4,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_4.Anhun_H_4",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_01_lv4",
+              "SourceString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。",
+              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DriverCapacityAdd",
+                "Value": 1,
+                "PercentValue": -0.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Elyms_01",
+            "AttributeLevel": 5,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_5.Anhun_H_5",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_01_lv5",
+              "SourceString": "曳尔沐作为物流助理派驻物流中心时，可同时派遣司机数量增加<Green2>1</>位。",
+              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可同时派遣司机数量增加<Green2>1</>位。"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::MaxConcurrentDispatchAdd",
+                "Value": 1,
+                "PercentValue": 0.0,
+                "bInFormation": false
+              }
+            ]
+          }
+        ],
+        "AbilityGroupType": [
+          "ECharacterCityAbilityGroupType::GROUP_LOGISTICS"
+        ]
+      },
+      "City_Ability_Elyms_02": {
+        "GroupId": "City_Ability_Elyms_02",
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/YINeng/CityAbilityIcon/YH_UI_Skill_rmgx.YH_UI_Skill_rmgx",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AbilityName": {
+          "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+          "Key": "City_Ability_Elyms_02_name",
+          "SourceString": "人脉关系",
+          "LocalizedString": "人脉关系"
+        },
+        "AbilityCityAttributeArray": [
+          {
+            "AttributeID": "City_Ability_Elyms_02",
+            "AttributeLevel": 1,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_1.Anhun_H_1",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性2"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_02_lv1",
+              "SourceString": "「即刻落槌」第<Green2>1</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）",
+              "LocalizedString": "「即刻落槌」第<Green2>1</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "BidKingCabinetSkillName": "City_Ability_Elyms_02_lv1",
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Elyms_02",
+            "AttributeLevel": 2,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_2.Anhun_H_2",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Elyms_02_lv2",
+              "SourceString": "效果变更为：「即刻落槌」前<Green2>2</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）",
+              "LocalizedString": "效果变更为：「即刻落槌」前<Green2>2</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "BidKingCabinetSkillName": "City_Ability_Elyms_02_lv2",
+                "bInFormation": false
+              }
+            ]
+          }
+        ],
+        "AbilityGroupType": [
+          "ECharacterCityAbilityGroupType::GROUP_OTHER"
+        ]
+      },
+      "City_Ability_Exe_01": {
+        "GroupId": "City_Ability_Exe_01",
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/YINeng/CityAbilityIcon/YH_UI_Skill_xlyh.YH_UI_Skill_xlyh",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AbilityName": {
+          "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+          "Key": "City_Ability_Exe_01_name",
+          "SourceString": "<!>10",
+          "LocalizedString": "<!>10"
+        },
+        "AbilityCityAttributeArray": [
+          {
+            "AttributeID": "City_Ability_Exe_01",
+            "AttributeLevel": 1,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_1.Anhun_H_1",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_01_lv1",
+              "SourceString": "<!>11",
+              "LocalizedString": "<!>11"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::RestDurationPercent",
+                "Value": -25,
+                "PercentValue": -25.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Exe_01",
+            "AttributeLevel": 2,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_2.Anhun_H_2",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性2"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_01_lv2",
+              "SourceString": "<!>12",
+              "LocalizedString": "<!>12"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DispatchDurationPercent",
+                "Value": -5,
+                "PercentValue": -5.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Exe_01",
+            "AttributeLevel": 3,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_3.Anhun_H_3",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_01_lv3",
+              "SourceString": "<!>13",
+              "LocalizedString": "<!>13"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::RestDurationPercent",
+                "Value": -25,
+                "PercentValue": -25.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Exe_01",
+            "AttributeLevel": 4,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_4.Anhun_H_4",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_01_lv4",
+              "SourceString": "<!>14",
+              "LocalizedString": "<!>14"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::DispatchDurationPercent",
+                "Value": -5,
+                "PercentValue": -5.0,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Exe_01",
+            "AttributeLevel": 5,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_5.Anhun_H_5",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_01_lv5",
+              "SourceString": "<!>15",
+              "LocalizedString": "<!>15"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "EffectType": "EHTLogisticsCityAbilityEffectType::ManualMarketRefreshCountAdd",
+                "Value": 1,
+                "PercentValue": 0.0,
+                "bInFormation": false
+              }
+            ]
+          }
+        ],
+        "AbilityGroupType": [
+          "ECharacterCityAbilityGroupType::GROUP_LOGISTICS"
+        ]
+      },
+      "City_Ability_Exe_02": {
+        "GroupId": "City_Ability_Exe_02",
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/YINeng/CityAbilityIcon/YH_UI_Skill_nhjs.YH_UI_Skill_nhjs",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AbilityName": {
+          "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+          "Key": "City_Ability_Exe_02_name",
+          "SourceString": "<!>16",
+          "LocalizedString": "<!>16"
+        },
+        "AbilityCityAttributeArray": [
+          {
+            "AttributeID": "City_Ability_Exe_02",
+            "AttributeLevel": 1,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_1.Anhun_H_1",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性2"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_02_lv1",
+              "SourceString": "<!>17",
+              "LocalizedString": "<!>17"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "ExtraStamina": 1,
+                "bInFormation": false
+              }
+            ]
+          },
+          {
+            "AttributeID": "City_Ability_Exe_02",
+            "AttributeLevel": 2,
+            "icon": {
+              "AssetPathName": "/Game/UI/UI/font/tiaozi1/Anhun_H_2.Anhun_H_2",
+              "SubPathString": ""
+            },
+            "Name": {
+              "CultureInvariantString": "<！>城市属性3"
+            },
+            "Description": {
+              "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
+              "Key": "City_Ability_Exe_02_lv2",
+              "SourceString": "<!>18",
+              "LocalizedString": "<!>18"
+            },
+            "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
+            "AbilityCityAttribute": [
+              {
+                "ExtraStamina": 1,
+                "bInFormation": false
+              }
+            ]
+          }
+        ],
+        "AbilityGroupType": [
+          "ECharacterCityAbilityGroupType::GROUP_OTHER"
+        ]
       }
     }
   }

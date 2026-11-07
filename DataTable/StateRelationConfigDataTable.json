@@ -78,7 +78,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "2": {
         "StateType": "EHTCharacterStateType::Swimming",
@@ -146,7 +147,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "3": {
         "StateType": "EHTCharacterStateType::Flying",
@@ -214,7 +216,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "4": {
         "StateType": "EHTCharacterStateType::Exhausting",
@@ -282,7 +285,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "5": {
         "StateType": "EHTCharacterStateType::HitStun",
@@ -350,7 +354,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "6": {
         "StateType": "EHTCharacterStateType::Surmount",
@@ -413,12 +418,13 @@
         "RelationArray[56]": "EHTStateRelationType::Blocked",
         "RelationArray[57]": "EHTStateRelationType::Independent",
         "RelationArray[58]": "EHTStateRelationType::Independent",
-        "RelationArray[59]": "EHTStateRelationType::Independent",
+        "RelationArray[59]": "EHTStateRelationType::Blocked",
         "RelationArray[60]": "EHTStateRelationType::Independent",
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "7": {
         "StateType": "EHTCharacterStateType::Sprinting",
@@ -486,7 +492,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "8": {
         "StateType": "EHTCharacterStateType::Dead",
@@ -554,7 +561,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "9": {
         "StateType": "EHTCharacterStateType::Jumping",
@@ -622,7 +630,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "10": {
         "StateType": "EHTCharacterStateType::Climbing",
@@ -690,7 +699,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "11": {
         "StateType": "EHTCharacterStateType::BowAimming",
@@ -758,7 +768,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "12": {
         "StateType": "EHTCharacterStateType::UseAbilities",
@@ -826,7 +837,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "13": {
         "StateType": "EHTCharacterStateType::Crime",
@@ -894,7 +906,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "14": {
         "StateType": "EHTCharacterStateType::CaseInteract",
@@ -962,7 +975,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "15": {
         "StateType": "EHTCharacterStateType::SelfieNormalWalk",
@@ -1030,7 +1044,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "16": {
         "StateType": "EHTCharacterStateType::TakingElevator",
@@ -1098,7 +1113,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "17": {
         "StateType": "EHTCharacterStateType::Dialogue",
@@ -1166,7 +1182,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "18": {
         "StateType": "EHTCharacterStateType::Sequence",
@@ -1234,7 +1251,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "19": {
         "StateType": "EHTCharacterStateType::SwitchCharacter",
@@ -1302,7 +1320,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "20": {
         "StateType": "EHTCharacterStateType::Driving",
@@ -1355,8 +1374,8 @@
         "RelationArray[46]": "EHTStateRelationType::Independent",
         "RelationArray[47]": "EHTStateRelationType::Blocked",
         "RelationArray[48]": "EHTStateRelationType::Blocked",
-        "RelationArray[49]": "EHTStateRelationType::Independent",
-        "RelationArray[50]": "EHTStateRelationType::Interrupted",
+        "RelationArray[49]": "EHTStateRelationType::Blocked",
+        "RelationArray[50]": "EHTStateRelationType::Blocked",
         "RelationArray[51]": "EHTStateRelationType::Independent",
         "RelationArray[52]": "EHTStateRelationType::Blocked",
         "RelationArray[53]": "EHTStateRelationType::Independent",
@@ -1370,7 +1389,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "21": {
         "StateType": "EHTCharacterStateType::Patrol",
@@ -1438,7 +1458,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "22": {
         "StateType": "EHTCharacterStateType::LevelTransfer",
@@ -1506,7 +1527,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "23": {
         "StateType": "EHTCharacterStateType::InteractSmartObject",
@@ -1574,7 +1596,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "24": {
         "StateType": "EHTCharacterStateType::Gliding",
@@ -1642,7 +1665,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "25": {
         "StateType": "EHTCharacterStateType::Leisure",
@@ -1710,7 +1734,8 @@
         "RelationArray[61]": "EHTStateRelationType::Blocked",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "26": {
         "StateType": "EHTCharacterStateType::Sleep",
@@ -1778,7 +1803,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "27": {
         "StateType": "EHTCharacterStateType::BoardTrain",
@@ -1846,7 +1872,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "28": {
         "StateType": "EHTCharacterStateType::Invalid",
@@ -1914,7 +1941,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "29": {
         "StateType": "EHTCharacterStateType::Sneak",
@@ -1982,7 +2010,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "30": {
         "StateType": "EHTCharacterStateType::InteractInfoMenu",
@@ -2050,10 +2079,11 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "31": {
-        "StateType": "EHTCharacterStateType::66",
+        "StateType": "EHTCharacterStateType::67",
         "RelationArray": "EHTStateRelationType::Independent",
         "RelationArray[1]": "EHTStateRelationType::Independent",
         "RelationArray[2]": "EHTStateRelationType::Independent",
@@ -2118,7 +2148,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "32": {
         "StateType": "EHTCharacterStateType::Common_Open_UI",
@@ -2186,7 +2217,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "33": {
         "StateType": "EHTCharacterStateType::VisionSoulCollect",
@@ -2254,7 +2286,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "34": {
         "StateType": "EHTCharacterStateType::FPItemInteract",
@@ -2322,7 +2355,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "35": {
         "StateType": "EHTCharacterStateType::NPCShop",
@@ -2390,7 +2424,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "36": {
         "StateType": "EHTCharacterStateType::Sit",
@@ -2458,7 +2493,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "37": {
         "StateType": "EHTCharacterStateType::HandmadeShelf",
@@ -2526,7 +2562,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "38": {
         "StateType": "EHTCharacterStateType::ChangeCamera",
@@ -2594,7 +2631,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "39": {
         "StateType": "EHTCharacterStateType::RollerCoaster",
@@ -2662,7 +2700,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "40": {
         "StateType": "EHTCharacterStateType::Fishing",
@@ -2730,7 +2769,8 @@
         "RelationArray[61]": "EHTStateRelationType::Interrupted",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "41": {
         "StateType": "EHTCharacterStateType::SelfieWalk",
@@ -2798,7 +2838,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "42": {
         "StateType": "EHTCharacterStateType::PrisonWaterGun",
@@ -2866,7 +2907,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "43": {
         "StateType": "EHTCharacterStateType::MirrorFlip",
@@ -2934,7 +2976,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "44": {
         "StateType": "EHTCharacterStateType::HoldingHands",
@@ -2959,7 +3002,7 @@
         "RelationArray[18]": "EHTStateRelationType::Independent",
         "RelationArray[19]": "EHTStateRelationType::Independent",
         "RelationArray[20]": "EHTStateRelationType::Independent",
-        "RelationArray[21]": "EHTStateRelationType::Independent",
+        "RelationArray[21]": "EHTStateRelationType::Blocked",
         "RelationArray[22]": "EHTStateRelationType::Independent",
         "RelationArray[23]": "EHTStateRelationType::Independent",
         "RelationArray[24]": "EHTStateRelationType::Independent",
@@ -2984,7 +3027,7 @@
         "RelationArray[43]": "EHTStateRelationType::Independent",
         "RelationArray[44]": "EHTStateRelationType::Independent",
         "RelationArray[45]": "EHTStateRelationType::Independent",
-        "RelationArray[46]": "EHTStateRelationType::Independent",
+        "RelationArray[46]": "EHTStateRelationType::Blocked",
         "RelationArray[47]": "EHTStateRelationType::Independent",
         "RelationArray[48]": "EHTStateRelationType::Interrupted",
         "RelationArray[49]": "EHTStateRelationType::Independent",
@@ -3002,7 +3045,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "45": {
         "StateType": "EHTCharacterStateType::RoomPairBehavior",
@@ -3027,7 +3071,7 @@
         "RelationArray[18]": "EHTStateRelationType::Independent",
         "RelationArray[19]": "EHTStateRelationType::Independent",
         "RelationArray[20]": "EHTStateRelationType::Independent",
-        "RelationArray[21]": "EHTStateRelationType::Independent",
+        "RelationArray[21]": "EHTStateRelationType::Blocked",
         "RelationArray[22]": "EHTStateRelationType::Independent",
         "RelationArray[23]": "EHTStateRelationType::Independent",
         "RelationArray[24]": "EHTStateRelationType::Independent",
@@ -3052,7 +3096,7 @@
         "RelationArray[43]": "EHTStateRelationType::Independent",
         "RelationArray[44]": "EHTStateRelationType::Independent",
         "RelationArray[45]": "EHTStateRelationType::Independent",
-        "RelationArray[46]": "EHTStateRelationType::Independent",
+        "RelationArray[46]": "EHTStateRelationType::Blocked",
         "RelationArray[47]": "EHTStateRelationType::Independent",
         "RelationArray[48]": "EHTStateRelationType::Interrupted",
         "RelationArray[49]": "EHTStateRelationType::Independent",
@@ -3070,10 +3114,11 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "46": {
-        "StateType": "EHTCharacterStateType::66",
+        "StateType": "EHTCharacterStateType::67",
         "RelationArray": "EHTStateRelationType::Independent",
         "RelationArray[1]": "EHTStateRelationType::Interrupted",
         "RelationArray[2]": "EHTStateRelationType::Independent",
@@ -3138,7 +3183,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "47": {
         "StateType": "EHTCharacterStateType::HoldUmbrella",
@@ -3206,7 +3252,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "48": {
         "StateType": "EHTCharacterStateType::InRoom",
@@ -3274,7 +3321,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "49": {
         "StateType": "EHTCharacterStateType::ZeroGravityState",
@@ -3342,7 +3390,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "50": {
         "StateType": "EHTCharacterStateType::VehicleExpropriate",
@@ -3410,7 +3459,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "51": {
         "StateType": "EHTCharacterStateType::DrivingWaterVehicle",
@@ -3478,7 +3528,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "52": {
         "StateType": "EHTCharacterStateType::GlideLaunch",
@@ -3546,7 +3597,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Independent"
+        "RelationArray[64]": "EHTStateRelationType::Independent",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       },
       "53": {
         "StateType": "EHTCharacterStateType::GuitarPlay",
@@ -3614,7 +3666,8 @@
         "RelationArray[61]": "EHTStateRelationType::Independent",
         "RelationArray[62]": "EHTStateRelationType::Independent",
         "RelationArray[63]": "EHTStateRelationType::Independent",
-        "RelationArray[64]": "EHTStateRelationType::Blocked"
+        "RelationArray[64]": "EHTStateRelationType::Blocked",
+        "RelationArray[65]": "EHTStateRelationType::Independent"
       }
     }
   }

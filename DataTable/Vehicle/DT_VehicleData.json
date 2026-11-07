@@ -385,6 +385,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 800000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle008'",
@@ -422,10 +423,20 @@
         "SortLevel": 2,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle008fish": {
         "VehicleID": "Vehicle008fish",
@@ -776,6 +787,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle008'",
@@ -813,10 +825,20 @@
         "SortLevel": 2,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle006": {
         "VehicleID": "Vehicle006",
@@ -1140,6 +1162,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 500000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle006'",
@@ -1177,10 +1200,20 @@
         "SortLevel": 16,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007": {
         "VehicleID": "Vehicle007",
@@ -1531,6 +1564,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 50000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -1568,10 +1602,20 @@
         "SortLevel": 3,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "vehicle018": {
         "VehicleID": "vehicle018",
@@ -1994,6 +2038,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 800000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -2031,10 +2076,20 @@
         "SortLevel": 4,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle020": {
         "VehicleID": "Vehicle020",
@@ -2409,6 +2464,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 1900000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle020'",
@@ -2446,10 +2502,20 @@
         "SortLevel": 5,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle002": {
         "VehicleID": "Vehicle002",
@@ -2824,6 +2890,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 1500000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle002'",
@@ -2861,10 +2928,20 @@
         "SortLevel": 6,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle004": {
         "VehicleID": "Vehicle004",
@@ -3215,6 +3292,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 1600000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle004'",
@@ -3252,10 +3330,20 @@
         "SortLevel": 7,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle012": {
         "VehicleID": "Vehicle012",
@@ -3317,6 +3405,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -3354,10 +3443,20 @@
         "SortLevel": 8,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle016": {
         "VehicleID": "Vehicle016",
@@ -3804,6 +3903,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 9000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle016'",
@@ -3841,10 +3941,20 @@
         "SortLevel": 9,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "vehicle017": {
         "VehicleID": "vehicle017",
@@ -4267,6 +4377,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 4000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle017'",
@@ -4304,10 +4415,20 @@
         "SortLevel": 10,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle021": {
         "VehicleID": "Vehicle021",
@@ -4730,6 +4851,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 12000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle021'",
@@ -4767,10 +4889,20 @@
         "SortLevel": 11,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle010": {
         "VehicleID": "Vehicle010",
@@ -4857,6 +4989,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle010'",
@@ -4894,10 +5027,20 @@
         "SortLevel": 12,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle024": {
         "VehicleID": "Vehicle024",
@@ -5032,6 +5175,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -5069,10 +5213,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle003": {
         "VehicleID": "Vehicle003",
@@ -5447,6 +5601,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 800000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -5484,10 +5639,20 @@
         "SortLevel": 20,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle015": {
         "VehicleID": "Vehicle015",
@@ -5643,6 +5808,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle015'",
@@ -5680,10 +5846,20 @@
         "SortLevel": 21,
         "IsUseCustomPlate": true,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": false,
         "CanTryDriveCloneID": "None",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007c": {
         "VehicleID": "Vehicle007c",
@@ -5983,6 +6159,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6020,10 +6197,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle009": {
         "VehicleID": "Vehicle009",
@@ -6082,6 +6269,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 100000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6119,10 +6307,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle009a": {
         "VehicleID": "Vehicle009a",
@@ -6181,6 +6379,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6218,10 +6417,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle009b": {
         "VehicleID": "Vehicle009b",
@@ -6280,6 +6489,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6317,10 +6527,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle009c": {
         "VehicleID": "Vehicle009c",
@@ -6379,6 +6599,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6416,10 +6637,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle009a_toq": {
         "VehicleID": "Vehicle009a_toq",
@@ -6478,6 +6709,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6515,10 +6747,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018_Quest_K110000": {
         "VehicleID": "Vehicle018_Quest_K110000",
@@ -6577,6 +6819,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -6627,10 +6870,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018ghost": {
         "VehicleID": "Vehicle018ghost",
@@ -6954,6 +7207,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -6991,10 +7245,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018_K110000": {
         "VehicleID": "Vehicle018_K110000",
@@ -7318,6 +7582,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -7355,10 +7620,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018_K110027": {
         "VehicleID": "Vehicle018_K110027",
@@ -7682,6 +7957,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -7719,10 +7995,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018_K110045": {
         "VehicleID": "Vehicle018_K110045",
@@ -8046,6 +8332,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -8083,10 +8370,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle002_q110116": {
         "VehicleID": "Vehicle002_q110116",
@@ -8410,6 +8707,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -8447,10 +8745,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle004_q110320": {
         "VehicleID": "Vehicle004_q110320",
@@ -8774,6 +9082,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -8811,10 +9120,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle010_q110328": {
         "VehicleID": "Vehicle010_q110328",
@@ -8873,6 +9192,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle010'",
@@ -8910,10 +9230,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007_v2": {
         "VehicleID": "Vehicle007_v2",
@@ -9213,6 +9543,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -9250,10 +9581,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle_015_Hight_WJ100105": {
         "VehicleID": "Vehicle_015_Hight_WJ100105",
@@ -9309,6 +9650,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle015'",
@@ -9346,10 +9688,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle_010_Mods": {
         "VehicleID": "Vehicle_010_Mods",
@@ -9402,6 +9754,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": null,
         "RepairTireCost": 0.0,
@@ -9436,10 +9789,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007a": {
         "VehicleID": "Vehicle007a",
@@ -9739,6 +10102,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -9776,10 +10140,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle020Police": {
         "VehicleID": "Vehicle020Police",
@@ -10079,6 +10453,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -10116,10 +10491,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007_s111601": {
         "VehicleID": "Vehicle007_s111601",
@@ -10419,6 +10804,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -10456,10 +10842,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007_s111601_race": {
         "VehicleID": "Vehicle007_s111601_race",
@@ -10759,6 +11155,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -10809,10 +11206,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle002_oneoff": {
         "VehicleID": "Vehicle002_oneoff",
@@ -11136,6 +11543,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle002'",
@@ -11173,10 +11581,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle003_oneoff": {
         "VehicleID": "Vehicle003_oneoff",
@@ -11500,6 +11918,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -11537,10 +11956,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle004_oneoff": {
         "VehicleID": "Vehicle004_oneoff",
@@ -11840,6 +12269,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle004'",
@@ -11877,10 +12307,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007_oneoff": {
         "VehicleID": "Vehicle007_oneoff",
@@ -12180,6 +12620,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -12217,10 +12658,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle008_oneoff": {
         "VehicleID": "Vehicle008_oneoff",
@@ -12279,6 +12730,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle008'",
@@ -12316,10 +12768,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle008_K111801": {
         "VehicleID": "Vehicle008_K111801",
@@ -12643,6 +13105,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle008'",
@@ -12680,10 +13143,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle005": {
         "VehicleID": "Vehicle005",
@@ -12733,6 +13206,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": null,
         "RepairTireCost": 0.0,
@@ -12767,10 +13241,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle005a": {
         "VehicleID": "Vehicle005a",
@@ -12820,6 +13304,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": null,
         "RepairTireCost": 0.0,
@@ -12854,10 +13339,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle024_Mods": {
         "VehicleID": "Vehicle024_Mods",
@@ -12919,6 +13414,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle010'",
@@ -12956,10 +13452,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle015A": {
         "VehicleID": "Vehicle015A",
@@ -13018,6 +13524,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle015'",
@@ -13055,10 +13562,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": false,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle031": {
         "VehicleID": "Vehicle031",
@@ -13397,6 +13914,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -13434,10 +13952,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle031_toq": {
         "VehicleID": "Vehicle031",
@@ -13776,6 +14304,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -13813,10 +14342,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle023": {
         "VehicleID": "Vehicle023",
@@ -13921,6 +14460,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 6800000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle015'",
@@ -13958,10 +14498,20 @@
         "SortLevel": 1,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle030": {
         "VehicleID": "Vehicle030",
@@ -14330,6 +14880,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 10000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -14367,10 +14918,20 @@
         "SortLevel": 17,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": false,
         "CanTryDriveCloneID": "None",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle032": {
         "VehicleID": "Vehicle032",
@@ -14709,6 +15270,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -14746,10 +15308,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle034": {
         "VehicleID": "Vehicle034",
@@ -15088,6 +15660,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -15125,10 +15698,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "EngineeringDriveSkill",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle027": {
         "VehicleID": "Vehicle027",
@@ -15470,6 +16053,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle020'",
@@ -15507,10 +16091,20 @@
         "SortLevel": 5,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle040": {
         "VehicleID": "Vehicle040",
@@ -15560,6 +16154,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -15597,10 +16192,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle041": {
         "VehicleID": "Vehicle041",
@@ -15650,6 +16255,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -15687,10 +16293,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle026": {
         "VehicleID": "Vehicle026",
@@ -16089,6 +16705,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 18000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle026'",
@@ -16126,10 +16743,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle005_Player": {
         "VehicleID": "Vehicle005_Player",
@@ -16179,6 +16806,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": null,
         "RepairTireCost": 0.0,
@@ -16213,10 +16841,20 @@
         "SortLevel": 0,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle003Combat": {
         "VehicleID": "Vehicle003Combat",
@@ -16567,6 +17205,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -16604,10 +17243,20 @@
         "SortLevel": 20,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle017Combat": {
         "VehicleID": "Vehicle017Combat",
@@ -17006,6 +17655,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle017'",
@@ -17043,10 +17693,20 @@
         "SortLevel": 10,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle002Combat": {
         "VehicleID": "Vehicle002Combat",
@@ -17397,6 +18057,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle002'",
@@ -17434,10 +18095,20 @@
         "SortLevel": 6,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007Combat": {
         "VehicleID": "Vehicle007Combat",
@@ -17764,6 +18435,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -17801,10 +18473,20 @@
         "SortLevel": 3,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle018Combat": {
         "VehicleID": "Vehicle018Combat",
@@ -18203,6 +18885,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle018'",
@@ -18240,10 +18923,20 @@
         "SortLevel": 4,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle020Combat": {
         "VehicleID": "Vehicle020Combat",
@@ -18594,6 +19287,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle020'",
@@ -18631,10 +19325,20 @@
         "SortLevel": 5,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle016Combat": {
         "VehicleID": "Vehicle016Combat",
@@ -19057,6 +19761,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle016'",
@@ -19094,10 +19799,20 @@
         "SortLevel": 9,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle008Combat": {
         "VehicleID": "Vehicle008Combat",
@@ -19448,6 +20163,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle008'",
@@ -19485,10 +20201,20 @@
         "SortLevel": 2,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle021Combat": {
         "VehicleID": "Vehicle021Combat",
@@ -19887,6 +20613,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle021'",
@@ -19924,10 +20651,20 @@
         "SortLevel": 11,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle006Combat": {
         "VehicleID": "Vehicle006Combat",
@@ -20227,6 +20964,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle006'",
@@ -20264,10 +21002,20 @@
         "SortLevel": 16,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle035": {
         "VehicleID": "Vehicle035",
@@ -20606,6 +21354,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -20643,10 +21392,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "EngineeringDriveSkill",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle039": {
         "VehicleID": "Vehicle039",
@@ -20781,6 +21540,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -20818,10 +21578,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle007_drivingschool": {
         "VehicleID": "Vehicle007_drivingschool",
@@ -21148,6 +21918,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle007'",
@@ -21185,10 +21956,20 @@
         "SortLevel": 3,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle013": {
         "VehicleID": "Vehicle013",
@@ -21323,6 +22104,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -21360,10 +22142,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle014": {
         "VehicleID": "Vehicle014",
@@ -21489,6 +22281,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -21526,10 +22319,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_WaterDrive",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle044": {
         "VehicleID": "Vehicle044",
@@ -21664,6 +22467,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -21701,10 +22505,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": false,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_WaterDrive",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle036": {
         "VehicleID": "Vehicle036",
@@ -22043,6 +22857,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -22080,10 +22895,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "EngineeringDriveSkill",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle033": {
         "VehicleID": "Vehicle033",
@@ -22422,6 +23247,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -22459,10 +23285,20 @@
         "SortLevel": 14,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "EngineeringDriveSkill",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle043": {
         "VehicleID": "Vehicle043",
@@ -22570,6 +23406,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 4000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle043'",
@@ -22607,10 +23444,20 @@
         "SortLevel": 1,
         "IsUseCustomPlate": false,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle003Scaled": {
         "VehicleID": "Vehicle003Scaled",
@@ -22985,6 +23832,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -23022,10 +23870,20 @@
         "SortLevel": 20,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle066": {
         "VehicleID": "Vehicle066",
@@ -23151,6 +24009,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -23188,10 +24047,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_WaterDrive",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle044Motorboatrace": {
         "VehicleID": "Vehicle044Motorboatrace",
@@ -23317,6 +24186,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -23354,10 +24224,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": false,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle_013_Hight_WJ106501": {
         "VehicleID": "Vehicle_013_Hight_WJ106501",
@@ -23492,6 +24372,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -23529,10 +24410,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle044Collect": {
         "VehicleID": "Vehicle044Collect",
@@ -23658,6 +24549,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -23695,10 +24587,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_WaterDrive",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle044TestDrive": {
         "VehicleID": "Vehicle044TestDrive",
@@ -23824,6 +24726,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle024'",
@@ -23861,10 +24764,20 @@
         "SortLevel": 13,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": false,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_WaterDrive",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle037": {
         "VehicleID": "Vehicle037",
@@ -24236,6 +25149,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 7000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle037'",
@@ -24273,10 +25187,20 @@
         "SortLevel": 6,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle054": {
         "VehicleID": "Vehicle054",
@@ -24645,6 +25569,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle002'",
@@ -24682,10 +25607,20 @@
         "SortLevel": 6,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": true,
-        "CanSwitchToDLC": true
+        "CanSwitchToDLC": true,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle038": {
         "VehicleID": "Vehicle038",
@@ -25057,6 +25992,7 @@
           "Y": 0.0,
           "Z": 100.0
         },
+        "VehiclePrice": 9000000,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle038'",
@@ -25094,10 +26030,20 @@
         "SortLevel": 6,
         "IsUseCustomPlate": true,
         "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
         "CanTryDrive": true,
         "CanTryDriveCloneID": "DLC_RT_C1_clone",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       },
       "Vehicle055": {
         "VehicleID": "Vehicle055",
@@ -25153,6 +26099,7 @@
           "Y": 0.0,
           "Z": 150.0
         },
+        "VehiclePrice": 0,
         "RepairCurrentId": "Fons",
         "EnduranceProps": {
           "ObjectName": "CurveTable'CV_Vehicle003'",
@@ -25190,10 +26137,2561 @@
         "SortLevel": 17,
         "IsUseCustomPlate": false,
         "IsShowEndurance": false,
+        "bShowInCarPlacementList": false,
         "CanTryDrive": false,
         "CanTryDriveCloneID": "None",
         "CanFishHook": false,
-        "CanSwitchToDLC": false
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle045": {
+        "VehicleID": "Vehicle045",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_GashaponLottery",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_045_name",
+          "SourceString": "「坦途」",
+          "LocalizedString": "「坦途」"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_002_name",
+          "SourceString": "TerraX",
+          "LocalizedString": "TerraX"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_045_use",
+          "SourceString": "你所驶过的路，都将变为坦途。",
+          "LocalizedString": "你所驶过的路，都将变为坦途。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Tank",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight.BP_Vehicle_045_Hight_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Skin",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "Vehicle045",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'CV_Vehicle045'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/CV_Vehicle045.0"
+        },
+        "RepairTireCost": 0.0,
+        "RepairSpecialGlassCost": 0.0,
+        "ExplosionExtraCost": 2500.0,
+        "IsSpawnNear": true,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "None",
+        "BasePropsScore": [],
+        "SortLevel": 1,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle047": {
+        "VehicleID": "Vehicle047",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_GashaponLottery",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_047_name",
+          "SourceString": "「试作型陆地霸者001」",
+          "LocalizedString": "「试作型陆地霸者001」"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_007_name",
+          "SourceString": "Hikari's",
+          "LocalizedString": "Hikari's"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_047_use",
+          "SourceString": "「这辆车很气派嘛！但是为什么不会动啊？」「坐过摇摇车没？看到上面的投币口了吗？开起来要钱的嘛！」「什么嘛，要钱的啊！」",
+          "LocalizedString": "「这辆车很气派嘛！但是为什么不会动啊？」「坐过摇摇车没？看到上面的投币口了吗？开起来要钱的嘛！」「什么嘛，要钱的啊！」"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Kart",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON31.YH_UI_car_ICON31",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON31.YH_UI_car_ICON31",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_047/BP_Vehicle_047.BP_Vehicle_047_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Skin",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "Vehicle047",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'CV_Vehicle043'",
+          "ObjectPath": "/Game/DataTable/Vehicle/CV_Vehicle043.0"
+        },
+        "RepairTireCost": 0.0,
+        "RepairSpecialGlassCost": 0.0,
+        "ExplosionExtraCost": 0.0,
+        "IsSpawnNear": true,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.130526,
+            "W": 0.991445,
+            "IsNormalized": true,
+            "Size": 1.0000001,
+            "SizeSquared": 1.0000002
+          },
+          "Translation": {
+            "X": 350.0,
+            "Y": 150.0,
+            "Z": -30.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "None",
+        "BasePropsScore": [],
+        "SortLevel": 1,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": false,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": true,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 10,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.5
+        },
+        "DrivePanelExtensionID": "LionDrivePanel",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle060": {
+        "VehicleID": "Vehicle060",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_003_name",
+          "SourceString": "新越",
+          "LocalizedString": "新越"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Rent_template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_060/BP_Vehicle_060_Module.BP_Vehicle_060_Module_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Engine",
+            "Value": {
+              "Rotation": {
+                "X": 0.033134,
+                "Y": 0.170458,
+                "Z": -0.18791,
+                "W": 0.966714,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.99999994
+              },
+              "Translation": {
+                "X": 200.0,
+                "Y": 200.0,
+                "Z": 106.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Brake",
+            "Value": {
+              "Rotation": {
+                "X": 0.014919,
+                "Y": 0.040989,
+                "Z": -0.341695,
+                "W": 0.938798,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.9999999
+              },
+              "Translation": {
+                "X": 300.0,
+                "Y": 400.0,
+                "Z": -10.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Gearbox",
+            "Value": {
+              "Rotation": {
+                "X": 0.033134,
+                "Y": 0.170458,
+                "Z": -0.18791,
+                "W": 0.966714,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.99999994
+              },
+              "Translation": {
+                "X": 200.0,
+                "Y": 200.0,
+                "Z": 106.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Suspension",
+            "Value": {
+              "Rotation": {
+                "X": 0.014919,
+                "Y": 0.040989,
+                "Z": -0.341695,
+                "W": 0.938798,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.9999999
+              },
+              "Translation": {
+                "X": 300.0,
+                "Y": 400.0,
+                "Z": -10.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Color",
+            "Value": {
+              "Rotation": {
+                "X": 0.015134,
+                "Y": 0.085832,
+                "Z": -0.172987,
+                "W": 0.98106,
+                "IsNormalized": true,
+                "Size": 0.9999997,
+                "SizeSquared": 0.9999994
+              },
+              "Translation": {
+                "X": 50.0,
+                "Y": 310.0,
+                "Z": 80.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_FrontBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 100.0,
+                "Y": 30.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_BackBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.891007,
+                "W": 0.45399,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000004
+              },
+              "Translation": {
+                "X": 1106.0,
+                "Y": 500.0,
+                "Z": -40.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Spoiler",
+            "Value": {
+              "Rotation": {
+                "X": 0.085625,
+                "Y": 0.059955,
+                "Z": -0.814665,
+                "W": 0.570434,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 1000.0,
+                "Y": 600.0,
+                "Z": 90.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": 0.015134,
+                "Y": 0.085832,
+                "Z": -0.172987,
+                "W": 0.98106,
+                "IsNormalized": true,
+                "Size": 0.9999997,
+                "SizeSquared": 0.9999994
+              },
+              "Translation": {
+                "X": 50.0,
+                "Y": 310.0,
+                "Z": 80.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Wheel",
+            "Value": {
+              "Rotation": {
+                "X": 0.014919,
+                "Y": 0.040989,
+                "Z": -0.341695,
+                "W": 0.938798,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.9999999
+              },
+              "Translation": {
+                "X": 300.0,
+                "Y": 400.0,
+                "Z": -10.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Tyre",
+            "Value": {
+              "Rotation": {
+                "X": 0.014919,
+                "Y": 0.040989,
+                "Z": -0.341695,
+                "W": 0.938798,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.9999999
+              },
+              "Translation": {
+                "X": 300.0,
+                "Y": 400.0,
+                "Z": -10.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleHook",
+            "Value": {
+              "Rotation": {
+                "X": 0.06905965,
+                "Y": 0.05316849,
+                "Z": -0.97292733,
+                "W": 0.21404731,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 1115.0272,
+                "Y": 200.41006,
+                "Z": 59.58524
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'CV_Vehicle007'",
+          "ObjectPath": "/Game/DataTable/Vehicle/CV_Vehicle007.0"
+        },
+        "RepairTireCost": 100.0,
+        "RepairSpecialGlassCost": 200.0,
+        "ExplosionExtraCost": 800.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "VehicleShop01",
+        "BasePropsScore": [],
+        "SortLevel": 3,
+        "IsUseCustomPlate": true,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": true,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle060a": {
+        "VehicleID": "Vehicle060a",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060a_name",
+          "SourceString": "A001",
+          "LocalizedString": "A001"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_003_name",
+          "SourceString": "新越",
+          "LocalizedString": "新越"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060a_desc",
+          "SourceString": "新越制造，用于医护救援。",
+          "LocalizedString": "新越制造，用于医护救援。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard37.YH_UI_CarCard37",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard37.YH_UI_CarCard37",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_060/BP_Vehicle_060a_Module.BP_Vehicle_060a_Module_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Engine",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.13052602,
+                "W": 0.9914449,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Brake",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Gearbox",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Suspension",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Color",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_FrontBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_BackBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Spoiler",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Wheel",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Tyre",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleHook",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelMark",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.13052602,
+                "W": 0.9914449,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelSmoke",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.13052602,
+                "W": 0.9914449,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle060a'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle060a.0"
+        },
+        "RepairTireCost": 200.0,
+        "RepairSpecialGlassCost": 400.0,
+        "ExplosionExtraCost": 1500.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.13052602,
+            "W": 0.9914449,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -800.0,
+            "Y": 550.0,
+            "Z": -30.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "Shop_039_06_01",
+        "BasePropsScore": [],
+        "SortLevel": 3,
+        "IsUseCustomPlate": true,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle060b": {
+        "VehicleID": "Vehicle060b",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060b_name",
+          "SourceString": "E001",
+          "LocalizedString": "E001"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_003_name",
+          "SourceString": "新越",
+          "LocalizedString": "新越"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060b_desc",
+          "SourceString": "新越制造，用于押运囚犯。",
+          "LocalizedString": "新越制造，用于押运囚犯。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard36.YH_UI_CarCard36",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard36.YH_UI_CarCard36",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_060/BP_Vehicle_060b_Module.BP_Vehicle_060b_Module_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Engine",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Brake",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Gearbox",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Suspension",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Color",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_FrontBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_BackBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Spoiler",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Wheel",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Tyre",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleHook",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelMark",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelSmoke",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle060b'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle060b.0"
+        },
+        "RepairTireCost": 200.0,
+        "RepairSpecialGlassCost": 400.0,
+        "ExplosionExtraCost": 1500.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.130526,
+            "W": 0.991445,
+            "IsNormalized": true,
+            "Size": 1.0000001,
+            "SizeSquared": 1.0000002
+          },
+          "Translation": {
+            "X": -800.0,
+            "Y": 550.0,
+            "Z": -30.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "Shop_039_06_01",
+        "BasePropsScore": [],
+        "SortLevel": 3,
+        "IsUseCustomPlate": true,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle060c": {
+        "VehicleID": "Vehicle060c",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060c_name",
+          "SourceString": "C001",
+          "LocalizedString": "C001"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_003_name",
+          "SourceString": "新越",
+          "LocalizedString": "新越"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_060c_desc",
+          "SourceString": "新越制造，用于押运各类贵重物品。",
+          "LocalizedString": "新越制造，用于押运各类贵重物品。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": true,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard35.YH_UI_CarCard35",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard35.YH_UI_CarCard35",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_060/BP_Vehicle_060c_Module.BP_Vehicle_060c_Module_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Engine",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Brake",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Gearbox",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Suspension",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Color",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_FrontBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_BackBodyKit",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Spoiler",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Wheel",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Tyre",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleHook",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -800.0,
+                "Y": 550.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelMark",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_VehicleWheelSmoke",
+            "Value": {
+              "Rotation": {
+                "X": -0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": -750.0,
+                "Y": 525.0,
+                "Z": -50.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle060c'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle060c.0"
+        },
+        "RepairTireCost": 200.0,
+        "RepairSpecialGlassCost": 400.0,
+        "ExplosionExtraCost": 1500.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.130526,
+            "W": 0.991445,
+            "IsNormalized": true,
+            "Size": 1.0000001,
+            "SizeSquared": 1.0000002
+          },
+          "Translation": {
+            "X": -800.0,
+            "Y": 550.0,
+            "Z": -30.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "JumpToLogisticsShop",
+        "BasePropsScore": [],
+        "SortLevel": 3,
+        "IsUseCustomPlate": true,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle009a_Kuba": {
+        "VehicleID": "Vehicle009a_Kuba",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_009_name",
+          "SourceString": "Ori-LV01",
+          "LocalizedString": "Ori-LV01"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_004_name",
+          "SourceString": "奥利哈刚",
+          "LocalizedString": "奥利哈刚"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_009a_Kuba_desc",
+          "SourceString": "库霸快送定制车型。坚固货厢，保障运输安全。",
+          "LocalizedString": "库霸快送定制车型。坚固货厢，保障运输安全。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": false,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard34.YH_UI_CarCard34",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard34.YH_UI_CarCard34",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_009/BP_Vehicle_009a_Kuba.BP_Vehicle_009a_Kuba_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle009a_Kuba'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle009a_Kuba.0"
+        },
+        "RepairTireCost": 0.0,
+        "RepairSpecialGlassCost": 0.0,
+        "ExplosionExtraCost": 1000.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 60.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "LogisticsGuide",
+        "BasePropsScore": [],
+        "SortLevel": 0,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": false,
+        "CanTryDriveCloneID": "None",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle031a_Kuba": {
+        "VehicleID": "Vehicle031a_Kuba",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_031a_Kuba_name",
+          "SourceString": "Ori-LV03",
+          "LocalizedString": "Ori-LV03"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_004_name",
+          "SourceString": "奥利哈刚",
+          "LocalizedString": "奥利哈刚"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_031a_Kuba_desc",
+          "SourceString": "库霸快送定制车型。更大容量的坚固货厢，保障运输安全。",
+          "LocalizedString": "库霸快送定制车型。更大容量的坚固货厢，保障运输安全。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": false,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard33.YH_UI_CarCard33",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard33.YH_UI_CarCard33",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_031/BP_Vehicle_031A_Kuba.BP_Vehicle_031A_Kuba_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle031a_Kuba'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle031a_Kuba.0"
+        },
+        "RepairTireCost": 0.0,
+        "RepairSpecialGlassCost": 0.0,
+        "ExplosionExtraCost": 1500.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.13052602,
+            "W": 0.9914449,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -800.0,
+            "Y": 550.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "JumpToLogisticsCompanyLevel",
+        "BasePropsScore": [],
+        "SortLevel": 0,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": false,
+        "CanTryDrive": false,
+        "CanTryDriveCloneID": "None",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle031b": {
+        "VehicleID": "Vehicle031b",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_Shop",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_031b_name",
+          "SourceString": "Ori-TT01",
+          "LocalizedString": "Ori-TT01"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_004_name",
+          "SourceString": "奥利哈刚",
+          "LocalizedString": "奥利哈刚"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_031b_desc",
+          "SourceString": "奥利哈刚制造，用于托运车辆、交通事故救援等。",
+          "LocalizedString": "奥利哈刚制造，用于托运车辆、交通事故救援等。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": false,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Car",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard32.YH_UI_CarCard32",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_CarCard32.YH_UI_CarCard32",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_031/BP_Vehicle_031B.BP_Vehicle_031B_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'Vehicle031b'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/Vehicle031b.0"
+        },
+        "RepairTireCost": 160.0,
+        "RepairSpecialGlassCost": 275.0,
+        "ExplosionExtraCost": 1285.0,
+        "IsSpawnNear": false,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.13052602,
+            "W": 0.9914449,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -500.0,
+            "Y": 300.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "Shop_039_06_01",
+        "BasePropsScore": [],
+        "SortLevel": 0,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": false,
+        "CanTryDrive": false,
+        "CanTryDriveCloneID": "None",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
+      },
+      "Vehicle045_game": {
+        "VehicleID": "Vehicle045_game",
+        "PreVehicleNumId": {
+          "CultureInvariantString": null
+        },
+        "IsUseNameplate": false,
+        "NameplateBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "NameplateBgMaterialIndex": 0,
+        "IsUseNameplateSpecialShow": false,
+        "GetVehicleSourceType": "EGetVehicleSourceType::GetVehicle_GashaponLottery",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_045_name",
+          "SourceString": "「坦途」",
+          "LocalizedString": "「坦途」"
+        },
+        "Brand": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Trademark_002_name",
+          "SourceString": "TerraX",
+          "LocalizedString": "TerraX"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle_045_use",
+          "SourceString": "你所驶过的路，都将变为坦途。",
+          "LocalizedString": "你所驶过的路，都将变为坦途。"
+        },
+        "bDefaultUnLock": false,
+        "bCanModified": false,
+        "VehicleType": "EVehicleTemplateType::EVTT_Buy_Template",
+        "VehicleKeyType": "EVehicleKeyUseType::EKUT_Tank",
+        "DriveAnimType": "EVehicleDriveAnimType::VDAT_Car",
+        "UnLockNormalIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "UnLockSelectedIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "InVehicleTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_game.BP_Vehicle_045_game_C",
+          "SubPathString": ""
+        },
+        "ModulePreviewCamera": [
+          {
+            "Key": "EVehicleModuleType::EVMT_Decal",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "Key": "EVehicleModuleType::EVMT_Skin",
+            "Value": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -0.130526,
+                "W": 0.991445,
+                "IsNormalized": true,
+                "Size": 1.0000001,
+                "SizeSquared": 1.0000002
+              },
+              "Translation": {
+                "X": 350.0,
+                "Y": 150.0,
+                "Z": -30.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ],
+        "VehicleSelfieCameraPositions": [],
+        "BoatModulePreviewCamera": [],
+        "UnLockID": "None",
+        "TrackGoalOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 100.0
+        },
+        "VehiclePrice": 0,
+        "RepairCurrentId": "Fons",
+        "EnduranceProps": {
+          "ObjectName": "CurveTable'CV_Vehicle045'",
+          "ObjectPath": "/Game/DataTable/Vehicle/RepairCostCurve/CV_Vehicle045.0"
+        },
+        "RepairTireCost": 0.0,
+        "RepairSpecialGlassCost": 0.0,
+        "ExplosionExtraCost": 2500.0,
+        "IsSpawnNear": true,
+        "SpawnDirection": "ESpawnActorByPlayerDirection::Right",
+        "SpawnDistance": 150.0,
+        "WholeVehiclePreviewTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "JumpToUISourceId": "None",
+        "BasePropsScore": [],
+        "SortLevel": 1,
+        "IsUseCustomPlate": false,
+        "IsShowEndurance": true,
+        "bShowInCarPlacementList": true,
+        "CanTryDrive": true,
+        "CanTryDriveCloneID": "DLC_RT_C1_clone",
+        "CanFishHook": false,
+        "CanSwitchToDLC": false,
+        "LionBoostPurchaseConfig": {
+          "bEnable": false,
+          "FonsCostPerStack": 1,
+          "MaxStackCount": 5,
+          "StackDuration": 2.0,
+          "StackInteractionCooldown": 0.3
+        },
+        "DrivePanelExtensionID": "None",
+        "DefaultAmmoItemIDs": []
       }
     }
   }

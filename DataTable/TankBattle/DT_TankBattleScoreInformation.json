@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TankBattleScoreInformation",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/TankBattle/DT_TankBattleScoreInformation",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TankBattleScoreInformation'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "TankBattleBehavior_01": {
+        "ScoreType": "ETankBattleScoreType::Kill",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": ""
+        },
+        "score": 100
+      },
+      "TankBattleBehavior_02_1": {
+        "ScoreType": "ETankBattleScoreType::EarlyKill",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 3.0,
+          "ID": ""
+        },
+        "score": 400
+      },
+      "TankBattleBehavior_02_2": {
+        "ScoreType": "ETankBattleScoreType::BattleAreaKill",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": ""
+        },
+        "score": 80
+      },
+      "TankBattleBehavior_03": {
+        "ScoreType": "ETankBattleScoreType::DamageAmount",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 1000.0,
+          "ID": ""
+        },
+        "score": 80
+      },
+      "TankBattleBehavior_04_1": {
+        "ScoreType": "ETankBattleScoreType::PickItem",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": "TankBattleBox_Bullet"
+        },
+        "score": 50
+      },
+      "TankBattleBehavior_04_2": {
+        "ScoreType": "ETankBattleScoreType::PickItem",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": "TankBattleBox_Defense"
+        },
+        "score": 75
+      },
+      "TankBattleBehavior_04_3": {
+        "ScoreType": "ETankBattleScoreType::PickItem",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": "TankBattleBox_Functional"
+        },
+        "score": 75
+      },
+      "TankBattleBehavior_04_4": {
+        "ScoreType": "ETankBattleScoreType::PickItem",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": "TankBattleBox_Airdrop"
+        },
+        "score": 300
+      },
+      "TankBattleBehavior_05": {
+        "ScoreType": "ETankBattleScoreType::CommonResult",
+        "Conditions": {
+          "Count": 1,
+          "Amount": 0.0,
+          "ID": ""
+        },
+        "score": 1500
+      }
+    }
+  }
+]

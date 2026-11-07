@@ -589,7 +589,7 @@
       "W108801": {
         "QuestId": "W108801",
         "QuestName": {
-          "CultureInvariantString": "乐园章鱼游客拍照1"
+          "CultureInvariantString": "乐园章鱼游客假拍照1"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -603,12 +603,14 @@
         "bAllowPukalandCancelTracking": true,
         "ObjectivesInfo": [
           {
-            "SelfieCapturedIDArray": [
-              "W108801"
-            ],
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
             "ObjectiveID": "1",
             "ObjectiveTips": "",
-            "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
               "AssetPathName": "",
@@ -630,29 +632,7 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": {
-              "bForceTrackLocation": false,
-              "TrackLocation": {
-                "X": -94050.0,
-                "Y": 166150.0,
-                "Z": 4080.0
-              },
-              "fRange": 0.0,
-              "ShowCenter": false,
-              "MulTrackLocationArray": [],
-              "TrackOffLocation": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-              },
-              "TrackMapName": "",
-              "bNeedCrossBox": false,
-              "bTrackGoalEnable": true,
-              "bNeedPassParking": false,
-              "VehicleParkingArray": [],
-              "AzimuthIndicatorable": true,
-              "bShowNavigationPath": true
-            },
+            "TrackInfo": null,
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
@@ -730,7 +710,7 @@
       "W108802": {
         "QuestId": "W108802",
         "QuestName": {
-          "CultureInvariantString": "乐园章鱼游客拍照2"
+          "CultureInvariantString": "乐园章鱼游客假拍照2"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -876,7 +856,7 @@
       "W108901": {
         "QuestId": "W108901",
         "QuestName": {
-          "CultureInvariantString": "乐园摩天轮游客拍照1"
+          "CultureInvariantString": "乐园摩天轮游客假拍照1"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -890,12 +870,14 @@
         "bAllowPukalandCancelTracking": true,
         "ObjectivesInfo": [
           {
-            "SelfieCapturedIDArray": [
-              "W108901"
-            ],
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
             "ObjectiveID": "1",
             "ObjectiveTips": "",
-            "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
               "AssetPathName": "",
@@ -917,29 +899,7 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": {
-              "bForceTrackLocation": false,
-              "TrackLocation": {
-                "X": -94050.0,
-                "Y": 166150.0,
-                "Z": 4080.0
-              },
-              "fRange": 0.0,
-              "ShowCenter": false,
-              "MulTrackLocationArray": [],
-              "TrackOffLocation": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-              },
-              "TrackMapName": "",
-              "bNeedCrossBox": false,
-              "bTrackGoalEnable": true,
-              "bNeedPassParking": false,
-              "VehicleParkingArray": [],
-              "AzimuthIndicatorable": true,
-              "bShowNavigationPath": true
-            },
+            "TrackInfo": null,
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
@@ -983,7 +943,7 @@
         "QuestResetTime": null,
         "FailedData": null,
         "NextQuests": [
-          "W100402"
+          "W108902"
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
@@ -1017,7 +977,7 @@
       "W108902": {
         "QuestId": "W108902",
         "QuestName": {
-          "CultureInvariantString": "乐园摩天轮游客拍照2"
+          "CultureInvariantString": "乐园摩天轮游客假拍照2"
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -10656,7 +10616,7 @@
               "AssetPathName": "",
               "SubPathString": ""
             },
-            "ObjectiveID": "None",
+            "ObjectiveID": "1",
             "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
@@ -10723,7 +10683,9 @@
         "LimitMapName": "None",
         "QuestResetTime": null,
         "FailedData": null,
-        "NextQuests": [],
+        "NextQuests": [
+          "W108602"
+        ],
         "bAutoNext": true,
         "NeedSubmit": false,
         "PatcherTag": "None",
@@ -10800,29 +10762,7 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": {
-              "bForceTrackLocation": false,
-              "TrackLocation": {
-                "X": -151210.0,
-                "Y": 151920.0,
-                "Z": 6650.0
-              },
-              "fRange": 0.0,
-              "ShowCenter": false,
-              "MulTrackLocationArray": [],
-              "TrackOffLocation": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-              },
-              "TrackMapName": "",
-              "bNeedCrossBox": false,
-              "bTrackGoalEnable": true,
-              "bNeedPassParking": false,
-              "VehicleParkingArray": [],
-              "AzimuthIndicatorable": true,
-              "bShowNavigationPath": true
-            },
+            "TrackInfo": null,
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
@@ -10852,12 +10792,7 @@
         "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
-        "PreQuests": [
-          {
-            "PreQuestName": "<!>乐园找小孩老师",
-            "ObjectiveID": "W108601"
-          }
-        ],
+        "PreQuests": [],
         "PreQuestConditionType": "EQuestConditionType::And",
         "NeedLevel": 0,
         "NeedYahahaID": "None",

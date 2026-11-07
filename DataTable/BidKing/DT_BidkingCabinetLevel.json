@@ -1,0 +1,134 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BidkingCabinetLevel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/BidKing/DT_BidkingCabinetLevel",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'BidkingCabinetLevelConfigData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "bidding_cabinet_level1": {
+        "Level": 3,
+        "DropID": "drop_bidding_cabinet_level3",
+        "Description": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BPUI_BidKingCabinetUpgrade_UnlockCabinet",
+          "SourceString": "解锁收藏柜特效",
+          "LocalizedString": "解锁收藏柜特效"
+        },
+        "NeedCoinCount": 50000000,
+        "LevelIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_UpImg1.YH_UI_Auction_Collect_UpImg1",
+          "SubPathString": ""
+        },
+        "EntryNiagaraEffect": {
+          "AssetPathName": "/Game/FX/Nia/Common/Card/NS_CabinetLight_04.NS_CabinetLight_04",
+          "SubPathString": ""
+        },
+        "BackgroundFrameTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BackgroundFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgOrange1.YH_UI_Auction_Collect_BgOrange1",
+          "SubPathString": ""
+        },
+        "CabinetFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontOrange.YH_UI_Auction_Collect_FontOrange",
+          "SubPathString": ""
+        },
+        "CabinetObliqueFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgOrange2.YH_UI_Auction_Collect_BgOrange2",
+          "SubPathString": ""
+        },
+        "LevelImageTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontLV3.YH_UI_Auction_Collect_FontLV3",
+          "SubPathString": ""
+        }
+      },
+      "bidding_cabinet_level2": {
+        "Level": 2,
+        "DropID": "drop_bidding_cabinet_level2",
+        "Description": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BPUI_BidKingCabinetUpgrade_UnlockCabinet",
+          "SourceString": "解锁收藏柜特效",
+          "LocalizedString": "解锁收藏柜特效"
+        },
+        "NeedCoinCount": 10000000,
+        "LevelIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_UpImg2.YH_UI_Auction_Collect_UpImg2",
+          "SubPathString": ""
+        },
+        "EntryNiagaraEffect": {
+          "AssetPathName": "/Game/FX/Nia/Common/Card/NS_CabinetLight_02.NS_CabinetLight_02",
+          "SubPathString": ""
+        },
+        "BackgroundFrameTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BackgroundFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgPurple1.YH_UI_Auction_Collect_BgPurple1",
+          "SubPathString": ""
+        },
+        "CabinetFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontPurple.YH_UI_Auction_Collect_FontPurple",
+          "SubPathString": ""
+        },
+        "CabinetObliqueFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgPurple2.YH_UI_Auction_Collect_BgPurple2",
+          "SubPathString": ""
+        },
+        "LevelImageTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontLV2.YH_UI_Auction_Collect_FontLV2",
+          "SubPathString": ""
+        }
+      },
+      "bidding_cabinet_level3": {
+        "Level": 1,
+        "DropID": "drop_bidding_cabinet_level1",
+        "Description": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BPUI_BidKingCabinetUpgrade_UnlockCabinet",
+          "SourceString": "解锁收藏柜特效",
+          "LocalizedString": "解锁收藏柜特效"
+        },
+        "NeedCoinCount": 5000000,
+        "LevelIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_UpImg3.YH_UI_Auction_Collect_UpImg3",
+          "SubPathString": ""
+        },
+        "EntryNiagaraEffect": {
+          "AssetPathName": "/Game/FX/Nia/Common/Card/NS_CabinetLight_01.NS_CabinetLight_01",
+          "SubPathString": ""
+        },
+        "BackgroundFrameTexture": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BackgroundFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgBlue1.YH_UI_Auction_Collect_BgBlue1",
+          "SubPathString": ""
+        },
+        "CabinetFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontBlue.YH_UI_Auction_Collect_FontBlue",
+          "SubPathString": ""
+        },
+        "CabinetObliqueFlagTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_BgBlue2.YH_UI_Auction_Collect_BgBlue2",
+          "SubPathString": ""
+        },
+        "LevelImageTexture": {
+          "AssetPathName": "/Game/UI/UI/Bid/clectioncase/YH_UI_Auction_Collect_FontLV1.YH_UI_Auction_Collect_FontLV1",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

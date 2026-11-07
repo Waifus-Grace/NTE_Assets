@@ -41,7 +41,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_RT_C1": {
         "MapName": "DLC_RT_C1",
@@ -737,7 +740,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "Racing_LD": {
         "MapName": "DLC_RT_C2_Racing",
@@ -768,7 +774,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "XL_map_bigworld_online": {
         "MapName": "XL_map_bigworld_test",
@@ -799,7 +808,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "Create_Room_tips_online",
+          "SourceString": "正在进入联机世界",
+          "LocalizedString": "正在进入联机世界"
+        }
       },
       "TestMap_yaoql": {
         "MapName": "TestMap_yaoql",
@@ -830,7 +845,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_FilmOrbit_map_WP": {
         "MapName": "DLC_FilmOrbit_map_WP",
@@ -861,7 +879,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "FilmOrbit_map_WP_World": {
         "MapName": "FilmOrbit_map_WP_World",
@@ -892,7 +913,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_hotel": {
         "MapName": "DLC_hotel",
@@ -923,7 +947,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_SpiralDreams": {
         "MapName": "DLC_SpiralDreams",
@@ -954,7 +981,44 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
+      },
+      "DLC_DeadNumber": {
+        "MapName": "DLC_DeadNumber",
+        "MatchMode": "EMatchMode::Default",
+        "RoomMode": "ERoomMode::Single",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 100,
+        "MaxLifetime": 0,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": true,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 10.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Hockshop": {
         "MapName": "DLC_Hockshop",
@@ -985,7 +1049,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Museum_Lamp": {
         "MapName": "DLC_Museum_Lamp",
@@ -1016,7 +1083,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "Zhuqing_level_WP": {
         "MapName": "Zhuqing_level_WP",
@@ -1047,7 +1117,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_MoonDog": {
         "MapName": "DLC_MoonDog",
@@ -1078,7 +1151,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_TrialCharacter_Rabbit": {
         "MapName": "DLC_TrialCharacter_Rabbit",
@@ -1109,7 +1185,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": true,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_DunnerHouse": {
         "MapName": "DLC_DunnerHouse",
@@ -1140,7 +1219,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "TestMap_zhanghao": {
         "MapName": "TestMap_zhanghao",
@@ -1171,7 +1253,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "WeeklyClone_Boss05_1": {
         "MapName": "DLC_Hockshop_week",
@@ -1202,7 +1287,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_2": {
         "MapName": "DLC_Hockshop_week",
@@ -1233,7 +1324,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_3": {
         "MapName": "DLC_Hockshop_week",
@@ -1264,7 +1361,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_4": {
         "MapName": "DLC_Hockshop_week",
@@ -1295,7 +1398,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_5": {
         "MapName": "DLC_Hockshop_week",
@@ -1326,7 +1435,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_6": {
         "MapName": "DLC_Hockshop_week",
@@ -1357,7 +1472,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_7": {
         "MapName": "DLC_Hockshop_week",
@@ -1388,7 +1509,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_1": {
         "MapName": "DLC_Hotel_Week",
@@ -1419,7 +1546,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_2": {
         "MapName": "DLC_Hotel_Week",
@@ -1450,7 +1583,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_3": {
         "MapName": "DLC_Hotel_Week",
@@ -1481,7 +1620,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_4": {
         "MapName": "DLC_Hotel_Week",
@@ -1512,7 +1657,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_5": {
         "MapName": "DLC_Hotel_Week",
@@ -1543,7 +1694,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_6": {
         "MapName": "DLC_Hotel_Week",
@@ -1574,7 +1731,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_7": {
         "MapName": "DLC_Hotel_Week",
@@ -1605,7 +1768,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_Single": {
         "MapName": "DLC_Hockshop_week",
@@ -1636,7 +1805,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "WeeklyClone_Boss10_Single": {
         "MapName": "DLC_Hotel_Week",
@@ -1667,7 +1839,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "robbank": {
         "MapName": "DLC_Bank_Safety",
@@ -1698,7 +1873,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "robbank",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "robbank_Single": {
         "MapName": "DLC_Bank_Safety",
@@ -1729,7 +1910,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Museum_Lamp_Story2": {
         "MapName": "DLC_Museum_Lamp_Story2",
@@ -1760,7 +1944,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Hospital_Single": {
         "MapName": "DLC_Hospital_FB",
@@ -1791,7 +1978,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Hospital_Multi": {
         "MapName": "DLC_Hospital_FB",
@@ -1822,7 +2012,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "TestMap_Racing_WP": {
         "MapName": "TestMap_Racing_WP",
@@ -1853,7 +2046,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Mahjong": {
         "MapName": "DLC_Mahjong",
@@ -1910,7 +2106,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "DLC_RiichiMahjong": {
         "MapName": "DLC_RiichiMahjong",
@@ -1967,7 +2169,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss05_TeamSingle": {
         "MapName": "DLC_Hockshop_week",
@@ -1998,7 +2206,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss10_TeamSingle": {
         "MapName": "DLC_Hotel_Week",
@@ -2029,7 +2243,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "Map_MaruiTest": {
         "MapName": "Map_MaruiTest",
@@ -2060,7 +2280,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "Tetris_Connected": {
         "MapName": "Map_Tetris_Connected",
@@ -2091,7 +2314,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "DLC_hotel_Paimaihui": {
         "MapName": "DLC_hotel",
@@ -2122,7 +2351,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "Trinity_AcceptLayer_None": {
         "MapName": "Trinity_AcceptLayer_None",
@@ -2153,7 +2385,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "zhahonb_level": {
         "MapName": "zhahonb_level",
@@ -2184,7 +2419,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_RT_C1_clone": {
         "MapName": "DLC_RT_C1_clone",
@@ -2215,7 +2453,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_PrisonBoxing": {
         "MapName": "DLC_PrisonBoxing",
@@ -2246,7 +2487,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_Single": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2277,7 +2524,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "WeeklyClone_Boss26_TeamSingle": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2308,7 +2558,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_1": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2339,7 +2595,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_2": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2370,7 +2632,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_3": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2401,7 +2669,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_4": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2432,7 +2706,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_5": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2463,7 +2743,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_6": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2494,7 +2780,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "WeeklyClone_Boss26_7": {
         "MapName": "DLC_DunnerHouse_Week",
@@ -2525,7 +2817,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "BidKing1": {
         "MapName": "DLC_BidKing01",
@@ -2556,7 +2854,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "Maps_4N": {
         "MapName": "Maps_4N",
@@ -2587,7 +2891,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "BidKing2": {
         "MapName": "DLC_BidKing02",
@@ -2618,7 +2925,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "BidKing3": {
         "MapName": "DLC_BidKing03",
@@ -2649,7 +2962,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "PropHunt": {
         "MapName": "DLC_School_HideAndSeek",
@@ -2671,19 +2990,25 @@
           "DLC_Hospital_HideAndSeek"
         ],
         "ReconnectWaitTime": 300,
-        "EnableAutoTravel": true,
+        "EnableAutoTravel": false,
         "EnableSupplement": false,
         "AutoTravelTimeOut": 30,
         "EnableRoomOwner": false,
-        "AutoTravelTime": 1.0,
+        "AutoTravelTime": 10.0,
         "MatchTimeOut": 60,
         "LadderMatchRule": [],
-        "RobotProbability": 0,
+        "RobotProbability": 100,
         "EnableDistinguishPlatform": false,
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "DLC_WuChao": {
         "MapName": "DLC_WuChao",
@@ -2714,11 +3039,14 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Volleyball": {
         "MapName": "DLC_Volleyball",
-        "MatchMode": "EMatchMode::Normal",
+        "MatchMode": "EMatchMode::Ladder",
         "RoomMode": "ERoomMode::Multiple",
         "CloneType": "EMatchCloneType::BeachVolleyball",
         "EnableIncreaseFPS": true,
@@ -2739,13 +3067,678 @@
         "EnableRoomOwner": false,
         "AutoTravelTime": 10.0,
         "MatchTimeOut": 60,
-        "LadderMatchRule": [],
+        "LadderMatchRule": [
+          {
+            "MinValue": 0,
+            "MaxValue": 1000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 2000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 3000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 4000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 5000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 6000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 1000,
+            "MaxValue": 2000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 3000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 4000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 5000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 6000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 7000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 2000,
+            "MaxValue": 3000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 1000,
+                "ExtendMaxValue": 4000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 5000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 6000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 7000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 3000,
+            "MaxValue": 4000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 2000,
+                "ExtendMaxValue": 5000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 1000,
+                "ExtendMaxValue": 6000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 7000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 4000,
+            "MaxValue": 5000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 3000,
+                "ExtendMaxValue": 6000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 2000,
+                "ExtendMaxValue": 7000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 1000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 5000,
+            "MaxValue": 6000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 4000,
+                "ExtendMaxValue": 7000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 3000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 2000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 1000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 0,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 6000,
+            "MaxValue": 7000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 5000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 4000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 3000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 2000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 1000,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 7000,
+            "MaxValue": 8000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 6000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 5000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 4000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 3000,
+                "ExtendMaxValue": 8000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 2000,
+                "ExtendMaxValue": 8000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 8000,
+            "MaxValue": 9000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 10000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 11000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 12000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 13000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 14000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 9000,
+            "MaxValue": 10000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 11000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 12000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 13000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 14000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 15000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 10000,
+            "MaxValue": 11000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 9000,
+                "ExtendMaxValue": 12000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 13000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 14000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 15000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 16000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 11000,
+            "MaxValue": 12000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 10000,
+                "ExtendMaxValue": 13000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 9000,
+                "ExtendMaxValue": 14000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 15000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 16000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 17000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 12000,
+            "MaxValue": 13000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 5,
+                "ExtendMaxTime": 12,
+                "ExtendMinValue": 11000,
+                "ExtendMaxValue": 14000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 10000,
+                "ExtendMaxValue": 15000
+              },
+              {
+                "ExtendMinTime": 7,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 9000,
+                "ExtendMaxValue": 16000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 17000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 8,
+                "ExtendMinValue": 8000,
+                "ExtendMaxValue": 18000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 13000,
+            "MaxValue": 14000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 6,
+                "ExtendMaxTime": 16,
+                "ExtendMinValue": 12000,
+                "ExtendMaxValue": 15000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 18,
+                "ExtendMinValue": 11000,
+                "ExtendMaxValue": 16000
+              },
+              {
+                "ExtendMinTime": 6,
+                "ExtendMaxTime": 16,
+                "ExtendMinValue": 10000,
+                "ExtendMaxValue": 17000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 9000,
+                "ExtendMaxValue": 18000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 14000,
+            "MaxValue": 15000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 6,
+                "ExtendMaxTime": 16,
+                "ExtendMinValue": 13000,
+                "ExtendMaxValue": 16000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 18,
+                "ExtendMinValue": 12000,
+                "ExtendMaxValue": 17000
+              },
+              {
+                "ExtendMinTime": 6,
+                "ExtendMaxTime": 16,
+                "ExtendMinValue": 11000,
+                "ExtendMaxValue": 18000
+              },
+              {
+                "ExtendMinTime": 0,
+                "ExtendMaxTime": 10,
+                "ExtendMinValue": 10000,
+                "ExtendMaxValue": 19000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 15000,
+            "MaxValue": 16000,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 12,
+                "ExtendMaxTime": 25,
+                "ExtendMinValue": 14000,
+                "ExtendMaxValue": 17000
+              },
+              {
+                "ExtendMinTime": 12,
+                "ExtendMaxTime": 20,
+                "ExtendMinValue": 13000,
+                "ExtendMaxValue": 18000
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 12000,
+                "ExtendMaxValue": 19000
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          },
+          {
+            "MinValue": 16000,
+            "MaxValue": 999999,
+            "ValueRules": [
+              {
+                "ExtendMinTime": 12,
+                "ExtendMaxTime": 25,
+                "ExtendMinValue": 15000,
+                "ExtendMaxValue": 999999
+              },
+              {
+                "ExtendMinTime": 12,
+                "ExtendMaxTime": 20,
+                "ExtendMinValue": 14000,
+                "ExtendMaxValue": 999999
+              },
+              {
+                "ExtendMinTime": 8,
+                "ExtendMaxTime": 15,
+                "ExtendMinValue": 13000,
+                "ExtendMaxValue": 999999
+              }
+            ],
+            "RobotRule": {
+              "RobotMinTime": 0,
+              "RobotMaxTime": 0,
+              "RobotProbability": 0
+            }
+          }
+        ],
         "RobotProbability": 0,
         "EnableDistinguishPlatform": false,
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_WaterDrive": {
         "MapName": "DLC_WaterDrive",
@@ -2776,7 +3769,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "PVERoguelike": {
         "MapName": "PVERoguelike",
@@ -2806,8 +3802,11 @@
         "EnableDistinguishPlatform": false,
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
-        "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bSceneResetBufferData": true,
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "CanHongDating": {
         "MapName": "DLC_DunnerHouse_canhongdate",
@@ -2838,7 +3837,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_HeiYu": {
         "MapName": "DLC_HeiYu",
@@ -2869,7 +3871,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Scaled_Single": {
         "MapName": "DLC_Scaled_zx01",
@@ -2900,7 +3905,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_Scaled_Multi": {
         "MapName": "DLC_Scaled_zx01",
@@ -2931,7 +3939,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "GingerbreadDuel": {
         "MapName": "DLC_ShootGingerMan_CH",
@@ -4171,7 +5182,13 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": true
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
       },
       "GuardianGoddess_Battle": {
         "MapName": "GuardianGoddess_Battle",
@@ -4202,7 +5219,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_SpookHouse_FB": {
         "MapName": "DLC_SpookHouse_FB",
@@ -4233,7 +5253,10 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
       "DLC_School_boss01_WP": {
         "MapName": "DLC_School_boss01_WP",
@@ -4264,12 +5287,15 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
       },
-      "DLC_DeadNumber": {
-        "MapName": "DLC_DeadNumber",
+      "WeeklyClone_Boss36_Single": {
+        "MapName": "DLC_WuChao_Week",
         "MatchMode": "EMatchMode::Default",
-        "RoomMode": "ERoomMode::SingleTest",
+        "RoomMode": "ERoomMode::Single",
         "CloneType": "EMatchCloneType::Common",
         "EnableIncreaseFPS": false,
         "SwitchType": "ESwitchType::None",
@@ -4295,7 +5321,414 @@
         "EnableAllocateRoom": true,
         "OnlineEffectID": "Default",
         "bSceneResetBufferData": false,
-        "bPopCreateRoomTips": false
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
+      },
+      "WeeklyClone_Boss36_TeamSingle": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": true,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 10.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_1": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_2": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_3": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_4": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_5": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_6": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "WeeklyClone_Boss36_7": {
+        "MapName": "DLC_WuChao_Week",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 65,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 63.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "DLC_UGC_Racing": {
+        "MapName": "DLC_UGC_Racing",
+        "MatchMode": "EMatchMode::Default",
+        "RoomMode": "ERoomMode::Single",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 40,
+        "MaxLifetime": 0,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 0,
+        "EnableAutoTravel": true,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 10.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": false,
+        "PopCreateRoomTips": {
+          "CultureInvariantString": null
+        }
+      },
+      "TankBattleTest": {
+        "MapName": "Map_TankBattleTest",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::MultipleTest",
+        "CloneType": "EMatchCloneType::TankBattle",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 3600,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 3.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "ui_clone_runnig_switch",
+          "SourceString": "正在进入异象空间",
+          "LocalizedString": "正在进入异象空间"
+        }
+      },
+      "TankBattle": {
+        "MapName": "XL_map_bigworld_test",
+        "MatchMode": "EMatchMode::Normal",
+        "RoomMode": "ERoomMode::Multiple",
+        "CloneType": "EMatchCloneType::TankBattle",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "LevelNum": 1,
+        "LevelRoleNum": 4,
+        "MaxLifetime": 0,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "ReconnectWaitTime": 300,
+        "EnableAutoTravel": false,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 10.0,
+        "MatchTimeOut": 60,
+        "LadderMatchRule": [],
+        "RobotProbability": 0,
+        "EnableDistinguishPlatform": false,
+        "EnableAllocateRoom": true,
+        "OnlineEffectID": "Default",
+        "bSceneResetBufferData": false,
+        "bPopCreateRoomTips": true,
+        "PopCreateRoomTips": {
+          "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+          "Key": "Create_Room_tips_online",
+          "SourceString": "正在进入联机世界",
+          "LocalizedString": "正在进入联机世界"
+        }
       }
     }
   }

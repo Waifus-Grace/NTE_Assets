@@ -529,8 +529,8 @@
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character9_SkillDescFull",
-          "SourceString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值",
-          "LocalizedString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值"
+          "SourceString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值\r\n命运的启言1-5概率均等，命运的启言6概率始终为15%。",
+          "LocalizedString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值\r\n命运的启言1-5概率均等，命运的启言6概率始终为15%。"
         },
         "UnlockQuestID": "S1_Heiyu",
         "UnlockDesc": {
@@ -559,6 +559,69 @@
         "LoseMoneySound": {
           "ObjectName": "AkAudioEvent'Play_Vo_BidKing_CharacterVoice_NPC021_Lose'",
           "ObjectPath": "/Game/WwiseAudio/Events/Voice/Bubble/BidKing/NPC021/Play_Vo_BidKing_CharacterVoice_NPC021_Lose.0"
+        }
+      },
+      "Char9_0": {
+        "Name": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidCharacter10_Name",
+          "SourceString": "曳尔沐",
+          "LocalizedString": "曳尔沐"
+        },
+        "MapMiniImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/200_Fashion_1090_0.200_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/1024_Fashion_1090_0.1024_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "CharacterDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidCharacter10_Desc",
+          "SourceString": "信息不足时，求助一下人脉网吧~",
+          "LocalizedString": "信息不足时，求助一下人脉网吧~"
+        },
+        "SkillName": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillName",
+          "SourceString": "神秘来电",
+          "LocalizedString": "神秘来电"
+        },
+        "SkillDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillDescFull",
+          "SourceString": "每回合随机展示4件信息完全未知藏品的轮廓。若上回合出价并非最高，获得一条场外来电。\r\n场外来电将随机展示3件其他竞拍者的已知藏品信息，不会与自身已知信息重复。",
+          "LocalizedString": "每回合随机展示4件信息完全未知藏品的轮廓。若上回合出价并非最高，获得一条场外来电。\r\n场外来电将随机展示3件其他竞拍者的已知藏品信息，不会与自身已知信息重复。"
+        },
+        "UnlockQuestID": "S1_Yeermu",
+        "UnlockDesc": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "BidKingSimpleQuest_Yeermu_Unlock",
+          "SourceString": "使用20次仪器",
+          "LocalizedString": "使用20次仪器"
+        },
+        "bDefaultUnLock": false,
+        "SortIndex": 10,
+        "SkillListID": [
+          "Character10_Skill_1",
+          "Character10_Skill_2"
+        ],
+        "SkillSound": {
+          "ObjectName": "AkAudioEvent'Play_Vo_BidKing_CharacterVoice_NPC030_Skill'",
+          "ObjectPath": "/Game/WwiseAudio/Events/Voice/Bubble/BidKing/NPC030/Play_Vo_BidKing_CharacterVoice_NPC030_Skill.0"
+        },
+        "GetBidSound": {
+          "ObjectName": "AkAudioEvent'Play_Vo_BidKing_CharacterVoice_NPC030_Success'",
+          "ObjectPath": "/Game/WwiseAudio/Events/Voice/Bubble/BidKing/NPC030/Play_Vo_BidKing_CharacterVoice_NPC030_Success.0"
+        },
+        "MakeMoneySound": {
+          "ObjectName": "AkAudioEvent'Play_Vo_BidKing_CharacterVoice_NPC030_Win'",
+          "ObjectPath": "/Game/WwiseAudio/Events/Voice/Bubble/BidKing/NPC030/Play_Vo_BidKing_CharacterVoice_NPC030_Win.0"
+        },
+        "LoseMoneySound": {
+          "ObjectName": "AkAudioEvent'Play_Vo_BidKing_CharacterVoice_NPC030_Lose'",
+          "ObjectPath": "/Game/WwiseAudio/Events/Voice/Bubble/BidKing/NPC030/Play_Vo_BidKing_CharacterVoice_NPC030_Lose.0"
         }
       }
     }

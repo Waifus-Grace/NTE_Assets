@@ -16,7 +16,7 @@
         "SizeCols": 1,
         "SizeRows": 1,
         "SpecificShapeArray": [],
-        "bShapeCenter": false,
+        "bShapeCenter": true,
         "CenterAnchor": {
           "X": 0,
           "Y": 0
@@ -26,7 +26,7 @@
         "SizeCols": 1,
         "SizeRows": 2,
         "SpecificShapeArray": [],
-        "bShapeCenter": false,
+        "bShapeCenter": true,
         "CenterAnchor": {
           "X": 0,
           "Y": 0
@@ -38,7 +38,7 @@
         "SpecificShapeArray": [],
         "bShapeCenter": false,
         "CenterAnchor": {
-          "X": 0,
+          "X": 1,
           "Y": 0
         }
       },
@@ -46,7 +46,7 @@
         "SizeCols": 2,
         "SizeRows": 1,
         "SpecificShapeArray": [],
-        "bShapeCenter": false,
+        "bShapeCenter": true,
         "CenterAnchor": {
           "X": 0,
           "Y": 0
@@ -56,7 +56,7 @@
         "SizeCols": 2,
         "SizeRows": 2,
         "SpecificShapeArray": [],
-        "bShapeCenter": false,
+        "bShapeCenter": true,
         "CenterAnchor": {
           "X": 0,
           "Y": 0
@@ -81,7 +81,7 @@
         ],
         "bShapeCenter": false,
         "CenterAnchor": {
-          "X": 0,
+          "X": 1,
           "Y": 0
         }
       },
@@ -179,6 +179,16 @@
         "CenterAnchor": {
           "X": 0,
           "Y": 0
+        }
+      },
+      "Shape_2x3": {
+        "SizeCols": 2,
+        "SizeRows": 3,
+        "SpecificShapeArray": [],
+        "bShapeCenter": false,
+        "CenterAnchor": {
+          "X": 0,
+          "Y": 1
         }
       }
     }

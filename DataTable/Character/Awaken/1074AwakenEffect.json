@@ -1,0 +1,281 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "1074AwakenEffect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Character/Awaken/1074AwakenEffect",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'CharacterAwakenEffectData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1074": {
+        "AwakenEffectStructList": [
+          {
+            "EffectID": "Effect1",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star1_name",
+              "SourceString": "print 你好，我的世界",
+              "LocalizedString": "print 你好，我的世界"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_1.1074_1",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level1.Buff_Exe074_Level1_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star1_des",
+              "SourceString": "Exe的「评分」等级为SS及以上时，获得X%暗属性增伤。",
+              "LocalizedString": "Exe的「评分」等级为SS及以上时，获得X%暗属性增伤。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "Effect2",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star2_name",
+              "SourceString": "define X/Y",
+              "LocalizedString": "define X/Y"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_2.1074_2",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level2.Buff_Exe074_Level2_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star2_des",
+              "SourceString": "Exe的「评分」等级为B/A/S/SS/SSS时，Exe分别可提升10%/12%/15%/20%/30%攻击力。",
+              "LocalizedString": "Exe的「评分」等级为B/A/S/SS/SSS时，Exe分别可提升10%/12%/15%/20%/30%攻击力。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "Effect3",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star3_name",
+              "SourceString": "for 永远一起玩",
+              "LocalizedString": "for 永远一起玩"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_3.1074_3",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level3.Buff_Exe074_Level3_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star3_des",
+              "SourceString": "「变轨技能：数据穿透」可吸附范围内目标敌人，并降低目标X%的暗属性抗性，持续X秒。",
+              "LocalizedString": "「变轨技能：数据穿透」可吸附范围内目标敌人，并降低目标X%的暗属性抗性，持续X秒。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "Effect4",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star4_name",
+              "SourceString": "kill 杀死进程",
+              "LocalizedString": "kill 杀死进程"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_4.1074_4",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level4.Buff_Exe074_Level4_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star4_des",
+              "SourceString": "场上召唤物造成的伤害增加X%，「数字残像」造成的伤害在此基础上额外增加X%。",
+              "LocalizedString": "场上召唤物造成的伤害增加X%，「数字残像」造成的伤害在此基础上额外增加X%。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "Effect5",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star5_name",
+              "SourceString": "null 空指针",
+              "LocalizedString": "null 空指针"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_5.1074_5",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level5.Buff_Exe074_Level5_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star5_des",
+              "SourceString": "极轨终结的「方程构建」状态持续期间，「数字残像」会在消失时对范围内目标产生冲击，造成等同于X%*攻击力的额外伤害。",
+              "LocalizedString": "极轨终结的「方程构建」状态持续期间，「数字残像」会在消失时对范围内目标产生冲击，造成等同于X%*攻击力的额外伤害。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "Effect6",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star6_name",
+              "SourceString": "log 驱动骸骨的代码",
+              "LocalizedString": "log 驱动骸骨的代码"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1074_6.1074_6",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level6.Buff_Exe074_Level6_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Effect",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_star6_des",
+              "SourceString": "每次获取「帧数」时，恢复此次获得的「评分」点数*X%*攻击力的生命值；\r\n每次消耗「帧数」时，额外增加此次消耗的「评分」点数*X点「评分」。",
+              "LocalizedString": "每次获取「帧数」时，恢复此次获得的「评分」点数*X%*攻击力的生命值；\r\n每次消耗「帧数」时，额外增加此次消耗的「评分」点数*X点「评分」。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "resonance_3",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_starExtra1_name",
+              "SourceString": "save 不曾想象的未来",
+              "LocalizedString": "save 不曾想象的未来"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "SkillName": "GA_Exe_Skill",
+                "SkillLevel": 1
+              },
+              {
+                "SkillName": "GA_Exe_UltraSkill",
+                "SkillLevel": 1
+              },
+              {
+                "SkillName": "GA_Exe_Melee",
+                "SkillLevel": 1
+              },
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level3_extra.Buff_Exe074_Level3_extra_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Resonance",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_starExtra1_des",
+              "SourceString": "「普通攻击」、「变轨技能」和「极轨终结」的技能等级提升<NumGreen>1</>级。充能效率提高X%。\r\n直至脱离本次战斗，「评分」不会下降。",
+              "LocalizedString": "「普通攻击」、「变轨技能」和「极轨终结」的技能等级提升<NumGreen>1</>级。充能效率提高X%。\r\n直至脱离本次战斗，「评分」不会下降。"
+            },
+            "GEIdArray": []
+          },
+          {
+            "EffectID": "resonance_6",
+            "AwakenUnlockQuest": "None",
+            "Title": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_starExtra2_name",
+              "SourceString": "load 不可证明的宝物",
+              "LocalizedString": "load 不可证明的宝物"
+            },
+            "AwakenIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
+              "SubPathString": ""
+            },
+            "ModifyDataList": [
+              {
+                "Buff": {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_074_Exe/Upgrade/Buff_Exe074_Level6_extra.Buff_Exe074_Level6_extra_C",
+                  "SubPathString": ""
+                },
+                "bReliveNeedAddAgain": false
+              }
+            ],
+            "AwakenType": "EAwakenEffect::Awaken_Resonance",
+            "Desc": {
+              "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+              "Key": "GA_Exe_starExtra2_des",
+              "SourceString": "「评分」提升效率提高X%，解锁「Ω评分」。处于「Ω评分」下，「觉醒：define X/Y」效果会更改为额外为Exe提供50%攻击力。\r\n极轨终结的「方程构建」期间，「普通攻击：纵深侵入」还可以斩杀血量低于10%的BOSS目标。",
+              "LocalizedString": "「评分」提升效率提高X%，解锁「Ω评分」。处于「Ω评分」下，「觉醒：define X/Y」效果会更改为额外为Exe提供50%攻击力。\r\n极轨终结的「方程构建」期间，「普通攻击：纵深侵入」还可以斩杀血量低于10%的BOSS目标。"
+            },
+            "GEIdArray": []
+          }
+        ]
+      }
+    }
+  }
+]

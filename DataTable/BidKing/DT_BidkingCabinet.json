@@ -1,0 +1,329 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BidkingCabinet",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/BidKing/DT_BidkingCabinet",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'BidkingCabinetConfigData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "bidding_cabinet_02": {
+        "ItemID": "bidding_item_red_01",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_jinyu",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_03": {
+        "ItemID": "bidding_item_red_02",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_baoshijie",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_04": {
+        "ItemID": "bidding_item_red_21",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_feicui",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_05": {
+        "ItemID": "bidding_item_red_22",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_cunchu",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_06": {
+        "ItemID": "bidding_item_red_31",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_cuiren",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_07": {
+        "ItemID": "bidding_item_red_32",
+        "CombineCount": 3,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Big",
+        "AwardItemID": "Furniture_auction_yeguangbei",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_08": {
+        "ItemID": "bidding_item_red_37",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_09": {
+        "ItemID": "bidding_item_red_38",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_10": {
+        "ItemID": "bidding_item_red_03",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_11": {
+        "ItemID": "bidding_item_red_39",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_12": {
+        "ItemID": "bidding_item_red_05",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_13": {
+        "ItemID": "bidding_item_red_23",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_14": {
+        "ItemID": "bidding_item_red_33",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_15": {
+        "ItemID": "bidding_item_red_04",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_16": {
+        "ItemID": "bidding_item_red_06",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_17": {
+        "ItemID": "bidding_item_red_28",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_18": {
+        "ItemID": "bidding_item_red_25",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_19": {
+        "ItemID": "bidding_item_red_10",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_20": {
+        "ItemID": "bidding_item_red_09",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_21": {
+        "ItemID": "bidding_item_red_08",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_22": {
+        "ItemID": "bidding_item_red_07",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_23": {
+        "ItemID": "bidding_item_red_34",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_24": {
+        "ItemID": "bidding_item_red_24",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_25": {
+        "ItemID": "bidding_item_red_35",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_26": {
+        "ItemID": "bidding_item_red_12",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_27": {
+        "ItemID": "bidding_item_red_27",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_28": {
+        "ItemID": "bidding_item_red_26",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_29": {
+        "ItemID": "bidding_item_red_11",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_30": {
+        "ItemID": "bidding_item_red_29",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_31": {
+        "ItemID": "bidding_item_red_30",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_32": {
+        "ItemID": "bidding_item_red_14",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_33": {
+        "ItemID": "bidding_item_red_16",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_34": {
+        "ItemID": "bidding_item_red_15",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_35": {
+        "ItemID": "bidding_item_red_19",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_36": {
+        "ItemID": "bidding_item_red_13",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_37": {
+        "ItemID": "bidding_item_red_17",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_38": {
+        "ItemID": "bidding_item_red_20",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_39": {
+        "ItemID": "bidding_item_red_18",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      },
+      "bidding_cabinet_40": {
+        "ItemID": "bidding_item_red_36",
+        "CombineCount": 1,
+        "CabinetType": "EBidKingCabinetType::EBidKing_Small",
+        "AwardItemID": "None",
+        "AwardItemCount": 1,
+        "CabinetRarity": "EBidKingCabinetRarity::EBidKingCabinet_Red"
+      }
+    }
+  }
+]

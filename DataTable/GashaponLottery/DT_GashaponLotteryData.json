@@ -172,6 +172,46 @@
         "VideoID": "None",
         "bSaveGame": true,
         "ClubID": "ClubPorsche"
+      },
+      "MangHe_005": {
+        "GashaponLotteryType": "EGashaponLotteryType::GashaponLottery_Type_Common",
+        "GashaponGlobalID": "MangHe_005",
+        "MaleViewTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Manghe.BP_Vehicle_045_Manghe_C",
+          "SubPathString": ""
+        },
+        "FemaleViewTemple": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Manghe.BP_Vehicle_045_Manghe_C",
+          "SubPathString": ""
+        },
+        "PreviewBgActor": {
+          "AssetPathName": "/Game/UI/Blueprints/Activity/GashaponLottery/BP_GashaponLottery_Tank.BP_GashaponLottery_Tank_C",
+          "SubPathString": ""
+        },
+        "RuleDesc1": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "MangHe_005_Des_rule",
+          "SourceString": "<Black>【抽取方式】</>\r\n盲盒总共15个，每单次抽取时，可自行选择使用环石或方斯抽取，每单次抽取环石与方斯所需数量不同，抽取消耗货币数量会随抽取次数依次增加。\r\n<Black>【权重说明】</>\r\n随着抽取行为，奖池内物品减少，各个奖励会由权重实时计算概率。计算公式如下：\r\n特定奖励获取概率=特定奖励剩余数量*特定奖励权重/（奖池内所剩余物品数量*各物品对应权重）求和\r\n<Black>【奖励发放】</>\r\n抽取获得的奖励会直接发放至背包，请前往背包查看。\r\n<Black>【注意事项】</>\r\n<Orange>「坦途」</>、<Orange>「试作型陆地霸者001」</>、<Orange>「小心涂鸦-涂装」</>、「问道」、「康庄大道」限时出现在「所行皆坦途」活动中，限时活动结束后暂无其他获取途径。\r\n<Black>【例如】</>\r\n当前5抽获得「甲硬币*100000」*2、「特级猎人攻略*10」*2、「无梦果核*10」时，第6抽抽取「坦途」的概率：\r\n=1*1/(1*1+1*3+1*5+1*10*2+1*99*5)=0.19%\r\n当前12抽抽取后，仅「坦途」、「试作型陆地霸者001」、「小心涂鸦-涂装」未抽取时，第13抽抽取「坦途」的概率：\r\n=1*1/(1*1+1*3+1*5)=11.11%\r\n随着抽取行为的进行，所有物品的概率均会做实时的波动。",
+          "LocalizedString": "<Black>【抽取方式】</>\r\n盲盒总共15个，每单次抽取时，可自行选择使用环石或方斯抽取，每单次抽取环石与方斯所需数量不同，抽取消耗货币数量会随抽取次数依次增加。\r\n<Black>【权重说明】</>\r\n随着抽取行为，奖池内物品减少，各个奖励会由权重实时计算概率。计算公式如下：\r\n特定奖励获取概率=特定奖励剩余数量*特定奖励权重/（奖池内所剩余物品数量*各物品对应权重）求和\r\n<Black>【奖励发放】</>\r\n抽取获得的奖励会直接发放至背包，请前往背包查看。\r\n<Black>【注意事项】</>\r\n<Orange>「坦途」</>、<Orange>「试作型陆地霸者001」</>、<Orange>「小心涂鸦-涂装」</>、「问道」、「康庄大道」限时出现在「所行皆坦途」活动中，限时活动结束后暂无其他获取途径。\r\n<Black>【例如】</>\r\n当前5抽获得「甲硬币*100000」*2、「特级猎人攻略*10」*2、「无梦果核*10」时，第6抽抽取「坦途」的概率：\r\n=1*1/(1*1+1*3+1*5+1*10*2+1*99*5)=0.19%\r\n当前12抽抽取后，仅「坦途」、「试作型陆地霸者001」、「小心涂鸦-涂装」未抽取时，第13抽抽取「坦途」的概率：\r\n=1*1/(1*1+1*3+1*5)=11.11%\r\n随着抽取行为的进行，所有物品的概率均会做实时的波动。"
+        },
+        "RuleDesc2": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "MangHe_bsj_Des_awards",
+          "SourceString": "此活动奖池为有限池，抽取次数上限为15次。抽取次数达到上限时可获得所有奖品。奖池内可以开出以下奖品：",
+          "LocalizedString": "此活动奖池为有限池，抽取次数上限为15次。抽取次数达到上限时可获得所有奖品。奖池内可以开出以下奖品："
+        },
+        "RuleDesc3": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "MangHe_005_06",
+          "SourceString": "本期奖品的综合概率分布如下，其中【其他】包含「问道」、「康庄大道」、异象巡礼材料自选箱*5、捏造骰子*3、浮冰影券*3、特级猎人攻略*10、无梦果核*10、甲硬币*100000且等概率分布。",
+          "LocalizedString": "本期奖品的综合概率分布如下，其中【其他】包含「问道」、「康庄大道」、异象巡礼材料自选箱*5、捏造骰子*3、浮冰影券*3、特级猎人攻略*10、无梦果核*10、甲硬币*100000且等概率分布。"
+        },
+        "TrialVehicleIDList": [
+          "Vehicle045"
+        ],
+        "VideoID": "None",
+        "bSaveGame": true,
+        "ClubID": "None"
       }
     }
   }

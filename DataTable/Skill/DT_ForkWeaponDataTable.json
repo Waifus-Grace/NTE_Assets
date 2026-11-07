@@ -1265,6 +1265,96 @@
                     }
                   ]
                 }
+              },
+              {
+                "Key": "Weapon_Player_Akane_Gitar_Fashion3",
+                "Value": {
+                  "Effects": [
+                    {
+                      "Key": "Weapon_Hand_L1",
+                      "Value": {
+                        "ParticleEffectParamsArray": [
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_WP_Player_Akane_01.NS_WP_Player_Akane_01",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 1.928557,
+                              "Y": 2.912903,
+                              "Z": 1.009233
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.645509,
+                              "Yaw": -176.93254,
+                              "Roll": -89.17516
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "root",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_WP_Player_Akane_01'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_WP_Player_Akane_01.14"
+                            }
+                          },
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_WP_Player_Akane_02.NS_WP_Player_Akane_02",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 1.928557,
+                              "Y": 2.912903,
+                              "Z": 1.009233
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.645509,
+                              "Yaw": -176.93254,
+                              "Roll": -89.17516
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "root",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_WP_Player_Akane_02'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_WP_Player_Akane_02.14"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
               }
             ],
             "ForkSkeletalMesh": [],
@@ -1347,6 +1437,385 @@
                 ]
               }
             ]
+          }
+        ]
+      },
+      "fork_Exe": {
+        "WeaponList": [
+          {
+            "CharacterID": "1074",
+            "ForkWeaponClass": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ForkEffects": [],
+            "WeaponClassForkEffects": [],
+            "ForkSkeletalMesh": [],
+            "SpawnSoftClass": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "FashionMaterialSettings": [
+              {
+                "AttachedMeshTag": "None",
+                "ApplyConditions": [
+                  {}
+                ],
+                "ScalarParams": [
+                  {
+                    "ParameterName": "HairSkillColorSelectThreshold",
+                    "EnableValue": 2.0,
+                    "DisableValue": 2.0
+                  },
+                  {
+                    "ParameterName": "HairSkillEmissiveEnable",
+                    "EnableValue": 1.0,
+                    "DisableValue": 0.0
+                  }
+                ],
+                "VectorParams": [
+                  {
+                    "ParameterName": "HairSkillEmissiveColor2",
+                    "EnableValue": {
+                      "R": 37.000042,
+                      "G": 0.0,
+                      "B": 167.0,
+                      "A": 1.0,
+                      "Hex": "FF00FF"
+                    },
+                    "DisableValue": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 1.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "ParameterName": "HairSkillSelectColor",
+                    "EnableValue": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 1.0,
+                      "Hex": "000000"
+                    },
+                    "DisableValue": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 1.0,
+                      "Hex": "000000"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "fork_elyms": {
+        "WeaponList": [
+          {
+            "CharacterID": "1090",
+            "ForkWeaponClass": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ForkEffects": [],
+            "WeaponClassForkEffects": [
+              {
+                "Key": "Weapon_Player_Elyms",
+                "Value": {
+                  "Effects": [
+                    {
+                      "Key": "Weapon_Hand_R1",
+                      "Value": {
+                        "ParticleEffectParamsArray": [
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_01.NS_Weapon_Player_090_01",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 0.0,
+                              "Y": 0.0,
+                              "Z": -0.0
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon1_root",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_01'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_01.18"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "Key": "Weapon_Hand_R3",
+                      "Value": {
+                        "ParticleEffectParamsArray": [
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.NS_Weapon_Player_090_02",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 62.07757,
+                              "Y": -3.229297,
+                              "Z": -0.0
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon3_wingA1",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_02'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.32"
+                            }
+                          },
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.NS_Weapon_Player_090_02",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 62.07757,
+                              "Y": -1.230252,
+                              "Z": 9.700938
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon3_wingA2",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_02'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.32"
+                            }
+                          },
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.NS_Weapon_Player_090_02",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 42.611675,
+                              "Y": 0.0,
+                              "Z": -0.0
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon3_wingB2",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_02'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.32"
+                            }
+                          },
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.NS_Weapon_Player_090_02",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 38.827667,
+                              "Y": -2.268296,
+                              "Z": -0.0
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon3_wingB1",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_02'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_02.32"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "Key": "Weapon_Hand_R4",
+                      "Value": {
+                        "ParticleEffectParamsArray": [
+                          {
+                            "bUseSoftObject": true,
+                            "SoftPSTemplate": {
+                              "AssetPathName": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_03.NS_Weapon_Player_090_03",
+                              "SubPathString": ""
+                            },
+                            "bCheckAppearance": false,
+                            "PSTemplate": null,
+                            "AddTags": [],
+                            "LocationOffset": {
+                              "X": 15.581893,
+                              "Y": 0.0,
+                              "Z": 0.0
+                            },
+                            "RotationOffset": {
+                              "Pitch": 0.0,
+                              "Yaw": 0.0,
+                              "Roll": 0.0
+                            },
+                            "Scale": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 1.0
+                            },
+                            "SocketName": "elyms_weapon4_body",
+                            "Attached": true,
+                            "IgnoreHitEffectOpt": false,
+                            "UseParentBoundBox": false,
+                            "bAcceptCustomDilation": true,
+                            "bAttachRootComponent": false,
+                            "AdaptiveScale": false,
+                            "UserParameters": [],
+                            "DirectionForce": null,
+                            "SavedParticleSystem": {
+                              "ObjectName": "NiagaraSystem'NS_Weapon_Player_090_03'",
+                              "ObjectPath": "/Game/FX/Nia/Player/FX_Weapon/NS_Weapon_Player_090_03.32"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "ForkSkeletalMesh": [
+              {
+                "Key": "Weapon_Hand_R3",
+                "Value": {
+                  "ForkWeaponMeshSoft": {
+                    "AssetPathName": "/Game/Characters/Player/090_elyms/player_090_weapon3/player_090_weapon3_skin_fork.player_090_weapon3_skin_fork",
+                    "SubPathString": ""
+                  },
+                  "ForkWeaponMaterialMapSoft": [],
+                  "ForkWeaponAnimClassSoft": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  }
+                }
+              },
+              {
+                "Key": "Weapon_Hand_R4",
+                "Value": {
+                  "ForkWeaponMeshSoft": {
+                    "AssetPathName": "/Game/Characters/Player/090_elyms/player_090_weapon4/player_090_weapon4_skin_fork.player_090_weapon4_skin_fork",
+                    "SubPathString": ""
+                  },
+                  "ForkWeaponMaterialMapSoft": [],
+                  "ForkWeaponAnimClassSoft": {
+                    "AssetPathName": "",
+                    "SubPathString": ""
+                  }
+                }
+              }
+            ],
+            "SpawnSoftClass": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "FashionMaterialSettings": []
           }
         ]
       }

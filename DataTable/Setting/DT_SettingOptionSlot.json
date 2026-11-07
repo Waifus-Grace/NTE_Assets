@@ -144,8 +144,8 @@
         "Showname": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Graphics_AntiAliasing_FSR",
-          "SourceString": "AMD FSR3",
-          "LocalizedString": "AMD FSR3"
+          "SourceString": "AMD FSR",
+          "LocalizedString": "AMD FSR"
         },
         "ChooseType": "ESettingChooseType::ComboBox",
         "OptionDataRow": {
@@ -186,8 +186,8 @@
         "Showname": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_FSR_SuperRes",
-          "SourceString": "FidelityFX Super Resolution 3",
-          "LocalizedString": "FidelityFX Super Resolution 3"
+          "SourceString": "FidelityFX Super Resolution",
+          "LocalizedString": "FidelityFX Super Resolution"
         },
         "ChooseType": "ESettingChooseType::ComboBox",
         "OptionDataRow": {
@@ -228,8 +228,8 @@
         "Showname": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_FSR_FrameGen",
-          "SourceString": "FSR3 帧生成",
-          "LocalizedString": "FSR3 帧生成"
+          "SourceString": "FSR 帧生成",
+          "LocalizedString": "FSR 帧生成"
         },
         "ChooseType": "ESettingChooseType::ComboBox",
         "OptionDataRow": {
@@ -574,6 +574,90 @@
             "ObjectPath": "/Game/DataTable/Setting/DT_SettingOptionComboBoxData.0"
           },
           "RowName": "Graphics_QNSS_FI"
+        },
+        "bIsVolumeSlider": false,
+        "bIsGamePadSlider": false,
+        "bIsPCOrMobileCameraSlider": false,
+        "SliderRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 100
+          }
+        },
+        "SliderStepSize": 1.0,
+        "bIsForceShowFloat": false,
+        "OpenUIClass": "",
+        "OpenUIButtonName": {
+          "CultureInvariantString": null
+        },
+        "ShowInputType": "ESettingInputType::All",
+        "ComboBoxOptionEvent": {},
+        "SliderValueEvent": null,
+        "Condition": {},
+        "bPlaystationShow": true
+      },
+      "Graphics_AIFF_SR": {
+        "Category": "ESettingCategory::Graphics",
+        "PlatformToDisplay": 8,
+        "Showname": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Graphics_AIFF_SR",
+          "SourceString": "ANF 超分",
+          "LocalizedString": "ANF 超分"
+        },
+        "ChooseType": "ESettingChooseType::ComboBox",
+        "OptionDataRow": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_SettingOptionComboBoxData'",
+            "ObjectPath": "/Game/DataTable/Setting/DT_SettingOptionComboBoxData.0"
+          },
+          "RowName": "Graphics_AIFF_SR"
+        },
+        "bIsVolumeSlider": false,
+        "bIsGamePadSlider": false,
+        "bIsPCOrMobileCameraSlider": false,
+        "SliderRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 100
+          }
+        },
+        "SliderStepSize": 1.0,
+        "bIsForceShowFloat": false,
+        "OpenUIClass": "",
+        "OpenUIButtonName": {
+          "CultureInvariantString": null
+        },
+        "ShowInputType": "ESettingInputType::All",
+        "ComboBoxOptionEvent": {},
+        "SliderValueEvent": null,
+        "Condition": {},
+        "bPlaystationShow": true
+      },
+      "Graphics_AIFF_FRC": {
+        "Category": "ESettingCategory::Graphics",
+        "PlatformToDisplay": 8,
+        "Showname": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Graphics_AIFF_FRC",
+          "SourceString": "ANF 插帧",
+          "LocalizedString": "ANF 插帧"
+        },
+        "ChooseType": "ESettingChooseType::ComboBox",
+        "OptionDataRow": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_SettingOptionComboBoxData'",
+            "ObjectPath": "/Game/DataTable/Setting/DT_SettingOptionComboBoxData.0"
+          },
+          "RowName": "Graphics_AIFF_FRC"
         },
         "bIsVolumeSlider": false,
         "bIsGamePadSlider": false,
@@ -1611,8 +1695,8 @@
         "Showname": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_PlayerHeadUpPxShow",
-          "SourceString": "屏蔽其他玩家姓名板",
-          "LocalizedString": "屏蔽其他玩家姓名板"
+          "SourceString": "多人游戏时屏蔽其他玩家头顶图标",
+          "LocalizedString": "多人游戏时屏蔽其他玩家头顶图标"
         },
         "ChooseType": "ESettingChooseType::ComboBox",
         "OptionDataRow": {
@@ -1855,6 +1939,48 @@
         "ComboBoxOptionEvent": {},
         "SliderValueEvent": null,
         "Condition": null,
+        "bPlaystationShow": true
+      },
+      "Setting_InfoSequencePlayTiming": {
+        "Category": "ESettingCategory::System",
+        "PlatformToDisplay": 511,
+        "Showname": {
+          "Namespace": "SystemSettings",
+          "Key": "InfoSequencePlayTiming",
+          "SourceString": "角色展示播放时机",
+          "LocalizedString": "角色展示播放时机"
+        },
+        "ChooseType": "ESettingChooseType::ComboBox",
+        "OptionDataRow": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_SettingOptionComboBoxData'",
+            "ObjectPath": "/Game/DataTable/Setting/DT_SettingOptionComboBoxData.0"
+          },
+          "RowName": "Setting_InfoSequencePlayTiming"
+        },
+        "bIsVolumeSlider": false,
+        "bIsGamePadSlider": false,
+        "bIsPCOrMobileCameraSlider": false,
+        "SliderRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 100
+          }
+        },
+        "SliderStepSize": 1.0,
+        "bIsForceShowFloat": false,
+        "OpenUIClass": "",
+        "OpenUIButtonName": {
+          "CultureInvariantString": null
+        },
+        "ShowInputType": "ESettingInputType::All",
+        "ComboBoxOptionEvent": {},
+        "SliderValueEvent": null,
+        "Condition": {},
         "bPlaystationShow": true
       },
       "KeyPrompts": {

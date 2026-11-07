@@ -365,6 +365,162 @@
         "MonsterType": "EMonsterType::Normal",
         "MonsterExtendArray": []
       },
+      "BP_WoodTest_LimitedHP_2400": {
+        "Comment": "",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 1.75,
+        "Tags": [],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "woodenStake_80_LimitedHP_2400",
+        "WorldLevelArray": [],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": true,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 0.0,
+        "BalanceDamageBasePercent": 0.0,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "BP_WoodTest_LimitedHP_4800": {
+        "Comment": "",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 1.75,
+        "Tags": [],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "woodenStake_80_LimitedHP_4800",
+        "WorldLevelArray": [],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": true,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 0.0,
+        "BalanceDamageBasePercent": 0.0,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "BP_WoodTest_LimitedHP_7200": {
+        "Comment": "",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 1.75,
+        "Tags": [],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "woodenStake_80_LimitedHP_7200",
+        "WorldLevelArray": [],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": true,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 0.0,
+        "BalanceDamageBasePercent": 0.0,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "BP_WoodTest_LimitedHP_10000": {
+        "Comment": "",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 1.75,
+        "Tags": [],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "woodenStake_80_LimitedHP_10000",
+        "WorldLevelArray": [],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": true,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 0.0,
+        "BalanceDamageBasePercent": 0.0,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
       "mon_SeqDmg_Actor_BP": {
         "Comment": "",
         "TextName": {
@@ -6120,7 +6276,7 @@
           "CultureInvariantString": null
         },
         "DropRadius": 75.0,
-        "DropGroupID": "None",
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_02",
         "DropNpcGroupID": "None",
         "DropDelayTime": 0.0,
         "Tags": [
@@ -22985,7 +23141,7 @@
           "CultureInvariantString": null
         },
         "DropRadius": 75.0,
-        "DropGroupID": "None",
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_02",
         "DropNpcGroupID": "None",
         "DropDelayTime": 0.0,
         "Tags": [
@@ -26870,7 +27026,7 @@
           "CultureInvariantString": null
         },
         "DropRadius": 75.0,
-        "DropGroupID": "None",
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_02",
         "DropNpcGroupID": "None",
         "DropDelayTime": 0.0,
         "Tags": [
@@ -28287,7 +28443,7 @@
           "CultureInvariantString": null
         },
         "DropRadius": 75.0,
-        "DropGroupID": "None",
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_02",
         "DropNpcGroupID": "None",
         "DropDelayTime": 0.0,
         "Tags": [
@@ -34276,6 +34432,391 @@
         "IsStoryBalance": false,
         "BalanceBeDamageBase": 10000.0,
         "BalanceDamageBasePercent": 0.0222,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_09_BP_Diy": {
+        "Comment": "自定义BOSS-黑之书",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_09_BP_Diy"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_CHAOS"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_09_BP_Diy_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 47,
+            "MonsterWorldLevelPropModifyID": "boss_09_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 57,
+            "MonsterWorldLevelPropModifyID": "boss_09_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 67,
+            "MonsterWorldLevelPropModifyID": "boss_09_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "boss_09_BP_Diy_DataPack3"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": true,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 47,
+            "MonsterClonePropModifyID": "boss_09_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 57,
+            "MonsterClonePropModifyID": "boss_09_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 67,
+            "MonsterClonePropModifyID": "boss_09_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "boss_09_BP_Diy_DataPack3"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0267,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_051_BP_Diy": {
+        "Comment": "自定义BOSS-桀桀熊",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_051_BP_Diy"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_INCANTATION"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_051_BP_Diy_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 47,
+            "MonsterWorldLevelPropModifyID": "mon_051_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 57,
+            "MonsterWorldLevelPropModifyID": "mon_051_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 67,
+            "MonsterWorldLevelPropModifyID": "mon_051_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "mon_051_BP_Diy_DataPack3"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": true,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 47,
+            "MonsterClonePropModifyID": "mon_051_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 57,
+            "MonsterClonePropModifyID": "mon_051_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 67,
+            "MonsterClonePropModifyID": "mon_051_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "mon_051_BP_Diy_DataPack3"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0267,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_48_BP_Diy": {
+        "Comment": "自定义BOSS-瓦楞城堡",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_48_BP_Diy"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_48_BP_Diy_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 47,
+            "MonsterWorldLevelPropModifyID": "mon_48_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 57,
+            "MonsterWorldLevelPropModifyID": "mon_48_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 67,
+            "MonsterWorldLevelPropModifyID": "mon_48_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "mon_48_BP_Diy_DataPack3"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": true,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 47,
+            "MonsterClonePropModifyID": "mon_48_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 57,
+            "MonsterClonePropModifyID": "mon_48_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 67,
+            "MonsterClonePropModifyID": "mon_48_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "mon_48_BP_Diy_DataPack3"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0267,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_039_BP_Diy": {
+        "Comment": "自定义BOSS-审判官一阶段",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_039_BP_Diy"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_039_BP_Diy_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 47,
+            "MonsterWorldLevelPropModifyID": "boss_039_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 57,
+            "MonsterWorldLevelPropModifyID": "boss_039_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 67,
+            "MonsterWorldLevelPropModifyID": "boss_039_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "boss_039_BP_Diy_DataPack3"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": true,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 47,
+            "MonsterClonePropModifyID": "boss_039_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 57,
+            "MonsterClonePropModifyID": "boss_039_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 67,
+            "MonsterClonePropModifyID": "boss_039_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "boss_039_BP_Diy_DataPack3"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0267,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "boss_039_2_BP_Diy": {
+        "Comment": "自定义BOSS-审判官二阶段",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "boss_039_2_BP_Diy"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": false,
+        "MonsterLevel": 80,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "boss_039_2_BP_Diy_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 47,
+            "MonsterWorldLevelPropModifyID": "boss_039_2_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 57,
+            "MonsterWorldLevelPropModifyID": "boss_039_2_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 67,
+            "MonsterWorldLevelPropModifyID": "boss_039_2_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 77,
+            "MonsterWorldLevelPropModifyID": "boss_039_2_BP_Diy_DataPack3"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": true,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 47,
+            "MonsterClonePropModifyID": "boss_039_2_BP_Diy_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 57,
+            "MonsterClonePropModifyID": "boss_039_2_BP_Diy_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 67,
+            "MonsterClonePropModifyID": "boss_039_2_BP_Diy_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 77,
+            "MonsterClonePropModifyID": "boss_039_2_BP_Diy_DataPack3"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0267,
         "bEnableLevelSuppress": true,
         "MonsterType": "EMonsterType::Normal",
         "MonsterExtendArray": []
@@ -40385,6 +40926,660 @@
         "IsStoryBalance": false,
         "BalanceBeDamageBase": 10000.0,
         "BalanceDamageBasePercent": 0.0,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_038_BP_World_02": {
+        "Comment": "迦楼罗-男-大世界-换皮02",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_05",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_038_BP_World_02"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_038_BP_World_02_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 10,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 20,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 30,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 55,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 65,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_World_02_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 10,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 20,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 30,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 55,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 65,
+            "MonsterClonePropModifyID": "mon_038_BP_World_02_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0095,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_038_2_BP_World_02": {
+        "Comment": "迦楼罗-男精英-大世界-换皮02",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "drop_Mon_EliteMonMaterial_05",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_038_2_BP_World_02"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_038_2_BP_World_02_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 13,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 23,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 33,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 43,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 53,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 58,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 63,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 68,
+            "MonsterWorldLevelPropModifyID": "mon_038_2_BP_World_02_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 13,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 23,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 33,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 43,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 53,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 58,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 63,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 68,
+            "MonsterClonePropModifyID": "mon_038_2_BP_World_02_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0111,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_39_BP_World_02": {
+        "Comment": "迦楼罗-女-大世界-换皮02",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "drop_Mon_OrdinaryMonMaterial_05",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_39_BP_World_02"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_39_BP_World_02_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 10,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 20,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 30,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 55,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 65,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_World_02_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 10,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 20,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 30,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 55,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 65,
+            "MonsterClonePropModifyID": "mon_39_BP_World_02_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0095,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_39_2_BP_World_02": {
+        "Comment": "迦楼罗-女精英-大世界-换皮02",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 75.0,
+        "DropGroupID": "drop_Mon_EliteMonMaterial_05",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_39_2_BP_World_02"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_39_2_BP_World_02_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 13,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 23,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 33,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 43,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 53,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 58,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 63,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 68,
+            "MonsterWorldLevelPropModifyID": "mon_39_2_BP_World_02_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 13,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 23,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 33,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 43,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 53,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 58,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 63,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 68,
+            "MonsterClonePropModifyID": "mon_39_2_BP_World_02_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0111,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_038_BP_Logistics": {
+        "Comment": "大世界-迦楼罗-男-同城配送",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_038_BP_Logistics"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_038_BP_Logistics_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 10,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 20,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 30,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 55,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 65,
+            "MonsterWorldLevelPropModifyID": "mon_038_BP_Logistics_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 10,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 20,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 30,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 55,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 65,
+            "MonsterClonePropModifyID": "mon_038_BP_Logistics_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0095,
+        "bEnableLevelSuppress": true,
+        "MonsterType": "EMonsterType::Normal",
+        "MonsterExtendArray": []
+      },
+      "mon_39_BP_Logistics": {
+        "Comment": "大世界-迦楼罗-女-同城配送",
+        "TextName": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "DropRadius": 0.0,
+        "DropGroupID": "None",
+        "DropNpcGroupID": "None",
+        "DropDelayTime": 0.0,
+        "Tags": [
+          "mon_39_BP_Logistics"
+        ],
+        "IsVisionActor": false,
+        "VisionSoulID": "None",
+        "UnbalBarTypeList": [
+          "UNBAL_BAR_NORMAL"
+        ],
+        "AutoDecIntervalTime": 0.0,
+        "bIsWorldLevel": true,
+        "MonsterLevel": 1,
+        "IsUseLeaderPropModifyID": false,
+        "PropModifyID": "mon_39_BP_Logistics_DataPack0",
+        "WorldLevelArray": [
+          {
+            "MonsterWorldLevel": 10,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack0"
+          },
+          {
+            "MonsterWorldLevel": 20,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack1"
+          },
+          {
+            "MonsterWorldLevel": 30,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack2"
+          },
+          {
+            "MonsterWorldLevel": 40,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack3"
+          },
+          {
+            "MonsterWorldLevel": 50,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack4"
+          },
+          {
+            "MonsterWorldLevel": 55,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack5"
+          },
+          {
+            "MonsterWorldLevel": 60,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack6"
+          },
+          {
+            "MonsterWorldLevel": 65,
+            "MonsterWorldLevelPropModifyID": "mon_39_BP_Logistics_DataPack7"
+          }
+        ],
+        "OnlineRatioID": "normal",
+        "bIsCloneDifficultyLevel": false,
+        "CloneDifficultyLevelArray": [
+          {
+            "MonsterCloneLevel": 10,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack0"
+          },
+          {
+            "MonsterCloneLevel": 20,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack1"
+          },
+          {
+            "MonsterCloneLevel": 30,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack2"
+          },
+          {
+            "MonsterCloneLevel": 40,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack3"
+          },
+          {
+            "MonsterCloneLevel": 50,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack4"
+          },
+          {
+            "MonsterCloneLevel": 55,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack5"
+          },
+          {
+            "MonsterCloneLevel": 60,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack6"
+          },
+          {
+            "MonsterCloneLevel": 65,
+            "MonsterClonePropModifyID": "mon_39_BP_Logistics_DataPack7"
+          }
+        ],
+        "bIsAbyssCloneLevel": false,
+        "AbyssCloneLevelArray": [],
+        "IsTestMonster": false,
+        "IsStoryBalance": false,
+        "BalanceBeDamageBase": 10000.0,
+        "BalanceDamageBasePercent": 0.0095,
         "bEnableLevelSuppress": true,
         "MonsterType": "EMonsterType::Normal",
         "MonsterExtendArray": []

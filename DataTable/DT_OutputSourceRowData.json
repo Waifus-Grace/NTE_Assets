@@ -2087,6 +2087,11 @@
           "Shop_030_05_01"
         ]
       },
+      "Furniture_Ornament_054": {
+        "SourceArray": [
+          "Shop_030_04_01"
+        ]
+      },
       "Furniture_Chair_001": {
         "SourceArray": [
           "Shop_030_03_01"
@@ -2722,7 +2727,7 @@
       },
       "CharacterUpMaterial_lv1": {
         "SourceArray": [
-          "ResourceCloneEnter_001_map",
+          "clone_exp",
           "fonshop",
           "WorldExplored"
         ]
@@ -2730,7 +2735,7 @@
       "CharacterUpMaterial_lv2": {
         "SourceArray": [
           "CharacterUpMaterial_lv2_SelectionBox",
-          "ResourceCloneEnter_001_map",
+          "clone_exp",
           "fonshop",
           "WorldExplored"
         ]
@@ -2738,7 +2743,7 @@
       "CharacterUpMaterial_lv3": {
         "SourceArray": [
           "CharacterUpMaterial_lv3_SelectionBox",
-          "ResourceCloneEnter_001_map",
+          "clone_exp",
           "fonshop",
           "WorldExplored"
         ]
@@ -2897,20 +2902,20 @@
       "SkillUpMaterial_01_lv1": {
         "SourceArray": [
           "SkillUpMaterial_01_lv1_SelectionBox",
-          "clone_talent",
+          "clone_talent_001",
           "fonshop"
         ]
       },
       "SkillUpMaterial_01_lv2": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_001",
           "fonshop",
           "Compose"
         ]
       },
       "SkillUpMaterial_01_lv3": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_001",
           "fonshop",
           "Compose"
         ]
@@ -2918,20 +2923,20 @@
       "SkillUpMaterial_02_lv1": {
         "SourceArray": [
           "SkillUpMaterial_02_lv1_SelectionBox",
-          "clone_talent",
+          "clone_talent_002",
           "fonshop"
         ]
       },
       "SkillUpMaterial_02_lv2": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_002",
           "fonshop",
           "Compose"
         ]
       },
       "SkillUpMaterial_02_lv3": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_002",
           "fonshop",
           "Compose"
         ]
@@ -2939,20 +2944,20 @@
       "SkillUpMaterial_03_lv1": {
         "SourceArray": [
           "SkillUpMaterial_03_lv1_SelectionBox",
-          "clone_talent",
+          "clone_talent_003",
           "fonshop"
         ]
       },
       "SkillUpMaterial_03_lv2": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_003",
           "fonshop",
           "Compose"
         ]
       },
       "SkillUpMaterial_03_lv3": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_003",
           "fonshop",
           "Compose"
         ]
@@ -2960,20 +2965,20 @@
       "SkillUpMaterial_04_lv1": {
         "SourceArray": [
           "SkillUpMaterial_04_lv1_SelectionBox",
-          "clone_talent",
+          "clone_talent_004",
           "fonshop"
         ]
       },
       "SkillUpMaterial_04_lv2": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_004",
           "fonshop",
           "Compose"
         ]
       },
       "SkillUpMaterial_04_lv3": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_004",
           "fonshop",
           "Compose"
         ]
@@ -2981,20 +2986,20 @@
       "SkillUpMaterial_05_lv1": {
         "SourceArray": [
           "SkillUpMaterial_05_lv1_SelectionBox",
-          "clone_talent",
+          "clone_talent_005",
           "fonshop"
         ]
       },
       "SkillUpMaterial_05_lv2": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_005",
           "fonshop",
           "Compose"
         ]
       },
       "SkillUpMaterial_05_lv3": {
         "SourceArray": [
-          "clone_talent",
+          "clone_talent_005",
           "fonshop",
           "Compose"
         ]
@@ -3002,21 +3007,21 @@
       "WeaponBreakMaterial_01_lv1": {
         "SourceArray": [
           "WeaponBreakMaterial_01_lv1_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_001",
           "fonshop"
         ]
       },
       "WeaponBreakMaterial_01_lv2": {
         "SourceArray": [
           "WeaponBreakMaterial_01_lv2_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_001",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponBreakMaterial_01_lv3": {
         "SourceArray": [
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_001",
           "fonshop",
           "Compose"
         ]
@@ -3024,21 +3029,21 @@
       "WeaponBreakMaterial_02_lv1": {
         "SourceArray": [
           "WeaponBreakMaterial_02_lv1_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_002",
           "fonshop"
         ]
       },
       "WeaponBreakMaterial_02_lv2": {
         "SourceArray": [
           "WeaponBreakMaterial_02_lv2_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_002",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponBreakMaterial_02_lv3": {
         "SourceArray": [
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_002",
           "fonshop",
           "Compose"
         ]
@@ -3046,21 +3051,21 @@
       "WeaponBreakMaterial_03_lv1": {
         "SourceArray": [
           "WeaponBreakMaterial_03_lv1_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_003",
           "fonshop"
         ]
       },
       "WeaponBreakMaterial_03_lv2": {
         "SourceArray": [
           "WeaponBreakMaterial_03_lv2_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_003",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponBreakMaterial_03_lv3": {
         "SourceArray": [
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_003",
           "fonshop",
           "Compose"
         ]
@@ -3068,21 +3073,21 @@
       "WeaponBreakMaterial_04_lv1": {
         "SourceArray": [
           "WeaponBreakMaterial_04_lv1_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_004",
           "fonshop"
         ]
       },
       "WeaponBreakMaterial_04_lv2": {
         "SourceArray": [
           "WeaponBreakMaterial_04_lv2_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_004",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponBreakMaterial_04_lv3": {
         "SourceArray": [
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_004",
           "fonshop",
           "Compose"
         ]
@@ -3090,35 +3095,35 @@
       "WeaponBreakMaterial_05_lv1": {
         "SourceArray": [
           "WeaponBreakMaterial_05_lv1_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_005",
           "fonshop"
         ]
       },
       "WeaponBreakMaterial_05_lv2": {
         "SourceArray": [
           "WeaponBreakMaterial_05_lv2_SelectionBox",
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_005",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponBreakMaterial_05_lv3": {
         "SourceArray": [
-          "clone_forkbreakthrough",
+          "clone_forkbreakthrough_005",
           "fonshop",
           "Compose"
         ]
       },
       "WeaponUpMaterial_lv1": {
         "SourceArray": [
-          "ResourceCloneEnter_001_map",
+          "clone_Wpexp",
           "fonshop",
           "WorldExplored"
         ]
       },
       "WeaponUpMaterial_lv2": {
         "SourceArray": [
-          "ResourceCloneEnter_001_map",
+          "clone_Wpexp",
           "fonshop",
           "WorldExplored"
         ]
@@ -3126,7 +3131,7 @@
       "WeaponUpMaterial_lv3": {
         "SourceArray": [
           "WeaponUpMaterial_lv3_SelectionBox",
-          "ResourceCloneEnter_001_map",
+          "clone_Wpexp",
           "fonshop",
           "WorldExplored"
         ]
@@ -3459,42 +3464,31 @@
           "cookbook_1005"
         ]
       },
-      "WeaponBreakMaterial_lv1": {
-        "SourceArray": [
-          "ForkbreakthroughCloneEnter_001",
-          "fonshop"
-        ]
-      },
-      "WeaponBreakMaterial_lv2": {
-        "SourceArray": [
-          "ForkbreakthroughCloneEnter_001",
-          "Compose",
-          "fonshop"
-        ]
-      },
-      "WeaponBreakMaterial_lv3": {
-        "SourceArray": [
-          "ForkbreakthroughCloneEnter_001",
-          "Compose",
-          "fonshop"
-        ]
-      },
       "weeklycloneboss_a01": {
         "SourceArray": [
           "weeklycloneboss_SelectionBox",
+          "weeklycloneboss_SelectionBox_03",
           "weeklycloneboss_a01"
         ]
       },
       "weeklycloneboss_a02": {
         "SourceArray": [
           "weeklycloneboss_SelectionBox",
+          "weeklycloneboss_SelectionBox_03",
           "weeklycloneboss_a02"
         ]
       },
       "weeklycloneboss_a03": {
         "SourceArray": [
           "weeklycloneboss_SelectionBox",
+          "weeklycloneboss_SelectionBox_03",
           "weeklycloneboss_a03"
+        ]
+      },
+      "weeklycloneboss_a04": {
+        "SourceArray": [
+          "weeklycloneboss_SelectionBox_03",
+          "weeklycloneboss_a04"
         ]
       },
       "CityAbility_UpMaterial": {
@@ -3568,7 +3562,7 @@
       "Gold": {
         "SourceArray": [
           "Gold_SelectionBox",
-          "ResourceCloneEnter_001_map",
+          "clone_gold",
           "fonshop",
           "WorldExplored"
         ]
@@ -4497,42 +4491,6 @@
           "FishingSpot_210_01"
         ]
       },
-      "Cosmos_orange": {
-        "SourceArray": [
-          "Cosmos_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
-      "Nature_orange": {
-        "SourceArray": [
-          "Nature_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
-      "Incantation_orange": {
-        "SourceArray": [
-          "Incantation_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
-      "Chaos_orange": {
-        "SourceArray": [
-          "Chaos_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
-      "Psyche_orange": {
-        "SourceArray": [
-          "Psyche_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
-      "Lakshana_orange": {
-        "SourceArray": [
-          "Lakshana_orange_SelectionBox",
-          "EquipmentCloneEnter_001_map"
-        ]
-      },
       "Prison_Explored": {
         "SourceArray": [
           "Prison_Explored"
@@ -4702,6 +4660,16 @@
       "Figure_akane_01": {
         "SourceArray": [
           "Figure_akane_01"
+        ]
+      },
+      "Figure_elyms_01": {
+        "SourceArray": [
+          "Figure_elyms_01"
+        ]
+      },
+      "Figure_Exe_01": {
+        "SourceArray": [
+          "Figure_Exe_01"
         ]
       },
       "Likeability_Chaos": {
@@ -4970,6 +4938,147 @@
       "disc_0017": {
         "SourceArray": [
           "quest_livehouse2"
+        ]
+      },
+      "Equipment_Cosmos_orange": {
+        "SourceArray": [
+          "Cosmos_orange_SelectionBox",
+          "clone_equipment_001"
+        ]
+      },
+      "Equipment_Chaos_orange": {
+        "SourceArray": [
+          "Chaos_orange_SelectionBox",
+          "clone_equipment_001"
+        ]
+      },
+      "Equipment_Psyche_orange": {
+        "SourceArray": [
+          "Psyche_orange_SelectionBox",
+          "clone_equipment_002"
+        ]
+      },
+      "Equipment_Lakshana_orange": {
+        "SourceArray": [
+          "Lakshana_orange_SelectionBox",
+          "clone_equipment_002"
+        ]
+      },
+      "Equipment_Nature_orange": {
+        "SourceArray": [
+          "Nature_orange_SelectionBox",
+          "clone_equipment_003"
+        ]
+      },
+      "Equipment_Incantation_orange": {
+        "SourceArray": [
+          "Incantation_orange_SelectionBox",
+          "clone_equipment_003"
+        ]
+      },
+      "Equipment_Shield_orange": {
+        "SourceArray": [
+          "clone_equipment_004"
+        ]
+      },
+      "Equipment_Heal_orange": {
+        "SourceArray": [
+          "clone_equipment_004"
+        ]
+      },
+      "Equipment_GetEfficiency_orange": {
+        "SourceArray": [
+          "clone_equipment_005"
+        ]
+      },
+      "Equipment_Psychically_orange": {
+        "SourceArray": [
+          "clone_equipment_005"
+        ]
+      },
+      "Equipment_Attack_orange": {
+        "SourceArray": [
+          "clone_equipment_006"
+        ]
+      },
+      "Equipment_Mag_orange": {
+        "SourceArray": [
+          "clone_equipment_006"
+        ]
+      },
+      "Equipment_Cosmos": {
+        "SourceArray": [
+          "clone_equipment_001"
+        ]
+      },
+      "Equipment_Chaos": {
+        "SourceArray": [
+          "clone_equipment_001"
+        ]
+      },
+      "Equipment_Psyche": {
+        "SourceArray": [
+          "clone_equipment_002"
+        ]
+      },
+      "Equipment_Lakshana": {
+        "SourceArray": [
+          "clone_equipment_002"
+        ]
+      },
+      "Equipment_Nature": {
+        "SourceArray": [
+          "clone_equipment_003"
+        ]
+      },
+      "Equipment_Incantation": {
+        "SourceArray": [
+          "clone_equipment_003"
+        ]
+      },
+      "Equipment_Shield": {
+        "SourceArray": [
+          "clone_equipment_004"
+        ]
+      },
+      "Equipment_Heal": {
+        "SourceArray": [
+          "clone_equipment_004"
+        ]
+      },
+      "Equipment_GetEfficiency": {
+        "SourceArray": [
+          "clone_equipment_005"
+        ]
+      },
+      "Equipment_Psychically": {
+        "SourceArray": [
+          "clone_equipment_005"
+        ]
+      },
+      "Equipment_Attack": {
+        "SourceArray": [
+          "clone_equipment_006"
+        ]
+      },
+      "Equipment_Mag": {
+        "SourceArray": [
+          "clone_equipment_006"
+        ]
+      },
+      "CumLottery": {
+        "SourceArray": [
+          "CumLottery"
+        ]
+      },
+      "BidKing_cabinet": {
+        "SourceArray": [
+          "BidKing_cabinet"
+        ]
+      },
+      "Furniture_Ornament_040": {
+        "SourceArray": [
+          "Volleyball_WeeklyRank1"
         ]
       }
     }

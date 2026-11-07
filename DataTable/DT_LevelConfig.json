@@ -86,7 +86,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "XL_map_bigworld_test": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -167,7 +168,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Castle_Demo": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -258,7 +260,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_yaoql": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -334,7 +337,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_FilmOrbit_map_WP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -435,7 +439,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_hotel": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -536,7 +541,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_SpiralDreams": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -637,7 +643,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_DeadNumber": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -685,9 +692,9 @@
             "Y": 0.0,
             "Z": 0.0
           },
-          "EnterSpecLoadingID": "DLC_SpiralDreams_Entry",
+          "EnterSpecLoadingID": "DLC_DeadNumber_Entry",
           "EnterTransformID": "DLC_DeadNumber_Entrance",
-          "ExitSpecLoadingID": "DLC_SpiralDreams_Exit"
+          "ExitSpecLoadingID": "DLC_DeadNumber_Exit"
         },
         "MapEntranceList": [
           "BigWorld_To_DeadNumber"
@@ -738,7 +745,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "testwyan": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -817,7 +825,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Hockshop": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -918,7 +927,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_MoonDog": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -1017,7 +1027,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_School_boss01_WP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -1118,7 +1129,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Zhuqing_level_WP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -1194,7 +1206,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Testmap_liuyang": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -1270,7 +1283,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Battle_WP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -1346,7 +1360,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Battle_WP1": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -1422,7 +1437,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Battle_WP2": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -1498,7 +1514,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Battle_WP3": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -1574,7 +1591,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Updater_P": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_UPDATER",
@@ -1650,7 +1668,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "MassAI_wtao": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -1726,7 +1745,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Testmap_cc2": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -1802,7 +1822,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "FilmOrbit_map_WP_World": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -1901,7 +1922,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Hockshop_week": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -1977,7 +1999,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_RT_C1": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_RACING_PVP",
@@ -2059,7 +2082,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_RT_C2": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_RACING_PVP",
@@ -2141,7 +2165,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_RT_C1_clone": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -2223,7 +2248,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_RT_C2_Racing": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_RACING_PVP",
@@ -2305,7 +2331,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Hotel_Week": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -2381,7 +2408,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Magic_TrialCharacte": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -2457,7 +2485,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Museum_Lamp": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -2558,7 +2587,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Museum_Lamp_Story2": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -2659,7 +2689,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_Racing_WP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -2735,7 +2766,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "hz_level_wp": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -2811,7 +2843,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_Racing_PVP": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_RACING_PVP",
@@ -2887,7 +2920,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TeachCloneTest": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_MAX",
@@ -2963,7 +2997,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_TrialCharacter_Rabbit": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -3039,7 +3074,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_DunnerHouse": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -3134,7 +3170,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "MassAI_WUJINGJING": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -3210,7 +3247,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_zhanghao": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -3286,7 +3324,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Bank_Safety": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -3365,7 +3404,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": false,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Hospital_FB": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -3441,7 +3481,8 @@
         "bUseEmptyQuickBar": true,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Map_Tetris_Connected": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -3517,7 +3558,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Map_MaruiTest": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -3593,7 +3635,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_Mahjong": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -3669,7 +3712,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Trinity_AcceptLayer_None": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -3745,7 +3789,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "zhahonb_level": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -3821,7 +3866,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Maps_4N": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_FINAL_TOWER",
@@ -3923,7 +3969,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "FinalTower",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "TestMap_youjf": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -4003,7 +4050,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "Map_JudianTestMap": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_FINAL_TOWER",
@@ -4079,7 +4127,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_DunnerHouse_Week": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4155,7 +4204,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_WuChao": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -4250,7 +4300,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_School_HideAndSeek": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_PROPHUNT",
@@ -4326,7 +4377,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_BidKing01": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4402,7 +4454,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_BidKing02": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4478,7 +4531,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_BidKing03": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4554,7 +4608,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Volleyball": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4636,7 +4691,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_FilmOrbit_HideAndSeek": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_PROPHUNT",
@@ -4712,7 +4768,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Hospital_HideAndSeek": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_PROPHUNT",
@@ -4788,7 +4845,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "PVERoguelike": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4864,7 +4922,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_WaterDrive": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -4946,7 +5005,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_DunnerHouse_canhongdate": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5022,7 +5082,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "HTFluxTestMap": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_OUTDOOR",
@@ -5098,7 +5159,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_HeiYu": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_SINGLE_LEVEL",
@@ -5201,7 +5263,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_Scaled_zx01": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5277,7 +5340,8 @@
         "bUseEmptyQuickBar": true,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "GuardianGoddess_Battle": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5353,7 +5417,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "DefendAthena",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_SpookHouse_FB": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5429,7 +5494,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_ShootGingerMan": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5505,7 +5571,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_ShootGingerMan_CH": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5587,7 +5654,8 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       },
       "DLC_WuChao_Week": {
         "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
@@ -5663,7 +5731,239 @@
         "bUseEmptyQuickBar": false,
         "QuickBarProfileTag": "None",
         "bCanUIOpenPauseTime": true,
-        "bCanPlayGuitar": true
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
+      },
+      "DLC_UGC_Racing": {
+        "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "StrategyText": {
+          "CultureInvariantString": null
+        },
+        "TrackLimit": {
+          "bEnableCrossMapTrack": false,
+          "bDisableSwitchTrack": false,
+          "bEnableCrossBoxTrack": true,
+          "bUseNavPathEffect": true,
+          "bForceNoNavPathEffect": false,
+          "bEnableTrackTeammate": false,
+          "LimitTrackChapterID": "None",
+          "LimitTrackChapterList": [],
+          "bMiniMapIconNeedCrossBox": false,
+          "bShowQuestItemDistance": true
+        },
+        "bShowTeammateTrack": false,
+        "bCanVines": true,
+        "bGuideNPCEnabled": true,
+        "SingleExtensionData": null,
+        "MapEntranceList": [],
+        "MainFormThemeID": "None",
+        "ShieldUIFlags": 1,
+        "ShieldFunctionID": "SurvivalGamePlay",
+        "bLimitCloneEffect": false,
+        "bLimitCanVault": false,
+        "bLimitCanVines": false,
+        "bLimitCanMelee": false,
+        "bLimitCanAbility": false,
+        "bLimitCanEvade": false,
+        "bLimitCanJump": false,
+        "bLimitCanSecondJump": false,
+        "bLimitCanUltSkill": false,
+        "bLimitCanRun": false,
+        "bLimitCanSprint": false,
+        "bLimitCanGliding": false,
+        "bLimitCanDynamicGravity": false,
+        "bLimitCanCantChangePlayer": false,
+        "bLimitCanAnim": false,
+        "bLimitCanDriving": true,
+        "bLimitCanForkAbility": false,
+        "bLimitCanSneak": false,
+        "bLimitCanJinEffect": false,
+        "bLimitCanCloseMainUI": false,
+        "bLimitCanForbiddenMainUIT": false,
+        "bLimitCanPassThroughWalls": false,
+        "bLimitCanSwitchSkill": false,
+        "bLimitCanTransformFly": false,
+        "bLimitCanLongPressFly": false,
+        "LimitAddGamePlayTags": [],
+        "bLimitCanCloseChase": true,
+        "bLimitLevelClock": false,
+        "bLimitSpawnVehicle": false,
+        "bShowSoundMuteButton": false,
+        "ResetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ResetRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bUseEmptyQuickBar": false,
+        "QuickBarProfileTag": "None",
+        "bCanUIOpenPauseTime": true,
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
+      },
+      "DLC_BossRush": {
+        "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "StrategyText": {
+          "CultureInvariantString": null
+        },
+        "TrackLimit": {
+          "bEnableCrossMapTrack": false,
+          "bDisableSwitchTrack": false,
+          "bEnableCrossBoxTrack": true,
+          "bUseNavPathEffect": true,
+          "bForceNoNavPathEffect": false,
+          "bEnableTrackTeammate": false,
+          "LimitTrackChapterID": "None",
+          "LimitTrackChapterList": [],
+          "bMiniMapIconNeedCrossBox": false,
+          "bShowQuestItemDistance": true
+        },
+        "bShowTeammateTrack": false,
+        "bCanVines": true,
+        "bGuideNPCEnabled": true,
+        "SingleExtensionData": null,
+        "MapEntranceList": [],
+        "MainFormThemeID": "None",
+        "ShieldUIFlags": 0,
+        "ShieldFunctionID": "None",
+        "bLimitCloneEffect": false,
+        "bLimitCanVault": false,
+        "bLimitCanVines": false,
+        "bLimitCanMelee": false,
+        "bLimitCanAbility": false,
+        "bLimitCanEvade": false,
+        "bLimitCanJump": false,
+        "bLimitCanSecondJump": false,
+        "bLimitCanUltSkill": false,
+        "bLimitCanRun": false,
+        "bLimitCanSprint": false,
+        "bLimitCanGliding": false,
+        "bLimitCanDynamicGravity": false,
+        "bLimitCanCantChangePlayer": false,
+        "bLimitCanAnim": false,
+        "bLimitCanDriving": true,
+        "bLimitCanForkAbility": false,
+        "bLimitCanSneak": false,
+        "bLimitCanJinEffect": false,
+        "bLimitCanCloseMainUI": false,
+        "bLimitCanForbiddenMainUIT": false,
+        "bLimitCanPassThroughWalls": false,
+        "bLimitCanSwitchSkill": false,
+        "bLimitCanTransformFly": false,
+        "bLimitCanLongPressFly": false,
+        "LimitAddGamePlayTags": [],
+        "bLimitCanCloseChase": true,
+        "bLimitLevelClock": false,
+        "bLimitSpawnVehicle": false,
+        "bShowSoundMuteButton": false,
+        "ResetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ResetRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bUseEmptyQuickBar": false,
+        "QuickBarProfileTag": "None",
+        "bCanUIOpenPauseTime": true,
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
+      },
+      "Map_TankBattleTest": {
+        "SceneType": "ELevelSceneType::LEVEL_TYPE_CLONE_LEVEL",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "StrategyText": {
+          "CultureInvariantString": null
+        },
+        "TrackLimit": {
+          "bEnableCrossMapTrack": false,
+          "bDisableSwitchTrack": false,
+          "bEnableCrossBoxTrack": true,
+          "bUseNavPathEffect": true,
+          "bForceNoNavPathEffect": false,
+          "bEnableTrackTeammate": false,
+          "LimitTrackChapterID": "None",
+          "LimitTrackChapterList": [],
+          "bMiniMapIconNeedCrossBox": false,
+          "bShowQuestItemDistance": true
+        },
+        "bShowTeammateTrack": false,
+        "bCanVines": true,
+        "bGuideNPCEnabled": true,
+        "SingleExtensionData": null,
+        "MapEntranceList": [],
+        "MainFormThemeID": "None",
+        "ShieldUIFlags": 0,
+        "ShieldFunctionID": "None",
+        "bLimitCloneEffect": false,
+        "bLimitCanVault": false,
+        "bLimitCanVines": false,
+        "bLimitCanMelee": false,
+        "bLimitCanAbility": false,
+        "bLimitCanEvade": false,
+        "bLimitCanJump": false,
+        "bLimitCanSecondJump": false,
+        "bLimitCanUltSkill": false,
+        "bLimitCanRun": false,
+        "bLimitCanSprint": false,
+        "bLimitCanGliding": false,
+        "bLimitCanDynamicGravity": false,
+        "bLimitCanCantChangePlayer": false,
+        "bLimitCanAnim": false,
+        "bLimitCanDriving": true,
+        "bLimitCanForkAbility": false,
+        "bLimitCanSneak": false,
+        "bLimitCanJinEffect": false,
+        "bLimitCanCloseMainUI": false,
+        "bLimitCanForbiddenMainUIT": false,
+        "bLimitCanPassThroughWalls": false,
+        "bLimitCanSwitchSkill": false,
+        "bLimitCanTransformFly": false,
+        "bLimitCanLongPressFly": false,
+        "LimitAddGamePlayTags": [],
+        "bLimitCanCloseChase": true,
+        "bLimitLevelClock": false,
+        "bLimitSpawnVehicle": false,
+        "bShowSoundMuteButton": false,
+        "ResetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ResetRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bUseEmptyQuickBar": false,
+        "QuickBarProfileTag": "None",
+        "bCanUIOpenPauseTime": true,
+        "bCanPlayGuitar": true,
+        "bCreatOtherCharacters": true
       }
     }
   }

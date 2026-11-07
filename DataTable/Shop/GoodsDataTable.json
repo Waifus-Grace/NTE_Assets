@@ -227885,6 +227885,132 @@
         "GoodTagType": "EGoodTagType::None",
         "GoodJumpUIType": "GoodsJumpUIType::None"
       },
+      "Shop_030_04_002": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "Shop_030_04_01",
+        "ItemID": "Furniture_Ornament_054",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 4,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 10,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 999,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::Weekly",
+        "CurrencyID": "Fons",
+        "Price": 80000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
       "Shop_030_04_01": {
         "BaseGoodsID": "None",
         "MutualExclusionGoodsID": [],
@@ -262166,7 +262292,7 @@
         "ItemName": {
           "CultureInvariantString": null
         },
-        "GoodSortLevel": 4,
+        "GoodSortLevel": 6,
         "ShowItemID": "None",
         "MixAmount": 1,
         "MaxAmount": 1,
@@ -262292,7 +262418,7 @@
         "ItemName": {
           "CultureInvariantString": null
         },
-        "GoodSortLevel": 3,
+        "GoodSortLevel": 5,
         "ShowItemID": "None",
         "MixAmount": 1,
         "MaxAmount": 1,
@@ -262418,7 +262544,7 @@
         "ItemName": {
           "CultureInvariantString": null
         },
-        "GoodSortLevel": 2,
+        "GoodSortLevel": 4,
         "ShowItemID": "None",
         "MixAmount": 1,
         "MaxAmount": 1,
@@ -262544,7 +262670,7 @@
         "ItemName": {
           "CultureInvariantString": null
         },
-        "GoodSortLevel": 1,
+        "GoodSortLevel": 3,
         "ShowItemID": "None",
         "MixAmount": 1,
         "MaxAmount": 1,
@@ -262631,6 +262757,258 @@
             "Year": 2026,
             "Month": 10,
             "Day": 27,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::Fashion"
+      },
+      "FashionShop_23": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "FashionShop",
+        "ItemID": "Fashion_character_1090_01",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "Riftcrystal",
+        "Price": 3280,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": true,
+        "OffPrice": 2680,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": true,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 4,
+            "Day": 1,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 4,
+            "Day": 6,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 17,
+            "Hour": 5,
+            "minute": 59,
+            "Second": 59
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 22,
+            "Hour": 21,
+            "minute": 59,
+            "Second": 59
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "Mall",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": true,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 5,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 10,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::Fashion"
+      },
+      "FashionShop_24": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "FashionShop",
+        "ItemID": "Fashion_character_1074_02",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 1,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "Riftcrystal",
+        "Price": 3280,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": true,
+        "OffPrice": 2680,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": true,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 4,
+            "Day": 1,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 4,
+            "Day": 6,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 17,
+            "Hour": 5,
+            "minute": 59,
+            "Second": 59
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 22,
+            "Hour": 21,
+            "minute": 59,
+            "Second": 59
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "Mall",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": true,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 26,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 1,
             "Hour": 22,
             "minute": 30,
             "Second": 0
@@ -336660,6 +337038,4794 @@
         "RefreshType": "EShopRefresh::Daily",
         "CurrencyID": "PukalandTicket",
         "Price": 1000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_01": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "DiceNormal",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 1,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 3,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 3,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 700,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_02": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "Vehicle060c",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 1,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 12000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_03": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "Title_Logistics",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 3,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 12000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_04": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "PhoneCase_Logistics",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 4,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 6000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_05": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "Wallpaper_Logistics",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 5,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 6000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_07": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "Avatar_Logistics",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 7,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 6000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_08": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "Frame_Logistics",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 8,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 6000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_09": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "CharacterUpMaterial_lv3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 9,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 20,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 20,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 30,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_10": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "WeaponUpMaterial_lv3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 10,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 20,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 20,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 30,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_11": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "EquipmentUpMaterial_lv3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 11,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 30,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_12": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "CharacterUpMaterial_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 12,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 40,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 40,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 8,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_13": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "WeaponUpMaterial_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 13,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 40,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 40,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 8,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_14": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "EquipmentUpMaterial_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 14,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 60,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 60,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 8,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_15": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_01_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 15,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 9,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_16": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_02_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 16,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 9,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_17": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_03_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 17,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 9,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_18": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_04_lv2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 18,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 9,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_19": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_01_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 19,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 3,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_20": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_02_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 20,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 3,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_21": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_03_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 21,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 3,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_22": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "OrdinaryMonMaterial_04_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 22,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 3,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_23": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "SkillUpMaterial_01_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 23,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_24": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "SkillUpMaterial_02_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 24,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_25": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "SkillUpMaterial_03_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 25,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_26": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "SkillUpMaterial_04_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 26,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_27": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "SkillUpMaterial_05_lv1",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 27,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 30,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 30,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "LogisticsShop_28": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "LogisticsShop",
+        "ItemID": "gold_5000",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 28,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 50,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 50,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "LogisticsCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "Shop_039_06_01_01": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "Shop_039_06_01",
+        "ItemID": "vehicle060a",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 4,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 1,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "Fons",
+        "Price": 500000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "Shop_039_06_01_02": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "Shop_039_06_01",
+        "ItemID": "Vehicle060b",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 3,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 1,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "Fons",
+        "Price": 500000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "Shop_039_06_01_03": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "Shop_039_06_01",
+        "ItemID": "Vehicle031b",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 1,
+        "MaxSelectorAmount": 1,
+        "LimitAmount": 1,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "Fons",
+        "Price": 400000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_01": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "Annulith_x30",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 1,
+        "ShowItemID": "Annulith",
+        "MixAmount": 1,
+        "MaxAmount": 10,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 10,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 45,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_02": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "Fons_10000",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "Fons",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 20,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_03": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "SpecialGift_ticket",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 3,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 2,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 2,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 100,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_04": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "CharacterUpMaterial_lv3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 4,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 12,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 12,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 20,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_05": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "WeaponUpMaterial_lv3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 5,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 12,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 12,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 20,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_06": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "Common_material_01_×2",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 6,
+        "ShowItemID": "Common_material_01",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_07": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "Common_material_02_x3",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 7,
+        "ShowItemID": "Common_material_02",
+        "MixAmount": 1,
+        "MaxAmount": 15,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 15,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 15,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "bUseOffTime": false,
+        "OffStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "OffEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ShowCostEffectiveness": false,
+        "CostEffectivenessValue": 0,
+        "UnLockID": "None",
+        "UnlockCondition": {
+          "UnlockDescription": "",
+          "ShopUnlockDataArray": []
+        },
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "UseLimitStartTime": false,
+        "UseLimitEndTime": false,
+        "LimitStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None",
+        "GoodJumpUIType": "GoodsJumpUIType::None"
+      },
+      "TankBattleShop_08": {
+        "BaseGoodsID": "None",
+        "MutualExclusionGoodsID": [],
+        "ProductId": "None",
+        "OwnerShopID": "TankBattleShop",
+        "ItemID": "gold_5000",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 8,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 12,
+        "MaxSelectorAmount": 999,
+        "LimitAmount": 12,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::None",
+        "CurrencyID": "TankBattleCoin",
+        "Price": 10,
         "PriceType": "PriceShowType::Cost",
         "LimitText": {
           "CultureInvariantString": null

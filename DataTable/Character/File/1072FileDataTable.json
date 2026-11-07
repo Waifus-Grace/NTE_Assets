@@ -697,6 +697,58 @@
             "Conditions": []
           },
           {
+            "ID": "Daily90",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "about_NPC030",
+              "SourceString": "关于曳尔沐",
+              "LocalizedString": "关于曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_about_003",
+              "SourceString": "曳尔沐姐姐……能和她再次相见，我真的很开心。但她的电波和过去完全不一样，像是好多个不稳定的频道叠在了一起，我很难听清楚……第一次见面的时候，我还以为我认错了，但她一眼就认出了我，也记得带我捉獭麻吉的事，甚至还和当年一样，总喜欢捏我的脸……可能人的电波也是会变的吧。",
+              "LocalizedString": "曳尔沐姐姐……能和她再次相见，我真的很开心。但她的电波和过去完全不一样，像是好多个不稳定的频道叠在了一起，我很难听清楚……第一次见面的时候，我还以为我认错了，但她一眼就认出了我，也记得带我捉獭麻吉的事，甚至还和当年一样，总喜欢捏我的脸……可能人的电波也是会变的吧。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_about_003.Play_Vo_Char_NPC027_about_003",
+              "SubPathString": ""
+            },
+            "Conditions": [
+              {
+                "Firendly": 0,
+                "QuestId": "q111088",
+                "CharacterFileBreakLevel": 0
+              }
+            ]
+          },
+          {
+            "ID": "Daily91",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "about_NPC029",
+              "SourceString": "关于Exe",
+              "LocalizedString": "关于Exe"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_about_004",
+              "SourceString": "Exe喜欢把自己关在机房里，平时很难见到他，偶尔露面时也总是板着个脸，看上去凶凶的，但他其实是个很温和的人。他的电波很催眠，像是隔着厚窗户听到的雨声……或者是那种均匀的、噼哩啪啦敲键盘的声音。但有的时候……准确的说，主要是他和曳尔沐姐姐在一起的时候，他的频道里会突然翻涌起一些很可怕的、我不敢仔细听的声音……要是他们能好好相处就好了。",
+              "LocalizedString": "Exe喜欢把自己关在机房里，平时很难见到他，偶尔露面时也总是板着个脸，看上去凶凶的，但他其实是个很温和的人。他的电波很催眠，像是隔着厚窗户听到的雨声……或者是那种均匀的、噼哩啪啦敲键盘的声音。但有的时候……准确的说，主要是他和曳尔沐姐姐在一起的时候，他的频道里会突然翻涌起一些很可怕的、我不敢仔细听的声音……要是他们能好好相处就好了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_about_004.Play_Vo_Char_NPC027_about_004",
+              "SubPathString": ""
+            },
+            "Conditions": [
+              {
+                "Firendly": 0,
+                "QuestId": "q111088",
+                "CharacterFileBreakLevel": 0
+              }
+            ]
+          },
+          {
             "ID": "Daily24",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1897,6 +1949,46 @@
             "Conditions": []
           },
           {
+            "ID": "Battle93",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_EXE",
+              "SourceString": "特殊切换·Exe",
+              "LocalizedString": "特殊切换·Exe"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_SSC_Exe_001",
+              "SourceString": "队长……居然出门了？！",
+              "LocalizedString": "队长……居然出门了？！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_SSC_Exe_001.Play_Vo_Char_NPC027_SSC_Exe_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle94",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_YEM",
+              "SourceString": "特殊切换·曳尔沐",
+              "LocalizedString": "特殊切换·曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_SSC_Elyms_001",
+              "SourceString": "曳尔沐姐姐……连上了！",
+              "LocalizedString": "曳尔沐姐姐……连上了！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_SSC_Elyms_001.Play_Vo_Char_NPC027_SSC_Elyms_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
             "ID": "Battle51",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1932,6 +2024,46 @@
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_TeammateDown_001.Play_Vo_Char_NPC027_TeammateDown_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle95",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_EXE",
+              "SourceString": "队友倒下·EXE",
+              "LocalizedString": "队友倒下·EXE"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_TeammateDown_002",
+              "SourceString": "不好，队长的运动量好像透支了……",
+              "LocalizedString": "不好，队长的运动量好像透支了……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_TeammateDown_002.Play_Vo_Char_NPC027_TeammateDown_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle96",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_YEM",
+              "SourceString": "队友倒下·曳尔沐",
+              "LocalizedString": "队友倒下·曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC027_TeammateDown_003",
+              "SourceString": "曳尔沐姐姐？奇怪，她去哪了……",
+              "LocalizedString": "曳尔沐姐姐？奇怪，她去哪了……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC027/Play_Vo_Char_NPC027_TeammateDown_003.Play_Vo_Char_NPC027_TeammateDown_003",
               "SubPathString": ""
             },
             "Conditions": []

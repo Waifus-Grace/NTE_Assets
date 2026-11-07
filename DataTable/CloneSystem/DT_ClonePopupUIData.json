@@ -1,0 +1,274 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ClonePopupUIData",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/CloneSystem/DT_ClonePopupUIData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'ClonePopupUIData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "NewRow": {
+        "CloneType": [
+          "ECloneType::Trial_Clone",
+          "ECloneType::Talent_Clone",
+          "ECloneType::ArcDisk_Clone",
+          "ECloneType::AirCurtain_Clone",
+          "ECloneType::Weekly_Clone",
+          "ECloneType::BreakThrough_Clone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "CloneMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "CloneSystemChallengeResult",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "CloneSystemOnlineChallengeFailed",
+          "CloneAwardUI": "UI_CloneSystemAwards"
+        }
+      },
+      "NewRow_0": {
+        "CloneType": [
+          "ECloneType::Abyss"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "AbyssCloneFight",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_1": {
+        "CloneType": [
+          "ECloneType::Trial_Player_Clone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "CloneTeachMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "TeachCloneSystemChallengeResult",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": "UI_CloneSystemAwards"
+        }
+      },
+      "NewRow_2": {
+        "CloneType": [
+          "ECloneType::AdvVision"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "AdvVisionGaming",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "AdvVisionSettle",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_3": {
+        "CloneType": [
+          "ECloneType::MultiVision"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "MultiVisionGaming",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "SpecialMultiCloneChallengeFailed",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_4": {
+        "CloneType": [
+          "ECloneType::SingleVision"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "SingleVisionGaming",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_5": {
+        "CloneType": [
+          "ECloneType::RobBank"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "RobBankMain",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "RobBankResult",
+          "CloneChallengeResultFailedUI": "RobBankFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_6": {
+        "CloneType": [
+          "ECloneType::Gold_Clone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "CloneMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "CloneSystemChallengeResult",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": "CloneSystemGoldAwards"
+        }
+      },
+      "NewRow_7": {
+        "CloneType": [
+          "ECloneType::VehicleTrial"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "CloneMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_8": {
+        "CloneType": [
+          "ECloneType::DiyBossClone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "DiyBossCloneGaming",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "DiyBossCloneSettle",
+          "CloneChallengeResultFailedUI": "CloneSystemChallengeFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_9": {
+        "CloneType": [
+          "ECloneType::BidKing"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "BidKingMapForm",
+          "CloneChallengeResultUI": "BidKingResultForm",
+          "CloneChallengeResultFailedUI": "BidKingResultForm",
+          "OnlineCloneChallengeResultFailedUI": "BidKingResultForm",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_10": {
+        "CloneType": [
+          "ECloneType::Survival_Clone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "SurvivalSceneMainForm",
+          "CloneSkillPanelSlot": "SurvivalSkill",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "SGP_Settlement_win",
+          "CloneChallengeResultFailedUI": "SGP_Settlement",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_11": {
+        "CloneType": [
+          "ECloneType::CanhongDatingClone"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "CloneMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_12": {
+        "CloneType": [
+          "ECloneType::Motorboat_Collect"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "MotorboatCollectCloneMain",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "MotorboatCollectCloneSuccess",
+          "CloneChallengeResultFailedUI": "MotorboatCollectCloneFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_13": {
+        "CloneType": [
+          "ECloneType::EndlessTrial"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "EndlessTrialGaming",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "EndlessTrialCloneSettle",
+          "CloneChallengeResultFailedUI": "EndlessTrialCloneFailed",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_14": {
+        "CloneType": [
+          "ECloneType::DefendAthena"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "DefendAthenaMainForm",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_15": {
+        "CloneType": [
+          "ECloneType::TankBattle"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "TankBattleInGameMain",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      },
+      "NewRow_16": {
+        "CloneType": [
+          "ECloneType::BossRush"
+        ],
+        "CloneUIxtensionData": {
+          "CloneMainFormSlot": "BossRushMain",
+          "CloneSkillPanelSlot": "",
+          "EnterCloneTipsUI": "",
+          "CloneChallengeResultUI": "",
+          "CloneChallengeResultFailedUI": "",
+          "OnlineCloneChallengeResultFailedUI": "",
+          "CloneAwardUI": ""
+        }
+      }
+    }
+  }
+]

@@ -2720,6 +2720,221 @@
         "DisplayRegion": "ETitleDisplayRegion::All",
         "bActivateVisible": true,
         "ShowLinkCharacterID": "None"
+      },
+      "Combat_Frame_07": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_Frame_07_Name",
+          "SourceString": "谁人来电",
+          "LocalizedString": "谁人来电"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_256/Combat_Frame_07_256.Combat_Frame_07_256",
+          "SubPathString": ""
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_100/Combat_Frame_07_100.Combat_Frame_07_100",
+          "SubPathString": ""
+        },
+        "TopIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_Top/Combat_Frame_07_256_F1.Combat_Frame_07_256_F1",
+          "SubPathString": ""
+        },
+        "Mask": {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_39.UI_T_Mask_39",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_Frame_07_Desc",
+          "SourceString": "「喂！你好啊，是我……你还记得我吗……」",
+          "LocalizedString": "「喂！你好啊，是我……你还记得我吗……」"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_07_Obtain",
+          "SourceString": "第6期环期赏令奖励",
+          "LocalizedString": "第6期环期赏令奖励"
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": true,
+        "ShowLinkCharacterID": "None"
+      },
+      "Frame_Logistics": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Frame_Logistics_Name",
+          "SourceString": "店长驾到",
+          "LocalizedString": "店长驾到"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_256/Frame_Logistics_256.Frame_Logistics_256",
+          "SubPathString": ""
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_100/Frame_Logistics_100.Frame_Logistics_100",
+          "SubPathString": ""
+        },
+        "TopIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_Top/Frame_Logistics_256_F1.Frame_Logistics_256_F1",
+          "SubPathString": ""
+        },
+        "Mask": {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_39.UI_T_Mask_39",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Frame_Logistics_Desc",
+          "SourceString": "分店？总店！",
+          "LocalizedString": "分店？总店！"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Frame_Logistics_Obtain",
+          "SourceString": "物流中心奖励",
+          "LocalizedString": "物流中心奖励"
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": true,
+        "ShowLinkCharacterID": "None"
+      },
+      "Frame_MangHe_005": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Frame_MangHe_005_name",
+          "SourceString": "问道",
+          "LocalizedString": "问道"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/UI_IMG_Frame_MangHe_005_256.UI_IMG_Frame_MangHe_005_256",
+          "SubPathString": ""
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/item_100/UI_IMG_Frame_MangHe_005_100.UI_IMG_Frame_MangHe_005_100",
+          "SubPathString": ""
+        },
+        "TopIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_Top/UI_IMG_Frame_MangHe_005_256_f.UI_IMG_Frame_MangHe_005_256_f",
+          "SubPathString": ""
+        },
+        "Mask": {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_39.UI_T_Mask_39",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Frame_MangHe_005_des",
+          "SourceString": "跻身洪流中，何须渡旁津。",
+          "LocalizedString": "跻身洪流中，何须渡旁津。"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Frame_MangHe_005_ly",
+          "SourceString": "「所行皆坦途」盲盒获得。",
+          "LocalizedString": "「所行皆坦途」盲盒获得。"
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": true,
+        "ShowLinkCharacterID": "None"
+      },
+      "Frame_1074": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_frame_1074_name",
+          "SourceString": "魔咒编码",
+          "LocalizedString": "魔咒编码"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/UI_Icon_Frame_1074_256.UI_Icon_Frame_1074_256",
+          "SubPathString": ""
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/item_100/UI_Icon_Frame_1074_100.UI_Icon_Frame_1074_100",
+          "SubPathString": ""
+        },
+        "TopIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_Top/UI_Icon_Frame_1074_256_F.UI_Icon_Frame_1074_256_F",
+          "SubPathString": ""
+        },
+        "Mask": {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_39.UI_T_Mask_39",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_frame_1074_desc",
+          "SourceString": "总之，能跑就行。",
+          "LocalizedString": "总之，能跑就行。"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Avatar_004",
+          "SourceString": "角色羁遇奖励",
+          "LocalizedString": "角色羁遇奖励"
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None"
+      },
+      "Frame_1090": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_frame_1090_name",
+          "SourceString": "谜点热线",
+          "LocalizedString": "谜点热线"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/UI_Icon_Frame_1090_256.UI_Icon_Frame_1090_256",
+          "SubPathString": ""
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/item_100/UI_Icon_Frame_1090_100.UI_Icon_Frame_1090_100",
+          "SubPathString": ""
+        },
+        "TopIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Frame_Top/UI_Icon_Frame_1090_256_F.UI_Icon_Frame_1090_256_F",
+          "SubPathString": ""
+        },
+        "Mask": {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_39.UI_T_Mask_39",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_frame_1090_desc",
+          "SourceString": "再多分享一些有趣的事情吧！",
+          "LocalizedString": "再多分享一些有趣的事情吧！"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Avatar_004",
+          "SourceString": "角色羁遇奖励",
+          "LocalizedString": "角色羁遇奖励"
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None"
       }
     }
   }

@@ -1,0 +1,3656 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_LogisticsQuestDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_LogisticsQuestDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'QuestData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "LogisticsQuest01": {
+        "QuestId": "LogisticsQuest01",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "LogisticsTargetType": "EHTLogisticsQuestTargetType::DeliveryVehicle",
+            "CompletionSignal": "EHTLogisticsQuestSignalType::VehicleBound",
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_LOGISTICS_GAMEPLAY",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_002",
+              "SourceString": "乘上车辆",
+              "LocalizedString": "乘上车辆"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest02": {
+        "QuestId": "LogisticsQuest02",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "LogisticsTargetType": "EHTLogisticsQuestTargetType::Destination",
+            "CompletionSignal": "EHTLogisticsQuestSignalType::DestinationReached",
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_LOGISTICS_GAMEPLAY",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_003",
+              "SourceString": "送达目的地",
+              "LocalizedString": "送达目的地"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "toq110101",
+            "ObjectiveID": "2"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest03": {
+        "QuestId": "LogisticsQuest03",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "LogisticsTargetType": "EHTLogisticsQuestTargetType::DestinationNpc",
+            "CompletionSignal": "EHTLogisticsQuestSignalType::DestinationDialogueCompleted",
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_LOGISTICS_GAMEPLAY",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_004",
+              "SourceString": "对话并完成配送",
+              "LocalizedString": "对话并完成配送"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_order_012": {
+        "QuestId": "LogisticsQuest_order_012",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "MonsterTagList": [
+              "mon_038_BP_Takeorder"
+            ],
+            "bNeedShowKillMark": true,
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_KILL",
+            "Amount": 3,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/Monster/mon_38/Takeorder/mon_038_BP_Takeorder.mon_038_BP_Takeorder_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "toq110104_1_ObjDes",
+              "SourceString": "击败<blue>迦楼罗</>",
+              "LocalizedString": "击败<blue>迦楼罗</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_test_001": {
+        "QuestId": "LogisticsQuest_hospital_test_001",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "Testmap_liuyang",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -122807.125,
+                "Y": 160945.17,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Level/Quest/JUZI/Logtistics/ArriveNPC/BP_Logistics_Arrive_NPC_test_004.BP_Logistics_Arrive_NPC_test_004_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -122807.125,
+                "Y": 160945.17,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -122807.125,
+                "Y": 160945.17,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_prison_test_001": {
+        "QuestId": "LogisticsQuest_prison_test_001",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "Testmap_liuyang",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_006",
+              "SourceString": "前往接取第二批囚犯",
+              "LocalizedString": "前往接取第二批囚犯"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -128620.82,
+                "Y": 161024.9,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_009",
+              "SourceString": "和狱警对话",
+              "LocalizedString": "和狱警对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -129150.914,
+                "Y": 160989.39,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_010",
+              "SourceString": "返回押运车",
+              "LocalizedString": "返回押运车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -128620.82,
+                "Y": 161024.9,
+                "Z": 4530.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_gang_test_001": {
+        "QuestId": "LogisticsQuest_gang_test_001",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "Testmap_liuyang",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_1036/CNPC_103602/CNPC_103602.CNPC_103602_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_015",
+              "SourceString": "对话并完成配送",
+              "LocalizedString": "对话并完成配送"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -164105.25,
+                "Y": 116506.7,
+                "Z": 7133.911
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "MonsterTagList": [
+              "mon_038_BP_Takeorder"
+            ],
+            "bNeedShowKillMark": false,
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_KILL",
+            "Amount": 3,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/Monster/mon_38/Takeorder/mon_038_BP_Takeorder.mon_038_BP_Takeorder_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "toq110104_1_ObjDes",
+              "SourceString": "击败<blue>迦楼罗</>",
+              "LocalizedString": "击败<blue>迦楼罗</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_001": {
+        "QuestId": "LogisticsQuest_hospital_001",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -111554.03,
+                "Y": 68288.984,
+                "Z": 7122.5596
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_021/CNPC_021024/BP_CNPC_021024_A.BP_CNPC_021024_A_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -111518.81,
+                "Y": 67525.44,
+                "Z": 7139.7476
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -111554.03,
+                "Y": 68288.984,
+                "Z": 7122.5596
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_002": {
+        "QuestId": "LogisticsQuest_hospital_002",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -253797.28,
+                "Y": 97420.164,
+                "Z": 5064.7715
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_100/CNPC_100017/BP_CNPC_100017.BP_CNPC_100017_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -252999.88,
+                "Y": 98097.14,
+                "Z": 5081.9595
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -253797.28,
+                "Y": 97420.164,
+                "Z": 5064.7715
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_003": {
+        "QuestId": "LogisticsQuest_hospital_003",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -47628.02,
+                "Y": -10161.583,
+                "Z": 7788.502
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_038/CNPC_038056/BP_CNPC_038056.BP_CNPC_038056_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -47920.734,
+                "Y": -10904.957,
+                "Z": 7816.1978
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -47628.02,
+                "Y": -10161.583,
+                "Z": 7788.502
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_004": {
+        "QuestId": "LogisticsQuest_hospital_004",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -248840.84,
+                "Y": 135733.02,
+                "Z": 2980.6765
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_036/CNPC_036005/BP_CNPC_036005.BP_CNPC_036005_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -249537.94,
+                "Y": 136016.64,
+                "Z": 3008.9165
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -248840.84,
+                "Y": 135733.02,
+                "Z": 2980.6765
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_005": {
+        "QuestId": "LogisticsQuest_hospital_005",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -107023.63,
+                "Y": 21289.012,
+                "Z": 8863.825
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_1037/CNPC_103702/CNPC_103702.CNPC_103702_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_016",
+              "SourceString": "和目击者对话",
+              "LocalizedString": "和目击者对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -107017.15,
+                "Y": 20501.176,
+                "Z": 8910.396
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_008",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -107023.63,
+                "Y": 21289.012,
+                "Z": 8863.825
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_hospital_006": {
+        "QuestId": "LogisticsQuest_hospital_006",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_005",
+              "SourceString": "前往接送病人",
+              "LocalizedString": "前往接送病人"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -122643.41,
+                "Y": 197218.47,
+                "Z": 5950.8633
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_1037/CNPC_103702/CNPC_103702.CNPC_103702_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_007",
+              "SourceString": "和病人对话",
+              "LocalizedString": "和病人对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -121877.45,
+                "Y": 197584.75,
+                "Z": 5975.5327
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "Namespace": "",
+              "Key": "540D610648BB5819D3D94C838BD1BE6A",
+              "SourceString": "返回救护车",
+              "LocalizedString": "返回救护车"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -122643.41,
+                "Y": 197218.47,
+                "Z": 5950.8633
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_CNPC100203": {
+        "QuestId": "LogisticsQuest_CNPC100203",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "TakeOrders_Quest_014",
+          "SourceString": "司机招募计划",
+          "LocalizedString": "司机招募计划"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/NPC_04913/BP_NPC_04913.BP_NPC_04913_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_011",
+              "SourceString": "与「藤原豆腐店」老板对话",
+              "LocalizedString": "与「藤原豆腐店」老板对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -168902.22,
+                "Y": 109719.28,
+                "Z": 7128.488
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_102/CNPC_100203/CNPC_100203.CNPC_100203_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_012",
+              "SourceString": "返回与佐藤巧对话",
+              "LocalizedString": "返回与佐藤巧对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -169325.42,
+                "Y": 109448.1,
+                "Z": 7117.8594
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_102/CNPC_100203/CNPC_100203_A.CNPC_100203_A_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_013",
+              "SourceString": "对司机进行面试",
+              "LocalizedString": "对司机进行面试"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 25604.113,
+                "Y": -2903.1257,
+                "Z": 8816.173
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_CNPC039007": {
+        "QuestId": "LogisticsQuest_CNPC039007",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "TakeOrders_Quest_014",
+          "SourceString": "司机招募计划",
+          "LocalizedString": "司机招募计划"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "3",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_039/CNPC_039007/CNPC_039007_A.CNPC_039007_A_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_013",
+              "SourceString": "对司机进行面试",
+              "LocalizedString": "对司机进行面试"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 25604.113,
+                "Y": -2903.1257,
+                "Z": 8816.173
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_gang_001": {
+        "QuestId": "LogisticsQuest_gang_001",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_1036/CNPC_103602/CNPC_103602.CNPC_103602_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_015",
+              "SourceString": "对话并完成配送",
+              "LocalizedString": "对话并完成配送"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": -164105.25,
+                "Y": 116506.7,
+                "Z": 7133.911
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "MonsterTagList": [
+              "mon_038_BP_Takeorder"
+            ],
+            "bNeedShowKillMark": false,
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_KILL",
+            "Amount": 3,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/Monster/mon_38/Takeorder/mon_038_BP_Takeorder.mon_038_BP_Takeorder_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "toq110104_1_ObjDes",
+              "SourceString": "击败<blue>迦楼罗</>",
+              "LocalizedString": "击败<blue>迦楼罗</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      },
+      "LogisticsQuest_gang_002": {
+        "QuestId": "LogisticsQuest_gang_002",
+        "QuestName": {
+          "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+          "Key": "toq_QuestName",
+          "SourceString": "同城派送",
+          "LocalizedString": "同城派送"
+        },
+        "ChapterID": "None",
+        "ChapterProgress": -1.0,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "bAllowPukalandCancelTracking": true,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/CNPC/CNPC_1036/CNPC_103603/CNPC_103603.CNPC_103603_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "TakeOrders_Quest_015",
+              "SourceString": "对话并完成配送",
+              "LocalizedString": "对话并完成配送"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": true,
+              "TrackLocation": {
+                "X": 8997.499,
+                "Y": 46720.527,
+                "Z": 7694.555
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          },
+          {
+            "MonsterTagList": [
+              "mon_038_BP_Takeorder"
+            ],
+            "bNeedShowKillMark": false,
+            "ObjectiveID": "2",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_KILL",
+            "Amount": 3,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/Monster/mon_38/Takeorder/mon_038_BP_Takeorder.mon_038_BP_Takeorder_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/TakeOrders/ST_TakeOrders.ST_TakeOrders",
+              "Key": "toq110104_1_ObjDes",
+              "SourceString": "击败<blue>迦楼罗</>",
+              "LocalizedString": "击败<blue>迦楼罗</>"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "bHideTrackIndicatorInFightState": true,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": null,
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_EVERYDAY_COM",
+        "bNeedRedpoint": false,
+        "bLoop": true,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "CultureInvariantString": null
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "NeedIgnoreFavorabilityNPCWhenTracking": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "SubmitActivateYahahaIDs": [],
+        "AcceptActivateYahahaIDs": [],
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
+      }
+    }
+  }
+]

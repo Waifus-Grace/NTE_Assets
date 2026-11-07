@@ -359,6 +359,64 @@
           "SubPathString": ""
         },
         "bUnlock": false
+      },
+      "Wallpaper_Logistics": {
+        "ID": "Wallpaper_Logistics",
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Wallpaper_Logistics_Name",
+          "SourceString": "下一单！",
+          "LocalizedString": "下一单！"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Wallpaper_Logistics_Desc",
+          "SourceString": "快件信息已确认，送达还需3……2……1！感谢选择库霸快送。",
+          "LocalizedString": "快件信息已确认，送达还需3……2……1！感谢选择库霸快送。"
+        },
+        "AccessChannels": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Wallpaper_Logistics_Obtain",
+          "SourceString": "物流中心奖励",
+          "LocalizedString": "物流中心奖励"
+        },
+        "PCBackImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/Wallpaper_Logistics_001.Wallpaper_Logistics_001",
+          "SubPathString": ""
+        },
+        "PCToolImage": {
+          "AssetPathName": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_Bottom_BtnBG.YH_UI_Phone_Bottom_BtnBG",
+          "SubPathString": ""
+        },
+        "ButtonImage": {
+          "AssetPathName": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_BtnBG.YH_UI_Phone_BtnBG",
+          "SubPathString": ""
+        },
+        "PCButtonImage": {
+          "AssetPathName": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_BtnBG.YH_UI_Phone_BtnBG",
+          "SubPathString": ""
+        },
+        "MobileBackImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/Wallpaper_Logistics_001.Wallpaper_Logistics_001",
+          "SubPathString": ""
+        },
+        "MobileToolImage": {
+          "AssetPathName": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_Bottom_BtnBG.YH_UI_Phone_Bottom_BtnBG",
+          "SubPathString": ""
+        },
+        "MobileButtonImage": {
+          "AssetPathName": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_BtnBG.YH_UI_Phone_BtnBG",
+          "SubPathString": ""
+        },
+        "ThemeItemImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/Wallpaper_Logistics_002.Wallpaper_Logistics_002",
+          "SubPathString": ""
+        },
+        "PlayerInfoImage": {
+          "AssetPathName": "/Game/UI/UI/Mobile/Wallpaper_Logistics_003.Wallpaper_Logistics_003",
+          "SubPathString": ""
+        },
+        "bUnlock": false
       }
     }
   }

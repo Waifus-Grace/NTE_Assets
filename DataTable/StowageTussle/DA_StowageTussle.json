@@ -14,6 +14,22 @@
         "ObjectName": "DataTable'DT_StowageTussleItemShapeConfig'",
         "ObjectPath": "/Game/DataTable/StowageTussle/DT_StowageTussleItemShapeConfig.0"
       },
+      "ItemBuffDataTable": {
+        "ObjectName": "DataTable'DT_StowageTussleBuff'",
+        "ObjectPath": "/Game/DataTable/StowageTussle/DT_StowageTussleBuff.0"
+      },
+      "PveWarehouseSettingDataTable": {
+        "ObjectName": "DataTable'DT_StowageTussleWarehouseSetting'",
+        "ObjectPath": "/Game/DataTable/StowageTussle/DT_StowageTussleWarehouseSetting.0"
+      },
+      "MonsterDataTable": {
+        "ObjectName": "DataTable'DT_StowageTussleMonster'",
+        "ObjectPath": "/Game/DataTable/StowageTussle/DT_StowageTussleMonster.0"
+      },
+      "ShopItemDataTable": {
+        "ObjectName": "DataTable'DT_StowageTussleItemRandomPool'",
+        "ObjectPath": "/Game/DataTable/StowageTussle/DT_StowageTussleItemRandomPool.0"
+      },
       "WarehouseSizeMap": [
         {
           "Key": "ELatticeWarehouseType::PlayerCommon",
@@ -37,30 +53,96 @@
             "X": 7,
             "Y": 3
           }
+        }
+      ],
+      "RoundWarehouseSizeMap": [
+        {
+          "Key": "1",
+          "Value": {
+            "X": 6,
+            "Y": 4
+          }
         },
         {
-          "Key": "ELatticeWarehouseType::InUse",
+          "Key": "0",
           "Value": {
             "X": 5,
             "Y": 3
           }
         }
       ],
+      "ShopItemID": "BidkingCoin",
+      "ShopRefreshCostSetting": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "RoundShopCurrencyMap": [
+        {
+          "Key": "1",
+          "Value": 10
+        },
+        {
+          "Key": "0",
+          "Value": 10
+        }
+      ],
+      "ItemTypeTextureMap": [
+        {
+          "Key": "EStowageTussleItemType::Skill",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_jineng.YH_UI_YXJZ_jineng",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EStowageTussleItemType::Food",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_shiwu.YH_UI_YXJZ_shiwu",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EStowageTussleItemType::Medicine",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_yaoping.YH_UI_YXJZ_yaoping",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EStowageTussleItemType::Furniture",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_jiaju.YH_UI_YXJZ_jiaju",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EStowageTussleItemType::Equipment",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_yaoping.YH_UI_YXJZ_yaoping",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EStowageTussleItemType::Jewelry",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/YH_UI_YXJZ_zhubao.YH_UI_YXJZ_zhubao",
+            "SubPathString": ""
+          }
+        }
+      ],
       "StowageTussleGameConfig": {
         "GameTransform": {
           "Translation": {
-            "X": -91132.42,
-            "Y": 131988.72,
-            "Z": -3353.6755
+            "X": -161030.0,
+            "Y": 24030.0,
+            "Z": -30310.0
           }
         },
         "DataLayerAssets": [
           {
-            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/UnloadDataLayer/W_Unload_CloneResource_01.W_Unload_CloneResource_01",
-            "SubPathString": ""
-          },
-          {
-            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/UnloadDataLayer/W_Unload_CloneResource_02.W_Unload_CloneResource_02",
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/UnloadDataLayer/W_Unload_DLC_StowageTussle.W_Unload_DLC_StowageTussle",
             "SubPathString": ""
           }
         ],

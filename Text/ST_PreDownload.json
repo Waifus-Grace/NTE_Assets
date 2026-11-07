@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PreDownload",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Text/ST_PreDownload",
+    "StringTable": {
+      "TableNamespace": "ST_PreDownload",
+      "KeysToEntries": {
+        "EntryDefault": "预下载",
+        "EntryDownloading": "下载中",
+        "EntryPaused": "已暂停",
+        "EntryCompleted": "已完成",
+        "CompletedMark": "✓",
+        "DialogTitle": "资源预下载",
+        "ConfirmDescription": "提前下载资源可在新版本发布时更快体验游戏。\r\n是否提前下载后续版本资源？",
+        "ProgressDescription": "资源下载中，可关闭窗口继续游玩",
+        "IntegratingDescription": "资源整合中，请耐心等待",
+        "PercentFormat": "{0}%",
+        "TotalFormat": "总大小：{0} MB",
+        "DownloadedFormat": "已下载：{0} MB",
+        "RemainingFormat": "剩余下载：{0} MB",
+        "SpeedFormat": "下载速度：{0} MB/s",
+        "ErrorFormat": "预下载错误码：{0}",
+        "Confirm": "确认",
+        "Pause": "暂停",
+        "Resume": "继续",
+        "Close": "关闭",
+        "EntryRemainingFormat": "{0} MB",
+        "PausingDescription": "正在暂停，请稍候",
+        "PausedDescription": "下载已暂停，点击继续恢复下载",
+        "CompletedDescription": "资源预下载已完成",
+        "Checking": "正在计算资源大小，请稍候"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

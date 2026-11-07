@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_FortuneStallDialogueReward",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Divination/DT_FortuneStallDialogueReward",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTFortuneStallDialogueRewardData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "DialogueReward001": {
+        "RewardDropID": "drop_SpecialFurniture_DivinationShop",
+        "NPCEmotion": "EHTFortuneStallNPCEmotion::Acceptance"
+      },
+      "DialogueReward002": {
+        "RewardDropID": "None",
+        "NPCEmotion": "EHTFortuneStallNPCEmotion::Rebuke"
+      },
+      "DialogueReward003": {
+        "RewardDropID": "drop_SpecialFurniture_DivinationShop",
+        "NPCEmotion": "EHTFortuneStallNPCEmotion::Skepticism"
+      }
+    }
+  }
+]

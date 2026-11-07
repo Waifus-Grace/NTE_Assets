@@ -6376,7 +6376,252 @@
           "ObjectName": "AnimMontage'UI_Akane_Characterinfo'",
           "ObjectPath": "/Game/Characters/Player/057_Akane_fashion2/Animation/UI/UI_Akane_Characterinfo.0"
         },
-        "CustomNearClippingPlane": 5.0,
+        "CustomNearClippingPlane": 15.0,
+        "SelfieAnimationDatas": [
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_076",
+              "SourceString": "默认",
+              "LocalizedString": "默认"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_00.YH_UI_selfie_act_00",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_076",
+              "SourceString": "默认",
+              "LocalizedString": "默认"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_00.YH_UI_selfie_act_00",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "Selfie_Act1",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_114",
+              "SourceString": "叉腰",
+              "LocalizedString": "叉腰"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_06.YH_UI_selfie_act_06",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "CultureInvariantString": null
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": false
+          },
+          {
+            "MontageId": "Selfie_Act2",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_115",
+              "SourceString": "招呼",
+              "LocalizedString": "招呼"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_04.YH_UI_selfie_act_04",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "CultureInvariantString": null
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": false
+          },
+          {
+            "MontageId": "Selfie_Act3",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_116",
+              "SourceString": "战斗",
+              "LocalizedString": "战斗"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_08.YH_UI_selfie_act_08",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "CultureInvariantString": null
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": false
+          },
+          {
+            "MontageId": "Selfie_Act4",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_117",
+              "SourceString": "疑惑",
+              "LocalizedString": "疑惑"
+            },
+            "IconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_07.YH_UI_selfie_act_07",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "CultureInvariantString": null
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "Index": 0,
+            "NormalValid": true,
+            "UseStickValid": false
+          },
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "CultureInvariantString": null
+            },
+            "IconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_085",
+              "SourceString": "好耶",
+              "LocalizedString": "好耶"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_01.YH_UI_selfie_act_01",
+              "SubPathString": ""
+            },
+            "Index": 1,
+            "NormalValid": false,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "CultureInvariantString": null
+            },
+            "IconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_086",
+              "SourceString": "OK",
+              "LocalizedString": "OK"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_02.YH_UI_selfie_act_02",
+              "SubPathString": ""
+            },
+            "Index": 2,
+            "NormalValid": false,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "CultureInvariantString": null
+            },
+            "IconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_087",
+              "SourceString": "比心",
+              "LocalizedString": "比心"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_03.YH_UI_selfie_act_03",
+              "SubPathString": ""
+            },
+            "Index": 3,
+            "NormalValid": false,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "CultureInvariantString": null
+            },
+            "IconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_088",
+              "SourceString": "哈喽",
+              "LocalizedString": "哈喽"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_04.YH_UI_selfie_act_04",
+              "SubPathString": ""
+            },
+            "Index": 4,
+            "NormalValid": false,
+            "UseStickValid": true
+          },
+          {
+            "MontageId": "None",
+            "ItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_089",
+              "SourceString": "思考",
+              "LocalizedString": "思考"
+            },
+            "IconResource": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "UseStickItemName": {
+              "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+              "Key": "Selfie_089",
+              "SourceString": "思考",
+              "LocalizedString": "思考"
+            },
+            "UseStickIconResource": {
+              "AssetPathName": "/Game/UI/UI/selfie/Animation/YH_UI_selfie_act_05.YH_UI_selfie_act_05",
+              "SubPathString": ""
+            },
+            "Index": 5,
+            "NormalValid": false,
+            "UseStickValid": true
+          }
+        ]
+      },
+      "1090": {
+        "SpawnMontage": {
+          "ObjectName": "AnimMontage'UI_Elyms_CharacterInfo'",
+          "ObjectPath": "/Game/Characters/Player/090_elyms/animation/UI/UI_Elyms_CharacterInfo.0"
+        },
+        "CustomNearClippingPlane": 15.0,
         "SelfieAnimationDatas": [
           {
             "MontageId": "None",

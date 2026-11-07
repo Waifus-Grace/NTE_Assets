@@ -800,7 +800,7 @@
         "DescParam": [
           {
             "Value": 1.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_SagiriEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_SagiriEffectFigure.0"
@@ -847,7 +847,7 @@
         "DescParam": [
           {
             "Value": 1.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_SagiriEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_SagiriEffectFigure.0"
@@ -894,7 +894,7 @@
         "DescParam": [
           {
             "Value": 1.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_SagiriEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_SagiriEffectFigure.0"
@@ -1040,7 +1040,7 @@
         "DescParam": [
           {
             "Value": -1.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_CangEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_CangEffectFigure.0"
@@ -1087,7 +1087,7 @@
         "DescParam": [
           {
             "Value": 100.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_CangEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_CangEffectFigure.0"
@@ -1134,7 +1134,7 @@
         "DescParam": [
           {
             "Value": 100.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_CangEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_CangEffectFigure.0"
@@ -1147,7 +1147,7 @@
           },
           {
             "Value": 1.0,
-            "Curve": {
+            "curve": {
               "CurveTable": {
                 "ObjectName": "CurveTable'DT_CangEffectFigure'",
                 "ObjectPath": "/Game/DataTable/Skill/GlobalCharacterData/DT_CangEffectFigure.0"
@@ -5283,7 +5283,10 @@
       },
       "Buff_Potion_DefUp_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_S_name",
+          "SourceString": "小瓶护盾药水",
+          "LocalizedString": "小瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5310,7 +5313,10 @@
       },
       "Buff_Potion_DefUp_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_S_name",
+          "SourceString": "小瓶护盾药水",
+          "LocalizedString": "小瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5337,7 +5343,10 @@
       },
       "Buff_Potion_DefUp_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_M_name",
+          "SourceString": "中瓶护盾药水",
+          "LocalizedString": "中瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5364,7 +5373,10 @@
       },
       "Buff_Potion_DefUp_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_M_name",
+          "SourceString": "中瓶护盾药水",
+          "LocalizedString": "中瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5391,7 +5403,10 @@
       },
       "Buff_Potion_DefUp_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_L_name",
+          "SourceString": "大瓶护盾药水",
+          "LocalizedString": "大瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5418,7 +5433,10 @@
       },
       "Buff_Potion_DefUp_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Def_L_name",
+          "SourceString": "大瓶护盾药水",
+          "LocalizedString": "大瓶护盾药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -5445,7 +5463,10 @@
       },
       "Buff_Potion_Resist_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_S_name",
+          "SourceString": "小瓶硬邦邦药水",
+          "LocalizedString": "小瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5472,7 +5493,10 @@
       },
       "Buff_Potion_Resist_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_S_name",
+          "SourceString": "小瓶硬邦邦药水",
+          "LocalizedString": "小瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5499,7 +5523,10 @@
       },
       "Buff_Potion_Resist_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_M_name",
+          "SourceString": "中瓶硬邦邦药水",
+          "LocalizedString": "中瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5526,7 +5553,10 @@
       },
       "Buff_Potion_Resist_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_M_name",
+          "SourceString": "中瓶硬邦邦药水",
+          "LocalizedString": "中瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5553,7 +5583,10 @@
       },
       "Buff_Potion_Resist_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_L_name",
+          "SourceString": "大瓶硬邦邦药水",
+          "LocalizedString": "大瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5580,7 +5613,10 @@
       },
       "Buff_Potion_Resist_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Resist_L_name",
+          "SourceString": "大瓶硬邦邦药水",
+          "LocalizedString": "大瓶硬邦邦药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_resist.bufficon_common_resist",
@@ -5607,7 +5643,10 @@
       },
       "Buff_Potion_DmgUp_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_S_name",
+          "SourceString": "小瓶大力奇迹药水",
+          "LocalizedString": "小瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5634,7 +5673,10 @@
       },
       "Buff_Potion_DmgUp_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_S_name",
+          "SourceString": "小瓶大力奇迹药水",
+          "LocalizedString": "小瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5661,7 +5703,10 @@
       },
       "Buff_Potion_DmgUp_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_M_name",
+          "SourceString": "中瓶大力奇迹药水",
+          "LocalizedString": "中瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5688,7 +5733,10 @@
       },
       "Buff_Potion_DmgUp_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_M_name",
+          "SourceString": "中瓶大力奇迹药水",
+          "LocalizedString": "中瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5715,7 +5763,10 @@
       },
       "Buff_Potion_DmgUp_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_L_name",
+          "SourceString": "大瓶大力奇迹药水",
+          "LocalizedString": "大瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5742,7 +5793,10 @@
       },
       "Buff_Potion_DmgUp_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Dmg_L_name",
+          "SourceString": "大瓶大力奇迹药水",
+          "LocalizedString": "大瓶大力奇迹药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
@@ -5769,7 +5823,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_S_name",
+          "SourceString": "小瓶暴暴药水",
+          "LocalizedString": "小瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5796,7 +5853,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_S_name",
+          "SourceString": "小瓶暴暴药水",
+          "LocalizedString": "小瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5823,7 +5883,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_M_name",
+          "SourceString": "中瓶暴暴药水",
+          "LocalizedString": "中瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5850,7 +5913,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_M_name",
+          "SourceString": "中瓶暴暴药水",
+          "LocalizedString": "中瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5877,7 +5943,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_L_name",
+          "SourceString": "大瓶暴暴药水",
+          "LocalizedString": "大瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5904,7 +5973,10 @@
       },
       "Buff_Potion_CritDmgUp_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_CritDmg_L_name",
+          "SourceString": "大瓶暴暴药水",
+          "LocalizedString": "大瓶暴暴药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -5931,7 +6003,10 @@
       },
       "Buff_Potion_HPUp_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_S_name",
+          "SourceString": "小瓶生命之水",
+          "LocalizedString": "小瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -5958,7 +6033,10 @@
       },
       "Buff_Potion_HPUp_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_S_name",
+          "SourceString": "小瓶生命之水",
+          "LocalizedString": "小瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -5985,7 +6063,10 @@
       },
       "Buff_Potion_HPUp_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_M_name",
+          "SourceString": "中瓶生命之水",
+          "LocalizedString": "中瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -6012,7 +6093,10 @@
       },
       "Buff_Potion_HPUp_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_M_name",
+          "SourceString": "中瓶生命之水",
+          "LocalizedString": "中瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -6039,7 +6123,10 @@
       },
       "Buff_Potion_HPUp_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_L_name",
+          "SourceString": "大瓶生命之水",
+          "LocalizedString": "大瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -6066,7 +6153,10 @@
       },
       "Buff_Potion_HPUp_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Hp_L_name",
+          "SourceString": "大瓶生命之水",
+          "LocalizedString": "大瓶生命之水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -6093,7 +6183,10 @@
       },
       "Buff_Potion_Unbal_Lv1": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_S_name",
+          "SourceString": "小瓶瘫倒药水",
+          "LocalizedString": "小瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6120,7 +6213,10 @@
       },
       "Buff_Potion_Unbal_Lv2": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_S_name",
+          "SourceString": "小瓶瘫倒药水",
+          "LocalizedString": "小瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6147,7 +6243,10 @@
       },
       "Buff_Potion_Unbal_Lv3": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_M_name",
+          "SourceString": "中瓶瘫倒药水",
+          "LocalizedString": "中瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6174,7 +6273,10 @@
       },
       "Buff_Potion_Unbal_Lv4": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_M_name",
+          "SourceString": "中瓶瘫倒药水",
+          "LocalizedString": "中瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6201,7 +6303,10 @@
       },
       "Buff_Potion_Unbal_Lv5": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_L_name",
+          "SourceString": "大瓶瘫倒药水",
+          "LocalizedString": "大瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6228,7 +6333,10 @@
       },
       "Buff_Potion_Unbal_Lv6": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_FinalTower.ST_FinalTower",
+          "Key": "FT_Potion_Unbal_L_name",
+          "SourceString": "大瓶瘫倒药水",
+          "LocalizedString": "大瓶瘫倒药水"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_unbalup.bufficon_common_unbalup",
@@ -6255,7 +6363,10 @@
       },
       "Buff_Kill_15_Effect": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
+          "Key": "Buff_Kill_15",
+          "SourceString": "连破",
+          "LocalizedString": "连破"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -6282,7 +6393,10 @@
       },
       "Buff_Kill_30": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
+          "Key": "Buff_Kill_30",
+          "SourceString": "溃灭",
+          "LocalizedString": "溃灭"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_efficup.bufficon_common_efficup",
@@ -6471,7 +6585,10 @@
       },
       "Buff_Xiaozhen_Mark": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
+          "Key": "GA_Linko_xiaozhenMark_name",
+          "SourceString": "「小鬼打这里！」",
+          "LocalizedString": "「小鬼打这里！」"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_lingke3.bufficon_lingke3",
@@ -6498,7 +6615,10 @@
       },
       "Buff_Xiaozhen_Mark_Unawakened": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
+          "Key": "GA_Linko_xiaozhenMark_name",
+          "SourceString": "「小鬼打这里！」",
+          "LocalizedString": "「小鬼打这里！」"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_lingke3.bufficon_lingke3",
@@ -6525,7 +6645,10 @@
       },
       "Buff_Xiaozhen_MarkChild": {
         "Name": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
+          "Key": "GA_Linko_xiaozhenMark_name",
+          "SourceString": "「小鬼打这里！」",
+          "LocalizedString": "「小鬼打这里！」"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_lingke3.bufficon_lingke3",
@@ -6630,8 +6753,8 @@
         "Desc": {
           "TableId": "/Game/Text/PlayerSkillDes/Oneiror_SkillDes.Oneiror_SkillDes",
           "Key": "GA_Oneiroi_star5_des",
-          "SourceString": "「交感性神经系统」效果追加：基于伊洛伊基础攻击力的15%，提高队伍中角色的攻击力，持续20秒。",
-          "LocalizedString": "「交感性神经系统」效果追加：基于伊洛伊基础攻击力的15%，提高队伍中角色的攻击力，持续20秒。"
+          "SourceString": "「交感性神经系统」效果追加：基于伊洛伊基础攻击力的<NumGreen>15%</> ，提高队伍中角色的攻击力，持续<NumGreen>20</> 秒。",
+          "LocalizedString": "「交感性神经系统」效果追加：基于伊洛伊基础攻击力的<NumGreen>15%</> ，提高队伍中角色的攻击力，持续<NumGreen>20</> 秒。"
         },
         "BuffType": "BuffInfoType::PositiveBuff",
         "Hierarchy": -1,
@@ -9009,6 +9132,1134 @@
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
         "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_07_1_Atk": {
+        "Name": {
+          "Namespace": "",
+          "Key": "86E01E6F4DC83077629967AFF215CD13",
+          "SourceString": "Buff_07_1_Atk",
+          "LocalizedString": "Buff_07_1_Atk"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_07_1_Def": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C5BED023478FB61C3E364BB45DA7483B",
+          "SourceString": "Buff_07_1_Def",
+          "LocalizedString": "Buff_07_1_Def"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_07_2_Effects": {
+        "Name": {
+          "Namespace": "",
+          "Key": "6A14A03B4989ED14654C2ABC23DE5FA3",
+          "SourceString": "Buff_07_2_Effects",
+          "LocalizedString": "Buff_07_2_Effects"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup_melee.bufficon_common_dmgup_melee",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_08_1_Effects": {
+        "Name": {
+          "Namespace": "",
+          "Key": "E99191D04E40B0A30CB6A7A318B045D2",
+          "SourceString": "Buff_08_1_Effects",
+          "LocalizedString": "Buff_08_1_Effects"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup_melee.bufficon_common_dmgup_melee",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_07_3": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C277884C4E95499CB055C28FD0B06761",
+          "SourceString": "Buff_Strife_07_3",
+          "LocalizedString": "Buff_Strife_07_3"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup_toboss.bufficon_common_dmgup_toboss",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_CHAOS",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_08_2": {
+        "Name": {
+          "Namespace": "",
+          "Key": "845C224E49EDE9B38560E2B714D1FB16",
+          "SourceString": "Buff_Strife_08_2",
+          "LocalizedString": "Buff_Strife_08_2"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_COSMOS",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_08_3": {
+        "Name": {
+          "Namespace": "",
+          "Key": "82B86CFC4E43FF96F621FBB1FAB8DDA2",
+          "SourceString": "Buff_Strife_08_3",
+          "LocalizedString": "Buff_Strife_08_3"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Fork_Elyms_Effect_DefIgnore": {
+        "Name": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_DefIgnore_name",
+          "SourceString": "静候彩铃Ⅰ",
+          "LocalizedString": "静候彩铃Ⅰ"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_defignore.bufficon_common_defignore",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_DefIgnore_des",
+          "SourceString": "全队获得{0}无视防御，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。",
+          "LocalizedString": "全队获得{0}无视防御，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "Buff_Fork_Elyms_Effect_DefIgnore",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": true,
+        "IsShowCustomModifierInfo": true,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Fork_Elyms_Effect_DefIgnore2": {
+        "Name": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_DefIgnore2_name",
+          "SourceString": "静候彩铃Ⅱ",
+          "LocalizedString": "静候彩铃Ⅱ"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_defignore.bufficon_common_defignore",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_DefIgnore2_des",
+          "SourceString": "装备者额外获得{0}无视防御，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。",
+          "LocalizedString": "装备者额外获得{0}无视防御，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "Buff_Fork_Elyms_Effect_DefIgnore2",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": true,
+        "IsShowCustomModifierInfo": true,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Fork_Elyms_Effect_Penetrate": {
+        "Name": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_Penetrate_name",
+          "SourceString": "静候彩铃Ⅲ",
+          "LocalizedString": "静候彩铃Ⅲ"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_penetrate.bufficon_common_penetrate",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Elyms_Effect_Penetrate_des",
+          "SourceString": "全队无视敌人{0}光属性异能抗性，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。",
+          "LocalizedString": "全队无视敌人{0}光属性异能抗性，持续20秒，重复触发刷新持续时间，该效果队伍内唯一。"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "Buff_Fork_Elyms_Effect_Penetrate",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": true,
+        "IsShowCustomModifierInfo": true,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Fork_Exe_Effect_Stack": {
+        "Name": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Exe_Effect_Stack_name",
+          "SourceString": "虚线彼方Ⅰ",
+          "LocalizedString": "虚线彼方Ⅰ"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_BuffDes.ST_BuffDes",
+          "Key": "Buff_Fork_Exe_Effect_Stack_des",
+          "SourceString": "装备者每造成1次暗属性伤害，全场召唤物造成的伤害提高{0}，最多叠加10层，持续20秒，重复获得刷新持续时间。",
+          "LocalizedString": "装备者每造成1次暗属性伤害，全场召唤物造成的伤害提高{0}，最多叠加10层，持续20秒，重复获得刷新持续时间。"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "Buff_Fork_Exe_Effect_Stack",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": true,
+        "IsShowCustomModifierInfo": true,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Elyms_PowerE2DamUpCnt": {
+        "Name": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Elyms_propNoun2_name",
+          "SourceString": "错视幻觉",
+          "LocalizedString": "错视幻觉"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_yeermu1.bufficon_yeermu1",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "Buff_Elyms_Des",
+          "SourceString": "信号强度从「弱信号」增强至「中等信号」后，获得增益效果「错视幻觉」。\r\n释放「变轨技能：对你说再见」时，可消耗所有「错视幻觉」，并依据消耗层数转化为本次技能的倍率提升。",
+          "LocalizedString": "信号强度从「弱信号」增强至「中等信号」后，获得增益效果「错视幻觉」。\r\n释放「变轨技能：对你说再见」时，可消耗所有「错视幻觉」，并依据消耗层数转化为本次技能的倍率提升。"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_COSMOS",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_01_01": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_01_01_Remove": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_NATURE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_01_02_Icon": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::NegativeBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_01_02_AddCrit": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_01_03_1": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::NegativeBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_02_01_HealingIcon": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_NATURE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec1": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_COSMOS",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_03_02": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_04_1_ATK": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_04_2_Effect": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "BUFF_strife_05_1_Def": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_06_1_ATK": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Strife_06_1_DEF": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Player_Eri044_AudienceTarget": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup.bufficon_common_dmgup",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": true,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "Buff_Player_Eri044_AudienceTarget",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec2": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_NATURE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec3": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_INCANTATION",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec4": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_CHAOS",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec5": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_PSYCHE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_03_01_Rec6": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_LAKSHANA",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_02_02_Ban": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_forkcd.bufficon_common_forkcd",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_PSYCHE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_02_03_Ban": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_forkcd.bufficon_common_forkcd",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_PSYCHE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_02_04_Ban": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_forkcd.bufficon_common_forkcd",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_PSYCHE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "GE_03_3_AddCD": {
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_forkcd.bufficon_common_forkcd",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_PSYCHE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": true,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Exe_BranchMark": {
+        "Name": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_BranchMark_name",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_exe1.bufficon_exe1",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_BranchMark_des",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Exe_DmgResistDownChaosL3": {
+        "Name": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_DmgResistDownChaosL3_name",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_exe2.bufficon_exe2",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_DmgResistDownChaosL3_des",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "Buff_Exe_DmgUp_Pas2": {
+        "Name": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_DmgUp_Pas2_name",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_exe3.bufficon_exe3",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/PlayerSkillDes/Exe_SkillDes.Exe_SkillDes",
+          "Key": "Buff_Exe_DmgUp_Pas2_des",
+          "SourceString": "1",
+          "LocalizedString": "1"
+        },
+        "BuffType": "BuffInfoType::PositiveBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::NONE",
+        "IsShowInBuffMaganger": true,
+        "IsMajorBuff": false,
+        "ReplaceBufferID": "None",
+        "IsShowInHeadUpBattleMark": false,
+        "IsShowOnlySenderClient": false,
+        "IsShowInSpecialBuffSlot": false,
+        "DescParam": [],
+        "GEParamName": "None",
+        "GEParamNum": 0,
+        "IsValueOnlyAndCustomDesc": false,
+        "IsShowCustomModifierInfo": false,
+        "IsValueOnlyAndStackCountReplaceLevel": false
+      },
+      "GE_Reaction_GuangLingXiang_1090": {
+        "Name": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "GA_Elyms_Passive_1_name",
+          "SourceString": "中继节点",
+          "LocalizedString": "中继节点"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Skill/Elyms_Pas1.Elyms_Pas1",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
+          "Key": "GA_Elyms_Passive_1_1",
+          "SourceString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。",
+          "LocalizedString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。"
+        },
+        "BuffType": "BuffInfoType::StateBuff",
+        "Hierarchy": -1,
+        "BuffPropType": "BuffPropType::BUFF_PROP_COSMOS",
         "IsShowInBuffMaganger": true,
         "IsMajorBuff": true,
         "ReplaceBufferID": "None",

@@ -8815,6 +8815,148 @@
         "bHasReward": false,
         "RewardId": "None",
         "ExtensionContent": null
+      },
+      "WeeklyClone_Boss36": {
+        "BelongsLevel": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "AreaId": "None",
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.5,
+            "W": 0.866025,
+            "IsNormalized": true,
+            "Size": 0.9999996,
+            "SizeSquared": 0.9999992
+          },
+          "Translation": {
+            "X": -225455.0,
+            "Y": 95841.06,
+            "Z": 9390.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "TeleportPointType": "ETeleportPointType::CloneTeleport",
+        "bDefaultActived": false,
+        "bCanRelive": false,
+        "ReliveLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "bCanTeleport": true,
+        "bOverrideTeleportTransform": false,
+        "TeleportTransformOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "UnlockFogID": "None",
+        "bHasPreQuestId": false,
+        "QuestId": "None",
+        "QuestValue": "None",
+        "bHasReward": false,
+        "RewardId": "None",
+        "ExtensionContent": null
+      },
+      "LogisticsCenter": {
+        "BelongsLevel": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "AreaId": "006",
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.83867055,
+            "W": 0.54463905,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 27979.758,
+            "Y": -445.00552,
+            "Z": 8835.555
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "TeleportPointType": "ETeleportPointType::Common",
+        "bDefaultActived": true,
+        "bCanRelive": false,
+        "ReliveLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "bCanTeleport": true,
+        "bOverrideTeleportTransform": false,
+        "TeleportTransformOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "UnlockFogID": "None",
+        "bHasPreQuestId": false,
+        "QuestId": "None",
+        "QuestValue": "None",
+        "bHasReward": false,
+        "RewardId": "None",
+        "ExtensionContent": null
       }
     }
   }

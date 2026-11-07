@@ -430,8 +430,8 @@
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
           "Key": "MU01_09",
-          "SourceString": "空号",
-          "LocalizedString": "空号"
+          "SourceString": "再会于数海",
+          "LocalizedString": "再会于数海"
         },
         "ChapterBaseID": "Main",
         "ChapterValue": 10.0,
@@ -455,7 +455,12 @@
           "SubPathString": ""
         },
         "RefreshHour": -1,
-        "RelatedNPCArray": []
+        "RelatedNPCArray": [
+          "NPC_012",
+          "NPC_029",
+          "NPC_030",
+          "NPC_031"
+        ]
       },
       "MU01_10": {
         "ChapterIndex": 215,
@@ -6974,6 +6979,565 @@
           "Key": "Ouyu",
           "SourceString": "偶遇",
           "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU020_02": {
+        "ChapterIndex": 235,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "C051DEA44BD7AB69EBF76182D281F971",
+          "SourceString": "<!>钨丝3_别墅杀人案",
+          "LocalizedString": "<!>钨丝3_别墅杀人案"
+        },
+        "ChapterBaseID": "Side_SU020",
+        "ChapterValue": 3.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU122": {
+        "ChapterIndex": 236,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU122",
+          "SourceString": "滴水不漏的「猫谜」-谜咪秘密咪谜",
+          "LocalizedString": "滴水不漏的「猫谜」-谜咪秘密咪谜"
+        },
+        "ChapterBaseID": "SU122_NPC030",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_030",
+          "NPC_024",
+          "NPC_027"
+        ]
+      },
+      "SU123": {
+        "ChapterIndex": 237,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU123",
+          "SourceString": "滴水不漏的「猫谜」-怪奇交友哲学",
+          "LocalizedString": "滴水不漏的「猫谜」-怪奇交友哲学"
+        },
+        "ChapterBaseID": "SU122_NPC030",
+        "ChapterValue": 2.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_030"
+        ]
+      },
+      "SU124": {
+        "ChapterIndex": 238,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU124",
+          "SourceString": "滴水不漏的「猫谜」-再见，泡沫伪物",
+          "LocalizedString": "滴水不漏的「猫谜」-再见，泡沫伪物"
+        },
+        "ChapterBaseID": "SU122_NPC030",
+        "ChapterValue": 3.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_030"
+        ]
+      },
+      "SU141": {
+        "ChapterIndex": 239,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU141",
+        "ChapterValue": 3.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU142": {
+        "ChapterIndex": 240,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU142",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU143": {
+        "ChapterIndex": 241,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU143",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU144": {
+        "ChapterIndex": 242,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU144",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU145": {
+        "ChapterIndex": 243,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU145",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU146": {
+        "ChapterIndex": 244,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU146",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU147": {
+        "ChapterIndex": 245,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU147",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU148": {
+        "ChapterIndex": 246,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU148",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU149": {
+        "ChapterIndex": 247,
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU141",
+          "SourceString": "铺满全城",
+          "LocalizedString": "铺满全城"
+        },
+        "ChapterBaseID": "SU149",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU121_01": {
+        "ChapterIndex": 248,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "5C4153224C9BE29D1DFCC2AB233C3D77",
+          "SourceString": "<!>EXE羁遇1",
+          "LocalizedString": "<!>EXE羁遇1"
+        },
+        "ChapterBaseID": "SU121",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU121_02": {
+        "ChapterIndex": 249,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "03A497364314EDFE78DA4A9BFEEA0036",
+          "SourceString": "<!>EXE羁遇2",
+          "LocalizedString": "<!>EXE羁遇2"
+        },
+        "ChapterBaseID": "SU121",
+        "ChapterValue": 2.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU121_03": {
+        "ChapterIndex": 250,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "85F9499D46D343237A83A59C7695BBD5",
+          "SourceString": "<!>EXE羁遇3",
+          "LocalizedString": "<!>EXE羁遇3"
+        },
+        "ChapterBaseID": "SU121",
+        "ChapterValue": 3.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU150_01": {
+        "ChapterIndex": 251,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "3DDF73554000541D671089B035B16FB5",
+          "SourceString": "<!>1.6羁遇1",
+          "LocalizedString": "<!>1.6羁遇1"
+        },
+        "ChapterBaseID": "SU150",
+        "ChapterValue": 1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU150_02": {
+        "ChapterIndex": 252,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "0C19E4D544E092154B8AFCAFE7C9E692",
+          "SourceString": "<!>1.6羁遇2",
+          "LocalizedString": "<!>1.6羁遇2"
+        },
+        "ChapterBaseID": "SU150",
+        "ChapterValue": 2.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU150_03": {
+        "ChapterIndex": 253,
+        "ChapterName": {
+          "Namespace": "",
+          "Key": "15C1E9D745A4079E1A20B4B563C00668",
+          "SourceString": "<!>1.6羁遇3",
+          "LocalizedString": "<!>1.6羁遇3"
+        },
+        "ChapterBaseID": "SU150",
+        "ChapterValue": 3.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
         },
         "LockDesc": {
           "CultureInvariantString": null

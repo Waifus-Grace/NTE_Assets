@@ -62,6 +62,18 @@
         "ObjectName": "DataTable'DT_BidkingSeasonTime'",
         "ObjectPath": "/Game/DataTable/BidKing/DT_BidkingSeasonTime.0"
       },
+      "BidkingCabinetConfigDataTable": {
+        "ObjectName": "DataTable'DT_BidkingCabinet'",
+        "ObjectPath": "/Game/DataTable/BidKing/DT_BidkingCabinet.0"
+      },
+      "BidkingCabinetLevelConfigDataTable": {
+        "ObjectName": "DataTable'DT_BidkingCabinetLevel'",
+        "ObjectPath": "/Game/DataTable/BidKing/DT_BidkingCabinetLevel.0"
+      },
+      "BidkingCabinetCitySkillConfigDataTable": {
+        "ObjectName": "DataTable'DT_BidKingCabinetCitySkill'",
+        "ObjectPath": "/Game/DataTable/BidKing/DT_BidKingCabinetCitySkill.0"
+      },
       "AllowanceCurrencyID": "BidkingCoin",
       "AllowanceGetCount": 5,
       "AllowanceThreshold": 100000,
@@ -185,6 +197,15 @@
       "ExhibCollectionAmount": 99,
       "MaxExhibTotalEarnings": 9999999,
       "MaxExhibTotalEarnings_Fons": 350000,
+      "CabinetQualityBgMap": [
+        {
+          "Key": "ITEM_QUALITY_RED",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/Bid/collectioncase/YH_UI_Auction_Collect_Item.YH_UI_Auction_Collect_Item",
+            "SubPathString": ""
+          }
+        }
+      ],
       "CompendiumQualityIconMap": [
         {
           "Key": "ITEM_QUALITY_RED",
@@ -228,7 +249,11 @@
             "SubPathString": ""
           }
         }
-      ]
+      ],
+      "UrgencyBidTime": 20,
+      "BidPunishmentTime": 0,
+      "CabinetUpgradeItemID": "BidKingCoin",
+      "CabinetMonthCount": 10
     }
   }
 ]

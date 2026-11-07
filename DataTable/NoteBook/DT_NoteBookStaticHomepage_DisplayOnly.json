@@ -1,0 +1,49 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NoteBookStaticHomepage_DisplayOnly",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/NoteBook/DT_NoteBookStaticHomepage_DisplayOnly",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'NoteBookStaticHomepage'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "TestArticleNPC": {
+        "NPCID": "TestArticleNPC",
+        "Name": {
+          "TableId": "/Game/Text/Bagel/ST_Bagel_Name.ST_Bagel_Name",
+          "Key": "Bagel_NPC_001_Name",
+          "SourceString": "MINT=ↀωↀ=",
+          "LocalizedString": "MINT=ↀωↀ="
+        },
+        "ImageAvatar": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_039.player_039",
+          "SubPathString": ""
+        },
+        "likeCount": 2267,
+        "fansCount": 186,
+        "FollowCount": 78
+      },
+      "TestArticleNPC2": {
+        "NPCID": "Bagel_NPC_002_Name",
+        "Name": {
+          "TableId": "/Game/Text/Bagel/ST_Bagel_Name.ST_Bagel_Name",
+          "Key": "Bagel_NPC_002_Name",
+          "SourceString": "奈丽",
+          "LocalizedString": "奈丽"
+        },
+        "ImageAvatar": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_054.player_054",
+          "SubPathString": ""
+        },
+        "likeCount": 0,
+        "fansCount": 0,
+        "FollowCount": 0
+      }
+    }
+  }
+]

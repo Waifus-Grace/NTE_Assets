@@ -2090,8 +2090,8 @@
         "UnlockDescription": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "EndlessTrial_02_Obtain",
-          "SourceString": "于「全站深境」活动玩法中获得。",
-          "LocalizedString": "于「全站深境」活动玩法中获得。"
+          "SourceString": "于「全站深境」活动玩法中获得，可根据历史最高层数提升称号效果。",
+          "LocalizedString": "于「全站深境」活动玩法中获得，可根据历史最高层数提升称号效果。"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
@@ -2251,6 +2251,115 @@
         "ShowLinkCharacterID": "None",
         "bAutoUnlock": false,
         "CustomType": "ETitleCustomType::DefendAthena",
+        "CustomTypeParams": "None"
+      },
+      "Title_Logistics": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Title_Logistics_Name",
+          "SourceString": "海特洛单王",
+          "LocalizedString": "海特洛单王"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Title_Logistics_Obtain",
+          "SourceString": "物流中心奖励",
+          "LocalizedString": "物流中心奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Title_Logistics_Desc",
+          "SourceString": "全海特洛市最熟悉地图之人，比导航更靠谱之人。",
+          "LocalizedString": "全海特洛市最熟悉地图之人，比导航更靠谱之人。"
+        },
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "bHide": false,
+        "TitleDisplayMode": "ETitleDisplayType::PICTURE",
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/TitleSystem/Title/Activity/Title_Logistics_444.Title_Logistics_444",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "TitleBlueprint": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "TitleBlueprints": [],
+        "bLimitedtime": false,
+        "Hour": 0,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None",
+        "bAutoUnlock": false,
+        "CustomType": "ETitleCustomType::Normal",
+        "CustomTypeParams": "None"
+      },
+      "DiyBoss_003": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "DiyBoss_003_Name",
+          "SourceString": "盛宴·执锐",
+          "LocalizedString": "盛宴·执锐"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "DiyBoss_003_Obtain",
+          "SourceString": "于「争锋赏宴·攻坚」活动玩法中获得。",
+          "LocalizedString": "于「争锋赏宴·攻坚」活动玩法中获得。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "DiyBoss_003_Desc",
+          "SourceString": "向攀登者致以最崇高敬意。",
+          "LocalizedString": "向攀登者致以最崇高敬意。"
+        },
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "bHide": false,
+        "TitleDisplayMode": "ETitleDisplayType::BLUEPRINT",
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/TitleSystem/Title/Tycoon/UI_YH_Title_ZFSY_FK03_444.UI_YH_Title_ZFSY_FK03_444",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "TitleBlueprint": {
+          "AssetPathName": "/Game/UI/Blueprints/PlayerInformation/Title/BPUI_TitleSystemItem_Title_Diyboss03.BPUI_TitleSystemItem_Title_Diyboss03_C",
+          "SubPathString": ""
+        },
+        "TitleBlueprints": [
+          {
+            "AssetPathName": "/Game/UI/Blueprints/PlayerInformation/Title/BPUI_TitleSystemItem_Title_Diyboss03.BPUI_TitleSystemItem_Title_Diyboss03_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/UI/Blueprints/PlayerInformation/Title/BPUI_TitleSystemItem_Title_Diyboss04.BPUI_TitleSystemItem_Title_Diyboss04_C",
+            "SubPathString": ""
+          }
+        ],
+        "bLimitedtime": false,
+        "Hour": 0,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None",
+        "bAutoUnlock": false,
+        "CustomType": "ETitleCustomType::DiyBoss",
         "CustomTypeParams": "None"
       }
     }

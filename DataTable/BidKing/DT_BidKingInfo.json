@@ -24,6 +24,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Inspection_1_100.Item_Inspection_1_100",
           "SubPathString": ""
@@ -51,7 +53,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Inspection_2": {
         "InfoPoolArray": [],
@@ -65,6 +70,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Inspection_2_100.Item_Inspection_2_100",
           "SubPathString": ""
@@ -92,7 +99,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Inspection_3": {
         "InfoPoolArray": [],
@@ -106,6 +116,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Inspection_3_100.Item_Inspection_3_100",
           "SubPathString": ""
@@ -133,7 +145,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Inspection_4": {
         "InfoPoolArray": [],
@@ -147,6 +162,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Inspection_4_100.Item_Inspection_4_100",
           "SubPathString": ""
@@ -174,7 +191,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Inspection_5": {
         "InfoPoolArray": [],
@@ -188,6 +208,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Inspection_5_100.Item_Inspection_5_100",
           "SubPathString": ""
@@ -215,7 +237,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Rarity_1": {
         "InfoPoolArray": [],
@@ -229,6 +254,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Rarity_1_100.Item_Rarity_1_100",
           "SubPathString": ""
@@ -256,7 +283,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Rarity_2": {
         "InfoPoolArray": [],
@@ -270,6 +300,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Rarity_2_100.Item_Rarity_2_100",
           "SubPathString": ""
@@ -297,7 +329,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Rarity_3": {
         "InfoPoolArray": [],
@@ -311,6 +346,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Rarity_3_100.Item_Rarity_3_100",
           "SubPathString": ""
@@ -338,7 +375,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Rarity_4": {
         "InfoPoolArray": [],
@@ -352,6 +392,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Rarity_4_100.Item_Rarity_4_100",
           "SubPathString": ""
@@ -379,7 +421,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_Rarity_5": {
         "InfoPoolArray": [],
@@ -393,6 +438,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_Rarity_5_100.Item_Rarity_5_100",
           "SubPathString": ""
@@ -420,7 +467,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_OutLine_1": {
         "InfoPoolArray": [],
@@ -434,6 +484,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_OutLine_1_100.Item_OutLine_1_100",
           "SubPathString": ""
@@ -461,7 +513,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_OutLine_2": {
         "InfoPoolArray": [],
@@ -475,6 +530,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_OutLine_2_100.Item_OutLine_2_100",
           "SubPathString": ""
@@ -502,7 +559,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_OutLine_3": {
         "InfoPoolArray": [],
@@ -516,6 +576,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_OutLine_3_100.Item_OutLine_3_100",
           "SubPathString": ""
@@ -543,7 +605,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_OutLine_4": {
         "InfoPoolArray": [],
@@ -557,6 +622,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_OutLine_4_100.Item_OutLine_4_100",
           "SubPathString": ""
@@ -584,7 +651,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_OutLine_5": {
         "InfoPoolArray": [],
@@ -598,6 +668,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_OutLine_5_100.Item_OutLine_5_100",
           "SubPathString": ""
@@ -625,7 +697,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityNum_1": {
         "InfoPoolArray": [],
@@ -639,6 +714,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityNum_1_100.Item_RarityNum_1_100",
           "SubPathString": ""
@@ -668,7 +745,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityNum_2": {
         "InfoPoolArray": [],
@@ -682,6 +762,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityNum_2_100.Item_RarityNum_2_100",
           "SubPathString": ""
@@ -711,7 +793,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityNum_3": {
         "InfoPoolArray": [],
@@ -725,6 +810,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityNum_3_100.Item_RarityNum_3_100",
           "SubPathString": ""
@@ -754,7 +841,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityNum_4": {
         "InfoPoolArray": [],
@@ -768,6 +858,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityNum_4_100.Item_RarityNum_4_100",
           "SubPathString": ""
@@ -797,7 +889,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityNum_5": {
         "InfoPoolArray": [],
@@ -811,6 +906,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityNum_5_100.Item_RarityNum_5_100",
           "SubPathString": ""
@@ -840,7 +937,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityGridNum_1": {
         "InfoPoolArray": [],
@@ -854,6 +954,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityGridNum_1_100.Item_RarityGridNum_1_100",
           "SubPathString": ""
@@ -883,7 +985,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityGridNum_2": {
         "InfoPoolArray": [],
@@ -897,6 +1002,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityGridNum_2_100.Item_RarityGridNum_2_100",
           "SubPathString": ""
@@ -926,7 +1033,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityGridNum_3": {
         "InfoPoolArray": [],
@@ -940,6 +1050,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityGridNum_3_100.Item_RarityGridNum_3_100",
           "SubPathString": ""
@@ -969,7 +1081,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityGridNum_4": {
         "InfoPoolArray": [],
@@ -983,6 +1098,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityGridNum_4_100.Item_RarityGridNum_4_100",
           "SubPathString": ""
@@ -1012,7 +1129,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityGridNum_5": {
         "InfoPoolArray": [],
@@ -1026,6 +1146,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityGridNum_5_100.Item_RarityGridNum_5_100",
           "SubPathString": ""
@@ -1055,7 +1177,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAveragePrice_1": {
         "InfoPoolArray": [],
@@ -1069,6 +1194,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAveragePrice_1_100.Item_RarityAveragePrice_1_100",
           "SubPathString": ""
@@ -1098,7 +1225,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAveragePrice_2": {
         "InfoPoolArray": [],
@@ -1112,6 +1242,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAveragePrice_2_100.Item_RarityAveragePrice_2_100",
           "SubPathString": ""
@@ -1141,7 +1273,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAveragePrice_3": {
         "InfoPoolArray": [],
@@ -1155,6 +1290,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAveragePrice_3_100.Item_RarityAveragePrice_3_100",
           "SubPathString": ""
@@ -1184,7 +1321,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAveragePrice_4": {
         "InfoPoolArray": [],
@@ -1198,6 +1338,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAveragePrice_4_100.Item_RarityAveragePrice_4_100",
           "SubPathString": ""
@@ -1227,7 +1369,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAveragePrice_5": {
         "InfoPoolArray": [],
@@ -1241,6 +1386,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAveragePrice_5_100.Item_RarityAveragePrice_5_100",
           "SubPathString": ""
@@ -1270,7 +1417,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_GridAveragePrice_1": {
         "InfoPoolArray": [],
@@ -1284,6 +1434,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_GridAveragePrice_1_100.Item_GridAveragePrice_1_100",
           "SubPathString": ""
@@ -1311,7 +1463,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_GridAveragePrice_2": {
         "InfoPoolArray": [],
@@ -1325,6 +1480,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_GridAveragePrice_2_100.Item_GridAveragePrice_2_100",
           "SubPathString": ""
@@ -1352,7 +1509,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_GridAveragePrice_3": {
         "InfoPoolArray": [],
@@ -1366,6 +1526,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_GridAveragePrice_3_100.Item_GridAveragePrice_3_100",
           "SubPathString": ""
@@ -1393,7 +1555,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_GridAveragePrice_4": {
         "InfoPoolArray": [],
@@ -1407,6 +1572,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_GridAveragePrice_4_100.Item_GridAveragePrice_4_100",
           "SubPathString": ""
@@ -1434,7 +1601,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAllPrice_1": {
         "InfoPoolArray": [],
@@ -1448,6 +1618,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_TotalValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAllPrice_1_100.Item_RarityAllPrice_1_100",
           "SubPathString": ""
@@ -1477,7 +1649,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAllPrice_2": {
         "InfoPoolArray": [],
@@ -1491,6 +1666,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_TotalValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAllPrice_2_100.Item_RarityAllPrice_2_100",
           "SubPathString": ""
@@ -1520,7 +1697,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAllPrice_3": {
         "InfoPoolArray": [],
@@ -1534,6 +1714,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_TotalValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAllPrice_3_100.Item_RarityAllPrice_3_100",
           "SubPathString": ""
@@ -1563,7 +1745,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAllPrice_4": {
         "InfoPoolArray": [],
@@ -1577,6 +1762,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_TotalValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAllPrice_4_100.Item_RarityAllPrice_4_100",
           "SubPathString": ""
@@ -1606,7 +1793,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_RarityAllPrice_5": {
         "InfoPoolArray": [],
@@ -1620,6 +1810,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_TotalValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_RarityAllPrice_5_100.Item_RarityAllPrice_5_100",
           "SubPathString": ""
@@ -1649,7 +1841,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_1": {
         "InfoPoolArray": [],
@@ -1663,6 +1858,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_1_100.Item_KindInspection_1_100",
           "SubPathString": ""
@@ -1690,7 +1887,10 @@
           "CollectionTypeID": "antique",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_2": {
         "InfoPoolArray": [],
@@ -1704,6 +1904,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_2_100.Item_KindInspection_2_100",
           "SubPathString": ""
@@ -1731,7 +1933,10 @@
           "CollectionTypeID": "jewel",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_3": {
         "InfoPoolArray": [],
@@ -1745,6 +1950,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_3_100.Item_KindInspection_3_100",
           "SubPathString": ""
@@ -1772,7 +1979,10 @@
           "CollectionTypeID": "technology",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_4": {
         "InfoPoolArray": [],
@@ -1786,6 +1996,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_4_100.Item_KindInspection_4_100",
           "SubPathString": ""
@@ -1813,7 +2025,10 @@
           "CollectionTypeID": "food",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_5": {
         "InfoPoolArray": [],
@@ -1827,6 +2042,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_5_100.Item_KindInspection_5_100",
           "SubPathString": ""
@@ -1854,7 +2071,10 @@
           "CollectionTypeID": "commodity",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_KindInspection_6": {
         "InfoPoolArray": [],
@@ -1868,6 +2088,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_KindInspection_6_100.Item_KindInspection_6_100",
           "SubPathString": ""
@@ -1895,7 +2117,10 @@
           "CollectionTypeID": "superpower",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_HugePrice": {
         "InfoPoolArray": [],
@@ -1909,6 +2134,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_ReallyValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_HugePrice_100.Item_HugePrice_100",
           "SubPathString": ""
@@ -1936,7 +2163,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_HugeOutline": {
         "InfoPoolArray": [],
@@ -1950,6 +2180,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_HugeOutline_100.Item_HugeOutline_100",
           "SubPathString": ""
@@ -1977,7 +2209,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_HugeRarity": {
         "InfoPoolArray": [],
@@ -1991,6 +2226,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_HugeRarity_100.Item_HugeRarity_100",
           "SubPathString": ""
@@ -2018,7 +2255,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_BestInspection": {
         "InfoPoolArray": [],
@@ -2032,6 +2272,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_BestInspection_100.Item_BestInspection_100",
           "SubPathString": ""
@@ -2059,7 +2301,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "BidInfo_HugeLook": {
         "InfoPoolArray": [],
@@ -2073,6 +2318,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/ItemIcon/Item_HugeLook_100.Item_HugeLook_100",
           "SubPathString": ""
@@ -2100,7 +2347,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityNum_1": {
         "InfoPoolArray": [
@@ -2122,6 +2372,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2154,7 +2406,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityNum_2": {
         "InfoPoolArray": [
@@ -2176,6 +2431,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2208,7 +2465,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityNum_3": {
         "InfoPoolArray": [
@@ -2228,6 +2488,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2260,7 +2522,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityNum_4": {
         "InfoPoolArray": [
@@ -2276,6 +2541,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2308,7 +2575,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityAveragePrice_1": {
         "InfoPoolArray": [
@@ -2330,6 +2600,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2362,7 +2634,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityAveragePrice_2": {
         "InfoPoolArray": [
@@ -2384,6 +2659,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2416,7 +2693,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityAveragePrice_3": {
         "InfoPoolArray": [
@@ -2438,6 +2718,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2470,7 +2752,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityAveragePrice_4": {
         "InfoPoolArray": [
@@ -2486,6 +2771,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_AverageValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2518,7 +2805,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_OutLine_1": {
         "InfoPoolArray": [
@@ -2540,6 +2830,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2570,7 +2862,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_OutLine_2": {
         "InfoPoolArray": [
@@ -2590,6 +2885,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2620,7 +2917,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_OutLine_3": {
         "InfoPoolArray": [
@@ -2640,6 +2940,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2670,7 +2972,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Rarity_1": {
         "InfoPoolArray": [
@@ -2692,6 +2997,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2722,7 +3029,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Rarity_2": {
         "InfoPoolArray": [
@@ -2744,6 +3054,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2774,7 +3086,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Rarity_3": {
         "InfoPoolArray": [
@@ -2796,6 +3111,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2826,7 +3143,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Inspection_1": {
         "InfoPoolArray": [
@@ -2848,6 +3168,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2878,7 +3200,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Inspection_2": {
         "InfoPoolArray": [
@@ -2900,6 +3225,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2930,7 +3257,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_Inspection_3": {
         "InfoPoolArray": [
@@ -2950,6 +3280,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -2980,7 +3312,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityGridNum_1": {
         "InfoPoolArray": [
@@ -3002,6 +3337,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3034,7 +3371,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityGridNum_2": {
         "InfoPoolArray": [
@@ -3056,6 +3396,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3088,7 +3430,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityGridNum_3": {
         "InfoPoolArray": [
@@ -3110,6 +3455,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3142,7 +3489,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_RarityGridNum_4": {
         "InfoPoolArray": [
@@ -3158,6 +3508,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3190,7 +3542,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_AllGrids": {
         "InfoPoolArray": [
@@ -3212,6 +3567,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_CellCount"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3242,7 +3599,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "R1_PublicInfo_AllNums": {
         "InfoPoolArray": [
@@ -3264,6 +3624,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_QingBao.YH_UI_Auction_XinXi_Icon_QingBao",
           "SubPathString": ""
@@ -3294,7 +3656,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character1_Skill_1": {
         "InfoPoolArray": [],
@@ -3308,6 +3673,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player015.YH_UI_Auction_XinXi_Icon_Player015",
           "SubPathString": ""
@@ -3339,7 +3706,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character1_Skill_2": {
         "InfoPoolArray": [],
@@ -3353,6 +3723,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player015.YH_UI_Auction_XinXi_Icon_Player015",
           "SubPathString": ""
@@ -3384,7 +3756,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character1_Skill_3": {
         "InfoPoolArray": [],
@@ -3398,6 +3773,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player015.YH_UI_Auction_XinXi_Icon_Player015",
           "SubPathString": ""
@@ -3429,7 +3806,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character1_Skill_4": {
         "InfoPoolArray": [],
@@ -3443,6 +3823,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player015.YH_UI_Auction_XinXi_Icon_Player015",
           "SubPathString": ""
@@ -3474,7 +3856,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character2_Skill_1": {
         "InfoPoolArray": [],
@@ -3488,6 +3873,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player020.YH_UI_Auction_XinXi_Icon_Player020",
           "SubPathString": ""
@@ -3517,7 +3904,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character2_Skill_2": {
         "InfoPoolArray": [],
@@ -3531,6 +3921,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player020.YH_UI_Auction_XinXi_Icon_Player020",
           "SubPathString": ""
@@ -3560,7 +3952,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character2_Skill_3": {
         "InfoPoolArray": [],
@@ -3574,6 +3969,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player020.YH_UI_Auction_XinXi_Icon_Player020",
           "SubPathString": ""
@@ -3603,7 +4000,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character2_Skill_4": {
         "InfoPoolArray": [],
@@ -3617,6 +4017,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player020.YH_UI_Auction_XinXi_Icon_Player020",
           "SubPathString": ""
@@ -3646,7 +4048,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character2_Skill_5": {
         "InfoPoolArray": [],
@@ -3660,6 +4065,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player020.YH_UI_Auction_XinXi_Icon_Player020",
           "SubPathString": ""
@@ -3689,7 +4096,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character3_Skill_1": {
         "InfoPoolArray": [],
@@ -3703,6 +4113,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player005.YH_UI_Auction_XinXi_Icon_Player005",
           "SubPathString": ""
@@ -3736,7 +4148,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character4_Skill_1": {
         "InfoPoolArray": [],
@@ -3750,6 +4165,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player104.YH_UI_Auction_XinXi_Icon_Player104",
           "SubPathString": ""
@@ -3779,7 +4196,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character4_Skill_2": {
         "InfoPoolArray": [],
@@ -3793,6 +4213,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player104.YH_UI_Auction_XinXi_Icon_Player104",
           "SubPathString": ""
@@ -3822,7 +4244,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character4_Skill_3": {
         "InfoPoolArray": [],
@@ -3836,6 +4261,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player104.YH_UI_Auction_XinXi_Icon_Player104",
           "SubPathString": ""
@@ -3865,7 +4292,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character4_Skill_4": {
         "InfoPoolArray": [],
@@ -3879,6 +4309,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player104.YH_UI_Auction_XinXi_Icon_Player104",
           "SubPathString": ""
@@ -3908,7 +4340,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character4_Skill_5": {
         "InfoPoolArray": [],
@@ -3922,6 +4357,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player104.YH_UI_Auction_XinXi_Icon_Player104",
           "SubPathString": ""
@@ -3951,7 +4388,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character5_Skill_1": {
         "InfoPoolArray": [],
@@ -3965,6 +4405,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player73.YH_UI_Auction_XinXi_Icon_Player73",
           "SubPathString": ""
@@ -3994,7 +4436,10 @@
           "CollectionTypeID": "None",
           "AssignID": "C5"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character5_Skill_2": {
         "InfoPoolArray": [],
@@ -4008,6 +4453,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player73.YH_UI_Auction_XinXi_Icon_Player73",
           "SubPathString": ""
@@ -4037,7 +4484,10 @@
           "CollectionTypeID": "None",
           "AssignID": "C5"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character6_Skill_1": {
         "InfoPoolArray": [],
@@ -4051,6 +4501,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player012.YH_UI_Auction_XinXi_Icon_Player012",
           "SubPathString": ""
@@ -4080,7 +4532,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character7_Skill_1": {
         "InfoPoolArray": [],
@@ -4094,6 +4549,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_QualAndOutl"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player021.YH_UI_Auction_XinXi_Icon_Player021",
           "SubPathString": ""
@@ -4127,7 +4584,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character8_Skill_1": {
         "InfoPoolArray": [],
@@ -4141,6 +4601,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player013.YH_UI_Auction_XinXi_Icon_Player013",
           "SubPathString": ""
@@ -4170,7 +4632,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character8_Skill_2": {
         "InfoPoolArray": [],
@@ -4184,6 +4649,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player013.YH_UI_Auction_XinXi_Icon_Player013",
           "SubPathString": ""
@@ -4213,7 +4680,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character8_Skill_3": {
         "InfoPoolArray": [],
@@ -4227,6 +4697,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player013.YH_UI_Auction_XinXi_Icon_Player013",
           "SubPathString": ""
@@ -4256,7 +4728,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character8_Skill_4": {
         "InfoPoolArray": [],
@@ -4270,6 +4745,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player013.YH_UI_Auction_XinXi_Icon_Player013",
           "SubPathString": ""
@@ -4299,7 +4776,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character8_Skill_5": {
         "InfoPoolArray": [],
@@ -4313,6 +4793,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_Player013.YH_UI_Auction_XinXi_Icon_Player013",
           "SubPathString": ""
@@ -4342,7 +4824,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_1": {
         "InfoPoolArray": [],
@@ -4356,6 +4841,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4387,7 +4874,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_2": {
         "InfoPoolArray": [],
@@ -4401,6 +4891,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4432,7 +4924,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_3": {
         "InfoPoolArray": [],
@@ -4446,6 +4941,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Whole"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4477,7 +4974,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_4": {
         "InfoPoolArray": [],
@@ -4491,6 +4991,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Quality"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4522,7 +5024,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_5": {
         "InfoPoolArray": [],
@@ -4536,6 +5041,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_OutLine"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4567,7 +5074,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_6": {
         "InfoPoolArray": [],
@@ -4581,6 +5091,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_ReallyValue"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4612,7 +5124,10 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
       },
       "Character9_Skill_0": {
         "InfoPoolArray": [],
@@ -4626,6 +5141,8 @@
         "InfoType": [
           "EBidKingInfoType::EBidKing_Count"
         ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
         "InfoIcon": {
           "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_playerheiyu.YH_UI_Auction_XinXi_Icon_playerheiyu",
           "SubPathString": ""
@@ -4679,7 +5196,116 @@
           "CollectionTypeID": "None",
           "AssignID": "None"
         },
-        "InfoParamsMap": []
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [],
+        "ExtraSkillID": "None"
+      },
+      "Character10_Skill_1": {
+        "InfoPoolArray": [],
+        "WeightArray": [],
+        "InfoTitle": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillName",
+          "SourceString": "神秘来电",
+          "LocalizedString": "神秘来电"
+        },
+        "InfoType": [
+          "EBidKingInfoType::EBidKing_OutLine"
+        ],
+        "bElymsSkill": false,
+        "ElymsSkillCollectionCount": 3,
+        "InfoIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_PlayerYeermu.YH_UI_Auction_XinXi_Icon_PlayerYeermu",
+          "SubPathString": ""
+        },
+        "ActiveRoundArray": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "InfoCate": "EBidKingInfoCategory::EBidKing_Character",
+        "DisplayText": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillDesc_1",
+          "SourceString": "随机展示4件信息完全未知藏品的轮廓",
+          "LocalizedString": "随机展示4件信息完全未知藏品的轮廓"
+        },
+        "Num": 1,
+        "RandomExpandInfoPool": [],
+        "InfoParams": {
+          "bUnknown": true,
+          "bQualityKnown": false,
+          "bOutlineKnown": false,
+          "Amount": 4,
+          "bMaxQuality": false,
+          "QualityType": [],
+          "CellAmount": 0,
+          "RandomTypeIDAmount": 0,
+          "RandomTypeIDTag": "None",
+          "CollectionTypeID": "None",
+          "AssignID": "None"
+        },
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": true,
+        "BidRankListLastRound": [
+          2,
+          3,
+          4
+        ],
+        "ExtraSkillID": "Character10_Skill_2"
+      },
+      "Character10_Skill_2": {
+        "InfoPoolArray": [],
+        "WeightArray": [],
+        "InfoTitle": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillName02",
+          "SourceString": "场外来电",
+          "LocalizedString": "场外来电"
+        },
+        "InfoType": [
+          "EBidKingInfoType::EBidKing_OutLine"
+        ],
+        "bElymsSkill": true,
+        "ElymsSkillCollectionCount": 3,
+        "InfoIcon": {
+          "AssetPathName": "/Game/UI/UI/Bid/InGame/YH_UI_Auction_XinXi_Icon_PlayerYeermu.YH_UI_Auction_XinXi_Icon_PlayerYeermu",
+          "SubPathString": ""
+        },
+        "ActiveRoundArray": [],
+        "InfoCate": "EBidKingInfoCategory::EBidKing_Character",
+        "DisplayText": {
+          "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
+          "Key": "Character10_SkillDesc_2",
+          "SourceString": "随机展示3件其他竞拍者的已知藏品信息",
+          "LocalizedString": "随机展示3件其他竞拍者的已知藏品信息"
+        },
+        "Num": 1,
+        "RandomExpandInfoPool": [],
+        "InfoParams": {
+          "bUnknown": false,
+          "bQualityKnown": false,
+          "bOutlineKnown": false,
+          "Amount": 3,
+          "bMaxQuality": false,
+          "QualityType": [],
+          "CellAmount": 0,
+          "RandomTypeIDAmount": 0,
+          "RandomTypeIDTag": "None",
+          "CollectionTypeID": "None",
+          "AssignID": "None"
+        },
+        "InfoParamsMap": [],
+        "bExtraSkillCondition": false,
+        "BidRankListLastRound": [
+          2,
+          3,
+          4
+        ],
+        "ExtraSkillID": "None"
       }
     }
   }

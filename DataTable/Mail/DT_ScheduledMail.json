@@ -947,8 +947,8 @@
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_074",
-          "SourceString": "灵可",
-          "LocalizedString": "灵可"
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
         },
         "MailAttachStr": "",
         "DropID": "drop_CharacterBirthday_1072",
@@ -1042,6 +1042,96 @@
         },
         "MailAttachStr": "",
         "DropID": "drop_CharacterBirthday_1057",
+        "MailConditions": "",
+        "MailPath": 0,
+        "bIsPermanent": false,
+        "Hyperlinks": ""
+      },
+      "YeerMu_2027": {
+        "ScheduledTime": {
+          "Year": 2027,
+          "Month": 9,
+          "Day": 3,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "bDaySettle": true,
+        "LatestValidTime": 60,
+        "MailType": "EHTMailType::MT_PLAYER",
+        "MailSubType": "EHTMailSubType::MT_Sub_Mail_Star",
+        "MailTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_YeerMu_Title_2027",
+          "SourceString": "无数生日设定的其中之一",
+          "LocalizedString": "无数生日设定的其中之一"
+        },
+        "MailSubTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_YeerMu_Title_2027",
+          "SourceString": "无数生日设定的其中之一",
+          "LocalizedString": "无数生日设定的其中之一"
+        },
+        "MailContent": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_YeerMu_Content_2027",
+          "SourceString": "其实在大家眼里，我的生日也都是不一样的设定呢，所以一年里可能会去和不同的朋友聚在一起过很多很多次的生日哦！虽然听上去是有点累人，但反正是开心的事情所以多做几次倒也没问题！\r\n不过，如果只能用一个唯一的日期来算的话，就算作是这个日期好了——我作为一个「人」，到管理局就职的纪念日！\r\n啊，感觉是不是也有点接近，差不多在新学年交到了第一个朋友的、那种感觉的日期？~*\r\n那么，今天也就小小地、偷偷地为自己庆生一下好了！嘿嘿，要保守秘密哦！",
+          "LocalizedString": "其实在大家眼里，我的生日也都是不一样的设定呢，所以一年里可能会去和不同的朋友聚在一起过很多很多次的生日哦！虽然听上去是有点累人，但反正是开心的事情所以多做几次倒也没问题！\r\n不过，如果只能用一个唯一的日期来算的话，就算作是这个日期好了——我作为一个「人」，到管理局就职的纪念日！\r\n啊，感觉是不是也有点接近，差不多在新学年交到了第一个朋友的、那种感觉的日期？~*\r\n那么，今天也就小小地、偷偷地为自己庆生一下好了！嘿嘿，要保守秘密哦！"
+        },
+        "MailParams": "",
+        "MailSender": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_090",
+          "SourceString": "曳尔沐",
+          "LocalizedString": "曳尔沐"
+        },
+        "MailAttachStr": "",
+        "DropID": "drop_CharacterBirthday_1090",
+        "MailConditions": "",
+        "MailPath": 0,
+        "bIsPermanent": false,
+        "Hyperlinks": ""
+      },
+      "Exe_2026": {
+        "ScheduledTime": {
+          "Year": 2026,
+          "Month": 12,
+          "Day": 9,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "bDaySettle": true,
+        "LatestValidTime": 60,
+        "MailType": "EHTMailType::MT_PLAYER",
+        "MailSubType": "EHTMailSubType::MT_Sub_Mail_Star",
+        "MailTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_Exe_Title_2026",
+          "SourceString": "今天",
+          "LocalizedString": "今天"
+        },
+        "MailSubTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_Exe_Title_2026",
+          "SourceString": "今天",
+          "LocalizedString": "今天"
+        },
+        "MailContent": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_CharacterBirthday_Exe_Content_2026",
+          "SourceString": "六队的成员发送了一些冗余的数据和物件\r\n如果你有存储空间 可以分走",
+          "LocalizedString": "六队的成员发送了一些冗余的数据和物件\r\n如果你有存储空间 可以分走"
+        },
+        "MailParams": "",
+        "MailSender": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_074",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "MailAttachStr": "",
+        "DropID": "drop_CharacterBirthday_1074",
         "MailConditions": "",
         "MailPath": 0,
         "bIsPermanent": false,

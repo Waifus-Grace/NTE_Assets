@@ -918,8 +918,8 @@
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_074",
-          "SourceString": "灵可",
-          "LocalizedString": "灵可"
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -1008,6 +1008,94 @@
           "Key": "Role_Name_057",
           "SourceString": "明音凛",
           "LocalizedString": "明音凛"
+        },
+        "MailAttachStr": "",
+        "DropID": "None",
+        "MailConditions": "",
+        "MailPath": 0,
+        "bIsPermanent": false,
+        "Hyperlinks": "",
+        "MailDatas": {
+          "YearDrops": [
+            {
+              "Year": 2026,
+              "DropID": "drop_birthday"
+            }
+          ]
+        }
+      },
+      "1090": {
+        "MailUniqueID": "Mail_playerbirthday_1090",
+        "MailType": "EHTMailType::MT_PLAYER",
+        "MailSubType": "EHTMailSubType::MT_Sub_Mail_Star",
+        "MailTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1090_title",
+          "SourceString": "世界迎来了你的美好日子~",
+          "LocalizedString": "世界迎来了你的美好日子~"
+        },
+        "MailSubTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1090_title",
+          "SourceString": "世界迎来了你的美好日子~",
+          "LocalizedString": "世界迎来了你的美好日子~"
+        },
+        "MailContent": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1090_Content",
+          "SourceString": "*祝你生日快乐~祝你生日快乐~*\r\n想必，关怀着你的人们在今天传递给你的、各种形式的信息，会化为温暖的感受涌进你的心间，组成你很棒的回忆吧。而我也正是来为这股热流添柴加火的！\r\n礼物是我按照你的喜好推算的，其实还有一些选项我也准备好了，不过全部揭晓就没意思啦！期待以后吧，或许会换在明年或者后年送给你？\r\n来！在很大很大的奶油蛋糕上吹灭蜡烛，在很多很多朋友的包围簇拥中许下心愿！你可是今天的主角哦！",
+          "LocalizedString": "*祝你生日快乐~祝你生日快乐~*\r\n想必，关怀着你的人们在今天传递给你的、各种形式的信息，会化为温暖的感受涌进你的心间，组成你很棒的回忆吧。而我也正是来为这股热流添柴加火的！\r\n礼物是我按照你的喜好推算的，其实还有一些选项我也准备好了，不过全部揭晓就没意思啦！期待以后吧，或许会换在明年或者后年送给你？\r\n来！在很大很大的奶油蛋糕上吹灭蜡烛，在很多很多朋友的包围簇拥中许下心愿！你可是今天的主角哦！"
+        },
+        "MailParams": "",
+        "MailSender": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_090",
+          "SourceString": "曳尔沐",
+          "LocalizedString": "曳尔沐"
+        },
+        "MailAttachStr": "",
+        "DropID": "None",
+        "MailConditions": "",
+        "MailPath": 0,
+        "bIsPermanent": false,
+        "Hyperlinks": "",
+        "MailDatas": {
+          "YearDrops": [
+            {
+              "Year": 2026,
+              "DropID": "drop_birthday"
+            }
+          ]
+        }
+      },
+      "1074": {
+        "MailUniqueID": "Mail_playerbirthday_1074",
+        "MailType": "EHTMailType::MT_PLAYER",
+        "MailSubType": "EHTMailSubType::MT_Sub_Mail_Star",
+        "MailTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1074_title",
+          "SourceString": "Z",
+          "LocalizedString": "Z"
+        },
+        "MailSubTitle": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1074_title",
+          "SourceString": "Z",
+          "LocalizedString": "Z"
+        },
+        "MailContent": {
+          "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
+          "Key": "UI_PlayerBirthday_1074_Content",
+          "SourceString": "int main(void)\r\n{\r\n    printf(\"For birthday\\n\");\r\n    return 0;\r\n}",
+          "LocalizedString": "int main(void)\r\n{\r\n    printf(\"For birthday\\n\");\r\n    return 0;\r\n}"
+        },
+        "MailParams": "",
+        "MailSender": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_074",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
         },
         "MailAttachStr": "",
         "DropID": "None",

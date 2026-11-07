@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_BossRush",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Text/ST_BossRush",
+    "StringTable": {
+      "TableNamespace": "ST_BossRush",
+      "KeysToEntries": {
+        "InvalidGlobalRecordProgress": "当前挑战进度与启用的Boss配置不匹配。",
+        "InvalidRecordUIData": "挑战记录数据无效，请检查连续队伍编号、积分与Boss进度。",
+        "MissingRecordConfig": "未配置车轮战活动数据。",
+        "RecordRound": "第{0}轮",
+        "RecordBossLevel": "Lv.{0}",
+        "RecordBossDefeated": "已击败",
+        "StickerScoreHint": "总积分达到{0}分可获得贴纸",
+        "RewardProgress": "({0}/{1})",
+        "MissingRecordActivityData": "未获取到车轮战活动存档。",
+        "RecordRetry": "重新挑战",
+        "RecordStart": "开始挑战",
+        "RecordResetAllConfirmation": "重置将清空所有队伍的挑战记录与队伍得分并返还所有角色消耗的体力，确认是否重置所有队伍的挑战记录？",
+        "RecordEmpty": "暂无记录",
+        "RecordEndProgress": "第{0}轮 {1}",
+        "RecordCharacterLevel": "Lv.{0}",
+        "ChallengeProgress": "{0}/{1}",
+        "ChallengeRemainingTime": "{0}:{1}",
+        "RoundAttributes": "生命 ×{0}　攻击 ×{1}　防御 ×{2}",
+        "ChallengeTitle": "挑战进度",
+        "CurrentTeamScore": "当前队伍积分",
+        "CurrentRound": "当前轮次",
+        "RoundEnhancement": "敌人属性获得强化",
+        "PauseContinue": "继续挑战",
+        "PauseRetry": "重新挑战",
+        "PauseExit": "退出",
+        "PauseRetryConfirmation": "重新挑战不消耗角色体力，确认是否重新开始挑战？",
+        "PauseExitConfirmation": "退出将放弃当前的挑战进度，确认是否退出挑战？",
+        "PauseMenuEntry": "暂停"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

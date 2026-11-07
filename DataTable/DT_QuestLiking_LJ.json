@@ -80867,19 +80867,17 @@
         "bAllowPukalandCancelTracking": true,
         "ObjectivesInfo": [
           {
-            "ConvoyProtectTime": 1.0,
-            "ConvoyLocation": {
-              "X": 0.0,
-              "Y": 0.0,
-              "Z": 0.0
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
             },
-            "bBindOnTracking": true,
             "ObjectiveID": "1",
-            "ObjectiveTips": "",
-            "ObjectiveType": "EObjectiveType::EOT_CONVOY",
+            "ObjectiveTips": "<!>开活动对话",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
-              "AssetPathName": "",
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/NPC_09703/BP_NPC_09703_B110101.BP_NPC_09703_B110101_C",
               "SubPathString": ""
             },
             "MonsterTrackIcon": {
@@ -80901,7 +80899,29 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": null,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -17868.69,
+                "Y": 125947.41,
+                "Z": 6440.8076
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "XL_map_bigworld_test",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
@@ -81183,19 +81203,17 @@
         "bAllowPukalandCancelTracking": true,
         "ObjectivesInfo": [
           {
-            "ConvoyProtectTime": 1.0,
-            "ConvoyLocation": {
-              "X": 0.0,
-              "Y": 0.0,
-              "Z": 0.0
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
             },
-            "bBindOnTracking": true,
             "ObjectiveID": "1",
-            "ObjectiveTips": "",
-            "ObjectiveType": "EObjectiveType::EOT_CONVOY",
+            "ObjectiveTips": "<!>活动结束对话",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
-              "AssetPathName": "",
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_Sub/NPC_09703/BP_NPC_09703_B110101.BP_NPC_09703_B110101_C",
               "SubPathString": ""
             },
             "MonsterTrackIcon": {
@@ -81217,7 +81235,29 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": null,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -17868.69,
+                "Y": 125947.41,
+                "Z": 6440.8076
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "XL_map_bigworld_test",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,

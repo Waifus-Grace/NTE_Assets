@@ -45,7 +45,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -117,6 +116,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Mint_base",
+          "CultivationIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -229,7 +232,12 @@
               "Roll": 0.0
             }
           ],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -350,7 +358,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -409,6 +416,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Female_base",
+          "CultivationIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -516,7 +527,12 @@
               "Roll": 0.0
             }
           ],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -666,7 +682,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -725,6 +740,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Female_base",
+          "CultivationIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -832,7 +851,12 @@
               "Roll": 0.0
             }
           ],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -982,7 +1006,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -1041,6 +1064,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "oneiroi_base",
+          "CultivationIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -1158,7 +1185,12 @@
               "Roll": 0.0
             }
           ],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -1308,7 +1340,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -1367,6 +1398,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "shinku_base",
+          "CultivationIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade_ShinKu",
@@ -1550,7 +1585,12 @@
               "Roll": 0.0
             }
           ],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,

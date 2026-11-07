@@ -14166,6 +14166,245 @@
           "AssetPathName": "",
           "SubPathString": ""
         }
+      },
+      "1019_g_1": {
+        "ChatID": "1019_g",
+        "RoleId": "1019",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": true,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": true,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStory",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1019_g_1",
+          "SourceString": "可可可可可可！大新闻！",
+          "LocalizedString": "可可可可可可！大新闻！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1019_g_2",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "DelayPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1019_g_2": {
+        "ChatID": "1019_g",
+        "RoleId": "1019",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1019_g_2",
+          "SourceString": "DSD潮玩出新品了！我保证，超级好玩！",
+          "LocalizedString": "DSD潮玩出新品了！我保证，超级好玩！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1019_g_3",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "DelayPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1019_g_3": {
+        "ChatID": "1019_g",
+        "RoleId": "1019",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1019_g_3",
+          "SourceString": "可可要是有空的话，一起来玩吧！",
+          "LocalizedString": "可可要是有空的话，一起来玩吧！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1019_g_3_a",
+              "SourceString": "在哪里？我马上就来。",
+              "LocalizedString": "在哪里？我马上就来。"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1019_g_4"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "DelayPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1019_g_4": {
+        "ChatID": "1019_g",
+        "RoleId": "1019",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1019_g_4",
+          "SourceString": "在哪里？我马上就来。",
+          "LocalizedString": "在哪里？我马上就来。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1019_g_5",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "DelayPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1019_g_5": {
+        "ChatID": "1019_g",
+        "RoleId": "1019",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": true,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::CancelActive",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1019_g_5",
+          "SourceString": "OK~这就发你地址！等你来哦可可，让我们一起玩个痛快吧！",
+          "LocalizedString": "OK~这就发你地址！等你来哦可可，让我们一起玩个痛快吧！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "DelayPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

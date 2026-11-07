@@ -440,6 +440,32 @@
           }
         ],
         "AudioAssetsMap": []
+      },
+      "Vehicle047": {
+        "ParticleAssetsMap": [
+          {
+            "Key": "RearEye",
+            "Value": {
+              "AssetPathName": "/Game/FX/Nia/Scene/Tank/Vehicle_047/NS_Vehicle_047_Eye.NS_Vehicle_047_Eye",
+              "SubPathString": ""
+            }
+          },
+          {
+            "Key": "RearWind",
+            "Value": {
+              "AssetPathName": "/Game/FX/Nia/Scene/Tank/Vehicle_047/NS_Vehicle_047_Trail.NS_Vehicle_047_Trail",
+              "SubPathString": ""
+            }
+          },
+          {
+            "Key": "RearLine",
+            "Value": {
+              "AssetPathName": "/Game/FX/Nia/Scene/Tank/Vehicle_047/NS_Vehicle_047_Trail_01.NS_Vehicle_047_Trail_01",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "AudioAssetsMap": []
       }
     }
   }

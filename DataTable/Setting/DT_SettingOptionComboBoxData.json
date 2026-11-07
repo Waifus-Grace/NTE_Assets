@@ -3036,6 +3036,33 @@
         ],
         "DefaultOptionIndex": 1
       },
+      "Setting_InfoSequencePlayTiming": {
+        "ComboBoxOptions": [
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_UI_XZC.ST_UI_XZC",
+              "Key": "seq_yanchi",
+              "SourceString": "延迟播放",
+              "LocalizedString": "延迟播放"
+            },
+            "OptionData": "0",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_UI_XZC.ST_UI_XZC",
+              "Key": "seq_liji",
+              "SourceString": "立即播放",
+              "LocalizedString": "立即播放"
+            },
+            "OptionData": "1",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          }
+        ],
+        "DefaultOptionIndex": 0
+      },
       "PageturnLock": {
         "ComboBoxOptions": [
           {
@@ -3055,6 +3082,87 @@
               "Key": "Phone_ConfigOld",
               "SourceString": "翻页后记忆前页位置",
               "LocalizedString": "翻页后记忆前页位置"
+            },
+            "OptionData": "1",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          }
+        ],
+        "DefaultOptionIndex": 0
+      },
+      "AutoDeletePastTaskResource": {
+        "ComboBoxOptions": [
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_open",
+              "SourceString": "开",
+              "LocalizedString": "开"
+            },
+            "OptionData": "0",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_close",
+              "SourceString": "关",
+              "LocalizedString": "关"
+            },
+            "OptionData": "1",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          }
+        ],
+        "DefaultOptionIndex": 0
+      },
+      "Graphics_AIFF_SR": {
+        "ComboBoxOptions": [
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_close",
+              "SourceString": "关",
+              "LocalizedString": "关"
+            },
+            "OptionData": "0",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_open",
+              "SourceString": "开",
+              "LocalizedString": "开"
+            },
+            "OptionData": "1",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          }
+        ],
+        "DefaultOptionIndex": 0
+      },
+      "Graphics_AIFF_FRC": {
+        "ComboBoxOptions": [
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_close",
+              "SourceString": "关",
+              "LocalizedString": "关"
+            },
+            "OptionData": "0",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_open",
+              "SourceString": "开",
+              "LocalizedString": "开"
             },
             "OptionData": "1",
             "LimitOptionData": [],

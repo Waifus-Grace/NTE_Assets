@@ -1,0 +1,155 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StowageTussleMonsterSpawn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/StowageTussle/DT_StowageTussleMonsterSpawn",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'AISpawnerChangeAllConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "StowageTussle_Monster_1": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/mon_14/BagActivity/mon_14_BP_Bag.mon_14_BP_Bag_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": 0.0,
+                      "Y": -0.0,
+                      "Z": 0.70710677,
+                      "W": 0.70710677,
+                      "IsNormalized": true,
+                      "Size": 0.99999994,
+                      "SizeSquared": 0.99999994
+                    },
+                    "Translation": {
+                      "X": 19350.0,
+                      "Y": 53120.0,
+                      "Z": 140.0001
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      },
+      "StowageTussle_Monster_2": {
+        "SpawnWaveEntriesOverride": [
+          {
+            "WaveName": "None",
+            "SpawnEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Blueprints/Character/Monster/mon_20/BagActivity/mon_020_BP_Bag.mon_020_BP_Bag_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "SpawnTransformPointsOverride": [
+                  {
+                    "Rotation": {
+                      "X": -0.0,
+                      "Y": 0.0,
+                      "Z": -0.70710677,
+                      "W": 0.70710677,
+                      "IsNormalized": true,
+                      "Size": 0.99999994,
+                      "SizeSquared": 0.99999994
+                    },
+                    "Translation": {
+                      "X": 19340.0,
+                      "Y": 53420.0,
+                      "Z": 160.0001
+                    },
+                    "Scale3D": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 1.0
+                    }
+                  }
+                ],
+                "SpawnTransformPointsTags": [],
+                "bOverrideLevelType": false,
+                "SpawnLevelTypeOverride": "EAISpawnLevelType::PermanentLevel",
+                "LevelOverride": 0,
+                "LevelMin": 0,
+                "LevelMax": 0,
+                "QuestSpawnPointOverrideIDs": [],
+                "SpawnOnlyWhenDeadNumExceeds": 0,
+                "SpawnDelayTime": 0.0,
+                "SpawnIntervalTime": 0.0,
+                "IdleStatesOverride": [],
+                "IdleStateTargetPointsContainer": [],
+                "SpawnProbability": 1.0,
+                "AIControllerOverride": null,
+                "AdditionalTags": [],
+                "AISettingsOverrideID": "None",
+                "AIConfigOverrideID": "None",
+                "FleeTargetPoints": [],
+                "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0,
+                "CheckMonsterLocationLegalityZOverride": -1.0
+              }
+            ],
+            "WaveDelayTime": 0.0,
+            "Weight": 1.0,
+            "ChangeSpawnEntriesID": "None",
+            "ChangeEntryType": "EDynamicChangeEntryType::None",
+            "bNeedAdditionalDropItem": false
+          }
+        ],
+        "OverrideLevelName": "None"
+      }
+    }
+  }
+]

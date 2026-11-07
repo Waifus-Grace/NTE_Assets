@@ -45,7 +45,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -96,6 +95,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Sagiri_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_003_256.player_003_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -103,68 +106,7 @@
           "BreakthroughPackId": "Sagiri_Breakthrough",
           "AwakenCostItem": "Characterawaken_Sagiri:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_1.Awaken_Player_003_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_1D.Awaken_Player_003_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_2.Awaken_Player_003_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_2D.Awaken_Player_003_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_3.Awaken_Player_003_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_3D.Awaken_Player_003_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_4.Awaken_Player_003_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_4D.Awaken_Player_003_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_5.Awaken_Player_003_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_5D.Awaken_Player_003_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_6.Awaken_Player_003_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_003_6D.Awaken_Player_003_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1003.BPUI_CharacterAwakenSpine_1003_C",
             "SubPathString": ""
@@ -307,7 +249,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -457,7 +404,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -508,6 +454,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "lacrimosa_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_004_256.player_004_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -515,68 +465,7 @@
           "BreakthroughPackId": "lacrimosa_Breakthrough",
           "AwakenCostItem": "Characterawaken_lacrimosa:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1.Awaken_Player_004_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1D.Awaken_Player_004_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2.Awaken_Player_004_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2D.Awaken_Player_004_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3.Awaken_Player_004_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3D.Awaken_Player_004_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4.Awaken_Player_004_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4D.Awaken_Player_004_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5.Awaken_Player_004_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5D.Awaken_Player_004_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6.Awaken_Player_004_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6D.Awaken_Player_004_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1004.BPUI_CharacterAwakenSpine_1004_C",
             "SubPathString": ""
@@ -713,7 +602,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -863,7 +757,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -914,6 +807,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "skia_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_008_256.player_008_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -921,68 +818,7 @@
           "BreakthroughPackId": "skia_Breakthrough",
           "AwakenCostItem": "Characterawaken_skia:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1.Awaken_Player_008_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1D.Awaken_Player_008_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2.Awaken_Player_008_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2D.Awaken_Player_008_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3.Awaken_Player_008_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3D.Awaken_Player_008_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4.Awaken_Player_008_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4D.Awaken_Player_008_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5.Awaken_Player_008_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5D.Awaken_Player_008_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6.Awaken_Player_008_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6D.Awaken_Player_008_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1008.BPUI_CharacterAwakenSpine_1008_C",
             "SubPathString": ""
@@ -1081,7 +917,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -1202,7 +1043,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -1253,6 +1093,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Nanally_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_010_256.player_010_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
@@ -1260,68 +1104,7 @@
           "BreakthroughPackId": "Nanally_Breakthrough",
           "AwakenCostItem": "Characterawaken_Nanally:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_1.Awaken_Player_010_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_1D.Awaken_Player_010_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_2.Awaken_Player_010_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_2D.Awaken_Player_010_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_3.Awaken_Player_010_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_3D.Awaken_Player_010_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_4.Awaken_Player_010_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_4D.Awaken_Player_010_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_5.Awaken_Player_010_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_5D.Awaken_Player_010_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_6.Awaken_Player_010_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_010_6D.Awaken_Player_010_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1010.BPUI_CharacterAwakenSpine_1010_C",
             "SubPathString": ""
@@ -1462,7 +1245,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -1612,7 +1400,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -1663,6 +1450,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Mint_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_019_256.player_019_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -1670,68 +1461,7 @@
           "BreakthroughPackId": "Mint_Breakthrough",
           "AwakenCostItem": "Characterawaken_Mint:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_1.Awaken_Player_019_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_1D.Awaken_Player_019_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_2.Awaken_Player_019_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_2D.Awaken_Player_019_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_3.Awaken_Player_019_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_3D.Awaken_Player_019_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_4.Awaken_Player_019_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_4D.Awaken_Player_019_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_5.Awaken_Player_019_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_5D.Awaken_Player_019_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_6.Awaken_Player_019_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_019_6D.Awaken_Player_019_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1019.BPUI_CharacterAwakenSpine_1019_C",
             "SubPathString": ""
@@ -1871,7 +1601,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -1992,7 +1727,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -2043,6 +1777,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Haniel_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_020_256.player_020_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -2050,68 +1788,7 @@
           "BreakthroughPackId": "Haniel_Breakthrough",
           "AwakenCostItem": "Characterawaken_Haniel:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs21.jxcs21",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs15.jxcs15",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs22.jxcs22",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs16.jxcs16",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs23.jxcs23",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs17.jxcs17",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs19.jxcs19",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs13.jxcs13",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs24.jxcs24",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs18.jxcs18",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs20.jxcs20",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs14.jxcs14",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1020.BPUI_CharacterAwakenSpine_1020_C",
             "SubPathString": ""
@@ -2210,7 +1887,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -2269,6 +1951,35 @@
                 "B": 0.021219,
                 "A": 1.0,
                 "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_3",
+              "SourceString": "召唤",
+              "LocalizedString": "召唤"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_JueSe_Icon_ZhaoHuan.YH_UI_JueSe_Icon_ZhaoHuan",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.371238,
+                "G": 0.40724,
+                "B": 0.672443,
+                "A": 1.0,
+                "Hex": "A4ABD6"
               },
               "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
@@ -2331,7 +2042,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -2382,6 +2092,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Edgar_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_021_256.player_021_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -2389,68 +2103,7 @@
           "BreakthroughPackId": "Edgar_Breakthrough",
           "AwakenCostItem": "Characterawaken_edgar:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs60.jxcs60",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs54.jxcs54",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs58.jxcs58",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs52.jxcs52",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs59.jxcs59",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs53.jxcs53",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs55.jxcs55",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs49.jxcs49",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs57.jxcs57",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs51.jxcs51",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs56.jxcs56",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs50.jxcs50",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1021.BPUI_CharacterAwakenSpine_1021_C",
             "SubPathString": ""
@@ -2549,7 +2202,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -2670,7 +2328,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -2721,6 +2378,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Cang_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_028_256.player_028_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade",
@@ -2728,68 +2389,7 @@
           "BreakthroughPackId": "Cang_Breakthrough",
           "AwakenCostItem": "Characterawaken_Cang:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_1.Awaken_Player_028_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_1D.Awaken_Player_028_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_2.Awaken_Player_028_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_2D.Awaken_Player_028_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_3.Awaken_Player_028_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_3D.Awaken_Player_028_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_4.Awaken_Player_028_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_4D.Awaken_Player_028_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_5.Awaken_Player_028_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_5D.Awaken_Player_028_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_6.Awaken_Player_028_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_6D.Awaken_Player_028_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1023.BPUI_CharacterAwakenSpine_1023_C",
             "SubPathString": ""
@@ -2912,7 +2512,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": false,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -3062,7 +2667,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -3113,6 +2717,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Hathor_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_012_256.player_012_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
@@ -3120,68 +2728,7 @@
           "BreakthroughPackId": "Hathor_Breakthrough",
           "AwakenCostItem": "Characterawaken_hathor:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_1.Awaken_Player_012_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_1D.Awaken_Player_012_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_2.Awaken_Player_012_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_2D.Awaken_Player_012_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_3.Awaken_Player_012_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_3D.Awaken_Player_012_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_4.Awaken_Player_012_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_4D.Awaken_Player_012_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_5.Awaken_Player_012_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_5D.Awaken_Player_012_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_6.Awaken_Player_012_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_012_6D.Awaken_Player_012_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1025.BPUI_CharacterAwakenSpine_1025_C",
             "SubPathString": ""
@@ -3280,7 +2827,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -3401,7 +2953,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -3452,6 +3003,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Adler_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_015_256.player_015_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade",
@@ -3459,68 +3014,7 @@
           "BreakthroughPackId": "Adler_Breakthrough",
           "AwakenCostItem": "Characterawaken_Adler:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_1.Awaken_Player_033_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_1D.Awaken_Player_033_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_2.Awaken_Player_033_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_2D.Awaken_Player_033_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_3.Awaken_Player_033_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_3D.Awaken_Player_033_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_4.Awaken_Player_033_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_4D.Awaken_Player_033_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_5.Awaken_Player_033_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_5D.Awaken_Player_033_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_6.Awaken_Player_033_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_033_6D.Awaken_Player_033_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1033.BPUI_CharacterAwakenSpine_1033_C",
             "SubPathString": ""
@@ -3619,7 +3113,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -3710,6 +3209,35 @@
               },
               "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_3",
+              "SourceString": "召唤",
+              "LocalizedString": "召唤"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_JueSe_Icon_ZhaoHuan.YH_UI_JueSe_Icon_ZhaoHuan",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.371238,
+                "G": 0.40724,
+                "B": 0.672443,
+                "A": 1.0,
+                "Hex": "A4ABD6"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
           }
         ],
         "bIsLimitAmount": false,
@@ -3769,7 +3297,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -3824,6 +3351,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "zankou_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_canhong_256.player_canhong_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -3831,68 +3362,7 @@
           "BreakthroughPackId": "zankou_Breakthrough",
           "AwakenCostItem": "Characterawaken_zankou:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_1.Awaken_Player_028_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_1D.Awaken_Player_028_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_2.Awaken_Player_028_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_2D.Awaken_Player_028_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_3.Awaken_Player_028_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_3D.Awaken_Player_028_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_4.Awaken_Player_028_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_4D.Awaken_Player_028_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_5.Awaken_Player_028_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_5D.Awaken_Player_028_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_6.Awaken_Player_028_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_028_6D.Awaken_Player_028_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1036.BPUI_CharacterAwakenSpine_1036_C",
             "SubPathString": ""
@@ -4037,7 +3507,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -4216,7 +3691,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -4267,6 +3741,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "fadia_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_027_256.player_027_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade",
@@ -4274,68 +3752,7 @@
           "BreakthroughPackId": "fadia_Breakthrough",
           "AwakenCostItem": "Characterawaken_fadia:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_1.Awaken_Player_039_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_1D.Awaken_Player_039_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_2.Awaken_Player_039_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_2D.Awaken_Player_039_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_3.Awaken_Player_039_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_3D.Awaken_Player_039_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_4.Awaken_Player_039_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_4D.Awaken_Player_039_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_5.Awaken_Player_039_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_5D.Awaken_Player_039_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_6.Awaken_Player_039_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_6D.Awaken_Player_039_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1039.BPUI_CharacterAwakenSpine_1039_C",
             "SubPathString": ""
@@ -4472,7 +3889,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -4593,7 +4015,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -4644,6 +4065,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "blackbird_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_heiyu_256.player_heiyu_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -4861,7 +4286,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -5040,7 +4470,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -5087,6 +4516,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Female_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_046_256.player_046_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -5094,68 +4527,7 @@
           "BreakthroughPackId": "Female_Breakthrough",
           "AwakenCostItem": "Characterawaken_player:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_1.Awaken_Player_1046_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_1D.Awaken_Player_1046_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_2.Awaken_Player_1046_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_2D.Awaken_Player_1046_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_3.Awaken_Player_1046_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_3D.Awaken_Player_1046_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_4.Awaken_Player_1046_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_4D.Awaken_Player_1046_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_5.Awaken_Player_1046_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_5D.Awaken_Player_1046_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_6.Awaken_Player_1046_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1046_6D.Awaken_Player_1046_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1046.BPUI_CharacterAwakenSpine_1046_C",
             "SubPathString": ""
@@ -5249,7 +4621,12 @@
           "AwakenAwards": [],
           "CharGenderType": "ECharGenderType::male",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -5399,7 +4776,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -5446,6 +4822,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Female_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_009_256.player_009_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -5453,68 +4833,7 @@
           "BreakthroughPackId": "Female_Breakthrough",
           "AwakenCostItem": "Characterawaken_player:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_1.Awaken_Player_1051_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_1D.Awaken_Player_1051_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_2.Awaken_Player_1051_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_2D.Awaken_Player_1051_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_3.Awaken_Player_1051_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_3D.Awaken_Player_1051_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_4.Awaken_Player_1051_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_4D.Awaken_Player_1051_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_5.Awaken_Player_1051_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_5D.Awaken_Player_1051_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_6.Awaken_Player_1051_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_1051_6D.Awaken_Player_1051_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1051.BPUI_CharacterAwakenSpine_1051_C",
             "SubPathString": ""
@@ -5608,7 +4927,12 @@
           "AwakenAwards": [],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -5758,7 +5082,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -5809,6 +5132,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Jin_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_013_256.player_013_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -5816,68 +5143,7 @@
           "BreakthroughPackId": "Jin_Breakthrough",
           "AwakenCostItem": "Characterawaken_jin:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_1.Awaken_Player_052_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_1D.Awaken_Player_052_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_2.Awaken_Player_052_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_2D.Awaken_Player_052_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_3.Awaken_Player_052_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_3D.Awaken_Player_052_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_4.Awaken_Player_052_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_4D.Awaken_Player_052_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_5.Awaken_Player_052_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_5D.Awaken_Player_052_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_6.Awaken_Player_052_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_052_6D.Awaken_Player_052_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1052.BPUI_CharacterAwakenSpine_1052_C",
             "SubPathString": ""
@@ -5977,7 +5243,7 @@
             "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_xun.YH_UI_shizhuang_big_xun",
             "SubPathString": ""
           },
-          "CharacterTrackId": "None",
+          "CharacterTrackId": "Likeability_006",
           "TrackOffset": {
             "X": 0.0,
             "Y": 0.0,
@@ -6012,7 +5278,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -6162,7 +5433,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -6213,6 +5483,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "daffodill_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_005_256.player_005_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -6220,68 +5494,7 @@
           "BreakthroughPackId": "daffodill_Breakthrough",
           "AwakenCostItem": "Characterawaken_daffodill:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs11.jxcs11",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs5.jxcs5",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs10.jxcs10",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs4.jxcs4",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs7.jxcs7",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs1.jxcs1",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs8.jxcs8",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs2.jxcs2",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs9.jxcs9",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs3.jxcs3",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs12.jxcs12",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs6.jxcs6",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1054.BPUI_CharacterAwakenSpine_1054_C",
             "SubPathString": ""
@@ -6380,7 +5593,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -6530,7 +5748,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -6581,6 +5798,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Kuhara_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_104_256.player_104_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
@@ -6588,68 +5809,7 @@
           "BreakthroughPackId": "Kuhara_Breakthrough",
           "AwakenCostItem": "Characterawaken_Kuhara:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs44.jxcs44",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs38.jxcs38",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs46.jxcs46",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs40.jxcs40",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs43.jxcs43",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs37.jxcs37",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs47.jxcs47",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs41.jxcs41",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs48.jxcs48",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs42.jxcs42",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs45.jxcs45",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs39.jxcs39",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1055.BPUI_CharacterAwakenSpine_1055_C",
             "SubPathString": ""
@@ -6785,7 +5945,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -6935,7 +6100,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -6986,6 +6150,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "lacrimosa_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_004_256.player_004_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -6993,68 +6161,7 @@
           "BreakthroughPackId": "lacrimosa_Breakthrough",
           "AwakenCostItem": "Characterawaken_lacrimosa:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1.Awaken_Player_004_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1D.Awaken_Player_004_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2.Awaken_Player_004_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2D.Awaken_Player_004_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3.Awaken_Player_004_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3D.Awaken_Player_004_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4.Awaken_Player_004_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4D.Awaken_Player_004_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5.Awaken_Player_004_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5D.Awaken_Player_004_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6.Awaken_Player_004_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6D.Awaken_Player_004_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "",
             "SubPathString": ""
@@ -7153,7 +6260,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": false
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -7303,7 +6415,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -7354,6 +6465,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "mitsuki_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_haiyue_256.player_haiyue_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
@@ -7361,68 +6476,7 @@
           "BreakthroughPackId": "mitsuki_Breakthrough",
           "AwakenCostItem": "Characterawaken_mitsuki:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs33.jxcs33",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs27.jxcs27",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs31.jxcs31",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs25.jxcs25",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs34.jxcs34",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs28.jxcs28",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs36.jxcs36",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs30.jxcs30",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs35.jxcs35",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs29.jxcs29",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs32.jxcs32",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs26.jxcs26",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1070.BPUI_CharacterAwakenSpine_1070_C",
             "SubPathString": ""
@@ -7521,7 +6575,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -7627,7 +6686,7 @@
         },
         "ItemName": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_074",
+          "Key": "Role_Name_072",
           "SourceString": "灵可",
           "LocalizedString": "灵可"
         },
@@ -7642,7 +6701,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -7687,6 +6745,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "radio_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_lingke_256.player_lingke_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
@@ -7694,68 +6756,7 @@
           "BreakthroughPackId": "radio_Breakthrough",
           "AwakenCostItem": "Characterawaken_radio:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1072.BPUI_CharacterAwakenSpine_1072_C",
             "SubPathString": ""
@@ -7891,7 +6892,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -8041,7 +7047,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -8092,6 +7097,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "chiichan_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_073_256.player_073_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -8099,68 +7108,7 @@
           "BreakthroughPackId": "chiichan_Breakthrough",
           "AwakenCostItem": "Characterawaken_chiichan:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs33.jxcs33",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs27.jxcs27",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs31.jxcs31",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs25.jxcs25",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs34.jxcs34",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs28.jxcs28",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs36.jxcs36",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs30.jxcs30",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs35.jxcs35",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs29.jxcs29",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs32.jxcs32",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs26.jxcs26",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1073.BPUI_CharacterAwakenSpine_1073_C",
             "SubPathString": ""
@@ -8296,7 +7244,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -8417,7 +7370,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -8468,6 +7420,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "oneiroi_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_yiluoyi_256.player_yiluoyi_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -8475,68 +7431,7 @@
           "BreakthroughPackId": "oneiroi_Breakthrough",
           "AwakenCostItem": "Characterawaken_oneiroi:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs33.jxcs33",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs27.jxcs27",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs31.jxcs31",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs25.jxcs25",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs34.jxcs34",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs28.jxcs28",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs36.jxcs36",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs30.jxcs30",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs35.jxcs35",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs29.jxcs29",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs32.jxcs32",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs26.jxcs26",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1075.BPUI_CharacterAwakenSpine_1075_C",
             "SubPathString": ""
@@ -8672,7 +7567,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -8763,6 +7663,35 @@
               },
               "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_3",
+              "SourceString": "召唤",
+              "LocalizedString": "召唤"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_JueSe_Icon_ZhaoHuan.YH_UI_JueSe_Icon_ZhaoHuan",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.371238,
+                "G": 0.40724,
+                "B": 0.672443,
+                "A": 1.0,
+                "Hex": "A4ABD6"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
           }
         ],
         "bIsLimitAmount": false,
@@ -8822,7 +7751,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -8873,6 +7801,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "chaos_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_kaesi1_256.player_kaesi1_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade",
@@ -8880,68 +7812,7 @@
           "BreakthroughPackId": "chaos_Breakthrough",
           "AwakenCostItem": "Characterawaken_chaos:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1.Awaken_Player_008_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1D.Awaken_Player_008_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2.Awaken_Player_008_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2D.Awaken_Player_008_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3.Awaken_Player_008_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3D.Awaken_Player_008_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4.Awaken_Player_008_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4D.Awaken_Player_008_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5.Awaken_Player_008_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5D.Awaken_Player_008_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6.Awaken_Player_008_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6D.Awaken_Player_008_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1071.BPUI_CharacterAwakenSpine_1071_C",
             "SubPathString": ""
@@ -9079,7 +7950,12 @@
           ],
           "CharGenderType": "ECharGenderType::male",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -9200,7 +8076,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -9251,6 +8126,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Shinku_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_zhenhong_256.player_zhenhong_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
           "UpgradePackId": "character_Upgrade",
@@ -9258,68 +8137,7 @@
           "BreakthroughPackId": "Shinku_Breakthrough",
           "AwakenCostItem": "Characterawaken_Shinku:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs44.jxcs44",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs38.jxcs38",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs46.jxcs46",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs40.jxcs40",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs43.jxcs43",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs37.jxcs37",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs47.jxcs47",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs41.jxcs41",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs48.jxcs48",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs42.jxcs42",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs45.jxcs45",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs39.jxcs39",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1076.BPUI_CharacterAwakenSpine_1076_C",
             "SubPathString": ""
@@ -9458,7 +8276,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -9579,7 +8402,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -9597,7 +8419,7 @@
         "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarId": "1072"
+            "AvatarId": "1091"
           }
         ],
         "ItemUseCount": 1,
@@ -9630,6 +8452,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "lacrimosa_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_lingke_256.player_lingke_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
@@ -9637,68 +8463,7 @@
           "BreakthroughPackId": "radio_Breakthrough",
           "AwakenCostItem": "Characterawaken_radio:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1.Awaken_Player_004_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_1D.Awaken_Player_004_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2.Awaken_Player_004_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_2D.Awaken_Player_004_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3.Awaken_Player_004_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_3D.Awaken_Player_004_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4.Awaken_Player_004_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_4D.Awaken_Player_004_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5.Awaken_Player_004_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_5D.Awaken_Player_004_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6.Awaken_Player_004_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_004_6D.Awaken_Player_004_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1072.BPUI_CharacterAwakenSpine_1072_C",
             "SubPathString": ""
@@ -9768,7 +8533,7 @@
             "Y": 0.0,
             "Z": 0.0
           },
-          "LikeabilityID": "None",
+          "LikeabilityID": "1091",
           "bCheckShowTime": false,
           "ShowTime": {
             "MainlandTime": {
@@ -9797,7 +8562,12 @@
           ],
           "CharGenderType": "ECharGenderType::NoneGender",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": false
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -9947,7 +8717,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -9998,6 +8767,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "Akane_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_mingyin_256.player_mingyin_256",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
           "UpgradePackId": "character_Upgrade",
@@ -10005,68 +8778,7 @@
           "BreakthroughPackId": "akane_Breakthrough",
           "AwakenCostItem": "Characterawaken_akane:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1.Awaken_Player_008_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_1D.Awaken_Player_008_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2.Awaken_Player_008_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_2D.Awaken_Player_008_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3.Awaken_Player_008_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_3D.Awaken_Player_008_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4.Awaken_Player_008_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_4D.Awaken_Player_008_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5.Awaken_Player_008_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_5D.Awaken_Player_008_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6.Awaken_Player_008_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_008_6D.Awaken_Player_008_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1057.BPUI_CharacterAwakenSpine_1057_C",
             "SubPathString": ""
@@ -10137,9 +8849,11 @@
             "Akane_0005",
             "Akane_0006",
             "Akane_0007",
+            "Akane_jh_0000",
             "Akane_jh_0001",
             "Akane_jh_0002",
-            "Akane_jh_0003"
+            "Akane_jh_0003",
+            "Akane_jh_0004"
           ],
           "FashionList": [
             {
@@ -10181,16 +8895,16 @@
           "ShowTime": {
             "MainlandTime": {
               "Year": 2026,
-              "Month": 10,
-              "Day": 15,
+              "Month": 6,
+              "Day": 18,
               "Hour": 6,
               "minute": 30,
               "Second": 0
             },
             "OverseaTime": {
               "Year": 2026,
-              "Month": 10,
-              "Day": 20,
+              "Month": 6,
+              "Day": 23,
               "Hour": 22,
               "minute": 30,
               "Second": 0
@@ -10205,7 +8919,12 @@
           ],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
@@ -10293,6 +9012,810 @@
         "bApplyQualityColorToDropEffect": true,
         "DropHeightOffset": 0.0
       },
+      "1074": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/200_Fashion_1074_0.200_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_074",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "MaxAmount": 1,
+        "bUseMaxAmountLimitID": false,
+        "bNotImmediateSerialize": false,
+        "bIsBind": false,
+        "RelateBindItemID": "None",
+        "RelateUnbindItemID": "None",
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "ItemCDUseRealTime": false,
+        "ExpireTime": [],
+        "ExpireAlarmTime": 259200.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC032_006",
+          "SourceString": "异象管理局收容二组",
+          "LocalizedString": "异象管理局收容二组"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC032_007",
+          "SourceString": "习惯与人保持距离的冷面行动派。",
+          "LocalizedString": "习惯与人保持距离的冷面行动派。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1074"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "bAutoUseItemNeedPopAwardsWindow": false,
+        "bCanDiscard": false,
+        "DiscardDropID": "None",
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_Exe",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/player_074_exe.player_074_exe_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_074.PlayerUIShow_074_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "Exe_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+            "SubPathString": ""
+          },
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "Exe_lv",
+          "BreakthroughPackId": "Exe_Breakthrough",
+          "AwakenCostItem": "Characterawaken_Exe:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [],
+          "AwakenSpineUI": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1076.BPUI_CharacterAwakenSpine_1076_C",
+            "SubPathString": ""
+          },
+          "MaxAwakenAwardDropId": "None",
+          "ForkId": "None",
+          "EquipmentSlotID": "EquipmentSlots_exe",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_044.SM_Handhelds_Tetris_044",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 0,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 36.0,
+          "CameraOffsets": 11.5,
+          "ForkMeshOffsets": 20.0,
+          "EquipmentHandMeshOffsets": 11.5,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/1024_Fashion_1074_0.1024_Fashion_1074_0",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Exe.BPUI_BufferStack_Exe_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSloteExe.BPUI_CharacterSloteExe_C",
+            "SubPathString": ""
+          },
+          "SkillBtnExtraCustomUIClassMap": [],
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "exe_0001",
+            "exe_0002",
+            "exe_0003",
+            "exe_0004",
+            "exe_0005",
+            "exe_0006",
+            "exe_0007",
+            "exe_0008",
+            "exe_jh_0001",
+            "exe_jh_0002",
+            "exe_jh_0003"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1074_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_zhenhong.UI_Mask_Fashion_Character_zhenhong",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_zhenhong.UI_Mask_Fashion_UI_zhenhong",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange8.BPUI_CharacterChange8",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_029/BP_CompanionCharacter_029.BP_CompanionCharacter_029_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1074_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/2560_Fashion_1074_0.2560_Fashion_1074_0",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1074",
+          "bCheckShowTime": true,
+          "ShowTime": {
+            "MainlandTime": {
+              "Year": 2026,
+              "Month": 11,
+              "Day": 26,
+              "Hour": 6,
+              "minute": 30,
+              "Second": 0
+            },
+            "OverseaTime": {
+              "Year": 2026,
+              "Month": 12,
+              "Day": 2,
+              "Hour": 6,
+              "minute": 30,
+              "Second": 0
+            },
+            "OverseaUseUTCTime": true
+          },
+          "AwakenAwards": [
+            {
+              "Key": "6",
+              "Value": "drop_BusinessCard_Characterawaken_Exe"
+            }
+          ],
+          "CharGenderType": "ECharGenderType::male",
+          "FormationCharacterRotationArr": [],
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_0",
+              "SourceString": "输出",
+              "LocalizedString": "输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_1",
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_3",
+              "SourceString": "召唤",
+              "LocalizedString": "召唤"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_JueSe_Icon_ZhaoHuan.YH_UI_JueSe_Icon_ZhaoHuan",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.371238,
+                "G": 0.40724,
+                "B": 0.672443,
+                "A": 1.0,
+                "Hex": "A4ABD6"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PickupType": "EItemDropPickupType::Pickup_Auto",
+        "DropSoundOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PickupSoundOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "DropEffectNiagaraOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bApplyQualityColorToDropEffect": true,
+        "DropHeightOffset": 0.0
+      },
+      "1090": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/200_Fashion_1090_0.200_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_090",
+          "SourceString": "曳尔沐",
+          "LocalizedString": "曳尔沐"
+        },
+        "MaxAmount": 1,
+        "bUseMaxAmountLimitID": false,
+        "bNotImmediateSerialize": false,
+        "bIsBind": false,
+        "RelateBindItemID": "None",
+        "RelateUnbindItemID": "None",
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "ItemCDUseRealTime": false,
+        "ExpireTime": [],
+        "ExpireAlarmTime": 259200.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC032_006",
+          "SourceString": "异象管理局收容二组",
+          "LocalizedString": "异象管理局收容二组"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC032_007",
+          "SourceString": "习惯与人保持距离的冷面行动派。",
+          "LocalizedString": "习惯与人保持距离的冷面行动派。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1090"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "bAutoUseItemNeedPopAwardsWindow": false,
+        "bCanDiscard": false,
+        "DiscardDropID": "None",
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_elyms",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/player_090_elyms.player_090_elyms_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_090.PlayerUIShow_090_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "elyms_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+            "SubPathString": ""
+          },
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "elyms_lv",
+          "BreakthroughPackId": "elyms_Breakthrough",
+          "AwakenCostItem": "Characterawaken_elyms:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs44.jxcs44",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs38.jxcs38",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs46.jxcs46",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs40.jxcs40",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs43.jxcs43",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs37.jxcs37",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs47.jxcs47",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs41.jxcs41",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs48.jxcs48",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs42.jxcs42",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs45.jxcs45",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs39.jxcs39",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "AwakenSpineUI": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/Awaken/BPUI_CharacterAwakenSpine_1090.BPUI_CharacterAwakenSpine_1090_C",
+            "SubPathString": ""
+          },
+          "MaxAwakenAwardDropId": "None",
+          "ForkId": "None",
+          "EquipmentSlotID": "EquipmentSlots_elyms",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_022.SM_Handhelds_Tetris_022",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 0,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 36.0,
+          "CameraOffsets": 11.5,
+          "ForkMeshOffsets": 20.0,
+          "EquipmentHandMeshOffsets": 11.5,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/1024_Fashion_1090_0.1024_Fashion_1090_0",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BuffStack_Elyms.BPUI_BuffStack_Elyms_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSlotElyms.BPUI_CharacterSlotElyms_C",
+            "SubPathString": ""
+          },
+          "SkillBtnExtraCustomUIClassMap": [
+            {
+              "Key": "InputID_Skill",
+              "Value": {
+                "AssetPathName": "/Game/UI/Blueprints/Skill/Skill/SkillExtraUI/BPUI_Elyms_Skill.BPUI_Elyms_Skill_C",
+                "SubPathString": ""
+              }
+            },
+            {
+              "Key": "InputID_UltSkill",
+              "Value": {
+                "AssetPathName": "/Game/UI/Blueprints/Skill/UltraSkill/UltraSkillExtraUI/BPUI_ElymsUltraSkill.BPUI_ElymsUltraSkill_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "elms_0001",
+            "elms_0002",
+            "elms_0003",
+            "elms_0004",
+            "elms_0005",
+            "elms_0006",
+            "elms_0007",
+            "elms_0008",
+            "elms_0009",
+            "elms_0010",
+            "elms_jh_0001",
+            "elms_jh_0002",
+            "elms_jh_0003",
+            "elms_jh_0004"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1090_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_yeermu_612.UI_Mask_Fashion_Character_yeermu_612",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_yeermu_744.UI_Mask_Fashion_UI_yeermu_744",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange14.BPUI_CharacterChange14",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_030/BP_CompanionCharacter_030.BP_CompanionCharacter_030_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1090_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/2560_Fashion_1090_0.2560_Fashion_1090_0",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "Likeability_023",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1090",
+          "bCheckShowTime": false,
+          "ShowTime": {
+            "MainlandTime": {
+              "Year": 1,
+              "Month": 1,
+              "Day": 1,
+              "Hour": 0,
+              "minute": 0,
+              "Second": 0
+            },
+            "OverseaTime": {
+              "Year": 1,
+              "Month": 1,
+              "Day": 1,
+              "Hour": 0,
+              "minute": 0,
+              "Second": 0
+            },
+            "OverseaUseUTCTime": true
+          },
+          "AwakenAwards": [
+            {
+              "Key": "6",
+              "Value": "drop_BusinessCard_Characterawaken_elyms"
+            }
+          ],
+          "CharGenderType": "ECharGenderType::female",
+          "FormationCharacterRotationArr": [],
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": true
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Sagiri_tag_0",
+              "SourceString": "增益",
+              "LocalizedString": "增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_fuzhu01.YH_UI_icon_Tag_fuzhu01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_2",
+              "SourceString": "即瞬环合",
+              "LocalizedString": "即瞬环合"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_huanhe.YH_UI_icon_Tag_huanhe",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.597202,
+                "G": 0.072272,
+                "B": 0.223228,
+                "A": 1.0,
+                "Hex": "CB4C82"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_2",
+              "SourceString": "输出增益",
+              "LocalizedString": "输出增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zengyi.YH_UI_icon_Tag_zengyi",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.672443,
+                "G": 0.099899,
+                "B": 0.021219,
+                "A": 1.0,
+                "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PickupType": "EItemDropPickupType::Pickup_Auto",
+        "DropSoundOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PickupSoundOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "DropEffectNiagaraOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bApplyQualityColorToDropEffect": true,
+        "DropHeightOffset": 0.0
+      },
       "1999": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
         "ItemClassOverride": null,
@@ -10323,7 +9846,6 @@
         "ItemCDUseRealTime": false,
         "ExpireTime": [],
         "ExpireAlarmTime": 259200.0,
-        "ExpireAwardsDropID": "None",
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
@@ -10374,6 +9896,10 @@
             "SubPathString": ""
           },
           "PropModifyID": "blackbird_base",
+          "CultivationIcon": {
+            "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_1999.player_1999",
+            "SubPathString": ""
+          },
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
           "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
           "UpgradePackId": "character_Upgrade",
@@ -10381,68 +9907,7 @@
           "BreakthroughPackId": "blackbird_Breakthrough",
           "AwakenCostItem": "Characterawaken_blackbird:1",
           "MaxAwakenLevel": 6,
-          "AwakenIconList": [
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_1.Awaken_Player_039_1",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_1D.Awaken_Player_039_1D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_2.Awaken_Player_039_2",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_2D.Awaken_Player_039_2D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_3.Awaken_Player_039_3",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_3D.Awaken_Player_039_3D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_4.Awaken_Player_039_4",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_4D.Awaken_Player_039_4D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_5.Awaken_Player_039_5",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_5D.Awaken_Player_039_5D",
-                "SubPathString": ""
-              }
-            },
-            {
-              "HeadIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_6.Awaken_Player_039_6",
-                "SubPathString": ""
-              },
-              "MaskIcon": {
-                "AssetPathName": "/Game/UI/UI_Icon/Awaken/Awaken_Player_039_6D.Awaken_Player_039_6D",
-                "SubPathString": ""
-              }
-            }
-          ],
+          "AwakenIconList": [],
           "AwakenSpineUI": {
             "AssetPathName": "",
             "SubPathString": ""
@@ -10550,7 +10015,12 @@
           "AwakenAwards": [],
           "CharGenderType": "ECharGenderType::female",
           "FormationCharacterRotationArr": [],
-          "bPlaySequence": true
+          "bPlaySequence": true,
+          "CharacterSequence": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsPublic": false
         },
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,

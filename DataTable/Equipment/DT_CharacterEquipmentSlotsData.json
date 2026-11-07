@@ -611,6 +611,56 @@
         },
         "OwnerGridCount": 3,
         "ModifyPropID": "SlotsEffect_akane"
+      },
+      "EquipmentSlots_elyms": {
+        "EquipmentSlots": [
+          "-1,-1,-1,-1,-1,-1,-1",
+          "-1,0,0,0,0,-1,-1",
+          "-1,0,0,0,0,-1,-1",
+          "-1,0,0,-1,0,0,-1",
+          "-1,-1,0,0,0,0,-1",
+          "-1,-1,0,0,0,0,-1",
+          "-1,-1,-1,-1,-1,-1,-1"
+        ],
+        "Desc": {
+          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
+          "Key": "SlotsEffect_3_per",
+          "SourceString": "每装配一个Ⅲ型驱动，使{0}增加{1}%",
+          "LocalizedString": "每装配一个Ⅲ型驱动，使{0}增加{1}%"
+        },
+        "SpecialDesc": {
+          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
+          "Key": "specification_grid_3",
+          "SourceString": "Ⅲ型特化",
+          "LocalizedString": "Ⅲ型特化"
+        },
+        "OwnerGridCount": 3,
+        "ModifyPropID": "SlotsEffect_elyms"
+      },
+      "EquipmentSlots_exe": {
+        "EquipmentSlots": [
+          "-1,-1,-1,-1,-1,-1,-1",
+          "-1,-1,-1,-1,-1,-1,-1",
+          "-1,0,0,0,0,0,-1",
+          "-1,0,0,0,0,0,-1",
+          "-1,0,0,0,0,0,-1",
+          "-1,0,0,0,0,0,-1",
+          "-1,-1,-1,-1,-1,-1,-1"
+        ],
+        "Desc": {
+          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
+          "Key": "SlotsEffect_3_per",
+          "SourceString": "每装配一个Ⅲ型驱动，使{0}增加{1}%",
+          "LocalizedString": "每装配一个Ⅲ型驱动，使{0}增加{1}%"
+        },
+        "SpecialDesc": {
+          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
+          "Key": "specification_grid_3",
+          "SourceString": "Ⅲ型特化",
+          "LocalizedString": "Ⅲ型特化"
+        },
+        "OwnerGridCount": 3,
+        "ModifyPropID": "SlotsEffect_exe"
       }
     }
   }

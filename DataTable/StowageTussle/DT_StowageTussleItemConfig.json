@@ -12,9 +12,2569 @@
       }
     },
     "Rows": {
-      "StowageTussleItem_1": {
+      "StowageTussleItem_D01": {
         "ItemName": {
-          "CultureInvariantString": "号角"
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D01_Name",
+          "SourceString": "腐蚀喷吐",
+          "LocalizedString": "腐蚀喷吐"
+        },
+        "ItemShapeId": "Shape_1x2",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 48
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 3
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 3
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D01_Desc",
+          "SourceString": "冷却5秒，每链接1件食物急速+20。造成伤害并施加中毒。【橙】触发时，链接的食物急速+40。",
+          "LocalizedString": "冷却5秒，每链接1件食物急速+20。造成伤害并施加中毒。【橙】触发时，链接的食物急速+40。"
+        },
+        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 5.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Food",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 300.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 180.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 105.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 60.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 30.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 9
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "LinkItemTag": "None",
+            "LinkBuffID": "None",
+            "OneAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 40.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::Food",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_D02": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D02_Name",
+          "SourceString": "毒蘑菇",
+          "LocalizedString": "毒蘑菇"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D02_Desc",
+          "SourceString": "冷却4秒，每链接1件食物急速+20。施加中毒。【橙】额外施加2层虚弱。",
+          "LocalizedString": "冷却4秒，每链接1件食物急速+20。施加中毒。【橙】额外施加2层虚弱。"
+        },
+        "ItemType": "EStowageTussleItemType::Food",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 4.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 4.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 4.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Food",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Weak"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_D03": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D03_Name",
+          "SourceString": "发酵菌种",
+          "LocalizedString": "发酵菌种"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D03_Desc",
+          "SourceString": "链接的食物触发时，施加中毒；链接的技能触发时，施加虚弱。【橙】链接的食物触发时额外造成30伤害。",
+          "LocalizedString": "链接的食物触发时，施加中毒；链接的技能触发时，施加虚弱。【橙】链接的食物触发时额外造成30伤害。"
+        },
+        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemActiveConditionArray": [
+          {
+            "LinkItemType": "EStowageTussleItemType::Food",
+            "bBindLinkItem": true,
+            "bLinkItemExtraEffect": false,
+            "bAttachLinkItemHaste": false,
+            "bAttachLinkItemHasteNumber": false,
+            "AttachLinkItemHasteMap": [],
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              0,
+              2
+            ]
+          },
+          {
+            "LinkItemType": "EStowageTussleItemType::Skill",
+            "bBindLinkItem": true,
+            "bLinkItemExtraEffect": false,
+            "bAttachLinkItemHaste": false,
+            "bAttachLinkItemHasteNumber": false,
+            "AttachLinkItemHasteMap": [],
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              1
+            ]
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Weak"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 30.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 1,
+            "Y": 0
+          },
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_D04": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D04_Name",
+          "SourceString": "分解光线",
+          "LocalizedString": "分解光线"
+        },
+        "ItemShapeId": "Shape_1x3",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 64
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 4
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D04_Desc",
+          "SourceString": "冷却10秒，每链接1件技能急速+20。引爆：移除敌方中毒，每移除1层造成伤害。【橙】引爆后重新施加8层中毒。",
+          "LocalizedString": "冷却10秒，每链接1件技能急速+20。引爆：移除敌方中毒，每移除1层造成伤害。【橙】引爆后重新施加8层中毒。"
+        },
+        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 10.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Skill",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": false,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": true,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [
+              1
+            ],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 15
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 12
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 10
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 6
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 80.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 50.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 32.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 22.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 15.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 1,
+            "Y": -1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_D05": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D05_Name",
+          "SourceString": "毒囊",
+          "LocalizedString": "毒囊"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_D05_Desc",
+          "SourceString": "开局10秒后触发1次，每链接1件技能急速+25。施加中毒与疾病。【橙】同时施加6层易伤。",
+          "LocalizedString": "开局10秒后触发1次，每链接1件技能急速+25。施加中毒与疾病。【橙】同时施加6层易伤。"
+        },
+        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 10.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 10.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Skill",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 25.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 25.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 25.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 25.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 25.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": 1
+        },
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Poison"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 20
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 14
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 9
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 4
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Disease"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Vulnerable"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 1,
+            "Y": 0
+          },
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_K01": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K01_Name",
+          "SourceString": "尖刺冲撞",
+          "LocalizedString": "尖刺冲撞"
+        },
+        "ItemShapeId": "Shape_1x2",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 48
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 3
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 3
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K01_Desc",
+          "SourceString": "冷却5秒，每链接1件装备急速+20。造成伤害并获得荆棘。【橙】额外获得2层减伤。",
+          "LocalizedString": "冷却5秒，每链接1件装备急速+20。造成伤害并获得荆棘。【橙】额外获得2层减伤。"
+        },
+        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 5.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Equipment",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 350.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 210.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 120.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 70.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 35.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Thorns"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 9
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Guard"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_K02": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K02_Name",
+          "SourceString": "铁处女",
+          "LocalizedString": "铁处女"
+        },
+        "ItemShapeId": "Shape_1x3",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 64
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 16
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K02_Desc",
+          "SourceString": "冷却9秒，自身每有1层荆棘急速+3。造成伤害，每链接1件装备伤害提高。【橙】命中时施加4层虚弱。",
+          "LocalizedString": "冷却9秒，自身每有1层荆棘急速+3。造成伤害，每链接1件装备伤害提高。【橙】命中时施加4层虚弱。"
+        },
+        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 9.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 9.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 9.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 9.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 9.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "Buff_ST_Thorns",
+          "OneAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 3.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 3.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 3.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 3.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 3.0
+            }
+          ],
+          "LinkItemType": "EStowageTussleItemType::None",
+          "OneLinkAddValueMap": [],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 560.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 340.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 200.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::Equipment",
+            "OneLinkAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 120.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 70.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 40.0
+              }
+            ],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Weak"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 1,
+            "Y": -1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_K03": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K03_Name",
+          "SourceString": "古铜头盔",
+          "LocalizedString": "古铜头盔"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K03_Desc",
+          "SourceString": "开局获得减伤与荆棘；防御力提高。【橙】开局额外获得3层强化。",
+          "LocalizedString": "开局获得减伤与荆棘；防御力提高。【橙】开局额外获得3层强化。"
+        },
+        "ItemType": "EStowageTussleItemType::Equipment",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Guard"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Thorns"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 12
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 5
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "AttributeID": "DefBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 30.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 18.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 10.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 6.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 3.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Strength"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": []
+      },
+      "StowageTussleItem_K04": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K04_Name",
+          "SourceString": "护心镜",
+          "LocalizedString": "护心镜"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K04_Desc",
+          "SourceString": "生命首次低于70%时：获得荆棘，并随机触发1个链接的技能。【橙】同时回复200生命。",
+          "LocalizedString": "生命首次低于70%时：获得荆棘，并随机触发1个链接的技能。【橙】同时回复200生命。"
+        },
+        "ItemType": "EStowageTussleItemType::Equipment",
+        "ItemActiveConditionArray": [
+          {
+            "HealthValueCondition": 0.7,
+            "EnemyHealthValueCondition": 0.0,
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              0,
+              1,
+              2
+            ]
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Thorns"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 14
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 9
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 3
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "RandomLinkItemType": "EStowageTussleItemType::Skill",
+            "bItemCost": false,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 200.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "BuffID": "None",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 1,
+            "Y": 0
+          },
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_K05": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K05_Name",
+          "SourceString": "卸甲冲锋",
+          "LocalizedString": "卸甲冲锋"
+        },
+        "ItemShapeId": "Shape_2x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 48
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 3
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 3
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_K05_Desc",
+          "SourceString": "冷却8秒。卸甲：移除自身荆棘，每移除1层造成伤害；每链接1件装备可多移除2层。【橙】卸甲后获得6层减伤。",
+          "LocalizedString": "冷却8秒。卸甲：移除自身荆棘，每移除1层造成伤害；每链接1件装备可多移除2层。【橙】卸甲后获得6层减伤。"
+        },
+        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 8.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 8.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 8.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::None",
+          "OneLinkAddValueMap": [],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Thorns"
+            ],
+            "bAddBuff": false,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": true,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [
+              1
+            ],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 12
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 10
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 4
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::Equipment",
+            "OneLinkAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 2.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 2.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 2.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 2.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2.0
+              }
+            ],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "bSelfDamage": false,
+            "DamageData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 80.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 50.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 32.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 22.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 15.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Guard"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 2
+          }
+        ]
+      },
+      "StowageTussleItem_G01": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G01_Name",
+          "SourceString": "大餐桌",
+          "LocalizedString": "大餐桌"
+        },
+        "ItemShapeId": "Shape_2x2",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 80
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 40
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 20
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 10
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 5
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 40
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 20
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 10
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 5
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G01_Desc",
+          "SourceString": "指向的食物触发时额外触发1次；生命上限提高。【橙】被指向的食物急速+60。",
+          "LocalizedString": "指向的食物触发时额外触发1次；生命上限提高。【橙】被指向的食物急速+60。"
+        },
+        "ItemType": "EStowageTussleItemType::Furniture",
+        "ItemActiveConditionArray": [
+          {
+            "LinkItemType": "EStowageTussleItemType::Food",
+            "bBindLinkItem": true,
+            "bLinkItemExtraEffect": true,
+            "bAttachLinkItemHaste": true,
+            "bAttachLinkItemHasteNumber": false,
+            "AttachLinkItemHasteMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 60.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "bItemCost": false,
+            "AssignEffectIndex": []
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "AttributeID": "HPMaxBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 400.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 240.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 140.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 80.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 40.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          }
+        ]
+      },
+      "StowageTussleItem_G02": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G02_Name",
+          "SourceString": "落地钟",
+          "LocalizedString": "落地钟"
+        },
+        "ItemShapeId": "Shape_1x2",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 48
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 3
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 24
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 12
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 6
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 3
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G02_Desc",
+          "SourceString": "指向的技能触发时，对敌方施加易伤。【橙】同时获得2层强化。",
+          "LocalizedString": "指向的技能触发时，对敌方施加易伤。【橙】同时获得2层强化。"
+        },
+        "ItemType": "EStowageTussleItemType::Furniture",
+        "ItemActiveConditionArray": [
+          {
+            "LinkItemType": "EStowageTussleItemType::Skill",
+            "bBindLinkItem": true,
+            "bLinkItemExtraEffect": false,
+            "bAttachLinkItemHaste": false,
+            "bAttachLinkItemHasteNumber": false,
+            "AttachLinkItemHasteMap": [],
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              0,
+              1
+            ]
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "BuffID": [
+              "Buff_ST_Vulnerable"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Strength"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          }
+        ]
+      },
+      "StowageTussleItem_G03": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G03_Name",
+          "SourceString": "武器架",
+          "LocalizedString": "武器架"
         },
         "ItemShapeId": "Shape_2x2_1",
         "ItemIcon": {
@@ -25,20 +2585,801 @@
           "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
           "SubPathString": ""
         },
-        "PriceMap": [],
-        "SellPriceMap": [],
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 64
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 4
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
         "ItemTypeId": "None",
         "Description": {
-          "CultureInvariantString": "战争号角"
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G03_Desc",
+          "SourceString": "攻击力提高，每链接1件技能额外提高。【橙】暴击率+10%。",
+          "LocalizedString": "攻击力提高，每链接1件技能额外提高。【橙】暴击率+10%。"
         },
-        "ItemType": "EStowageTussleItemType::Skill",
+        "ItemType": "EStowageTussleItemType::Furniture",
+        "ItemActiveConditionArray": [],
         "ItemBaseCoolData": [],
-        "ItemCoolDownArray": [],
+        "ItemCoolDown": null,
         "ItemEffectArray": [
           {
-            "LinkItemType": "EStowageTussleItemType::Jewelry",
+            "AttributeID": "AtkBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 60.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 36.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 21.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 12.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 6.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::Skill",
+            "OneLinkAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 30.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 18.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 10.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 6.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 3.0
+              }
+            ],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "AttributeID": "CritRateBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 0.1
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
             "OneLinkAddValueMap": [],
-            "bBeginTimeValid": false
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 1,
+            "Y": 2
+          }
+        ]
+      },
+      "StowageTussleItem_G04": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G04_Name",
+          "SourceString": "四叶草",
+          "LocalizedString": "四叶草"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G04_Desc",
+          "SourceString": "暴击率提高，每链接1件技能额外提高。【橙】暴击伤害+50%。",
+          "LocalizedString": "暴击率提高，每链接1件技能额外提高。【橙】暴击伤害+50%。"
+        },
+        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "AttributeID": "CritRateBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 0.18
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.12
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.08
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.05
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.03
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::Skill",
+            "OneLinkAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 0.06
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.04
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.03
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.02
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.01
+              }
+            ],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "AttributeID": "CritDamageBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 0.5
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 1,
+            "Y": 0
+          },
+          {
+            "X": 0,
+            "Y": -1
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_G05": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G05_Name",
+          "SourceString": "怀表",
+          "LocalizedString": "怀表"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G05_Desc",
+          "SourceString": "战斗开始时，链接的物品急速提高。",
+          "LocalizedString": "战斗开始时，链接的物品急速提高。"
+        },
+        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "Description": {
+              "CultureInvariantString": null
+            },
+            "LinkItemTag": "None",
+            "LinkBuffID": "None",
+            "OneAddValueMap": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 60.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 45.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 30.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 20.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 10.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_G06": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G06_Name",
+          "SourceString": "偷心胸针",
+          "LocalizedString": "偷心胸针"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G06_Desc",
+          "SourceString": "指向的技能触发时，偷取对手增益。【橙】偷取后回复80生命。",
+          "LocalizedString": "指向的技能触发时，偷取对手增益。【橙】偷取后回复80生命。"
+        },
+        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemActiveConditionArray": [
+          {
+            "LinkItemType": "EStowageTussleItemType::Skill",
+            "bBindLinkItem": true,
+            "bLinkItemExtraEffect": false,
+            "bAttachLinkItemHaste": false,
+            "bAttachLinkItemHasteNumber": false,
+            "AttachLinkItemHasteMap": [],
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              0,
+              1
+            ]
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "BuffID": [],
+            "bAddBuff": true,
+            "bSelfMonster": false,
+            "bStealEnemyGainBuff": true,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 80.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "BuffID": "None",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
+            "X": -1,
+            "Y": 0
+          }
+        ]
+      },
+      "StowageTussleItem_G07": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G07_Name",
+          "SourceString": "热乎包子",
+          "LocalizedString": "热乎包子"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G07_Desc",
+          "SourceString": "冷却5秒，每链接1件食物急速+20。回复生命。【橙】同时获得1层减伤。",
+          "LocalizedString": "冷却5秒，每链接1件食物急速+20。回复生命。【橙】同时获得1层减伤。"
+        },
+        "ItemType": "EStowageTussleItemType::Food",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 5.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 5.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Food",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 200.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 120.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 70.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 40.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 20.0
+              }
+            ],
+            "BuffID": "None",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Guard"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
           }
         ],
         "ItemMountPointArray": [
@@ -47,35 +3388,586 @@
             "Y": -1
           },
           {
+            "X": 0,
+            "Y": 1
+          }
+        ]
+      },
+      "StowageTussleItem_G08": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G08_Name",
+          "SourceString": "薄荷糖",
+          "LocalizedString": "薄荷糖"
+        },
+        "ItemShapeId": "Shape_1x1",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G08_Desc",
+          "SourceString": "冷却6秒，每链接1件食物急速+20。净化自身减益。【橙】同时回复40生命。",
+          "LocalizedString": "冷却6秒，每链接1件食物急速+20。净化自身减益。【橙】同时回复40生命。"
+        },
+        "ItemType": "EStowageTussleItemType::Food",
+        "ItemActiveConditionArray": [],
+        "ItemBaseCoolData": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 6.0
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 6.0
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 6.0
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 6.0
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 6.0
+          }
+        ],
+        "ItemCoolDown": {
+          "Description": {
+            "CultureInvariantString": null
+          },
+          "LinkItemTag": "None",
+          "LinkBuffID": "None",
+          "OneAddValueMap": [],
+          "LinkItemType": "EStowageTussleItemType::Food",
+          "OneLinkAddValueMap": [
+            {
+              "Key": "ITEM_QUALITY_ORANGE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_PURPLE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_BLUE",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_GREEN",
+              "Value": 20.0
+            },
+            {
+              "Key": "ITEM_QUALITY_WHITE",
+              "Value": 20.0
+            }
+          ],
+          "bActiveImmediately": true,
+          "CanActiveCount": -1
+        },
+        "ItemEffectArray": [
+          {
+            "BuffID": [],
+            "bAddBuff": false,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": true,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 2
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 1
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 1
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 40.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0.0
+              }
+            ],
+            "BuffID": "None",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": [
+          {
             "X": -1,
+            "Y": 0
+          },
+          {
+            "X": 1,
             "Y": 0
           }
         ]
       },
-      "StowageTussleItem_2": {
+      "StowageTussleItem_G09": {
         "ItemName": {
-          "CultureInvariantString": "25"
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G09_Name",
+          "SourceString": "急救绷带",
+          "LocalizedString": "急救绷带"
         },
-        "ItemShapeId": "Shape_2x2",
+        "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI/Activity/StrongPath/YH_UI_Hunter_25.YH_UI_Hunter_25",
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
           "SubPathString": ""
         },
         "QualityIcon": {
-          "AssetPathName": "/Game/UI/UI/Activity/StrongPath/YH_UI_Hunter_a25.YH_UI_Hunter_a25",
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
           "SubPathString": ""
         },
-        "PriceMap": [],
-        "SellPriceMap": [],
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 32
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 16
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 8
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 4
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 2
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 1
+          }
+        ],
         "ItemTypeId": "None",
         "Description": {
-          "CultureInvariantString": "25"
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G09_Desc",
+          "SourceString": "生命首次低于50%时消耗：回复生命并净化全部中毒。【橙】同时获得4层减伤。",
+          "LocalizedString": "生命首次低于50%时消耗：回复生命并净化全部中毒。【橙】同时获得4层减伤。"
         },
-        "ItemType": "EStowageTussleItemType::Jewelry",
+        "ItemType": "EStowageTussleItemType::Medicine",
+        "ItemActiveConditionArray": [
+          {
+            "HealthValueCondition": 0.5,
+            "EnemyHealthValueCondition": 0.0,
+            "bItemCost": true,
+            "AssignEffectIndex": [
+              0,
+              1
+            ]
+          }
+        ],
         "ItemBaseCoolData": [],
-        "ItemCoolDownArray": [],
+        "ItemCoolDown": null,
         "ItemEffectArray": [
-          null
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 800.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 480.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 280.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 160.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 80.0
+              }
+            ],
+            "BuffID": "Buff_ST_Poison",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Guard"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
+        ],
+        "ItemMountPointArray": []
+      },
+      "StowageTussleItem_G10": {
+        "ItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G10_Name",
+          "SourceString": "应急铠甲",
+          "LocalizedString": "应急铠甲"
+        },
+        "ItemShapeId": "Shape_2x2",
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test.StowageTussle_item_test",
+          "SubPathString": ""
+        },
+        "QualityIcon": {
+          "AssetPathName": "/Game/UI/UI/Activity/StowageTussle/Item/StowageTussle_item_test2.StowageTussle_item_test2",
+          "SubPathString": ""
+        },
+        "PriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 80
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 40
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 20
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 10
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 5
+          }
+        ],
+        "SellPriceMap": [
+          {
+            "Key": "ITEM_QUALITY_ORANGE",
+            "Value": 40
+          },
+          {
+            "Key": "ITEM_QUALITY_PURPLE",
+            "Value": 20
+          },
+          {
+            "Key": "ITEM_QUALITY_BLUE",
+            "Value": 10
+          },
+          {
+            "Key": "ITEM_QUALITY_GREEN",
+            "Value": 5
+          },
+          {
+            "Key": "ITEM_QUALITY_WHITE",
+            "Value": 2
+          }
+        ],
+        "ItemTypeId": "None",
+        "Description": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Item_G10_Desc",
+          "SourceString": "生命首次低于70%时：回复生命并获得强化；防御力提高。【橙】同时获得3层吸血。",
+          "LocalizedString": "生命首次低于70%时：回复生命并获得强化；防御力提高。【橙】同时获得3层吸血。"
+        },
+        "ItemType": "EStowageTussleItemType::Equipment",
+        "ItemActiveConditionArray": [
+          {
+            "HealthValueCondition": 0.7,
+            "EnemyHealthValueCondition": 0.0,
+            "bItemCost": false,
+            "AssignEffectIndex": [
+              0,
+              1,
+              3
+            ]
+          }
+        ],
+        "ItemBaseCoolData": [],
+        "ItemCoolDown": null,
+        "ItemEffectArray": [
+          {
+            "HealthData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 600.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 360.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 210.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 120.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 60.0
+              }
+            ],
+            "BuffID": "None",
+            "bSelfBuff": true,
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Strength"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 8
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 6
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 4
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 2
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          },
+          {
+            "AttributeID": "DefBase",
+            "bUnbalAttribute": false,
+            "BaseValueData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 40.0
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 24.0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 14.0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 8.0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 4.0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": true,
+            "CanActiveCount": -1
+          },
+          {
+            "BuffID": [
+              "Buff_ST_Lifesteal"
+            ],
+            "bAddBuff": true,
+            "bSelfMonster": true,
+            "bStealEnemyGainBuff": false,
+            "bRemoveValidBuff": false,
+            "bRemoveGainBuff": false,
+            "RemoveSuccessAssignIndex": [],
+            "bLeastStackBuff": false,
+            "StackData": [
+              {
+                "Key": "ITEM_QUALITY_ORANGE",
+                "Value": 3
+              },
+              {
+                "Key": "ITEM_QUALITY_PURPLE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_BLUE",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_GREEN",
+                "Value": 0
+              },
+              {
+                "Key": "ITEM_QUALITY_WHITE",
+                "Value": 0
+              }
+            ],
+            "LinkItemType": "EStowageTussleItemType::None",
+            "OneLinkAddValueMap": [],
+            "bActiveImmediately": false,
+            "CanActiveCount": -1
+          }
         ],
         "ItemMountPointArray": []
       }

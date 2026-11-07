@@ -1538,7 +1538,7 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSecondUI"
         },
         "bIgnoreWhenPlayingDeadMontage": false,
         "bIgnoreInput": false,
@@ -1942,6 +1942,22 @@
       "FadeInOutEffect": {
         "UIClass": {
           "AssetPathName": "/Game/UI/Blueprints/UI_FadeInOutEffect_BP.UI_FadeInOutEffect_BP_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.Effect"
+        },
+        "bIgnoreWhenPlayingDeadMontage": false,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "L110432_white": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/QuestStory/L110432_white.L110432_white_C",
           "SubPathString": ""
         },
         "LevelUIClassOverride": [],
@@ -15405,7 +15421,7 @@
       },
       "BalatroLikeSceneForm": {
         "UIClass": {
-          "AssetPathName": "/Game/UI/UI/BalatroLike/UI_BalatroLikeSceneForm.UI_BalatroLikeSceneForm_C",
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeSceneForm.UI_BalatroLikeSceneForm_C",
           "SubPathString": ""
         },
         "LevelUIClassOverride": [],
@@ -15421,7 +15437,7 @@
       },
       "BalatroLikeBlindSelect": {
         "UIClass": {
-          "AssetPathName": "/Game/UI/UI/BalatroLike/UI_BalatroLikeBlindSelect.UI_BalatroLikeBlindSelect_C",
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeBlindSelect.UI_BalatroLikeBlindSelect_C",
           "SubPathString": ""
         },
         "LevelUIClassOverride": [],
@@ -15474,7 +15490,7 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSubUI"
         },
         "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
@@ -15490,7 +15506,7 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSecondUI"
         },
         "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
@@ -15506,7 +15522,7 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSubUI"
         },
         "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
@@ -15522,7 +15538,7 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSubUI"
         },
         "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
@@ -15538,7 +15554,39 @@
         },
         "LevelUIClassOverride": [],
         "LayerName": {
-          "TagName": "Layer.FunctionUI"
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikeBlindResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeBlindResult.UI_BalatroLikeBlindResult_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikePauseMenu": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikePauseMenu.UI_BalatroLikePauseMenu_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
         },
         "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
@@ -15579,16 +15627,864 @@
         "bNeedOtherResources": false,
         "bIgnorePlayingUltraSkillSeq": false
       },
-      "L110432_white": {
+      "BidKingCabinet": {
         "UIClass": {
-          "AssetPathName": "/Game/UI/Blueprints/QuestStory/L110432_white.L110432_white_C",
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingCabinet.BPUI_BidKingCabinet_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BidKingCabinetEdit": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingCabinetEdit.BPUI_BidKingCabinetEdit_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "CultivationSelectTarget": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/AdventureManual/BPUI_CultivationSelectTarget.BPUI_CultivationSelectTarget_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikeDeckView": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/UI_BalatroLikeDeckView.UI_BalatroLikeDeckView_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MetaMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/UI/Meta/BPUI_MetaMainForm.BPUI_MetaMainForm_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.GameplayMain"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BidKingCabinetAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingCabinetAward.BPUI_BidKingCabinetAward_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BidKingCabinetUpgrade": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingCabinetUpgrade.BPUI_BidKingCabinetUpgrade_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsCenterMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsCenterMainForm.BPUI_LogisticsCenterMainForm_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsRelationNetworkMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsRelationNetworkMain.BPUI_LogisticsRelationNetworkMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsSkillMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsSkillMain.BPUI_LogisticsSkillMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsDriverIntelMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsDriverIntelMain.BPUI_LogisticsDriverIntelMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsDriverManageMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsDriverManageMain.BPUI_LogisticsDriverManageMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsPersonalSettleMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsPersonalSettleMainForm.BPUI_LogisticsPersonalSettleMainForm_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsLevelAwardMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsLevelAwardMain.BPUI_LogisticsLevelAwardMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsManagerSelectMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsManagerSelectMain.BPUI_LogisticsManagerSelectMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MuseumDetectiveClueDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/SideStory/MuseumDetective/BPUI_MuseumDetectiveClueDetail.BPUI_MuseumDetectiveClueDetail_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MuseumDetectiveNoteBook": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/SideStory/MuseumDetective/BPUI_MuseumDetectiveNoteBook.BPUI_MuseumDetectiveNoteBook_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MuseumDetectiveNoteBookResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/SideStory/MuseumDetective/BPUI_MuseumDetectiveQuestionResult.BPUI_MuseumDetectiveQuestionResult_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BidKingRecord": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingRecord.BPUI_BidKingRecord_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "Texting": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BPUI_Texting.BPUI_Texting_C",
           "SubPathString": ""
         },
         "LevelUIClassOverride": [],
         "LayerName": {
           "TagName": "Layer.Effect"
         },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "AwakenAwardTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_AwakenAwardTip.BPUI_AwakenAwardTip_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.Tips"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": true,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikeNPCChallenge": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/BPUI_BalatroLikeNPCChallenge.BPUI_BalatroLikeNPCChallenge_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.GameplayMain"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikeNPCDeckView": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/BPUI_BalatroLikeNPCDeckView.BPUI_BalatroLikeNPCDeckView_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BalatroLikeGameProgress": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BalatroLike/BPUI_BalatroLikeGameProgress.BPUI_BalatroLikeGameProgress_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsDriverDispatchManager": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsDriverDispatchManagerMain.BPUI_LogisticsDriverDispatchManagerMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsDriverJoinNotify": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsDriverJoinNotify.BPUI_LogisticsDriverJoinNotify_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.MessageBox"
+        },
         "bIgnoreWhenPlayingDeadMontage": false,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BossRushReward": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BossRush/WBP_OpActBossRushReward.WBP_OpActBossRushReward_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MetaAlbum": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/UI/Meta/BPUI_MetaAlbum.BPUI_MetaAlbum_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "Eavesdrop": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BPUI_Eavesdrop.BPUI_Eavesdrop_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": true,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsPreviewAwardSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsPreviewAwardSlot.BPUI_LogisticsPreviewAwardSlot_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": false,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsDispatchSettleMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/BPUI_LogisticsDispatchSettleMainForm.BPUI_LogisticsDispatchSettleMainForm_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "CumLotteryQuest": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/cumLottery/BPUI_OpActCumLotteryQuestList.BPUI_OpActCumLotteryQuestList_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "CumRechargeActivityCharacter": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/CumRecharge/BPUI_CumRechargeActivityCharacter.BPUI_CumRechargeActivityCharacter_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": false,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "UGCMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/UGC/BPUI_UGC_Main.BPUI_UGC_Main_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BossRushRecord": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BossRush/WBP_OpActBossRushRecord.WBP_OpActBossRushRecord_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "StowageTussleManualMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Manual/BPUI_StowageTussleManualMain.BPUI_StowageTussleManualMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "StowageTussleManualRedact": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Manual/BPUI_StowageTussleManualRedact.BPUI_StowageTussleManualRedact_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "StowageTussleManualComplete": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/StowageTussle/Manual/BPUI_StowageTussleManualComplete.BPUI_StowageTussleManualComplete_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleMatchingNotify": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/TankBattle/BPUI_TankBattleMatchingNotify.BPUI_TankBattleMatchingNotify_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.Match"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleMatching": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/TankBattle/BPUI_TankBattle_Matching.BPUI_TankBattle_Matching_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "OpActLogisticsQuest": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/LogisticsCenter/BPUI_LogisticsCommonQuest.BPUI_LogisticsCommonQuest_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": true
+      },
+      "LogisticsManagerSelection": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_LogisticsManagerSelectMain.BPUI_LogisticsManagerSelectMain_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BidKingReport": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/BidKing/BPUI_BidKingReport.BPUI_BidKingReport_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "Gang_L200008": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/QuestStory/Gang/Gang_L200008.Gang_L200008_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.VedioIntroduce"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": true,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MetaAlbumPhotoDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/UI/Meta/BPUI_MetaAlbumPhotoDetail.BPUI_MetaAlbumPhotoDetail_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.PopUp"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleShop": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_TankBattleShop.BPUI_TankBattleShop_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": true,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "GuitarImportNoteMessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Guitar/BPUI_GuitarImportNoteMessageBox.BPUI_GuitarImportNoteMessageBox_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSecondUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "LogisticsWorldDriverConfirm": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Logistics/LogisticsCenter/BPUI_BPUI_LogisticsWorldDriverConfirm.BPUI_BPUI_LogisticsWorldDriverConfirm_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.MessageBox"
+        },
+        "bIgnoreWhenPlayingDeadMontage": false,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "BossRushPause": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/ActivityOp/BossRush/Clone/WBP_BossRushPause.WBP_BossRushPause_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleResult.BPUI_TankBattleResult_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleWaiting": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleEnterWaiting.BPUI_TankBattleEnterWaiting_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleRespawn": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleRespawn.BPUI_TankBattleRespawn_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "TankBattleCoreArea": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/TankBattle/BPUI_TankBattleCoreArea.BPUI_TankBattleCoreArea_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.Tips"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
+        "bIgnoreInput": false,
+        "bDelayShowWhenTransfering": false,
+        "bIsDialogueUI": false,
+        "bNeedOtherResources": false,
+        "bIgnorePlayingUltraSkillSeq": false
+      },
+      "MetaAlbum_Gift": {
+        "UIClass": {
+          "AssetPathName": "/Game/UI/UI/Meta/BPUI_MetaAlbum_gift.BPUI_MetaAlbum_gift_C",
+          "SubPathString": ""
+        },
+        "LevelUIClassOverride": [],
+        "LayerName": {
+          "TagName": "Layer.FunctionSubUI"
+        },
+        "bIgnoreWhenPlayingDeadMontage": true,
         "bIgnoreInput": false,
         "bDelayShowWhenTransfering": false,
         "bIsDialogueUI": false,

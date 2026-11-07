@@ -31173,60 +31173,6 @@
         "ExtendDatas": [],
         "FunctionData": {}
       },
-      "DefendNS_Point": {
-        "Comment": "",
-        "MapIconID": "DefendNS_Point",
-        "IconType": "EMiniMapIcon::Default",
-        "ShowCondition": null,
-        "BelongsLevel": "XL_map_bigworld_test",
-        "BelongsGameplayAreaID": "None",
-        "BelongsFloorArea": "None",
-        "floor": 0,
-        "bOnlyShowInBelongsFloor": false,
-        "BelongsAreaID": "010",
-        "IconTransform": {
-          "Rotation": {
-            "X": 0.0,
-            "Y": -0.0,
-            "Z": 0.0,
-            "W": 1.0,
-            "IsNormalized": true,
-            "Size": 1.0,
-            "SizeSquared": 1.0
-          },
-          "Translation": {
-            "X": 79887.0,
-            "Y": 161037.0,
-            "Z": 3555.0
-          },
-          "Scale3D": {
-            "X": 1.0,
-            "Y": 1.0,
-            "Z": 1.0
-          }
-        },
-        "ShowInMiniMapType": 3,
-        "ShowInMiniMapMode": 1,
-        "bUnderFog": false,
-        "IconNameOverride": {
-          "TableId": "/Game/Text/ST_UI_XZC.ST_UI_XZC",
-          "Key": "NSMAIN-tantuandebaozang",
-          "SourceString": "炭团的宝藏",
-          "LocalizedString": "炭团的宝藏"
-        },
-        "IconDescOverride": {
-          "CultureInvariantString": null
-        },
-        "IconRegion": {
-          "CultureInvariantString": null
-        },
-        "ExtendDatas": [
-          {
-            "TeleportID": "DefendNS_Point"
-          }
-        ],
-        "FunctionData": {}
-      },
       "Pukaland_Point": {
         "Comment": "",
         "MapIconID": "Pukaland_Point",
@@ -31530,6 +31476,151 @@
             "AreaId": "010"
           }
         ],
+        "FunctionData": {}
+      },
+      "LogisticsCenter": {
+        "Comment": "",
+        "MapIconID": "LogisticsCenter",
+        "IconType": "EMiniMapIcon::Default",
+        "ShowCondition": null,
+        "BelongsLevel": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bOnlyShowInBelongsFloor": false,
+        "BelongsAreaID": "006",
+        "IconTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 28942.54,
+            "Y": -4990.412,
+            "Z": 8757.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "ShowInMiniMapType": 3,
+        "ShowInMiniMapMode": 1,
+        "bUnderFog": true,
+        "IconNameOverride": {
+          "CultureInvariantString": null
+        },
+        "IconDescOverride": {
+          "CultureInvariantString": null
+        },
+        "IconRegion": {
+          "CultureInvariantString": null
+        },
+        "ExtendDatas": [
+          {
+            "TeleportID": "LogisticsCenter"
+          }
+        ],
+        "FunctionData": {}
+      },
+      "Shop_039_06_01": {
+        "Comment": "",
+        "MapIconID": "Shop_Core_7",
+        "IconType": "EMiniMapIcon::Default",
+        "ShowCondition": null,
+        "BelongsLevel": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bOnlyShowInBelongsFloor": false,
+        "BelongsAreaID": "005",
+        "IconTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -231713.86,
+            "Y": -151929.3,
+            "Z": 11639.038
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "ShowInMiniMapType": 3,
+        "ShowInMiniMapMode": 1,
+        "bUnderFog": false,
+        "IconNameOverride": {
+          "CultureInvariantString": null
+        },
+        "IconDescOverride": {
+          "CultureInvariantString": null
+        },
+        "IconRegion": {
+          "CultureInvariantString": null
+        },
+        "ExtendDatas": [],
+        "FunctionData": {}
+      },
+      "Tank_Battle": {
+        "Comment": "坦克大战",
+        "MapIconID": "Tank_Battle",
+        "IconType": "EMiniMapIcon::Default",
+        "ShowCondition": null,
+        "BelongsLevel": "XL_map_bigworld_test",
+        "BelongsGameplayAreaID": "None",
+        "BelongsFloorArea": "None",
+        "floor": 0,
+        "bOnlyShowInBelongsFloor": false,
+        "BelongsAreaID": "005",
+        "IconTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -233150.0,
+            "Y": -256550.0,
+            "Z": 25325.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "ShowInMiniMapType": 3,
+        "ShowInMiniMapMode": 1,
+        "bUnderFog": false,
+        "IconNameOverride": {
+          "CultureInvariantString": null
+        },
+        "IconDescOverride": {
+          "CultureInvariantString": null
+        },
+        "IconRegion": {
+          "CultureInvariantString": null
+        },
+        "ExtendDatas": [],
         "FunctionData": {}
       }
     }

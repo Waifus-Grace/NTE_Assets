@@ -587,6 +587,102 @@
           "fork_MotorCandy",
           "fork_BlastCandy"
         ]
+      },
+      "CombatAward_07": {
+        "StartDateTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 5,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 10,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "EndDateTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 17,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 22,
+            "Hour": 16,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "AwardConfigPackId": "CombatAward2",
+        "MaxLevel": 80,
+        "InitialCertificateConfigId": "InitialCertificate",
+        "AdvancedCertificateConfigId": "AdvancedCertificat07",
+        "BuyCertificateAwardArray": [],
+        "CostCapitalItem": {
+          "ItemID": "Annulith",
+          "Amount": 100
+        },
+        "CapitalByExp": 1000,
+        "DailyQuestArray": [
+          "CombatAwardDailyQuest_01",
+          "CombatAwardDailyQuest_02",
+          "CombatAwardDailyQuest_03",
+          "CombatAwardDailyQuest_04"
+        ],
+        "WeeklyQuestArray": [
+          "CombatAwardWeeklyQuest_01",
+          "CombatAwardWeeklyQuest_02",
+          "CombatAwardWeeklyQuest_03",
+          "CombatAwardWeeklyQuest_04",
+          "CombatAwardWeeklyQuest_05",
+          "CombatAwardWeeklyQuest_06",
+          "CombatAwardWeeklyQuest_07",
+          "CombatAwardWeeklyQuest_08"
+        ],
+        "OnceQuestArray": [
+          "CombatAwardOnceQuest07_01",
+          "CombatAwardOnceQuest07_02",
+          "CombatAwardOnceQuest07_03",
+          "CombatAwardOnceQuest07_04",
+          "CombatAwardOnceQuest07_05",
+          "CombatAwardOnceQuest07_06",
+          "CombatAwardOnceQuest07_07",
+          "CombatAwardOnceQuest07_08",
+          "CombatAwardOnceQuest07_09",
+          "CombatAwardOnceQuest07_10"
+        ],
+        "WeeklyGetMaxExp": 12000,
+        "InitialCardProductID": "com.pwrd.yihuan.pass.68",
+        "InitialCardMailID": "BPPurchaseException68",
+        "AdvancedCardProductID": "com.pwrd.yihuan.pass.128",
+        "AdvancedCardMailID": "BPPurchaseException128",
+        "UpgradeCardProductID": "com.pwrd.yihuan.pass.60",
+        "UpgradeCardMailID": "BPPurchaseException60",
+        "OverTimeAwardMailID": "BPUnclaimedAwards",
+        "TotalAwardShow": "drop_combat_levelup2",
+        "ExtraAwardShow": "drop_combat_unlock_07",
+        "ActiveCertificateLevelAwardShow": "drop_combat_unlock_07",
+        "ForkShowArray": [
+          "fork_BoxingCandy",
+          "fork_KnightCandy",
+          "fork_ThiefCandy",
+          "fork_MotorCandy",
+          "fork_BlastCandy"
+        ]
       }
     }
   }

@@ -341,6 +341,61 @@
           "OverseaUseUTCTime": true
         },
         "GoodIDs": []
+      },
+      "7": {
+        "ShopTag": "FonsLimitTimeShop",
+        "ShopID": "FonsLimitTimeShop7",
+        "LimitGoodIDs": [
+          "FonsLimitTimeShop1_001",
+          "FonsLimitTimeShop1_002",
+          "FonsLimitTimeShop1_003",
+          "FonsLimitTimeShop1_004",
+          "FonsLimitTimeShop1_005",
+          "FonsLimitTimeShop1_006",
+          "FonsLimitTimeShop1_007",
+          "FonsLimitTimeShop1_008",
+          "FonsLimitTimeShop1_009",
+          "FonsLimitTimeShop1_010"
+        ],
+        "StartActivityTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 5,
+            "Hour": 6,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 11,
+            "Day": 10,
+            "Hour": 22,
+            "minute": 30,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "EndActivityTime": {
+          "MainlandTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 17,
+            "Hour": 5,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 2026,
+            "Month": 12,
+            "Day": 22,
+            "Hour": 21,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "GoodIDs": []
       }
     }
   }

@@ -208,6 +208,26 @@
           "X": 450.0,
           "Y": 450.0
         }
+      },
+      "NewRow_9": {
+        "ChapterID": 10,
+        "Title": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "chapter_title9",
+          "SourceString": "第9话",
+          "LocalizedString": "第9话"
+        },
+        "Content": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "MU01_09",
+          "SourceString": "再会于数海",
+          "LocalizedString": "再会于数海"
+        },
+        "ShowTime": 4.0,
+        "ContentPosition": {
+          "X": 150.0,
+          "Y": 150.0
+        }
       }
     }
   }

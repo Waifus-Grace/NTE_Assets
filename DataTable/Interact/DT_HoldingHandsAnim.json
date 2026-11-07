@@ -476,6 +476,38 @@
             }
           }
         ]
+      },
+      "NPC_030_ACT": {
+        "HoldingHandsAnims": [
+          {
+            "Key": "1046",
+            "Value": {
+              "bDisableHoldingHandsAnim": false,
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Elms_M'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/HoldingHands/ContextAnim_HoldingHands_Elms_M.0"
+              },
+              "EndContextAnimScene": null,
+              "bDisableRunStop": false,
+              "bAlwaysUseHoldingHandsBlendSpace": false,
+              "bEnableFootIK": true
+            }
+          },
+          {
+            "Key": "1051",
+            "Value": {
+              "bDisableHoldingHandsAnim": false,
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Elms_F'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/HoldingHands/ContextAnim_HoldingHands_Elms_F.0"
+              },
+              "EndContextAnimScene": null,
+              "bDisableRunStop": false,
+              "bAlwaysUseHoldingHandsBlendSpace": false,
+              "bEnableFootIK": true
+            }
+          }
+        ]
       }
     }
   }

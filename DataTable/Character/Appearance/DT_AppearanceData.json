@@ -78,7 +78,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -166,7 +167,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -254,7 +256,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -342,7 +345,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -430,7 +434,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -518,7 +523,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -606,7 +612,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -694,7 +701,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -782,7 +790,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -870,7 +879,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -958,7 +968,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1046,7 +1057,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1134,7 +1146,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1222,7 +1235,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1310,7 +1324,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1398,7 +1413,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1486,7 +1502,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1574,7 +1591,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -1680,6 +1698,180 @@
         "OrderId": "None",
         "IsBlockNewGet": false
       },
+      "Fashion_Glide_1074": {
+        "AppearanceType": "EAppearanceType::Glide",
+        "CharacterID": "None",
+        "ExcludeCharacterID": [
+          "1070"
+        ],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1074_Name",
+          "SourceString": "Y之手",
+          "LocalizedString": "Y之手"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1074_Desc",
+          "SourceString": "Exe专属的滑翔翼涂装。握住这只手，会产生能前往任何世界的错觉。",
+          "LocalizedString": "Exe专属的滑翔翼涂装。握住这只手，会产生能前往任何世界的错觉。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Glide_1074/432_Fashion_Glide_1074.432_Fashion_Glide_1074",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_Glide_1074/2560_Fashion_Glide_1074.2560_Fashion_Glide_1074",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 0.37,
+          "Y": 0.37,
+          "Z": 0.37
+        },
+        "ActorOffsets": 20.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_Xiupa_Fashion_1074.PlayerUIShow_Xiupa_Fashion_1074_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "ActorClass": {
+            "AssetPathName": "/Game/Blueprints/Gliding/Glid_Fashion_1074.Glid_Fashion_1074_C",
+            "SubPathString": ""
+          }
+        },
+        "ExtraAwards": [],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Monopoly",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "CardDraw_name",
+          "SourceString": "斯卡布罗集市",
+          "LocalizedString": "斯卡布罗集市"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": false,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_Glide_1090": {
+        "AppearanceType": "EAppearanceType::Glide",
+        "CharacterID": "None",
+        "ExcludeCharacterID": [
+          "1070"
+        ],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1090_Name",
+          "SourceString": "出游浮标",
+          "LocalizedString": "出游浮标"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_Glide_1090_Desc",
+          "SourceString": "曳尔沐专属的滑翔翼涂装。由「旧梦终端」变形而成，操作起来非常轻易。",
+          "LocalizedString": "曳尔沐专属的滑翔翼涂装。由「旧梦终端」变形而成，操作起来非常轻易。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Glide_1090/432_Fashion_Glide_1090.432_Fashion_Glide_1090",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_Glide_1090/2560_Fashion_Glide_1090.2560_Fashion_Glide_1090",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 0.37,
+          "Y": 0.37,
+          "Z": 0.37
+        },
+        "ActorOffsets": 20.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_Xiupa_Fashion_1090.PlayerUIShow_Xiupa_Fashion_1090_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "ActorClass": {
+            "AssetPathName": "/Game/Blueprints/Gliding/Glid_Fashion_1090.Glid_Fashion_1090_C",
+            "SubPathString": ""
+          }
+        },
+        "ExtraAwards": [],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Monopoly",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "CardDraw_name",
+          "SourceString": "斯卡布罗集市",
+          "LocalizedString": "斯卡布罗集市"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
       "Fashion_Glide_1057": {
         "AppearanceType": "EAppearanceType::Glide",
         "CharacterID": "None",
@@ -1729,9 +1921,9 @@
           "SubPathString": ""
         },
         "UIScale": {
-          "X": 0.37,
-          "Y": 0.37,
-          "Z": 0.37
+          "X": 0.6,
+          "Y": 0.6,
+          "Z": 0.6
         },
         "ActorOffsets": 20.0,
         "UIActorClass": {
@@ -3148,7 +3340,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3298,10 +3491,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3397,7 +3596,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3493,7 +3693,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3590,7 +3791,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3689,7 +3891,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3843,10 +4046,16 @@
                     "AppliedValue": 0.0,
                     "bRemoveZeroWeight": true
                   }
-                ]
+                ],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -3943,7 +4152,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -4292,7 +4502,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -4641,7 +4852,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5026,7 +5238,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5125,7 +5338,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5221,7 +5435,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5320,7 +5535,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5413,7 +5629,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5509,7 +5726,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5608,7 +5826,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5704,7 +5923,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -5797,7 +6017,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -6114,7 +6335,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -6458,7 +6680,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -6749,7 +6972,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -6908,10 +7132,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7008,7 +7238,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7107,7 +7338,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7200,7 +7432,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7296,7 +7529,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7395,7 +7629,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7491,7 +7726,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7584,7 +7820,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -7901,7 +8138,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -8245,7 +8483,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -8536,7 +8775,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -8632,7 +8872,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -8729,7 +8970,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -8817,7 +9059,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -8913,7 +9156,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9012,7 +9256,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -9100,7 +9345,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9199,7 +9445,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9295,7 +9542,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -9383,7 +9631,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9542,10 +9791,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9641,7 +9896,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9737,7 +9993,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9833,7 +10090,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -9932,7 +10190,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10091,10 +10350,16 @@
                     "AppliedDisableGlobalOverlay": false
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -10182,7 +10447,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10282,7 +10548,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10381,7 +10648,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10477,7 +10745,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -10709,7 +10978,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10805,7 +11075,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -10905,7 +11176,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -11001,7 +11273,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -11100,7 +11373,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -11253,10 +11527,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -11594,7 +11874,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -11744,10 +12025,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -12092,7 +12379,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -12242,10 +12530,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -12589,7 +12883,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -12688,7 +12983,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13119,7 +13415,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13219,7 +13516,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13315,7 +13613,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13411,7 +13710,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13510,7 +13810,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13660,10 +13961,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13759,7 +14066,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13858,7 +14166,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -13954,7 +14263,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14050,7 +14360,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14208,10 +14519,16 @@
                     "AppliedValue": 1.0,
                     "bRemoveZeroWeight": true
                   }
-                ]
+                ],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -14410,7 +14727,8 @@
               }
             }
           ],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14569,10 +14887,16 @@
                     "AppliedDisableGlobalOverlay": true
                   }
                 ],
-                "MorphTargetRules": []
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": []
               }
             }
-          ]
+          ],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14668,7 +14992,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14767,7 +15092,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [],
         "ExtraAwardsDesc": {
@@ -14855,7 +15181,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14951,7 +15278,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -14962,7 +15290,7 @@
         "ExtraAwardsDesc": {
           "CultureInvariantString": null
         },
-        "SourceID": "TImeLimit_Activity",
+        "SourceID": "None",
         "SourceText": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "TImeLimit_Activity",
@@ -14970,7 +15298,10 @@
           "LocalizedString": "限时活动获取"
         },
         "SourceLockText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "TImeLimit_Activity",
+          "SourceString": "限时活动获取",
+          "LocalizedString": "限时活动获取"
         },
         "IsDefault": false,
         "IsCharacterShow": true,
@@ -15047,7 +15378,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -15143,7 +15475,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -15239,7 +15572,8 @@
             "SubPathString": ""
           },
           "DyeMaterialMap": [],
-          "AppearanceOptionRuleMap": []
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
         },
         "ExtraAwards": [
           {
@@ -15260,6 +15594,1044 @@
         "SourceLockText": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Fashion_Invite_Obtained",
+          "SourceString": "羁遇等级达到10级获得",
+          "LocalizedString": "羁遇等级达到10级获得"
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1090_0": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1090",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_0_Name",
+          "SourceString": "副官的定义",
+          "LocalizedString": "副官的定义"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_0_Desc",
+          "SourceString": "根据管理局的期望，投影了「人工智能助理？」氛围的职业化套装。\r\n工牌上有就任那天拍的照片，但在绝大多数人眼中却似乎是被贴纸完全遮住的样子。",
+          "LocalizedString": "根据管理局的期望，投影了「人工智能助理？」氛围的职业化套装。\r\n工牌上有就任那天拍的照片，但在绝大多数人眼中却似乎是被贴纸完全遮住的样子。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/200_Fashion_1090_0.200_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/256_Fashion_1090_0.256_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/980_Fashion_1090_0.980_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/2560_Fashion_1090_0.2560_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/1024_Fashion_1090_0.1024_Fashion_1090_0",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_090.PlayerUIShow_090_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_030/DA_Appearance_NPC_030_0_RideAlong.DA_Appearance_NPC_030_0_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [
+            {
+              "Key": "-1",
+              "Value": {
+                "MeshMaterials": [],
+                "MeshAttachEffects": [],
+                "DyeName": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_0_Name",
+                  "SourceString": "副官的定义",
+                  "LocalizedString": "副官的定义"
+                },
+                "DyeDesc": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_0_Desc",
+                  "SourceString": "根据管理局的期望，投影了「人工智能助理？」氛围的职业化套装。\r\n工牌上有就任那天拍的照片，但在绝大多数人眼中却似乎是被贴纸完全遮住的样子。",
+                  "LocalizedString": "根据管理局的期望，投影了「人工智能助理？」氛围的职业化套装。\r\n工牌上有就任那天拍的照片，但在绝大多数人眼中却似乎是被贴纸完全遮住的样子。"
+                },
+                "DyeDisplayIcon": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                },
+                "GoodsID": "None",
+                "SourceID": "None",
+                "SourceText": {
+                  "CultureInvariantString": null
+                },
+                "SourceLockText": {
+                  "CultureInvariantString": null
+                }
+              }
+            }
+          ],
+          "AppearanceOptionRuleMap": [
+            {
+              "Key": "EPlayerAppearanceOptionType::HideOption1",
+              "Value": {
+                "OptionName": {
+                  "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+                  "Key": "appearance_yeermu_change_1",
+                  "SourceString": "切换投影纹路",
+                  "LocalizedString": "切换投影纹路"
+                },
+                "ComponentVisibilityRules": [],
+                "MaterialOpacityRules": [],
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": [
+                  {
+                    "MeshComponentTag": "None",
+                    "Materials": [
+                      {
+                        "SlotName": "cloth1",
+                        "Material": {
+                          "AssetPathName": "/Game/Characters/Player/090_elyms/ter/ter_cloth/MI_player_090_elyms_pf_1.MI_player_090_elyms_pf_1",
+                          "SubPathString": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "MeshComponentTag": "None",
+                    "Materials": [
+                      {
+                        "SlotName": "cloth2",
+                        "Material": {
+                          "AssetPathName": "/Game/Characters/Player/090_elyms/ter/ter_cloth/MI_player_090_elyms_pf_2.MI_player_090_elyms_pf_2",
+                          "SubPathString": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "None",
+        "SourceText": {
+          "CultureInvariantString": null
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": true,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1090_1": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1090",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_1_Name",
+          "SourceString": "千年虫之谜",
+          "LocalizedString": "千年虫之谜"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_1_Desc",
+          "SourceString": "*使用并进入当前编队后，会改变界面表现。\r\n\r\n一度流行过的复古未来时尚风潮。镭射！荧光！像素！怀旧科技制品！\r\n「真好啊~人们以乐天的态度和欢悦的心情，『想象』着技术发展的绚丽未来——」",
+          "LocalizedString": "*使用并进入当前编队后，会改变界面表现。\r\n\r\n一度流行过的复古未来时尚风潮。镭射！荧光！像素！怀旧科技制品！\r\n「真好啊~人们以乐天的态度和欢悦的心情，『想象』着技术发展的绚丽未来——」"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/256_Fashion_1090_1.256_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/200_Fashion_1090_1.200_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/256_Fashion_1090_1.256_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/980_Fashion_1090_1.980_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/2560_Fashion_1090_1.2560_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_1/1024_Fashion_1090_1.1024_Fashion_1090_1",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_090_fashion1.PlayerUIShow_090_fashion1_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/090_elyms_fashion1/MeshAsset_Player090_fashion1.MeshAsset_Player090_fashion1",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_030/DA_Appearance_NPC_030_1_RideAlong.DA_Appearance_NPC_030_1_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [
+            {
+              "Key": "-1",
+              "Value": {
+                "MeshMaterials": [],
+                "MeshAttachEffects": [],
+                "DyeName": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_1_Name",
+                  "SourceString": "千年虫之谜",
+                  "LocalizedString": "千年虫之谜"
+                },
+                "DyeDesc": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_1_Desc",
+                  "SourceString": "*使用并进入当前编队后，会改变界面表现。\r\n\r\n一度流行过的复古未来时尚风潮。镭射！荧光！像素！怀旧科技制品！\r\n「真好啊~人们以乐天的态度和欢悦的心情，『想象』着技术发展的绚丽未来——」",
+                  "LocalizedString": "*使用并进入当前编队后，会改变界面表现。\r\n\r\n一度流行过的复古未来时尚风潮。镭射！荧光！像素！怀旧科技制品！\r\n「真好啊~人们以乐天的态度和欢悦的心情，『想象』着技术发展的绚丽未来——」"
+                },
+                "DyeDisplayIcon": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                },
+                "GoodsID": "None",
+                "SourceID": "None",
+                "SourceText": {
+                  "CultureInvariantString": null
+                },
+                "SourceLockText": {
+                  "CultureInvariantString": null
+                }
+              }
+            }
+          ],
+          "AppearanceOptionRuleMap": [
+            {
+              "Key": "EPlayerAppearanceOptionType::HideOption1",
+              "Value": {
+                "OptionName": {
+                  "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+                  "Key": "appearance_yeermu_change_1",
+                  "SourceString": "切换投影纹路",
+                  "LocalizedString": "切换投影纹路"
+                },
+                "ComponentVisibilityRules": [],
+                "MaterialOpacityRules": [],
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": [
+                  {
+                    "MeshComponentTag": "None",
+                    "Materials": [
+                      {
+                        "SlotName": "player_090_elyms_fashion1_1",
+                        "Material": {
+                          "AssetPathName": "/Game/Characters/Player/090_elyms_fashion1/ter/cloth_ter/MI_player_090_elyms_fashion1_a.MI_player_090_elyms_fashion1_a",
+                          "SubPathString": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "MainFormThemeID": "Fashion_1090_1"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1090_1_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "FashionShop",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "FashionShop",
+          "SourceString": "商城购买获取",
+          "LocalizedString": "商城购买获取"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1090_2": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1090",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_2_Name",
+          "SourceString": "花海追想",
+          "LocalizedString": "花海追想"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_2_Desc",
+          "SourceString": "仿佛是在妖精居住的梦幻岛上会有的学园制服，一抹美妙的童话色彩。\r\n「冬去春来，是时候和你最好的朋友结个伴，去踏青郊游如何~？」",
+          "LocalizedString": "仿佛是在妖精居住的梦幻岛上会有的学园制服，一抹美妙的童话色彩。\r\n「冬去春来，是时候和你最好的朋友结个伴，去踏青郊游如何~？」"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/256_Fashion_1090_2.256_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/200_Fashion_1090_2.200_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/256_Fashion_1090_2.256_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/980_Fashion_1090_2.980_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/2560_Fashion_1090_2.2560_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_2/1024_Fashion_1090_2.1024_Fashion_1090_2",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_090_fashion2.PlayerUIShow_090_fashion2_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/090_elyms_fashion2/MeshAsset_Player090_fashion2.MeshAsset_Player090_fashion2",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_030/DA_Appearance_NPC_030_2_RideAlong.DA_Appearance_NPC_030_2_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [
+            {
+              "Key": "-1",
+              "Value": {
+                "MeshMaterials": [],
+                "MeshAttachEffects": [],
+                "DyeName": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_2_Name",
+                  "SourceString": "花海追想",
+                  "LocalizedString": "花海追想"
+                },
+                "DyeDesc": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_2_Desc",
+                  "SourceString": "仿佛是在妖精居住的梦幻岛上会有的学园制服，一抹美妙的童话色彩。\r\n「冬去春来，是时候和你最好的朋友结个伴，去踏青郊游如何~？」",
+                  "LocalizedString": "仿佛是在妖精居住的梦幻岛上会有的学园制服，一抹美妙的童话色彩。\r\n「冬去春来，是时候和你最好的朋友结个伴，去踏青郊游如何~？」"
+                },
+                "DyeDisplayIcon": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                },
+                "GoodsID": "None",
+                "SourceID": "None",
+                "SourceText": {
+                  "CultureInvariantString": null
+                },
+                "SourceLockText": {
+                  "CultureInvariantString": null
+                }
+              }
+            }
+          ],
+          "AppearanceOptionRuleMap": [
+            {
+              "Key": "EPlayerAppearanceOptionType::HideOption1",
+              "Value": {
+                "OptionName": {
+                  "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+                  "Key": "appearance_yeermu_change_1",
+                  "SourceString": "切换投影纹路",
+                  "LocalizedString": "切换投影纹路"
+                },
+                "ComponentVisibilityRules": [],
+                "MaterialOpacityRules": [],
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": [
+                  {
+                    "MeshComponentTag": "None",
+                    "Materials": [
+                      {
+                        "SlotName": "cloth2",
+                        "Material": {
+                          "AssetPathName": "/Game/Characters/Player/090_elyms_fashion2/ter/ter_cloth/MI_player_090_elyms_fashion2_02.MI_player_090_elyms_fashion2_02",
+                          "SubPathString": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1090_2_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Monopoly",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "CardDraw_name",
+          "SourceString": "斯卡布罗集市",
+          "LocalizedString": "斯卡布罗集市"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1090_nighty": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1090",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_nighty_Name",
+          "SourceString": "微风精灵",
+          "LocalizedString": "微风精灵"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1090_nighty_Desc",
+          "SourceString": "去朋友家串门时穿的，清爽而舒适的休闲装扮。\r\n戴上眼镜时整体印象会迷幻般地变调，感觉要开始讲课……或者是讲述一段新的、人与人的故事了。",
+          "LocalizedString": "去朋友家串门时穿的，清爽而舒适的休闲装扮。\r\n戴上眼镜时整体印象会迷幻般地变调，感觉要开始讲课……或者是讲述一段新的、人与人的故事了。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/256_Fashion_1090_nighty.256_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/200_Fashion_1090_nighty.200_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/256_Fashion_1090_nighty.256_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/980_Fashion_1090_nighty.980_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/2560_Fashion_1090_nighty.2560_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_nighty/1024_Fashion_1090_nighty.1024_Fashion_1090_nighty",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_090_nighty.PlayerUIShow_090_nighty_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/090_elyms_nighty/MeshAsset_Player090_nighty.MeshAsset_Player090_nighty",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_030/DA_Appearance_NPC_030_nighty_RideAlong.DA_Appearance_NPC_030_nighty_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [
+            {
+              "Key": "-1",
+              "Value": {
+                "MeshMaterials": [],
+                "MeshAttachEffects": [],
+                "DyeName": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_nighty_Name",
+                  "SourceString": "微风精灵",
+                  "LocalizedString": "微风精灵"
+                },
+                "DyeDesc": {
+                  "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+                  "Key": "Fashion_1090_nighty_Desc",
+                  "SourceString": "去朋友家串门时穿的，清爽而舒适的休闲装扮。\r\n戴上眼镜时整体印象会迷幻般地变调，感觉要开始讲课……或者是讲述一段新的、人与人的故事了。",
+                  "LocalizedString": "去朋友家串门时穿的，清爽而舒适的休闲装扮。\r\n戴上眼镜时整体印象会迷幻般地变调，感觉要开始讲课……或者是讲述一段新的、人与人的故事了。"
+                },
+                "DyeDisplayIcon": {
+                  "AssetPathName": "",
+                  "SubPathString": ""
+                },
+                "GoodsID": "None",
+                "SourceID": "None",
+                "SourceText": {
+                  "CultureInvariantString": null
+                },
+                "SourceLockText": {
+                  "CultureInvariantString": null
+                }
+              }
+            }
+          ],
+          "AppearanceOptionRuleMap": [
+            {
+              "Key": "EPlayerAppearanceOptionType::HideOption1",
+              "Value": {
+                "OptionName": {
+                  "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
+                  "Key": "appearance_yeermu_change_1",
+                  "SourceString": "切换投影纹路",
+                  "LocalizedString": "切换投影纹路"
+                },
+                "ComponentVisibilityRules": [],
+                "MaterialOpacityRules": [],
+                "MorphTargetRules": [],
+                "EmbroideryRule": {
+                  "DefaultDisabled": false,
+                  "AppliedDisabled": false
+                },
+                "MeshMaterials": [
+                  {
+                    "MeshComponentTag": "None",
+                    "Materials": [
+                      {
+                        "SlotName": "elyms_2",
+                        "Material": {
+                          "AssetPathName": "/Game/Characters/Player/090_elyms_nighty/ter/ter_cloth/MI_player_090_elyms_nighty_2ef.MI_player_090_elyms_nighty_2ef",
+                          "SubPathString": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1090_nighty_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Likeability_1090",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Fashion_Invite_Obtained",
+          "SourceString": "羁遇等级达到10级获得",
+          "LocalizedString": "羁遇等级达到10级获得"
+        },
+        "SourceLockText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Fashion_Invite_Obtained",
+          "SourceString": "羁遇等级达到10级获得",
+          "LocalizedString": "羁遇等级达到10级获得"
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1074_0": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1074",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_0_Name",
+          "SourceString": "可执行程序",
+          "LocalizedString": "可执行程序"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_0_Desc",
+          "SourceString": "挎包和大衣中存储着各类轻量化的电子信息战设备，当然，加在一起的分量一点也不轻。\r\n在管理局室内工作的时候也总是穿着这么沉重的一套……到底在和什么打仗呢？",
+          "LocalizedString": "挎包和大衣中存储着各类轻量化的电子信息战设备，当然，加在一起的分量一点也不轻。\r\n在管理局室内工作的时候也总是穿着这么沉重的一套……到底在和什么打仗呢？"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/200_Fashion_1074_0.200_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/256_Fashion_1074_0.256_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/980_Fashion_1074_0.980_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/2560_Fashion_1074_0.2560_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_0/1024_Fashion_1074_0.1024_Fashion_1074_0",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_074.PlayerUIShow_074_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_029/DA_Appearance_NPC_029_0_RideAlong.DA_Appearance_NPC_029_0_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [],
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "None",
+        "SourceText": {
+          "CultureInvariantString": null
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": true,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1074_1": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1074",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_1_Name",
+          "SourceString": "蓝雪",
+          "LocalizedString": "蓝雪"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_1_Desc",
+          "SourceString": "秋冬季在室外需要多披上一件风衣，莫名很适合搭配一杯热咖啡的印象。\r\n那条围巾轻盈而柔软地缠绕住脖颈，不可思议的是比看起来更加保暖。",
+          "LocalizedString": "秋冬季在室外需要多披上一件风衣，莫名很适合搭配一杯热咖啡的印象。\r\n那条围巾轻盈而柔软地缠绕住脖颈，不可思议的是比看起来更加保暖。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/256_Fashion_1074_1.256_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/200_Fashion_1074_1.200_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/256_Fashion_1074_1.256_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/980_Fashion_1074_1.980_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/2560_Fashion_1074_1.2560_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_1/1024_Fashion_1074_1.1024_Fashion_1074_1",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_074_fashion1.PlayerUIShow_074_fashion1_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/074_exe_fashion1/MeshAsset_Player074_fashion1.MeshAsset_Player074_fashion1",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_032/DA_Appearance_NPC_032_1_RideAlong.DA_Appearance_NPC_032_1_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [],
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1074_1_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Monopoly",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "CardDraw_name",
+          "SourceString": "斯卡布罗集市",
+          "LocalizedString": "斯卡布罗集市"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1074_2": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1074",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_2_Name",
+          "SourceString": "不逝于雨",
+          "LocalizedString": "不逝于雨"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_2_Desc",
+          "SourceString": "特别的户外防水服饰，可能会导致被判定为雨夜的杀人鬼或死神一类的角色。\r\n——洗刷不去的颜色所代表的是，绝不容许消逝的一切瞬间。",
+          "LocalizedString": "特别的户外防水服饰，可能会导致被判定为雨夜的杀人鬼或死神一类的角色。\r\n——洗刷不去的颜色所代表的是，绝不容许消逝的一切瞬间。"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/256_Fashion_1074_2.256_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/200_Fashion_1074_2.200_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/256_Fashion_1074_2.256_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/980_Fashion_1074_2.980_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/2560_Fashion_1074_2.2560_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_2/1024_Fashion_1074_2.1024_Fashion_1074_2",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_074_fashion2.PlayerUIShow_074_fashion2_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/074_exe_fashion2/MeshAsset_Player074_fashion2.MeshAsset_Player074_fashion2",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_032/DA_Appearance_NPC_032_0_RideAlong.DA_Appearance_NPC_032_0_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [],
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1074_2_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "FashionShop",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "FashionShop",
+          "SourceString": "商城购买获取",
+          "LocalizedString": "商城购买获取"
+        },
+        "SourceLockText": {
+          "CultureInvariantString": null
+        },
+        "IsDefault": false,
+        "IsCharacterShow": true,
+        "IsShowEffectIcon": false,
+        "IsShowVideoBtn": false,
+        "VideoID": "None",
+        "IsCheckLimitTime": true,
+        "OrderId": "None",
+        "IsBlockNewGet": false
+      },
+      "Fashion_1074_nighty": {
+        "AppearanceType": "EAppearanceType::Fashion",
+        "CharacterID": "1074",
+        "ExcludeCharacterID": [],
+        "ShowLinkCharacterID": "None",
+        "Name": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_nighty_Name",
+          "SourceString": "X%",
+          "LocalizedString": "X%"
+        },
+        "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "Desc": {
+          "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
+          "Key": "Fashion_1074_nighty_Desc",
+          "SourceString": "对于极少放假的工作狂来说，这是极低概率才会出现的穿着。\r\n为什么会有人在不用上班的休息时间……反而看起来心情更差的样子？",
+          "LocalizedString": "对于极少放假的工作狂来说，这是极低概率才会出现的穿着。\r\n为什么会有人在不用上班的休息时间……反而看起来心情更差的样子？"
+        },
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/256_Fashion_1074_nighty.256_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "HeadIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/200_Fashion_1074_nighty.200_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "HeadIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/256_Fashion_1074_nighty.256_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "DisplayIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/980_Fashion_1074_nighty.980_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "SpineUI": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/2560_Fashion_1074_nighty.2560_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "SmallPortraitImg": {
+          "AssetPathName": "/Game/UI/UI_Icon/Appearance/1074/Fashion_1074_nighty/1024_Fashion_1074_nighty.1024_Fashion_1074_nighty",
+          "SubPathString": ""
+        },
+        "UIScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "ActorOffsets": 0.0,
+        "UIActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_074_nighty.PlayerUIShow_074_nighty_C",
+          "SubPathString": ""
+        },
+        "AppearanceData": {
+          "PlayerAppearanceAsset": {
+            "AssetPathName": "/Game/Characters/Player/074_exe_nighty/MeshAsset_Player074_nighty.MeshAsset_Player074_nighty",
+            "SubPathString": ""
+          },
+          "NPCAppearanceAsset": {
+            "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_032/DA_Appearance_NPC_032_nighty_RideAlong.DA_Appearance_NPC_032_nighty_RideAlong",
+            "SubPathString": ""
+          },
+          "DyeMaterialMap": [],
+          "AppearanceOptionRuleMap": [],
+          "MainFormThemeID": "None"
+        },
+        "ExtraAwards": [
+          {
+            "ItemID": "Fashion_1074_nighty_Avatar",
+            "Amount": 1
+          }
+        ],
+        "ExtraAwardsDesc": {
+          "CultureInvariantString": null
+        },
+        "SourceID": "Likeability_1074",
+        "SourceText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Fashion_Invite_Obtained",
+          "SourceString": "羁遇等级达到10级获得",
+          "LocalizedString": "羁遇等级达到10级获得"
+        },
+        "SourceLockText": {
+          "TableId": "/Game/Text/ST_Output.ST_Output",
+          "Key": "Fashion_Invite_Obtained_lock",
           "SourceString": "羁遇等级达到10级获得",
           "LocalizedString": "羁遇等级达到10级获得"
         },

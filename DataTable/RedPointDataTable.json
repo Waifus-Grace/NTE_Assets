@@ -3814,7 +3814,7 @@
         "TriggerTypeArray": [
           {
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_OpAct_First_Pukaland"
+              "ERedPointTriggerType::TT_OpActivity_CumRechargeFirst"
             ]
           }
         ],
@@ -3853,9 +3853,9 @@
         "ConfigIDAsMessageID": true,
         "IsSecondStyle": false
       },
-      "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Small.{}": {
+      "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Small.{}": {
         "RedpointTag": {
-          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Small.{}"
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Small.{}"
         },
         "TriggerTypeArray": [
           {
@@ -3878,9 +3878,9 @@
         "ConfigIDAsMessageID": true,
         "IsSecondStyle": false
       },
-      "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Atmosphere.{}": {
+      "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Atmosphere.{}": {
         "RedpointTag": {
-          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Atmosphere.{}"
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Atmosphere.{}"
         },
         "TriggerTypeArray": [
           {
@@ -3903,9 +3903,9 @@
         "ConfigIDAsMessageID": true,
         "IsSecondStyle": false
       },
-      "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Large.{}": {
+      "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Large.{}": {
         "RedpointTag": {
-          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Pukaland.Manual.Large.{}"
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland.Manual.Large.{}"
         },
         "TriggerTypeArray": [
           {
@@ -4106,6 +4106,459 @@
           {
             "TriggerTypeArray": [
               "ERedPointTriggerType::TT_OpAct_GingerbreadDuel"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.MuseumDetective.Clue": {
+        "RedpointTag": {
+          "TagName": "Redpoint.MuseumDetective.Clue"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_MuseumDetective_Clue"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.CumRecharge": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.CumRecharge"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActivity_CumRechargeFirst"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.CumLottery.QuestAward.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.CumLottery.QuestAward.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActivity_CumLottery"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {
+            "Tab": "ECumLotteryQuestTab::CoinProgress"
+          },
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.CumLottery.CollectCoins.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.CumLottery.CollectCoins.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActivity_CumLottery"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {
+            "Tab": "ECumLotteryQuestTab::CollectCoins"
+          },
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.CumRecharge.Reward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.CumRecharge.Reward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActivity_CumRechargeReward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": true,
+        "ConfigIDAsMessageID": true,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.BalatroLike": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.BalatroLike"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpAct_First_BalatroLike"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.Logistics": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Logistics"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpAct_First_Logistics"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.Logistics.LimitQuest.BigAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Logistics.LimitQuest.BigAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_SimpleQuest_OpActLogisticsUltraAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.Logistics.LimitQuest.{}.SingleQuest": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Logistics.LimitQuest.{}.SingleQuest"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_SimpleQuest_OpActLogisticsQuest"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.Pukaland"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_ConfigActPukaland"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SubConditions": [
+              {}
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true,
+        "IsSecondStyle": true
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.OrderCanSettle": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.OrderCanSettle"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsDispatchSettlementChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Manager.OrderCanSettle": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Manager.OrderCanSettle"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsDispatchSettlementChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Company.Relation.OfficeRelation.Organization": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Company.Relation.OfficeRelation.Organization"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsOrganizationUnreadChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {
+            "Channels": [
+              "EHTLogisticsChannel::Official"
+            ]
+          },
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Company.Relation.UnderGroundRelation.Organization": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Company.Relation.UnderGroundRelation.Organization"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsOrganizationUnreadChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {
+            "Channels": [
+              "EHTLogisticsChannel::Underground"
+            ]
+          },
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Company.CompanyLevel.LevelAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Company.CompanyLevel.LevelAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsCompanyLevelRewardChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Company.DriverManage.WorldDirver.SingleDriver": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Company.DriverManage.WorldDirver.SingleDriver"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsHeadhunterUnreadChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.Map.CityGameplayEntry.{}.Company.LogisticsSKill": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.{}.Company.LogisticsSKill"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_LogisticsSkillUpgradeableChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.Logistics.LevelAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.Logistics.LevelAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActLogisticsCompanyLevelRewardChanged"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false,
+        "IsSecondStyle": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.TankBattle": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.TankBattle"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OpActivity_TankBattleFirst"
             ]
           }
         ],

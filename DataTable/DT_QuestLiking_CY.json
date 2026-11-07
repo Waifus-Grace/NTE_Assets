@@ -20964,7 +20964,29 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": null,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 121248.0,
+                "Y": -48805.0,
+                "Z": -369998.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_WuChao",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
             "CompleteTeleportID": "None",
             "CompleteTeleport": {
               "CompletedTeleportPosition": {
@@ -21313,7 +21335,29 @@
             "bHideTrackIndicatorInFightState": true,
             "IntroduceInfo": null,
             "bOnlyInClient": false,
-            "TrackInfo": null,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": 109074.92,
+                "Y": -57688.29,
+                "Z": -878517.6
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "DLC_WuChao",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
             "CompleteTeleportID": "None",
             "CompleteTeleport": {
               "CompletedTeleportPosition": {
@@ -22706,8 +22750,15 @@
         "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
-        "QuestTimeLock": null,
-        "QuestWeatherLock": null,
+        "QuestTimeLock": {
+          "LockTime": 800.0,
+          "TransitionSpeed": -1.0,
+          "ProtectTimeSeconds": 600.0
+        },
+        "QuestWeatherLock": {
+          "LockWeatherIndex": "EWeatherIndex::Weather_Sunny",
+          "ProtectTimeSeconds": 600.0
+        },
         "ReloadLocation": null,
         "TrialCharacterID": "None",
         "ActivateYahahaID": "None",
@@ -22719,8 +22770,8 @@
           "CultureInvariantString": null
         }
       },
-      "K130001": {
-        "QuestId": "K130001",
+      "k130001": {
+        "QuestId": "k130001",
         "QuestName": {
           "TableId": "/Game/Blueprints/Level/Quest/CY/k110900/ST_SideQuest_CY.ST_SideQuest_CY",
           "Key": "k130001_QuestName",
@@ -22828,7 +22879,7 @@
         "TrackConditionList": [],
         "PreQuests": [
           {
-            "PreQuestName": "k130000",
+            "PreQuestName": "K130000",
             "ObjectiveID": "1"
           }
         ],
@@ -22876,8 +22927,8 @@
           "CultureInvariantString": null
         }
       },
-      "K130002": {
-        "QuestId": "K130002",
+      "k130002": {
+        "QuestId": "k130002",
         "QuestName": {
           "TableId": "/Game/Blueprints/Level/Quest/CY/k110900/ST_SideQuest_CY.ST_SideQuest_CY",
           "Key": "k130002_QuestName",
@@ -23001,7 +23052,7 @@
         "TrackConditionList": [],
         "PreQuests": [
           {
-            "PreQuestName": "K130001",
+            "PreQuestName": "k130001",
             "ObjectiveID": "1"
           }
         ],
@@ -23158,7 +23209,7 @@
         "TrackConditionList": [],
         "PreQuests": [
           {
-            "PreQuestName": "K130002",
+            "PreQuestName": "k130002",
             "ObjectiveID": "1"
           }
         ],

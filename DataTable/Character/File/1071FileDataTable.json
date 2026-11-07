@@ -631,6 +631,58 @@
             "Conditions": []
           },
           {
+            "ID": "Daily21",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "about_NPC029",
+              "SourceString": "关于Exe",
+              "LocalizedString": "关于Exe"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_about_001",
+              "SourceString": "队长只是看起来阴沉而已，其实是个很不错的家伙。我刚来的时候不太会用智能手机，全靠他一步步教我。要是没他检查，我拿到手机的第二天就要被自己设置的100个闹钟吵醒，想想就后怕啊！",
+              "LocalizedString": "队长只是看起来阴沉而已，其实是个很不错的家伙。我刚来的时候不太会用智能手机，全靠他一步步教我。要是没他检查，我拿到手机的第二天就要被自己设置的100个闹钟吵醒，想想就后怕啊！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_about_001.Play_Vo_Char_NPC024_about_001",
+              "SubPathString": ""
+            },
+            "Conditions": [
+              {
+                "Firendly": 0,
+                "QuestId": "q111088",
+                "CharacterFileBreakLevel": 0
+              }
+            ]
+          },
+          {
+            "ID": "Daily22",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "about_NPC030",
+              "SourceString": "关于曳尔沐",
+              "LocalizedString": "关于曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_about_002",
+              "SourceString": "他……总感觉他应该是我的熟人啊，可我就是说不出他到底是谁。我有问过他，是不是在几年前跟我一起出过海，结果他就回我一句：「有没有过呢？」，搞得云里雾里的，连这种事都能记不清吗？",
+              "LocalizedString": "他……总感觉他应该是我的熟人啊，可我就是说不出他到底是谁。我有问过他，是不是在几年前跟我一起出过海，结果他就回我一句：「有没有过呢？」，搞得云里雾里的，连这种事都能记不清吗？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_about_002.Play_Vo_Char_NPC024_about_002",
+              "SubPathString": ""
+            },
+            "Conditions": [
+              {
+                "Firendly": 0,
+                "QuestId": "q111088",
+                "CharacterFileBreakLevel": 0
+              }
+            ]
+          },
+          {
             "ID": "Daily40",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1169,7 +1221,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle52",
+            "ID": "Battle14",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_004",
@@ -1189,7 +1241,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle53",
+            "ID": "Battle15",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_005",
@@ -1209,7 +1261,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle54",
+            "ID": "Battle16",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_006",
@@ -1229,7 +1281,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle14",
+            "ID": "Battle17",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_001",
@@ -1249,7 +1301,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle15",
+            "ID": "Battle18",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_002",
@@ -1269,7 +1321,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle16",
+            "ID": "Battle19",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_003",
@@ -1289,7 +1341,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle17",
+            "ID": "Battle20",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_001",
@@ -1309,7 +1361,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle18",
+            "ID": "Battle21",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_002",
@@ -1329,7 +1381,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle19",
+            "ID": "Battle22",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_001",
@@ -1349,7 +1401,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle20",
+            "ID": "Battle23",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_002",
@@ -1369,7 +1421,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle21",
+            "ID": "Battle24",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_003",
@@ -1389,7 +1441,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle22",
+            "ID": "Battle25",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_001",
@@ -1409,7 +1461,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle23",
+            "ID": "Battle26",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_002",
@@ -1429,7 +1481,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle24",
+            "ID": "Battle27",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_001",
@@ -1449,7 +1501,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle25",
+            "ID": "Battle28",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_002",
@@ -1469,7 +1521,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle26",
+            "ID": "Battle29",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_001",
@@ -1489,7 +1541,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle27",
+            "ID": "Battle30",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_002",
@@ -1509,7 +1561,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle28",
+            "ID": "Battle31",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_001",
@@ -1529,7 +1581,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle29",
+            "ID": "Battle32",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_002",
@@ -1549,7 +1601,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle30",
+            "ID": "Battle33",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_001",
@@ -1569,7 +1621,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle31",
+            "ID": "Battle34",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_002",
@@ -1589,7 +1641,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle32",
+            "ID": "Battle35",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_003",
@@ -1609,7 +1661,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle33",
+            "ID": "Battle36",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Fly_001",
@@ -1629,7 +1681,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle34",
+            "ID": "Battle37",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Fly_002",
@@ -1649,7 +1701,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle35",
+            "ID": "Battle38",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_001",
@@ -1669,7 +1721,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle36",
+            "ID": "Battle39",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_002",
@@ -1689,7 +1741,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle37",
+            "ID": "Battle40",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_003",
@@ -1709,7 +1761,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle38",
+            "ID": "Battle41",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_L",
@@ -1729,7 +1781,47 @@
             "Conditions": []
           },
           {
-            "ID": "Battle80",
+            "ID": "Battle42",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_EXE",
+              "SourceString": "特殊切换·Exe",
+              "LocalizedString": "特殊切换·Exe"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_SSC_EXE_002",
+              "SourceString": "队长，你什么时候来的？",
+              "LocalizedString": "队长，你什么时候来的？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_SSC_EXE_002.Play_Vo_Char_NPC024_SSC_EXE_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle43",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_YEM",
+              "SourceString": "特殊切换·曳尔沐",
+              "LocalizedString": "特殊切换·曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_SSC_YEM_001",
+              "SourceString": "喂，别把麻烦丢给我啊！",
+              "LocalizedString": "喂，别把麻烦丢给我啊！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_SSC_ELYMS_001.Play_Vo_Char_NPC024_SSC_ELYMS_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle44",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_LK",
@@ -1749,7 +1841,47 @@
             "Conditions": []
           },
           {
-            "ID": "Battle81",
+            "ID": "Battle45",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_EXE",
+              "SourceString": "队友倒下·EXE",
+              "LocalizedString": "队友倒下·EXE"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_TeammateDown_001",
+              "SourceString": "好吧！帮你善后。",
+              "LocalizedString": "好吧！帮你善后。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_TeammateDown_001.Play_Vo_Char_NPC024_TeammateDown_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle46",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_YEM",
+              "SourceString": "队友倒下·曳尔沐",
+              "LocalizedString": "队友倒下·曳尔沐"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC024_TeammateDown_002",
+              "SourceString": "又要说再见了？",
+              "LocalizedString": "又要说再见了？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC024/Play_Vo_Char_NPC024_TeammateDown_002.Play_Vo_Char_NPC024_TeammateDown_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle47",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_LK",
@@ -1769,7 +1901,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle47",
+            "ID": "Battle48",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Parry_001",
@@ -1789,7 +1921,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle48",
+            "ID": "Battle49",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Parry_002",
@@ -1809,7 +1941,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle49",
+            "ID": "Battle50",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "DodgeCombo_001",
@@ -1829,7 +1961,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle50",
+            "ID": "Battle51",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "DodgeCombo_002",

@@ -22,36 +22,100 @@
       ],
       "ResSummaryTagNameMap": [
         {
-          "Key": "test1",
+          "Key": "Combat",
           "Value": {
-            "Namespace": "",
-            "Key": "BACA1EBC48FF3B68C7A71995E03F0A81",
-            "SourceString": "<!>tag1",
-            "LocalizedString": "<!>tag1"
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_2",
+            "SourceString": "战斗",
+            "LocalizedString": "战斗"
           }
         },
         {
-          "Key": "test2",
+          "Key": "Story",
           "Value": {
-            "Namespace": "",
-            "Key": "ED0C8AA44A63CDD2D6F03E8A64CCC16A",
-            "SourceString": "<!>tag2",
-            "LocalizedString": "<!>tag2"
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_3",
+            "SourceString": "剧情",
+            "LocalizedString": "剧情"
+          }
+        },
+        {
+          "Key": "Casual",
+          "Value": {
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_4",
+            "SourceString": "休闲",
+            "LocalizedString": "休闲"
+          }
+        },
+        {
+          "Key": "Urban",
+          "Value": {
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_5",
+            "SourceString": "都市",
+            "LocalizedString": "都市"
+          }
+        },
+        {
+          "Key": "Hard",
+          "Value": {
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_6",
+            "SourceString": "高难",
+            "LocalizedString": "高难"
+          }
+        },
+        {
+          "Key": "Fons",
+          "Value": {
+            "TableId": "/Game/Text/UI/ST_UI_wzj.ST_UI_wzj",
+            "Key": "ui_ResSummary_15",
+            "SourceString": "方斯兑换",
+            "LocalizedString": "方斯兑换"
           }
         }
       ],
       "ResSummaryTagIconMap": [
         {
-          "Key": "test1",
+          "Key": "Combat",
           "Value": {
-            "AssetPathName": "/Game/UI/Blueprints/Tips/Tag_Picture/UI_YH_Tips_Label_Bkg_01.UI_YH_Tips_Label_Bkg_01",
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong06.YH_UI_rengwuhuizhong06",
             "SubPathString": ""
           }
         },
         {
-          "Key": "test2",
+          "Key": "Story",
           "Value": {
-            "AssetPathName": "/Game/UI/Blueprints/Tips/Tag_Picture/UI_YH_Tips_Label_Bkg_03.UI_YH_Tips_Label_Bkg_03",
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong04.YH_UI_rengwuhuizhong04",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "Casual",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong02.YH_UI_rengwuhuizhong02",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "Urban",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong03.YH_UI_rengwuhuizhong03",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "Hard",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong01.YH_UI_rengwuhuizhong01",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "Fons",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_rengwuhuizhong05.YH_UI_rengwuhuizhong05",
             "SubPathString": ""
           }
         }
@@ -62,6 +126,29 @@
           "Value": {
             "ItemID": "Annulith",
             "Amount": 10
+          }
+        },
+        {
+          "Key": "Annulith_x30",
+          "Value": {
+            "ItemID": "Annulith",
+            "Amount": 30
+          }
+        }
+      ],
+      "ResSummaryItemBgMap": [
+        {
+          "Key": "EResSummaryCate::Res_Limited",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_ziyuanhuizhong_changzhudi02.YH_UI_ziyuanhuizhong_changzhudi02",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "EResSummaryCate::Res_Permanent",
+          "Value": {
+            "AssetPathName": "/Game/UI/UI/zyhz/YH_UI_ziyuanhuizhong_changzhudi01.YH_UI_ziyuanhuizhong_changzhudi01",
+            "SubPathString": ""
           }
         }
       ]

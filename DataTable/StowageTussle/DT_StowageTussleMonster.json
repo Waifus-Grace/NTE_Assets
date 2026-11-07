@@ -1,0 +1,194 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StowageTussleMonster",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/StowageTussle/DT_StowageTussleMonster",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'StowageTussleMonsterConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "StowageTussle_Monster_1": {
+        "MonsterName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_1_Name",
+          "SourceString": "分解者",
+          "LocalizedString": "分解者"
+        },
+        "MonsterDescription": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_1_Desc",
+          "SourceString": "背包中有3件以上食物时，基础属性提高10%。",
+          "LocalizedString": "背包中有3件以上食物时，基础属性提高10%。"
+        },
+        "LinkItemType": "EStowageTussleItemType::Food",
+        "LinkItemAmount": 3,
+        "BaseAttributeCoefficient": 0.1,
+        "ExtraItemCoolDown": [],
+        "ExtraBuffList": [],
+        "MonsterIcon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/mon_14.mon_14",
+          "SubPathString": ""
+        },
+        "BaseAttribute": [
+          {
+            "PropName": "HPMaxAdd",
+            "PropValue": 5000.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkAdd",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "DefAdd",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ],
+        "UnbalAttribute": 200.0,
+        "ItemRandomPoolID": "Monster_1",
+        "BirthItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_1_BirthItemName",
+          "SourceString": "出生核心道具",
+          "LocalizedString": "出生核心道具"
+        },
+        "BirthItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          }
+        ],
+        "RoundMustItemData": [],
+        "RoundFreeItemData": [],
+        "RoundBaseMaxHP_Add": [],
+        "RedactItemList": [
+          "StowageTussleItem_G03",
+          "StowageTussleItem_G04"
+        ],
+        "RecommendManualName": {
+          "Namespace": "",
+          "Key": "FE60E5A8403F9147E0743CA0D4181CF8",
+          "SourceString": "新手推荐",
+          "LocalizedString": "新手推荐"
+        },
+        "RecommendManualDescription": {
+          "Namespace": "",
+          "Key": "4079A8F347B051A8AE8A21AF13BEC5D2",
+          "SourceString": "前期XX,中期XX",
+          "LocalizedString": "前期XX,中期XX"
+        },
+        "RecommendManualCoreItem": [
+          "StowageTussleItem_D01"
+        ],
+        "RecommendManualItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          }
+        ],
+        "WinMontage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "StowageTussle_Monster_2": {
+        "MonsterName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_2_Name",
+          "SourceString": "空铠甲",
+          "LocalizedString": "空铠甲"
+        },
+        "MonsterDescription": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_2_Desc",
+          "SourceString": "背包中有2件以上装备时，基础属性提高10%。",
+          "LocalizedString": "背包中有2件以上装备时，基础属性提高10%。"
+        },
+        "LinkItemType": "EStowageTussleItemType::Equipment",
+        "LinkItemAmount": 2,
+        "BaseAttributeCoefficient": 0.1,
+        "ExtraItemCoolDown": [],
+        "ExtraBuffList": [],
+        "MonsterIcon": {
+          "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/200x200/mon_20.mon_20",
+          "SubPathString": ""
+        },
+        "BaseAttribute": [
+          {
+            "PropName": "HPMaxAdd",
+            "PropValue": 6000.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkAdd",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "DefAdd",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ],
+        "UnbalAttribute": 0.0,
+        "ItemRandomPoolID": "Monster_2",
+        "BirthItemName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "Monster_2_BirthItemName",
+          "SourceString": "出生核心道具",
+          "LocalizedString": "出生核心道具"
+        },
+        "BirthItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          }
+        ],
+        "RoundMustItemData": [],
+        "RoundFreeItemData": [],
+        "RoundBaseMaxHP_Add": [],
+        "RedactItemList": [],
+        "RecommendManualName": {
+          "CultureInvariantString": null
+        },
+        "RecommendManualDescription": {
+          "CultureInvariantString": null
+        },
+        "RecommendManualCoreItem": [],
+        "RecommendManualItemData": [],
+        "WinMontage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

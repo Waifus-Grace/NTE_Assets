@@ -3958,6 +3958,362 @@
         "TextThirdBottom": {
           "CultureInvariantString": null
         }
+      },
+      "yeermu02": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_038.UI_YH_Bond_Unlock_Role_038",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_empty_auto.YH_UI_empty_auto",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_1_1090_name",
+          "SourceString": "相逢初识：曳尔沐",
+          "LocalizedString": "相逢初识：曳尔沐"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_18",
+          "SourceString": "副驾驶同乘功能开启！",
+          "LocalizedString": "副驾驶同乘功能开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_21",
+          "SourceString": "请前往车库进行邀请",
+          "LocalizedString": "请前往车库进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_28",
+          "SourceString": "同桌竞技解锁!",
+          "LocalizedString": "同桌竞技解锁!"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_29",
+          "SourceString": "请前往「小小麻雀」进行邀请",
+          "LocalizedString": "请前往「小小麻雀」进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "yeermu04": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_039.UI_YH_Bond_Unlock_Role_039",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_Icon_house.YH_UI_Icon_house",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_2_1090_name",
+          "SourceString": "意气相投：曳尔沐",
+          "LocalizedString": "意气相投：曳尔沐"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_19",
+          "SourceString": "居家邀约功能开启！",
+          "LocalizedString": "居家邀约功能开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_22",
+          "SourceString": "请前往房屋进行邀请",
+          "LocalizedString": "请前往房屋进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_30",
+          "SourceString": "都市偕游开启！",
+          "LocalizedString": "都市偕游开启！"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "yeermu06": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_039.UI_YH_Bond_Unlock_Role_039",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_Icon_house.YH_UI_Icon_house",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_3_1090_name",
+          "SourceString": "至交密友：曳尔沐",
+          "LocalizedString": "至交密友：曳尔沐"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_20",
+          "SourceString": "更多邀约动作解锁！",
+          "LocalizedString": "更多邀约动作解锁！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_22",
+          "SourceString": "请前往房屋进行邀请",
+          "LocalizedString": "请前往房屋进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_32",
+          "SourceString": "更多都市偕游开启！",
+          "LocalizedString": "更多都市偕游开启！"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "yeermu08": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_038.UI_YH_Bond_Unlock_Role_038",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_empty_auto.YH_UI_empty_auto",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_4_1090_name",
+          "SourceString": "契心之交：曳尔沐",
+          "LocalizedString": "契心之交：曳尔沐"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_32",
+          "SourceString": "更多都市偕游开启！",
+          "LocalizedString": "更多都市偕游开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextSecondMid": {
+          "CultureInvariantString": null
+        },
+        "TextSecondBottom": {
+          "CultureInvariantString": null
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "exe02": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_040.UI_YH_Bond_Unlock_Role_040",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_empty_auto.YH_UI_empty_auto",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_1_1074_name",
+          "SourceString": "相逢初识：Exe",
+          "LocalizedString": "相逢初识：Exe"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_18",
+          "SourceString": "副驾驶同乘功能开启！",
+          "LocalizedString": "副驾驶同乘功能开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_21",
+          "SourceString": "请前往车库进行邀请",
+          "LocalizedString": "请前往车库进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_28",
+          "SourceString": "同桌竞技解锁!",
+          "LocalizedString": "同桌竞技解锁!"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_29",
+          "SourceString": "请前往「小小麻雀」进行邀请",
+          "LocalizedString": "请前往「小小麻雀」进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "exe04": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_041.UI_YH_Bond_Unlock_Role_041",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_Icon_house.YH_UI_Icon_house",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_2_1074_name",
+          "SourceString": "意气相投：Exe",
+          "LocalizedString": "意气相投：Exe"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_19",
+          "SourceString": "居家邀约功能开启！",
+          "LocalizedString": "居家邀约功能开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_22",
+          "SourceString": "请前往房屋进行邀请",
+          "LocalizedString": "请前往房屋进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_30",
+          "SourceString": "都市偕游开启！",
+          "LocalizedString": "都市偕游开启！"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "exe06": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_041.UI_YH_Bond_Unlock_Role_041",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_Icon_house.YH_UI_Icon_house",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_3_1074_name",
+          "SourceString": "至交密友：Exe",
+          "LocalizedString": "至交密友：Exe"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_20",
+          "SourceString": "更多邀约动作解锁！",
+          "LocalizedString": "更多邀约动作解锁！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_22",
+          "SourceString": "请前往房屋进行邀请",
+          "LocalizedString": "请前往房屋进行邀请"
+        },
+        "TextSecondMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_32",
+          "SourceString": "更多都市偕游开启！",
+          "LocalizedString": "更多都市偕游开启！"
+        },
+        "TextSecondBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
+      },
+      "exe08": {
+        "TextureMain": {
+          "AssetPathName": "/Game/UI/UI/likeability/AwardTip/qietu/UI_YH_Bond_Unlock_Role_040.UI_YH_Bond_Unlock_Role_040",
+          "SubPathString": ""
+        },
+        "TextureSub": {
+          "AssetPathName": "/Game/UI/UI/common/function/YH_UI_empty_auto.YH_UI_empty_auto",
+          "SubPathString": ""
+        },
+        "TextTop": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Friendship_4_1074_name",
+          "SourceString": "契心之交：Exe",
+          "LocalizedString": "契心之交：Exe"
+        },
+        "TextMid": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_32",
+          "SourceString": "更多都市偕游开启！",
+          "LocalizedString": "更多都市偕游开启！"
+        },
+        "TextBottom": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_31",
+          "SourceString": "请在城市地点中进行邀请",
+          "LocalizedString": "请在城市地点中进行邀请"
+        },
+        "TextSecondMid": {
+          "CultureInvariantString": null
+        },
+        "TextSecondBottom": {
+          "CultureInvariantString": null
+        },
+        "TextThirdMid": {
+          "CultureInvariantString": null
+        },
+        "TextThirdBottom": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

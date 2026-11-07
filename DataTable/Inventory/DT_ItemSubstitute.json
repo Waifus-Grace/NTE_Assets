@@ -227,6 +227,38 @@
           "Annulith",
           "Riftcrystal"
         ]
+      },
+      "WeaponGacha_elyms": {
+        "SubstituteItemID": "WeaponGacha",
+        "SubstituteAmount": 1,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": [
+          "WeaponGacha_elyms",
+          "WeaponGacha",
+          "Annulith",
+          "Riftcrystal"
+        ]
+      },
+      "WeaponGacha_exe": {
+        "SubstituteItemID": "WeaponGacha",
+        "SubstituteAmount": 1,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": [
+          "WeaponGacha_exe",
+          "WeaponGacha",
+          "Annulith",
+          "Riftcrystal"
+        ]
       }
     }
   }

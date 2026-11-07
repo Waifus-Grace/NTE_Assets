@@ -89,6 +89,19 @@
         },
         "AddLevel": 10,
         "ActiveAwardDrop": "drop_combat_unlock_06"
+      },
+      "AdvancedCertificat07": {
+        "Name": {
+          "TableId": "/Game/Text/ST_MonthCardandBP.ST_MonthCardandBP",
+          "Key": "BPUI_CombatAwards_002",
+          "SourceString": "精锐猎人补给",
+          "LocalizedString": "精锐猎人补给"
+        },
+        "OriginalPrice": {
+          "CultureInvariantString": null
+        },
+        "AddLevel": 10,
+        "ActiveAwardDrop": "drop_combat_unlock_07"
       }
     }
   }

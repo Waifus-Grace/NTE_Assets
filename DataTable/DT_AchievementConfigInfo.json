@@ -26085,6 +26085,63 @@
         },
         "ProgressScaleValue": 1.0,
         "ProgressDigitsCount": 0
+      },
+      "quest_47": {
+        "Amout": 1,
+        "AchievementMainType": "AchievementMainType::MainTypeQuest",
+        "Type": "EAchievementTask::SubmitQuest",
+        "ConditionData": [
+          {
+            "Tag": "q111088",
+            "Type": "EHTAchievement::TAG"
+          }
+        ],
+        "ConditionGroups": [],
+        "UpdateType": "EAchievementProgressUpdate::SUM",
+        "bIsConditionValueUpdateProgress": false,
+        "AwardInfo": [
+          {
+            "UniqueID": {
+              "solt": 0,
+              "serial": 0
+            },
+            "ItemID": "Annulith",
+            "Amount": 20,
+            "bHiddenAmount": false,
+            "bIsReplaceItem": false,
+            "ExtraItemNetInfo": {
+              "RandomBaseModifyData": [],
+              "RandomModifyData": []
+            },
+            "AwardItemType": "EItemType::ITEM_TYPE_NONE"
+          }
+        ],
+        "TitleId": {
+          "TableId": "/Game/Text/ST_Achievement.ST_Achievement",
+          "Key": "quest_47_Title",
+          "SourceString": "X、Y、Z、秘密基地",
+          "LocalizedString": "X、Y、Z、秘密基地"
+        },
+        "ContentID": {
+          "TableId": "/Game/Text/ST_Achievement.ST_Achievement",
+          "Key": "quest_47_Content",
+          "SourceString": "完成「再会于数海」系列任务",
+          "LocalizedString": "完成「再会于数海」系列任务"
+        },
+        "icon": {
+          "AssetPathName": "/Game/UI/UI/Achievement/4_3.4_3",
+          "SubPathString": ""
+        },
+        "Quality": "EHTAchievementQuality::EXECELLENT",
+        "bIsHideNotAchieve": false,
+        "bIsHost": false,
+        "bRecordHistoryProgress": false,
+        "InitialDisplayAmount": 0,
+        "ProgressUnitSuffix": {
+          "CultureInvariantString": null
+        },
+        "ProgressScaleValue": 1.0,
+        "ProgressDigitsCount": 0
       }
     }
   }

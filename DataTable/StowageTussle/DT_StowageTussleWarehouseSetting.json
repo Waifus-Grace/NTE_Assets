@@ -1,0 +1,1118 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StowageTussleWarehouseSetting",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/StowageTussle/DT_StowageTussleWarehouseSetting",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'StowageTussleWarehouseSettingConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "PVE_Monster_1_L0": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L0_Name",
+          "SourceString": "第1关·腐烂食客",
+          "LocalizedString": "第1关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 0,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L1": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L1_Name",
+          "SourceString": "第2关·腐烂食客",
+          "LocalizedString": "第2关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 1,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L2": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L2_Name",
+          "SourceString": "第3关·腐烂食客",
+          "LocalizedString": "第3关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 2,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L3": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L3_Name",
+          "SourceString": "第4关·腐烂食客",
+          "LocalizedString": "第4关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 3,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 1,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D05",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L4": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L4_Name",
+          "SourceString": "第5关·腐烂食客",
+          "LocalizedString": "第5关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 4,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 1,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_D05",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L5": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L5_Name",
+          "SourceString": "第6关·腐烂食客",
+          "LocalizedString": "第6关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 5,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 1,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D05",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G01",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D04",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L6": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L6_Name",
+          "SourceString": "第7关·腐烂食客",
+          "LocalizedString": "第7关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 6,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 1,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_D05",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G01",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D04",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G02",
+            "Anchor": {
+              "X": 2,
+              "Y": 1
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_1_L7": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_1_L7_Name",
+          "SourceString": "第8关·腐烂食客",
+          "LocalizedString": "第8关·腐烂食客"
+        },
+        "MonsterID": "StowageTussle_Monster_1",
+        "Level": 7,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "ItemID": "StowageTussleItem_D01",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D02",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_G08",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D03",
+            "Anchor": {
+              "X": 0,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 1,
+              "Y": 2
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_D05",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_G01",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "ItemID": "StowageTussleItem_D04",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G02",
+            "Anchor": {
+              "X": 2,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G04",
+            "Anchor": {
+              "X": 2,
+              "Y": 2
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L0": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L0_Name",
+          "SourceString": "第1关·锈铁卫兵",
+          "LocalizedString": "第1关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 0,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L1": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L1_Name",
+          "SourceString": "第2关·锈铁卫兵",
+          "LocalizedString": "第2关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 1,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L2": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L2_Name",
+          "SourceString": "第3关·锈铁卫兵",
+          "LocalizedString": "第3关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 2,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L3": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L3_Name",
+          "SourceString": "第4关·锈铁卫兵",
+          "LocalizedString": "第4关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 3,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K05",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L4": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L4_Name",
+          "SourceString": "第5关·锈铁卫兵",
+          "LocalizedString": "第5关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 4,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_K05",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G10",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L5": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L5_Name",
+          "SourceString": "第6关·锈铁卫兵",
+          "LocalizedString": "第6关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 5,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K05",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G10",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K02",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L6": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L6_Name",
+          "SourceString": "第7关·锈铁卫兵",
+          "LocalizedString": "第7关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 6,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_K05",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G10",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K02",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "ItemID": "StowageTussleItem_G04",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          }
+        ]
+      },
+      "PVE_Monster_2_L7": {
+        "PlayerName": {
+          "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
+          "Key": "PVE_Monster_2_L7_Name",
+          "SourceString": "第8关·锈铁卫兵",
+          "LocalizedString": "第8关·锈铁卫兵"
+        },
+        "MonsterID": "StowageTussle_Monster_2",
+        "Level": 7,
+        "ItemData": [
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "ItemID": "StowageTussleItem_K01",
+            "Anchor": {
+              "X": 1,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K03",
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_G07",
+            "Anchor": {
+              "X": 3,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K04",
+            "Anchor": {
+              "X": 0,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_K05",
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G09",
+            "Anchor": {
+              "X": 2,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "ItemID": "StowageTussleItem_G10",
+            "Anchor": {
+              "X": 1,
+              "Y": 3
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "ItemID": "StowageTussleItem_K02",
+            "Anchor": {
+              "X": 1,
+              "Y": 5
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G04",
+            "Anchor": {
+              "X": 1,
+              "Y": 0
+            },
+            "RotationState": 0
+          },
+          {
+            "ItemQuality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "ItemID": "StowageTussleItem_G02",
+            "Anchor": {
+              "X": 2,
+              "Y": 2
+            },
+            "RotationState": 0
+          }
+        ]
+      }
+    }
+  }
+]

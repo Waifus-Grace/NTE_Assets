@@ -1,0 +1,825 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_VolleyballStaminaAttribute",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Volleyball/DT_VolleyballStaminaAttribute",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTVolleyballStaminaAttributeTableRow'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "0": {
+        "ServePercent": 90.0,
+        "ReceivePercent": 45.0,
+        "SettingPercent": 65.0,
+        "DivingPercent": 35.0,
+        "BlockPercent": 45.0,
+        "SpikePercent": 75.0
+      },
+      "1": {
+        "ServePercent": 90.1,
+        "ReceivePercent": 45.55,
+        "SettingPercent": 65.35,
+        "DivingPercent": 35.65,
+        "BlockPercent": 45.55,
+        "SpikePercent": 75.25
+      },
+      "2": {
+        "ServePercent": 90.2,
+        "ReceivePercent": 46.1,
+        "SettingPercent": 65.7,
+        "DivingPercent": 36.3,
+        "BlockPercent": 46.1,
+        "SpikePercent": 75.5
+      },
+      "3": {
+        "ServePercent": 90.3,
+        "ReceivePercent": 46.65,
+        "SettingPercent": 66.05,
+        "DivingPercent": 36.95,
+        "BlockPercent": 46.65,
+        "SpikePercent": 75.75
+      },
+      "4": {
+        "ServePercent": 90.4,
+        "ReceivePercent": 47.2,
+        "SettingPercent": 66.4,
+        "DivingPercent": 37.6,
+        "BlockPercent": 47.2,
+        "SpikePercent": 76.0
+      },
+      "5": {
+        "ServePercent": 90.5,
+        "ReceivePercent": 47.75,
+        "SettingPercent": 66.75,
+        "DivingPercent": 38.25,
+        "BlockPercent": 47.75,
+        "SpikePercent": 76.25
+      },
+      "6": {
+        "ServePercent": 90.6,
+        "ReceivePercent": 48.3,
+        "SettingPercent": 67.1,
+        "DivingPercent": 38.9,
+        "BlockPercent": 48.3,
+        "SpikePercent": 76.5
+      },
+      "7": {
+        "ServePercent": 90.7,
+        "ReceivePercent": 48.85,
+        "SettingPercent": 67.45,
+        "DivingPercent": 39.55,
+        "BlockPercent": 48.85,
+        "SpikePercent": 76.75
+      },
+      "8": {
+        "ServePercent": 90.8,
+        "ReceivePercent": 49.4,
+        "SettingPercent": 67.8,
+        "DivingPercent": 40.2,
+        "BlockPercent": 49.4,
+        "SpikePercent": 77.0
+      },
+      "9": {
+        "ServePercent": 90.9,
+        "ReceivePercent": 49.95,
+        "SettingPercent": 68.15,
+        "DivingPercent": 40.85,
+        "BlockPercent": 49.95,
+        "SpikePercent": 77.25
+      },
+      "10": {
+        "ServePercent": 91.0,
+        "ReceivePercent": 50.5,
+        "SettingPercent": 68.5,
+        "DivingPercent": 41.5,
+        "BlockPercent": 50.5,
+        "SpikePercent": 77.5
+      },
+      "11": {
+        "ServePercent": 91.1,
+        "ReceivePercent": 51.05,
+        "SettingPercent": 68.85,
+        "DivingPercent": 42.15,
+        "BlockPercent": 51.05,
+        "SpikePercent": 77.75
+      },
+      "12": {
+        "ServePercent": 91.2,
+        "ReceivePercent": 51.6,
+        "SettingPercent": 69.2,
+        "DivingPercent": 42.8,
+        "BlockPercent": 51.6,
+        "SpikePercent": 78.0
+      },
+      "13": {
+        "ServePercent": 91.3,
+        "ReceivePercent": 52.15,
+        "SettingPercent": 69.55,
+        "DivingPercent": 43.45,
+        "BlockPercent": 52.15,
+        "SpikePercent": 78.25
+      },
+      "14": {
+        "ServePercent": 91.4,
+        "ReceivePercent": 52.7,
+        "SettingPercent": 69.9,
+        "DivingPercent": 44.1,
+        "BlockPercent": 52.7,
+        "SpikePercent": 78.5
+      },
+      "15": {
+        "ServePercent": 91.5,
+        "ReceivePercent": 53.25,
+        "SettingPercent": 70.25,
+        "DivingPercent": 44.75,
+        "BlockPercent": 53.25,
+        "SpikePercent": 78.75
+      },
+      "16": {
+        "ServePercent": 91.6,
+        "ReceivePercent": 53.8,
+        "SettingPercent": 70.6,
+        "DivingPercent": 45.4,
+        "BlockPercent": 53.8,
+        "SpikePercent": 79.0
+      },
+      "17": {
+        "ServePercent": 91.7,
+        "ReceivePercent": 54.35,
+        "SettingPercent": 70.95,
+        "DivingPercent": 46.05,
+        "BlockPercent": 54.35,
+        "SpikePercent": 79.25
+      },
+      "18": {
+        "ServePercent": 91.8,
+        "ReceivePercent": 54.9,
+        "SettingPercent": 71.3,
+        "DivingPercent": 46.7,
+        "BlockPercent": 54.9,
+        "SpikePercent": 79.5
+      },
+      "19": {
+        "ServePercent": 91.9,
+        "ReceivePercent": 55.45,
+        "SettingPercent": 71.65,
+        "DivingPercent": 47.35,
+        "BlockPercent": 55.45,
+        "SpikePercent": 79.75
+      },
+      "20": {
+        "ServePercent": 92.0,
+        "ReceivePercent": 56.0,
+        "SettingPercent": 72.0,
+        "DivingPercent": 48.0,
+        "BlockPercent": 56.0,
+        "SpikePercent": 80.0
+      },
+      "21": {
+        "ServePercent": 92.1,
+        "ReceivePercent": 56.55,
+        "SettingPercent": 72.35,
+        "DivingPercent": 48.65,
+        "BlockPercent": 56.55,
+        "SpikePercent": 80.25
+      },
+      "22": {
+        "ServePercent": 92.2,
+        "ReceivePercent": 57.1,
+        "SettingPercent": 72.7,
+        "DivingPercent": 49.3,
+        "BlockPercent": 57.1,
+        "SpikePercent": 80.5
+      },
+      "23": {
+        "ServePercent": 92.3,
+        "ReceivePercent": 57.65,
+        "SettingPercent": 73.05,
+        "DivingPercent": 49.95,
+        "BlockPercent": 57.65,
+        "SpikePercent": 80.75
+      },
+      "24": {
+        "ServePercent": 92.4,
+        "ReceivePercent": 58.2,
+        "SettingPercent": 73.4,
+        "DivingPercent": 50.6,
+        "BlockPercent": 58.2,
+        "SpikePercent": 81.0
+      },
+      "25": {
+        "ServePercent": 92.5,
+        "ReceivePercent": 58.75,
+        "SettingPercent": 73.75,
+        "DivingPercent": 51.25,
+        "BlockPercent": 58.75,
+        "SpikePercent": 81.25
+      },
+      "26": {
+        "ServePercent": 92.6,
+        "ReceivePercent": 59.3,
+        "SettingPercent": 74.1,
+        "DivingPercent": 51.9,
+        "BlockPercent": 59.3,
+        "SpikePercent": 81.5
+      },
+      "27": {
+        "ServePercent": 92.7,
+        "ReceivePercent": 59.85,
+        "SettingPercent": 74.45,
+        "DivingPercent": 52.55,
+        "BlockPercent": 59.85,
+        "SpikePercent": 81.75
+      },
+      "28": {
+        "ServePercent": 92.8,
+        "ReceivePercent": 60.4,
+        "SettingPercent": 74.8,
+        "DivingPercent": 53.2,
+        "BlockPercent": 60.4,
+        "SpikePercent": 82.0
+      },
+      "29": {
+        "ServePercent": 92.9,
+        "ReceivePercent": 60.95,
+        "SettingPercent": 75.15,
+        "DivingPercent": 53.85,
+        "BlockPercent": 60.95,
+        "SpikePercent": 82.25
+      },
+      "30": {
+        "ServePercent": 93.0,
+        "ReceivePercent": 61.5,
+        "SettingPercent": 75.5,
+        "DivingPercent": 54.5,
+        "BlockPercent": 61.5,
+        "SpikePercent": 82.5
+      },
+      "31": {
+        "ServePercent": 93.1,
+        "ReceivePercent": 62.05,
+        "SettingPercent": 75.85,
+        "DivingPercent": 55.15,
+        "BlockPercent": 62.05,
+        "SpikePercent": 82.75
+      },
+      "32": {
+        "ServePercent": 93.2,
+        "ReceivePercent": 62.6,
+        "SettingPercent": 76.2,
+        "DivingPercent": 55.8,
+        "BlockPercent": 62.6,
+        "SpikePercent": 83.0
+      },
+      "33": {
+        "ServePercent": 93.3,
+        "ReceivePercent": 63.15,
+        "SettingPercent": 76.55,
+        "DivingPercent": 56.45,
+        "BlockPercent": 63.15,
+        "SpikePercent": 83.25
+      },
+      "34": {
+        "ServePercent": 93.4,
+        "ReceivePercent": 63.7,
+        "SettingPercent": 76.9,
+        "DivingPercent": 57.1,
+        "BlockPercent": 63.7,
+        "SpikePercent": 83.5
+      },
+      "35": {
+        "ServePercent": 93.5,
+        "ReceivePercent": 64.25,
+        "SettingPercent": 77.25,
+        "DivingPercent": 57.75,
+        "BlockPercent": 64.25,
+        "SpikePercent": 83.75
+      },
+      "36": {
+        "ServePercent": 93.6,
+        "ReceivePercent": 64.8,
+        "SettingPercent": 77.6,
+        "DivingPercent": 58.4,
+        "BlockPercent": 64.8,
+        "SpikePercent": 84.0
+      },
+      "37": {
+        "ServePercent": 93.7,
+        "ReceivePercent": 65.35,
+        "SettingPercent": 77.95,
+        "DivingPercent": 59.05,
+        "BlockPercent": 65.35,
+        "SpikePercent": 84.25
+      },
+      "38": {
+        "ServePercent": 93.8,
+        "ReceivePercent": 65.9,
+        "SettingPercent": 78.3,
+        "DivingPercent": 59.7,
+        "BlockPercent": 65.9,
+        "SpikePercent": 84.5
+      },
+      "39": {
+        "ServePercent": 93.9,
+        "ReceivePercent": 66.45,
+        "SettingPercent": 78.65,
+        "DivingPercent": 60.35,
+        "BlockPercent": 66.45,
+        "SpikePercent": 84.75
+      },
+      "40": {
+        "ServePercent": 94.0,
+        "ReceivePercent": 67.0,
+        "SettingPercent": 79.0,
+        "DivingPercent": 61.0,
+        "BlockPercent": 67.0,
+        "SpikePercent": 85.0
+      },
+      "41": {
+        "ServePercent": 94.1,
+        "ReceivePercent": 67.55,
+        "SettingPercent": 79.35,
+        "DivingPercent": 61.65,
+        "BlockPercent": 67.55,
+        "SpikePercent": 85.25
+      },
+      "42": {
+        "ServePercent": 94.2,
+        "ReceivePercent": 68.1,
+        "SettingPercent": 79.7,
+        "DivingPercent": 62.3,
+        "BlockPercent": 68.1,
+        "SpikePercent": 85.5
+      },
+      "43": {
+        "ServePercent": 94.3,
+        "ReceivePercent": 68.65,
+        "SettingPercent": 80.05,
+        "DivingPercent": 62.95,
+        "BlockPercent": 68.65,
+        "SpikePercent": 85.75
+      },
+      "44": {
+        "ServePercent": 94.4,
+        "ReceivePercent": 69.2,
+        "SettingPercent": 80.4,
+        "DivingPercent": 63.6,
+        "BlockPercent": 69.2,
+        "SpikePercent": 86.0
+      },
+      "45": {
+        "ServePercent": 94.5,
+        "ReceivePercent": 69.75,
+        "SettingPercent": 80.75,
+        "DivingPercent": 64.25,
+        "BlockPercent": 69.75,
+        "SpikePercent": 86.25
+      },
+      "46": {
+        "ServePercent": 94.6,
+        "ReceivePercent": 70.3,
+        "SettingPercent": 81.1,
+        "DivingPercent": 64.9,
+        "BlockPercent": 70.3,
+        "SpikePercent": 86.5
+      },
+      "47": {
+        "ServePercent": 94.7,
+        "ReceivePercent": 70.85,
+        "SettingPercent": 81.45,
+        "DivingPercent": 65.55,
+        "BlockPercent": 70.85,
+        "SpikePercent": 86.75
+      },
+      "48": {
+        "ServePercent": 94.8,
+        "ReceivePercent": 71.4,
+        "SettingPercent": 81.8,
+        "DivingPercent": 66.2,
+        "BlockPercent": 71.4,
+        "SpikePercent": 87.0
+      },
+      "49": {
+        "ServePercent": 94.9,
+        "ReceivePercent": 71.95,
+        "SettingPercent": 82.15,
+        "DivingPercent": 66.85,
+        "BlockPercent": 71.95,
+        "SpikePercent": 87.25
+      },
+      "50": {
+        "ServePercent": 95.0,
+        "ReceivePercent": 72.5,
+        "SettingPercent": 82.5,
+        "DivingPercent": 67.5,
+        "BlockPercent": 72.5,
+        "SpikePercent": 87.5
+      },
+      "51": {
+        "ServePercent": 95.1,
+        "ReceivePercent": 73.05,
+        "SettingPercent": 82.85,
+        "DivingPercent": 68.15,
+        "BlockPercent": 73.05,
+        "SpikePercent": 87.75
+      },
+      "52": {
+        "ServePercent": 95.2,
+        "ReceivePercent": 73.6,
+        "SettingPercent": 83.2,
+        "DivingPercent": 68.8,
+        "BlockPercent": 73.6,
+        "SpikePercent": 88.0
+      },
+      "53": {
+        "ServePercent": 95.3,
+        "ReceivePercent": 74.15,
+        "SettingPercent": 83.55,
+        "DivingPercent": 69.45,
+        "BlockPercent": 74.15,
+        "SpikePercent": 88.25
+      },
+      "54": {
+        "ServePercent": 95.4,
+        "ReceivePercent": 74.7,
+        "SettingPercent": 83.9,
+        "DivingPercent": 70.1,
+        "BlockPercent": 74.7,
+        "SpikePercent": 88.5
+      },
+      "55": {
+        "ServePercent": 95.5,
+        "ReceivePercent": 75.25,
+        "SettingPercent": 84.25,
+        "DivingPercent": 70.75,
+        "BlockPercent": 75.25,
+        "SpikePercent": 88.75
+      },
+      "56": {
+        "ServePercent": 95.6,
+        "ReceivePercent": 75.8,
+        "SettingPercent": 84.6,
+        "DivingPercent": 71.4,
+        "BlockPercent": 75.8,
+        "SpikePercent": 89.0
+      },
+      "57": {
+        "ServePercent": 95.7,
+        "ReceivePercent": 76.35,
+        "SettingPercent": 84.95,
+        "DivingPercent": 72.05,
+        "BlockPercent": 76.35,
+        "SpikePercent": 89.25
+      },
+      "58": {
+        "ServePercent": 95.8,
+        "ReceivePercent": 76.9,
+        "SettingPercent": 85.3,
+        "DivingPercent": 72.7,
+        "BlockPercent": 76.9,
+        "SpikePercent": 89.5
+      },
+      "59": {
+        "ServePercent": 95.9,
+        "ReceivePercent": 77.45,
+        "SettingPercent": 85.65,
+        "DivingPercent": 73.35,
+        "BlockPercent": 77.45,
+        "SpikePercent": 89.75
+      },
+      "60": {
+        "ServePercent": 96.0,
+        "ReceivePercent": 78.0,
+        "SettingPercent": 86.0,
+        "DivingPercent": 74.0,
+        "BlockPercent": 78.0,
+        "SpikePercent": 90.0
+      },
+      "61": {
+        "ServePercent": 96.1,
+        "ReceivePercent": 78.55,
+        "SettingPercent": 86.35,
+        "DivingPercent": 74.65,
+        "BlockPercent": 78.55,
+        "SpikePercent": 90.25
+      },
+      "62": {
+        "ServePercent": 96.2,
+        "ReceivePercent": 79.1,
+        "SettingPercent": 86.7,
+        "DivingPercent": 75.3,
+        "BlockPercent": 79.1,
+        "SpikePercent": 90.5
+      },
+      "63": {
+        "ServePercent": 96.3,
+        "ReceivePercent": 79.65,
+        "SettingPercent": 87.05,
+        "DivingPercent": 75.95,
+        "BlockPercent": 79.65,
+        "SpikePercent": 90.75
+      },
+      "64": {
+        "ServePercent": 96.4,
+        "ReceivePercent": 80.2,
+        "SettingPercent": 87.4,
+        "DivingPercent": 76.6,
+        "BlockPercent": 80.2,
+        "SpikePercent": 91.0
+      },
+      "65": {
+        "ServePercent": 96.5,
+        "ReceivePercent": 80.75,
+        "SettingPercent": 87.75,
+        "DivingPercent": 77.25,
+        "BlockPercent": 80.75,
+        "SpikePercent": 91.25
+      },
+      "66": {
+        "ServePercent": 96.6,
+        "ReceivePercent": 81.3,
+        "SettingPercent": 88.1,
+        "DivingPercent": 77.9,
+        "BlockPercent": 81.3,
+        "SpikePercent": 91.5
+      },
+      "67": {
+        "ServePercent": 96.7,
+        "ReceivePercent": 81.85,
+        "SettingPercent": 88.45,
+        "DivingPercent": 78.55,
+        "BlockPercent": 81.85,
+        "SpikePercent": 91.75
+      },
+      "68": {
+        "ServePercent": 96.8,
+        "ReceivePercent": 82.4,
+        "SettingPercent": 88.8,
+        "DivingPercent": 79.2,
+        "BlockPercent": 82.4,
+        "SpikePercent": 92.0
+      },
+      "69": {
+        "ServePercent": 96.9,
+        "ReceivePercent": 82.95,
+        "SettingPercent": 89.15,
+        "DivingPercent": 79.85,
+        "BlockPercent": 82.95,
+        "SpikePercent": 92.25
+      },
+      "70": {
+        "ServePercent": 97.0,
+        "ReceivePercent": 83.5,
+        "SettingPercent": 89.5,
+        "DivingPercent": 80.5,
+        "BlockPercent": 83.5,
+        "SpikePercent": 92.5
+      },
+      "71": {
+        "ServePercent": 97.1,
+        "ReceivePercent": 84.05,
+        "SettingPercent": 89.85,
+        "DivingPercent": 81.15,
+        "BlockPercent": 84.05,
+        "SpikePercent": 92.75
+      },
+      "72": {
+        "ServePercent": 97.2,
+        "ReceivePercent": 84.6,
+        "SettingPercent": 90.2,
+        "DivingPercent": 81.8,
+        "BlockPercent": 84.6,
+        "SpikePercent": 93.0
+      },
+      "73": {
+        "ServePercent": 97.3,
+        "ReceivePercent": 85.15,
+        "SettingPercent": 90.55,
+        "DivingPercent": 82.45,
+        "BlockPercent": 85.15,
+        "SpikePercent": 93.25
+      },
+      "74": {
+        "ServePercent": 97.4,
+        "ReceivePercent": 85.7,
+        "SettingPercent": 90.9,
+        "DivingPercent": 83.1,
+        "BlockPercent": 85.7,
+        "SpikePercent": 93.5
+      },
+      "75": {
+        "ServePercent": 97.5,
+        "ReceivePercent": 86.25,
+        "SettingPercent": 91.25,
+        "DivingPercent": 83.75,
+        "BlockPercent": 86.25,
+        "SpikePercent": 93.75
+      },
+      "76": {
+        "ServePercent": 97.6,
+        "ReceivePercent": 86.8,
+        "SettingPercent": 91.6,
+        "DivingPercent": 84.4,
+        "BlockPercent": 86.8,
+        "SpikePercent": 94.0
+      },
+      "77": {
+        "ServePercent": 97.7,
+        "ReceivePercent": 87.35,
+        "SettingPercent": 91.95,
+        "DivingPercent": 85.05,
+        "BlockPercent": 87.35,
+        "SpikePercent": 94.25
+      },
+      "78": {
+        "ServePercent": 97.8,
+        "ReceivePercent": 87.9,
+        "SettingPercent": 92.3,
+        "DivingPercent": 85.7,
+        "BlockPercent": 87.9,
+        "SpikePercent": 94.5
+      },
+      "79": {
+        "ServePercent": 97.9,
+        "ReceivePercent": 88.45,
+        "SettingPercent": 92.65,
+        "DivingPercent": 86.35,
+        "BlockPercent": 88.45,
+        "SpikePercent": 94.75
+      },
+      "80": {
+        "ServePercent": 98.0,
+        "ReceivePercent": 89.0,
+        "SettingPercent": 93.0,
+        "DivingPercent": 87.0,
+        "BlockPercent": 89.0,
+        "SpikePercent": 95.0
+      },
+      "81": {
+        "ServePercent": 98.1,
+        "ReceivePercent": 89.55,
+        "SettingPercent": 93.35,
+        "DivingPercent": 87.65,
+        "BlockPercent": 89.55,
+        "SpikePercent": 95.25
+      },
+      "82": {
+        "ServePercent": 98.2,
+        "ReceivePercent": 90.1,
+        "SettingPercent": 93.7,
+        "DivingPercent": 88.3,
+        "BlockPercent": 90.1,
+        "SpikePercent": 95.5
+      },
+      "83": {
+        "ServePercent": 98.3,
+        "ReceivePercent": 90.65,
+        "SettingPercent": 94.05,
+        "DivingPercent": 88.95,
+        "BlockPercent": 90.65,
+        "SpikePercent": 95.75
+      },
+      "84": {
+        "ServePercent": 98.4,
+        "ReceivePercent": 91.2,
+        "SettingPercent": 94.4,
+        "DivingPercent": 89.6,
+        "BlockPercent": 91.2,
+        "SpikePercent": 96.0
+      },
+      "85": {
+        "ServePercent": 98.5,
+        "ReceivePercent": 91.75,
+        "SettingPercent": 94.75,
+        "DivingPercent": 90.25,
+        "BlockPercent": 91.75,
+        "SpikePercent": 96.25
+      },
+      "86": {
+        "ServePercent": 98.6,
+        "ReceivePercent": 92.3,
+        "SettingPercent": 95.1,
+        "DivingPercent": 90.9,
+        "BlockPercent": 92.3,
+        "SpikePercent": 96.5
+      },
+      "87": {
+        "ServePercent": 98.7,
+        "ReceivePercent": 92.85,
+        "SettingPercent": 95.45,
+        "DivingPercent": 91.55,
+        "BlockPercent": 92.85,
+        "SpikePercent": 96.75
+      },
+      "88": {
+        "ServePercent": 98.8,
+        "ReceivePercent": 93.4,
+        "SettingPercent": 95.8,
+        "DivingPercent": 92.2,
+        "BlockPercent": 93.4,
+        "SpikePercent": 97.0
+      },
+      "89": {
+        "ServePercent": 98.9,
+        "ReceivePercent": 93.95,
+        "SettingPercent": 96.15,
+        "DivingPercent": 92.85,
+        "BlockPercent": 93.95,
+        "SpikePercent": 97.25
+      },
+      "90": {
+        "ServePercent": 99.0,
+        "ReceivePercent": 94.5,
+        "SettingPercent": 96.5,
+        "DivingPercent": 93.5,
+        "BlockPercent": 94.5,
+        "SpikePercent": 97.5
+      },
+      "91": {
+        "ServePercent": 99.1,
+        "ReceivePercent": 95.05,
+        "SettingPercent": 96.85,
+        "DivingPercent": 94.15,
+        "BlockPercent": 95.05,
+        "SpikePercent": 97.75
+      },
+      "92": {
+        "ServePercent": 99.2,
+        "ReceivePercent": 95.6,
+        "SettingPercent": 97.2,
+        "DivingPercent": 94.8,
+        "BlockPercent": 95.6,
+        "SpikePercent": 98.0
+      },
+      "93": {
+        "ServePercent": 99.3,
+        "ReceivePercent": 96.15,
+        "SettingPercent": 97.55,
+        "DivingPercent": 95.45,
+        "BlockPercent": 96.15,
+        "SpikePercent": 98.25
+      },
+      "94": {
+        "ServePercent": 99.4,
+        "ReceivePercent": 96.7,
+        "SettingPercent": 97.9,
+        "DivingPercent": 96.1,
+        "BlockPercent": 96.7,
+        "SpikePercent": 98.5
+      },
+      "95": {
+        "ServePercent": 99.5,
+        "ReceivePercent": 97.25,
+        "SettingPercent": 98.25,
+        "DivingPercent": 96.75,
+        "BlockPercent": 97.25,
+        "SpikePercent": 98.75
+      },
+      "96": {
+        "ServePercent": 99.6,
+        "ReceivePercent": 97.8,
+        "SettingPercent": 98.6,
+        "DivingPercent": 97.4,
+        "BlockPercent": 97.8,
+        "SpikePercent": 99.0
+      },
+      "97": {
+        "ServePercent": 99.7,
+        "ReceivePercent": 98.35,
+        "SettingPercent": 98.95,
+        "DivingPercent": 98.05,
+        "BlockPercent": 98.35,
+        "SpikePercent": 99.25
+      },
+      "98": {
+        "ServePercent": 99.8,
+        "ReceivePercent": 98.9,
+        "SettingPercent": 99.3,
+        "DivingPercent": 98.7,
+        "BlockPercent": 98.9,
+        "SpikePercent": 99.5
+      },
+      "99": {
+        "ServePercent": 99.9,
+        "ReceivePercent": 99.45,
+        "SettingPercent": 99.65,
+        "DivingPercent": 99.35,
+        "BlockPercent": 99.45,
+        "SpikePercent": 99.75
+      },
+      "100": {
+        "ServePercent": 100.0,
+        "ReceivePercent": 100.0,
+        "SettingPercent": 100.0,
+        "DivingPercent": 100.0,
+        "BlockPercent": 100.0,
+        "SpikePercent": 100.0
+      }
+    }
+  }
+]

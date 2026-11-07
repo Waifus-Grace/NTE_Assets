@@ -58,7 +58,9 @@
           "EItemType::ITEM_TYPE_LOCKER_KEY",
           "EItemType::ITEM_TYPE_FISH_BAIT",
           "EItemType::ITEM_TYPE_FISH_KEEP",
-          "EItemType::ITEM_TYPE_DEFENDATHENA_CONSUMABLE"
+          "EItemType::ITEM_TYPE_DEFENDATHENA_CONSUMABLE",
+          "EItemType::ITEM_TYPE_TANKBATTLE_BULLET",
+          "EItemType::ITEM_TYPE_TANKBATTLE_CONSUMABLE"
         ],
         "ExtraDisplayItemTypes": [],
         "ExtraDisplayItemIDs": [],
@@ -78,6 +80,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -166,6 +169,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -219,6 +223,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -273,6 +278,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -326,6 +332,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -374,7 +381,8 @@
           "EItemType::ITEM_TYPE_ROB_BANK_IMPORTANT",
           "EItemType::ITEM_TYPE_ROB_BANK",
           "EItemType::ITEM_TYPE_CHARACTER_CARD",
-          "EItemType::ITEM_TYPE_LIMITED_COUNT_VEHICLE_KEY"
+          "EItemType::ITEM_TYPE_LIMITED_COUNT_VEHICLE_KEY",
+          "EItemType::ITEM_TYPE_WORLD_LAYOUT"
         ],
         "ExtraDisplayItemTypes": [],
         "ExtraDisplayItemIDs": [],
@@ -394,6 +402,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -459,6 +468,7 @@
               "008"
             ]
           },
+          {},
           {}
         ],
         "IconData": {
@@ -1364,6 +1374,51 @@
         "ContainSortTypes": 0,
         "bCanRepeat": false,
         "SyncToClientConditions": []
+      },
+      "MUSEUM_DETECTIVE": {
+        "ContainItemTypes": [
+          "EItemType::ITEM_TYPE_MUSEUM_DETECTIVE"
+        ],
+        "ExtraDisplayItemTypes": [],
+        "ExtraDisplayItemIDs": [],
+        "ContainerCapacity": 50,
+        "ShowInBagTabConditions": [
+          {}
+        ],
+        "IconData": {
+          "NormalImage": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/Skill_XZC/BlackBird/image/number/0.0",
+            "SubPathString": ""
+          },
+          "HoverImage": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/Skill_XZC/BlackBird/image/number/0.0",
+            "SubPathString": ""
+          },
+          "CheckedImage": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/Skill_XZC/BlackBird/image/number/0.0",
+            "SubPathString": ""
+          },
+          "CheckedHoverImage": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/Skill_XZC/BlackBird/image/number/0.0",
+            "SubPathString": ""
+          }
+        },
+        "Showname": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Atk",
+          "SourceString": "攻击力",
+          "LocalizedString": "攻击力"
+        },
+        "bShowAllType": true,
+        "ContainSortTypes": 0,
+        "bCanRepeat": false,
+        "SyncToClientConditions": [
+          {
+            "LimitLevels": [
+              "DLC_Lamp_Story3"
+            ]
+          }
+        ]
       }
     }
   }

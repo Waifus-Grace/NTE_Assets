@@ -1,0 +1,710 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PropHuntRobotInfo",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/PropHunt/DT_PropHuntRobotInfo",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'PropHuntRobotEntry'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_01",
+          "SourceString": "不愿意透露姓名的鉴定师",
+          "LocalizedString": "不愿意透露姓名的鉴定师"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1019_swimsuit",
+          "FrameId": "Frame_1019",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_3_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_3.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "2": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_02",
+          "SourceString": "擅长躲猫猫的海特洛人",
+          "LocalizedString": "擅长躲猫猫的海特洛人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1010_swimsuit",
+          "FrameId": "Frame_1025",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_4_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_4.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "3": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_03",
+          "SourceString": "静待异象拍品的竞拍达人",
+          "LocalizedString": "静待异象拍品的竞拍达人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1042_1",
+          "FrameId": "Frame_1033",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_5_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_5.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "4": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_04",
+          "SourceString": "携带回响的轨外行者",
+          "LocalizedString": "携带回响的轨外行者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1057_nighty",
+          "FrameId": "Frame_1039",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_6_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_6.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "5": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_05",
+          "SourceString": "行踪不定的都市漫游者",
+          "LocalizedString": "行踪不定的都市漫游者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_rpg_level2",
+          "FrameId": "Frame_1052",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_10_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_10.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "6": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_06",
+          "SourceString": "海特洛在逃打工人",
+          "LocalizedString": "海特洛在逃打工人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_1",
+          "FrameId": "Frame_1054",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_11_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_11.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "7": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_07",
+          "SourceString": "异象指定围观群众",
+          "LocalizedString": "异象指定围观群众"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_nighty",
+          "FrameId": "Frame_1055",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_14_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_14.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "8": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_08",
+          "SourceString": "都市怪谈收集者",
+          "LocalizedString": "都市怪谈收集者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_3",
+          "FrameId": "Frame_1057",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_16_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_16.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "9": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_09",
+          "SourceString": "海特洛头号路人",
+          "LocalizedString": "海特洛头号路人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1051_rpg_level3",
+          "FrameId": "Frame_1070",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_18_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_18.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "10": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_10",
+          "SourceString": "海特洛街头观察员",
+          "LocalizedString": "海特洛街头观察员"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_nighty",
+          "FrameId": "Frame_1071",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_21_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_21.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "11": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_11",
+          "SourceString": "都市传闻搬运工",
+          "LocalizedString": "都市传闻搬运工"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_3",
+          "FrameId": "Frame_SNv10_Oversea_CC01",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_24_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_24.0"
+        },
+        "LevelName": "DLC_School_HideAndSeek"
+      },
+      "12": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_01",
+          "SourceString": "不愿意透露姓名的鉴定师",
+          "LocalizedString": "不愿意透露姓名的鉴定师"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1019_swimsuit",
+          "FrameId": "Frame_1019",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_34_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_34.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "13": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_02",
+          "SourceString": "擅长躲猫猫的海特洛人",
+          "LocalizedString": "擅长躲猫猫的海特洛人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1010_swimsuit",
+          "FrameId": "Frame_1025",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_35_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_35.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "14": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_03",
+          "SourceString": "静待异象拍品的竞拍达人",
+          "LocalizedString": "静待异象拍品的竞拍达人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1042_1",
+          "FrameId": "Frame_1033",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_36_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_36.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "15": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_04",
+          "SourceString": "携带回响的轨外行者",
+          "LocalizedString": "携带回响的轨外行者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1057_nighty",
+          "FrameId": "Frame_1039",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_28_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_28.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "16": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_05",
+          "SourceString": "行踪不定的都市漫游者",
+          "LocalizedString": "行踪不定的都市漫游者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_rpg_level2",
+          "FrameId": "Frame_1052",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_30_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_30.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "17": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_06",
+          "SourceString": "海特洛在逃打工人",
+          "LocalizedString": "海特洛在逃打工人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_1",
+          "FrameId": "Frame_1054",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_31_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_31.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "18": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_07",
+          "SourceString": "异象指定围观群众",
+          "LocalizedString": "异象指定围观群众"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_nighty",
+          "FrameId": "Frame_1055",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_41_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_41.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "19": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_08",
+          "SourceString": "都市怪谈收集者",
+          "LocalizedString": "都市怪谈收集者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_3",
+          "FrameId": "Frame_1057",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_42_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_42.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "20": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_09",
+          "SourceString": "海特洛头号路人",
+          "LocalizedString": "海特洛头号路人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1051_rpg_level3",
+          "FrameId": "Frame_1070",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_34_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_34.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "21": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_10",
+          "SourceString": "海特洛街头观察员",
+          "LocalizedString": "海特洛街头观察员"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_nighty",
+          "FrameId": "Frame_1071",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_35_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_35.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "22": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_11",
+          "SourceString": "都市传闻搬运工",
+          "LocalizedString": "都市传闻搬运工"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_3",
+          "FrameId": "Frame_SNv10_Oversea_CC01",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_36_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_36.0"
+        },
+        "LevelName": "DLC_FilmOrbit_HideAndSeek"
+      },
+      "23": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_01",
+          "SourceString": "不愿意透露姓名的鉴定师",
+          "LocalizedString": "不愿意透露姓名的鉴定师"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1019_swimsuit",
+          "FrameId": "Frame_1019",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_43_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_43.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "24": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_02",
+          "SourceString": "擅长躲猫猫的海特洛人",
+          "LocalizedString": "擅长躲猫猫的海特洛人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1010_swimsuit",
+          "FrameId": "Frame_1025",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_46_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_46.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "25": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_03",
+          "SourceString": "静待异象拍品的竞拍达人",
+          "LocalizedString": "静待异象拍品的竞拍达人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1042_1",
+          "FrameId": "Frame_1033",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_48_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_48.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "26": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_04",
+          "SourceString": "携带回响的轨外行者",
+          "LocalizedString": "携带回响的轨外行者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1057_nighty",
+          "FrameId": "Frame_1039",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_49_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_49.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "27": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_05",
+          "SourceString": "行踪不定的都市漫游者",
+          "LocalizedString": "行踪不定的都市漫游者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_rpg_level2",
+          "FrameId": "Frame_1052",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_54_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_54.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "28": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_06",
+          "SourceString": "海特洛在逃打工人",
+          "LocalizedString": "海特洛在逃打工人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1075_1",
+          "FrameId": "Frame_1054",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_55_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_55.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "29": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_07",
+          "SourceString": "异象指定围观群众",
+          "LocalizedString": "异象指定围观群众"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_nighty",
+          "FrameId": "Frame_1055",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_43_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_43.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "30": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_08",
+          "SourceString": "都市怪谈收集者",
+          "LocalizedString": "都市怪谈收集者"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1076_3",
+          "FrameId": "Frame_1057",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_44_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_44.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "31": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_09",
+          "SourceString": "海特洛头号路人",
+          "LocalizedString": "海特洛头号路人"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1051_rpg_level3",
+          "FrameId": "Frame_1070",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_48_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_48.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "32": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_10",
+          "SourceString": "海特洛街头观察员",
+          "LocalizedString": "海特洛街头观察员"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_nighty",
+          "FrameId": "Frame_1071",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_51_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_51.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      },
+      "33": {
+        "RobotName": {
+          "TableId": "/Game/Text/ST_UI_lsh.ST_UI_lsh",
+          "Key": "PropHunt_Name_11",
+          "SourceString": "都市传闻搬运工",
+          "LocalizedString": "都市传闻搬运工"
+        },
+        "RobotAvatar": {
+          "ID": "Fashion_1004_3",
+          "FrameId": "Frame_SNv10_Oversea_CC01",
+          "BackGroundId": "None",
+          "TitleId": "None",
+          "TitleCustomNameValue": 0,
+          "TitleBlueprintIndex": -1
+        },
+        "RobotClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_PropHuntRobot_54_C'",
+          "ObjectPath": "/Game/Blueprints/Actors/PropHunt/RobotCharacters/BP_PropHuntRobot_54.0"
+        },
+        "LevelName": "DLC_Hospital_HideAndSeek"
+      }
+    }
+  }
+]

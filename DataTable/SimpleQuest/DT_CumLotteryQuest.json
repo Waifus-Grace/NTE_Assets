@@ -1,0 +1,2423 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CumLotteryQuest",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/SimpleQuest/DT_CumLotteryQuest",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'SimpleQuestStaticData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "CumLotteryQuest_1": {
+        "QuestId": "CumLotteryQuest_1",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_1_name",
+          "SourceString": "累计登录3天",
+          "LocalizedString": "累计登录3天"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::TotalLoginDays",
+          "Amount": 3
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest1",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_2": {
+        "QuestId": "CumLotteryQuest_2",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_2_name",
+          "SourceString": "累计消耗200点都市活力",
+          "LocalizedString": "累计消耗200点都市活力"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "StaminaName": "CityStamina",
+          "ObjectiveType": "ESimpleQuestObjType::CommonStaminaUsed",
+          "Amount": 200
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest2",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_3": {
+        "QuestId": "CumLotteryQuest_3",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_3_name",
+          "SourceString": "累计消耗720点本性像素",
+          "LocalizedString": "累计消耗720点本性像素"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "StaminaName": "Stamina",
+          "ObjectiveType": "ESimpleQuestObjType::CommonStaminaUsed",
+          "Amount": 720
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest3",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_4": {
+        "QuestId": "CumLotteryQuest_4",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_4_name",
+          "SourceString": "累计消耗100,000甲硬币",
+          "LocalizedString": "累计消耗100,000甲硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": true,
+          "bUseItem": true,
+          "ItemIDArray": [
+            "gold"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 100000
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest4",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_5": {
+        "QuestId": "CumLotteryQuest_5",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_5_name",
+          "SourceString": "累计消耗500,000方斯",
+          "LocalizedString": "累计消耗500,000方斯"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": true,
+          "bUseItem": true,
+          "ItemIDArray": [
+            "fons"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 500000
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest5",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_6": {
+        "QuestId": "CumLotteryQuest_6",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_6_name",
+          "SourceString": "累计赚取300,000方斯",
+          "LocalizedString": "累计赚取300,000方斯"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_CAPITAL",
+          "bNeedNewAdd": true,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "fons"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 300000
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest6",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_7": {
+        "QuestId": "CumLotteryQuest_7",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_7_name",
+          "SourceString": "赠送10次礼物",
+          "LocalizedString": "赠送10次礼物"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "SubQuests": [],
+          "ObjectiveType": "ESimpleQuestObjType::SendGift",
+          "Amount": 10
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest7",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_8": {
+        "QuestId": "CumLotteryQuest_8",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_8_name",
+          "SourceString": "空幕「倒带」10次",
+          "LocalizedString": "空幕「倒带」10次"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::EquipmentLottery",
+          "Amount": 10
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest8",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_9": {
+        "QuestId": "CumLotteryQuest_9",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_9_name",
+          "SourceString": "通关3次兔子洞",
+          "LocalizedString": "通关3次兔子洞"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "CloneIDArray": [],
+          "CloneType": "ECloneType::AirCurtain_Clone",
+          "CloneDifficultyLevel": 0,
+          "ObjectiveType": "ESimpleQuestObjType::CloneCompleted",
+          "Amount": 3
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest9",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryQuest_10": {
+        "QuestId": "CumLotteryQuest_10",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryQuest_10_name",
+          "SourceString": "通关1次异象巡礼",
+          "LocalizedString": "通关1次异象巡礼"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "CloneIDArray": [],
+          "CloneType": "ECloneType::Weekly_Clone",
+          "CloneDifficultyLevel": 0,
+          "ObjectiveType": "ESimpleQuestObjType::CloneCompleted",
+          "Amount": 1
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryQuest10",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CollectCoins"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_1": {
+        "QuestId": "CumLotteryAward_1",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_1_name",
+          "SourceString": "累计获得300枚分福硬币",
+          "LocalizedString": "累计获得300枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 300
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward1",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_2": {
+        "QuestId": "CumLotteryAward_2",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_2_name",
+          "SourceString": "累计获得600枚分福硬币",
+          "LocalizedString": "累计获得600枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 600
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward2",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_3": {
+        "QuestId": "CumLotteryAward_3",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_3_name",
+          "SourceString": "累计获得900枚分福硬币",
+          "LocalizedString": "累计获得900枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 900
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward3",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_4": {
+        "QuestId": "CumLotteryAward_4",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_4_name",
+          "SourceString": "累计获得1200枚分福硬币",
+          "LocalizedString": "累计获得1200枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 1200
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward4",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_5": {
+        "QuestId": "CumLotteryAward_5",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_5_name",
+          "SourceString": "累计获得1500枚分福硬币",
+          "LocalizedString": "累计获得1500枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 1500
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward5",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_6": {
+        "QuestId": "CumLotteryAward_6",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_6_name",
+          "SourceString": "累计获得1800枚分福硬币",
+          "LocalizedString": "累计获得1800枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 1800
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward6",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_7": {
+        "QuestId": "CumLotteryAward_7",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_7_name",
+          "SourceString": "累计获得2100枚分福硬币",
+          "LocalizedString": "累计获得2100枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 2100
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward7",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_8": {
+        "QuestId": "CumLotteryAward_8",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_8_name",
+          "SourceString": "累计获得2400枚分福硬币",
+          "LocalizedString": "累计获得2400枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 2400
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward8",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_9": {
+        "QuestId": "CumLotteryAward_9",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_9_name",
+          "SourceString": "累计获得2700枚分福硬币",
+          "LocalizedString": "累计获得2700枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 2700
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward9",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_10": {
+        "QuestId": "CumLotteryAward_10",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_10_name",
+          "SourceString": "累计获得3000枚分福硬币",
+          "LocalizedString": "累计获得3000枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 3000
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward10",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_11": {
+        "QuestId": "CumLotteryAward_11",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_11_name",
+          "SourceString": "累计获得3300枚分福硬币",
+          "LocalizedString": "累计获得3300枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 3300
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward11",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_12": {
+        "QuestId": "CumLotteryAward_12",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_12_name",
+          "SourceString": "累计获得3600枚分福硬币",
+          "LocalizedString": "累计获得3600枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 3600
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward12",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_13": {
+        "QuestId": "CumLotteryAward_13",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_13_name",
+          "SourceString": "累计获得3900枚分福硬币",
+          "LocalizedString": "累计获得3900枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 3900
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward13",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_14": {
+        "QuestId": "CumLotteryAward_14",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_14_name",
+          "SourceString": "累计获得4200枚分福硬币",
+          "LocalizedString": "累计获得4200枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 4200
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward14",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_15": {
+        "QuestId": "CumLotteryAward_15",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_15_name",
+          "SourceString": "累计获得4500枚分福硬币",
+          "LocalizedString": "累计获得4500枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 4500
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward15",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_16": {
+        "QuestId": "CumLotteryAward_16",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_16_name",
+          "SourceString": "累计获得4800枚分福硬币",
+          "LocalizedString": "累计获得4800枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 4800
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward16",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_17": {
+        "QuestId": "CumLotteryAward_17",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_17_name",
+          "SourceString": "累计获得5100枚分福硬币",
+          "LocalizedString": "累计获得5100枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 5100
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward17",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_18": {
+        "QuestId": "CumLotteryAward_18",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_18_name",
+          "SourceString": "累计获得5400枚分福硬币",
+          "LocalizedString": "累计获得5400枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 5400
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward18",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_19": {
+        "QuestId": "CumLotteryAward_19",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_19_name",
+          "SourceString": "累计获得5700枚分福硬币",
+          "LocalizedString": "累计获得5700枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 5700
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward19",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      },
+      "CumLotteryAward_20": {
+        "QuestId": "CumLotteryAward_20",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
+          "Key": "CumLotteryAward_20_name",
+          "SourceString": "累计获得6000枚分福硬币",
+          "LocalizedString": "累计获得6000枚分福硬币"
+        },
+        "SimpleQuestType": "ESimpleQuestType::OpActivity_CumLottery",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "bNeedItemsByType": false,
+          "ItemType": "EItemType::ITEM_TYPE_NONE",
+          "bNeedNewAdd": false,
+          "bUseItem": false,
+          "ItemIDArray": [
+            "CumLotteryCoin_01"
+          ],
+          "IsVehicleKey": false,
+          "VehicleKeyTypeArray": [],
+          "ObjectiveType": "ESimpleQuestObjType::ItemInBag",
+          "Amount": 6000
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "drop_CumLotteryAward20",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": {
+          "Tab": "ECumLotteryQuestTab::CoinProgress"
+        },
+        "bPopAwardsWindow": true,
+        "bTimeLimitQuest": false,
+        "QuestStartTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "QuestEndTime": {
+          "MainlandTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaTime": {
+            "Year": 1,
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 0,
+            "Second": 0
+          },
+          "OverseaUseUTCTime": true
+        },
+        "ConditionArray": []
+      }
+    }
+  }
+]

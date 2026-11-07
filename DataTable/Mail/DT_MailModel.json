@@ -976,6 +976,41 @@
         "MailPath": 0,
         "bIsPermanent": false,
         "Hyperlinks": ""
+      },
+      "Mail_CumLottery": {
+        "MailType": "EHTMailType::MT_PLAYER",
+        "MailSubType": "EHTMailSubType::MT_Sub_Mail_Star",
+        "MailTitle": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
+          "SourceString": "活动遗失奖励补发",
+          "LocalizedString": "活动遗失奖励补发"
+        },
+        "MailSubTitle": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
+          "SourceString": "活动遗失奖励补发",
+          "LocalizedString": "活动遗失奖励补发"
+        },
+        "MailContent": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "DT_MailModel_Mail_Lotteryreissue_Content",
+          "SourceString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。",
+          "LocalizedString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。"
+        },
+        "MailParams": "",
+        "MailSender": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Mail_Fork_Sender",
+          "SourceString": "巡警蚁",
+          "LocalizedString": "巡警蚁"
+        },
+        "MailAttachStr": "",
+        "DropID": "None",
+        "MailConditions": "",
+        "MailPath": 0,
+        "bIsPermanent": false,
+        "Hyperlinks": ""
       }
     }
   }

@@ -542,6 +542,87 @@
           "SubPathString": ""
         },
         "FeatureActiveData": null
+      },
+      "Vehicle045_Skin001": {
+        "SkinID": "Vehicle045_Skin001",
+        "VehicleID": "Vehicle045",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle018_Skin001",
+          "SourceString": "原版",
+          "LocalizedString": "原版"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "bDefault": true,
+        "PreviewIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "InVehicleBase": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight.BP_Vehicle_045_Hight_C",
+          "SubPathString": ""
+        },
+        "InVehicleSkin": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight.BP_Vehicle_045_Hight_C",
+          "SubPathString": ""
+        },
+        "FeatureActiveData": null
+      },
+      "Vehicle045_Skin002": {
+        "SkinID": "Vehicle045_Skin002",
+        "VehicleID": "Vehicle045",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle045_Original_desc",
+          "SourceString": "「坦途」的原厂形态",
+          "LocalizedString": "「坦途」的原厂形态"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "bDefault": false,
+        "PreviewIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "InVehicleBase": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight.BP_Vehicle_045_Hight_C",
+          "SubPathString": ""
+        },
+        "InVehicleSkin": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight_Skin_01.BP_Vehicle_045_Hight_Skin_01_C",
+          "SubPathString": ""
+        },
+        "FeatureActiveData": null
+      },
+      "Vehicle045_Skin003": {
+        "SkinID": "Vehicle045_Skin003",
+        "VehicleID": "Vehicle045",
+        "Name": {
+          "TableId": "/Game/Text/ST_VehicleData.ST_VehicleData",
+          "Key": "Vehicle045_Original_desc",
+          "SourceString": "「坦途」的原厂形态",
+          "LocalizedString": "「坦途」的原厂形态"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "bDefault": false,
+        "PreviewIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_car_ICON30.YH_UI_car_ICON30",
+          "SubPathString": ""
+        },
+        "InVehicleBase": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight.BP_Vehicle_045_Hight_C",
+          "SubPathString": ""
+        },
+        "InVehicleSkin": {
+          "AssetPathName": "/Game/Blueprints/Vehicle/Vehicle_045/BP_Vehicle_045_Hight_Skin_02.BP_Vehicle_045_Hight_Skin_02_C",
+          "SubPathString": ""
+        },
+        "FeatureActiveData": null
       }
     }
   }

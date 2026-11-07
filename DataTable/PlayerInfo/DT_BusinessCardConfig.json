@@ -2867,6 +2867,342 @@
         "DisplayRegion": "ETitleDisplayRegion::All",
         "bActivateVisible": false,
         "ShowLinkCharacterID": "None"
+      },
+      "Combat_BussinessCard_07": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_BussinessCard_07_Name",
+          "SourceString": "异想迷城",
+          "LocalizedString": "异想迷城"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_07_Obtain",
+          "SourceString": "第6期环期赏令奖励",
+          "LocalizedString": "第6期环期赏令奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "Combat_BussinessCard_07_Desc",
+          "SourceString": "恭喜玩家达成隐藏成就：？？我？",
+          "LocalizedString": "恭喜玩家达成隐藏成就：？？我？"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Combat_Card_07_s.Combat_Card_07_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/Combat_Card_07.Combat_Card_07",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/Combat_Card_07_long.Combat_Card_07_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None"
+      },
+      "BusinessCard_Logistics": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "BusinessCard_Logistics_Name",
+          "SourceString": "远大理想",
+          "LocalizedString": "远大理想"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "BusinessCard_Logistics_Obtain",
+          "SourceString": "限时活动「运通全城」获得",
+          "LocalizedString": "限时活动「运通全城」获得"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "BusinessCard_Logistics_Desc",
+          "SourceString": "本店第一个小目标是：超越斯特利速递。",
+          "LocalizedString": "本店第一个小目标是：超越斯特利速递。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/BusinessCard_Logistics_s.BusinessCard_Logistics_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/BusinessCard_Logistics.BusinessCard_Logistics",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/BusinessCard_Logistics_long.BusinessCard_Logistics_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None"
+      },
+      "1090": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_name",
+          "SourceString": "通讯官",
+          "LocalizedString": "通讯官"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_ly",
+          "SourceString": "曳尔沐羁遇等级10奖励",
+          "LocalizedString": "曳尔沐羁遇等级10奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_des",
+          "SourceString": "「异象管理局」E.T.D六队副队长曳尔沐的名片。\r\n作为E.T.D六队中承担了对外交流沟通事务的人员，这张名片将会很频繁地被送到社会上各行各业人们的手中。因此采用了干净漂亮的设计款式版本，印刷了相当多的张数。不可思议的是，如果仔细盯着上面的信息看的话，会觉得名字和照片的部分都有些模糊，但标注的电话号码那一栏异常清晰……",
+          "LocalizedString": "「异象管理局」E.T.D六队副队长曳尔沐的名片。\r\n作为E.T.D六队中承担了对外交流沟通事务的人员，这张名片将会很频繁地被送到社会上各行各业人们的手中。因此采用了干净漂亮的设计款式版本，印刷了相当多的张数。不可思议的是，如果仔细盯着上面的信息看的话，会觉得名字和照片的部分都有些模糊，但标注的电话号码那一栏异常清晰……"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1090_s.Card_Likeability_1090_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/Card_Likeability_1090_b.Card_Likeability_1090_b",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/Card_Likeability_1090_long.Card_Likeability_1090_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "1090"
+      },
+      "1090_Q": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_Q_name",
+          "SourceString": "数海漫游",
+          "LocalizedString": "数海漫游"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_Q_ly",
+          "SourceString": "曳尔沐觉醒等级6奖励",
+          "LocalizedString": "曳尔沐觉醒等级6奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1090_Q_des",
+          "SourceString": "曳尔沐被抓拍到的一张照片。漫游五光十色的数据之海，把好玩的新鲜趣事时时传递给朋友们，愿意接收吗？点选YES或NO？",
+          "LocalizedString": "曳尔沐被抓拍到的一张照片。漫游五光十色的数据之海，把好玩的新鲜趣事时时传递给朋友们，愿意接收吗？点选YES或NO？"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1090_s.Card_Awaken_1090_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/Card_Awaken_1090_b.Card_Awaken_1090_b",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/Card_Awaken_1090_long.Card_Awaken_1090_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "1090"
+      },
+      "1074": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_name",
+          "SourceString": "用户名X",
+          "LocalizedString": "用户名X"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_ly",
+          "SourceString": "EXE羁遇等级10奖励",
+          "LocalizedString": "EXE羁遇等级10奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_des",
+          "SourceString": "「异象管理局」E.T.D六队队长Exe的名片。\r\n虽说是名片，但上头所写的名字只有他的「网名」，下头有小小一行关于读音是字母「X」的备注。不知是不愿提供有关自己的真实信息，还是他素来只习惯被用那个代号来称呼。或许这个名字有寄托着什么别的含义，除了免不了让人联想到的电脑文件扩展名这一点之外……",
+          "LocalizedString": "「异象管理局」E.T.D六队队长Exe的名片。\r\n虽说是名片，但上头所写的名字只有他的「网名」，下头有小小一行关于读音是字母「X」的备注。不知是不愿提供有关自己的真实信息，还是他素来只习惯被用那个代号来称呼。或许这个名字有寄托着什么别的含义，除了免不了让人联想到的电脑文件扩展名这一点之外……"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1074_s.Card_Likeability_1074_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/Card_Likeability_1074_b.Card_Likeability_1074_b",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/Card_Likeability_1074_long.Card_Likeability_1074_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": true,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "1074"
+      },
+      "1074_Q": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_Q_name",
+          "SourceString": "穿越网线",
+          "LocalizedString": "穿越网线"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_Q_ly",
+          "SourceString": "EXE觉醒等级6奖励",
+          "LocalizedString": "EXE觉醒等级6奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BusinessCard_1074_Q_des",
+          "SourceString": "Exe被抓拍到的一张照片。他那只能替他处理一切事情的「手」……？看起来完全有可能在你网上冲浪的时候，突然绕出来浮现在背后，戳戳你的肩膀……",
+          "LocalizedString": "Exe被抓拍到的一张照片。他那只能替他处理一切事情的「手」……？看起来完全有可能在你网上冲浪的时候，突然绕出来浮现在背后，戳戳你的肩膀……"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1074_s.Card_Awaken_1074_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/Card_Awaken_1074_b.Card_Awaken_1074_b",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/Card_Awaken_1074_long.Card_Awaken_1074_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": true,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "1074"
+      },
+      "BussinessCard_MangHe_005": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BussinessCard_MangHe_005_name",
+          "SourceString": "康庄大道",
+          "LocalizedString": "康庄大道"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BussinessCard_MangHe_005_ly",
+          "SourceString": "「所行皆坦途」盲盒获得。",
+          "LocalizedString": "「所行皆坦途」盲盒获得。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "BussinessCard_MangHe_005_desc",
+          "SourceString": "所行之道皆为我之道。",
+          "LocalizedString": "所行之道皆为我之道。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_67_s.YH_UI_bg_card_show_strip_67_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_67.YH_UI_bg_card_show_strip_67",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_67.YH_UI_bg_information_card_show_strip_67",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": false,
+        "ShowLinkCharacterID": "None"
+      },
+      "SNv15_BusinessCard_Oversea_001": {
+        "Name": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "SNv15_BusinessCard_Oversea_001_Name",
+          "SourceString": "神秘的屏幕",
+          "LocalizedString": "神秘的屏幕"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "SNv15_BusinessCard_Oversea_001_Obtain",
+          "SourceString": "「E.T.D六队的神秘屏幕」网页活动获得",
+          "LocalizedString": "「E.T.D六队的神秘屏幕」网页活动获得"
+        },
+        "Description": {
+          "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
+          "Key": "SNv15_BusinessCard_Oversea_001_Desc",
+          "SourceString": "也许这块屏幕并不存在于海特洛",
+          "LocalizedString": "也许这块屏幕并不存在于海特洛"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/SNv15_BusinessCard_Oversea_001_s.SNv15_BusinessCard_Oversea_001_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/SNv15_BusinessCard_Oversea_001.SNv15_BusinessCard_Oversea_001",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/SNv15_BusinessCard_Oversea_001_long.SNv15_BusinessCard_Oversea_001_long",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false,
+        "DisplayRegion": "ETitleDisplayRegion::All",
+        "bActivateVisible": true,
+        "ShowLinkCharacterID": "None"
       }
     }
   }

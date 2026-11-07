@@ -8,7 +8,7 @@
     "CurveTableMode": "SimpleCurves",
     "Rows": {
       "LingZhouCopyCoef": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -20,7 +20,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHunZhou1_UnbalMaxReduce_1054": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -56,7 +56,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_GuangLingXiang_ChargeCD": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -128,7 +128,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_ZhouAn_FixedCritRate_1033": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -152,7 +152,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_ZhouAn5_AtkDown_1033": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -164,7 +164,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_ZhouAn5_DamageResistDown_1033": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -176,7 +176,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_ZhouAn5_UnbalAccrueEfficiency_1033": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -224,7 +224,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_HunXiang_DamageUP": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -248,7 +248,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun_BuffTime_1004": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -260,7 +260,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun_Period_1004": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -296,7 +296,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun3_AddMaxHPPer_1039": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -356,7 +356,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun4_AddAtkPer_1020": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -380,7 +380,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun4_LimitAtk_1020": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -392,7 +392,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun4_LimitTargetAtk_1020": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -404,7 +404,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_AnHun4_MMOLimitTargetAtk_1020": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -440,7 +440,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Reaction_GuangXiang5_CritAdd_1025": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
@@ -481,6 +481,30 @@
           {
             "Time": 1.0,
             "Value": 8.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Reaction_GuangLingXiang5_Time_1090": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 30.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Reaction_GuangLingXiang5_DamageUpCosmosBase_1090": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.0375
           }
         ],
         "DefaultValue": 3.4028235E+38,

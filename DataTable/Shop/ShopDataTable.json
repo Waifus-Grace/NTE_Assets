@@ -4711,6 +4711,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_039_06_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Shop.ST_Shop",
+          "Key": "Shop_039_06_01_name",
+          "SourceString": "泊来车行",
+          "LocalizedString": "泊来车行"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Starry_Night": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -5366,6 +5387,24 @@
         }
       },
       "FonsLimitTimeShop6": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::FONS_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "FonsLimitTimeShop",
+        "ShopName": {
+          "CultureInvariantString": null
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "FonsLimitTimeShop7": {
         "ChainShopID": "None",
         "ShopType": "EShopType::FONS_SHOP",
         "CurrencyID": [
@@ -6104,6 +6143,48 @@
           "Key": "PukalandTicketShop_name",
           "SourceString": "星票小铺",
           "LocalizedString": "星票小铺"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "LogisticsShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "LogisticsCoin"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Logistics",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/UI/ST_LogisticsCenterUI.ST_LogisticsCenterUI",
+          "Key": "LogisticsShop_Name",
+          "SourceString": "物流商店",
+          "LocalizedString": "物流商店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "TankBattleShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "TankBattleCoin"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "TankBattleShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Shop.ST_Shop",
+          "Key": "TankBattleShop_name",
+          "SourceString": "TX纪念商店",
+          "LocalizedString": "TX纪念商店"
         },
         "ShopIcon": {
           "AssetPathName": "",

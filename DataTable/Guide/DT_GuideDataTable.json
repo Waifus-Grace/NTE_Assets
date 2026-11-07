@@ -19544,7 +19544,7 @@
                 "KeyName": "Gamepad_FaceButton_Bottom"
               },
               "bUIActionsIgnoreNextStep": false,
-              "WidgetID": "UIExtensionMap",
+              "WidgetID": "Button_Click",
               "Desc": {
                 "TableId": "/Game/Text/ST_Guide.ST_Guide",
                 "Key": "Guide100331_1",
@@ -19556,7 +19556,7 @@
               },
               "CurUIActions": [
                 {
-                  "ImageID": "None",
+                  "ImageID": "1001",
                   "CurUIAction": {
                     "ObjectName": "InputAction'IA_Map'",
                     "ObjectPath": "/Game/Input/IA_Map.1"
@@ -19565,7 +19565,7 @@
                 }
               ],
               "GuideTriggerEvents": [
-                "UIExtensionMap"
+                "Button_Click"
               ],
               "GuardTime": 10.0,
               "CustomKey": {
@@ -19684,7 +19684,7 @@
                     "KeyName": "Gamepad_FaceButton_Bottom"
                   },
                   "bUIActionsIgnoreNextStep": false,
-                  "WidgetID": "UIExtensionMap",
+                  "WidgetID": "Button_Click",
                   "Desc": {
                     "TableId": "/Game/Text/ST_Guide.ST_Guide",
                     "Key": "Guide100331_1",
@@ -19696,7 +19696,7 @@
                   },
                   "CurUIActions": [
                     {
-                      "ImageID": "None",
+                      "ImageID": "1001",
                       "CurUIAction": {
                         "ObjectName": "InputAction'IA_Map_Gamepad'",
                         "ObjectPath": "/Game/Input/Gamepad/IA_Map_Gamepad.0"
@@ -19705,7 +19705,7 @@
                     }
                   ],
                   "GuideTriggerEvents": [
-                    "UIExtensionMap"
+                    "Button_Click"
                   ],
                   "GuardTime": 10.0,
                   "CustomKey": {
@@ -19824,7 +19824,7 @@
                     "KeyName": "Gamepad_FaceButton_Bottom"
                   },
                   "bUIActionsIgnoreNextStep": false,
-                  "WidgetID": "UIExtensionMap",
+                  "WidgetID": "Button_Click",
                   "Desc": {
                     "TableId": "/Game/Text/ST_Guide.ST_Guide",
                     "Key": "Guide100331_1",
@@ -19836,7 +19836,7 @@
                   },
                   "CurUIActions": [],
                   "GuideTriggerEvents": [
-                    "UIExtensionMap"
+                    "Button_Click"
                   ],
                   "GuardTime": 10.0,
                   "CustomKey": {
@@ -46293,7 +46293,7 @@
                     "Y": 0.0
                   },
                   "ResponseTime": 0.0,
-                  "WidgetID": "ButtonSKill_Gamepad",
+                  "WidgetID": "ButtonSkill_Gamepad",
                   "Desc": {
                     "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                     "Key": "Trial_Akane_6_guide_1",
@@ -48295,6 +48295,3470 @@
         ],
         "GuideEffectArray": [],
         "bCanRepeat": false,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_3_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐权限等级",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "TeachElyms",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_3_guide_1",
+                "SourceString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能",
+                "LocalizedString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "TeachElyms"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachElyms",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_3_guide_1",
+                    "SourceString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能",
+                    "LocalizedString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachElyms"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachElyms",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_3_guide_1",
+                    "SourceString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能",
+                    "LocalizedString": "曳尔沐的<Yellow>信号强度</>存在<Yellow>「弱信号」</>、<Yellow>「中等信号」</>、<Yellow>「强信号」</>三级，信号增强可以改变普通攻击，并逐步解锁强化技能"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachElyms"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_4_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐强化E1",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_4_guide_1",
+                "SourceString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>",
+                "LocalizedString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_SkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_SkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_4_guide_1",
+                    "SourceString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>",
+                    "LocalizedString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_Skill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_Skill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_4_guide_1",
+                    "SourceString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>",
+                    "LocalizedString": "<Yellow>「弱信号」</>状态下，释放普攻第5段或变轨技能可激活<Yellow>强化技能「不连续的存在」</>，释放强化技能或援护技后可增强至<Yellow>「中等信号」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_5_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐强化E2",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_5_guide_1",
+                "SourceString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态",
+                "LocalizedString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_SkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_SkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_5_guide_1",
+                    "SourceString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态",
+                    "LocalizedString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_Skill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_Skill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_5_guide_1",
+                    "SourceString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态",
+                    "LocalizedString": "<Yellow>「中等信号」</>状态下，释放普攻第3段可激活<Yellow>进阶强化技能「对你说再见」</>，释放进阶强化技能后可增强至<Yellow>「强信号」</>状态"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_6_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐大招对单",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonUltimateSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_6_guide_1",
+                "SourceString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>",
+                "LocalizedString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_UltSkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_UltSkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonUltimateSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_6_guide_1",
+                    "SourceString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>",
+                    "LocalizedString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_UltSkill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_UltSkill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_6_guide_1",
+                    "SourceString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>",
+                    "LocalizedString": "点击释放<Yellow>「极轨终结：一如昨日光景」-对单</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_7_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐普通E",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_7_guide_1",
+                "SourceString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值",
+                "LocalizedString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_SkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_SkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_7_guide_1",
+                    "SourceString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值",
+                    "LocalizedString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_Skill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_Skill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_7_guide_1",
+                    "SourceString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值",
+                    "LocalizedString": "点按<Yellow>基础变轨技能「离去的人们」</>，曳尔沐会瞬间充满环合值"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_7_2": {
+        "GuideAnnottation": "（角色教学）曳尔沐切换队友1",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CharacterSlot2",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_7_guide_2",
+                "SourceString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>",
+                "LocalizedString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "1001",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_2KeyBoard'",
+                    "ObjectPath": "/Game/Input/IA_2KeyBoard.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "CharacterSlot2"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CharacterSlot2",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_7_guide_2",
+                    "SourceString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>",
+                    "LocalizedString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "1001",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_SwitchRole_2_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_SwitchRole_2_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot2"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CharacterSlot2",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_7_guide_2",
+                    "SourceString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>",
+                    "LocalizedString": "切换至队友，曳尔沐会在后台自动进行<Yellow>协同攻击</>，形态与信号强度与此前释放的极轨终结<Yellow>保持一致</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot2"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_8_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐QTE",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "CharacterSlot1",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_8_guide_1",
+                "SourceString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>",
+                "LocalizedString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "1001",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_1KeyBoard'",
+                    "ObjectPath": "/Game/Input/IA_1KeyBoard.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "CharacterSlot1"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "CharacterSlot1",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_8_guide_1",
+                    "SourceString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>",
+                    "LocalizedString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "1001",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_SwitchRole_1_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_SwitchRole_1_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot1"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "CharacterSlot1",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_8_guide_1",
+                    "SourceString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>",
+                    "LocalizedString": "切换至曳尔沐释放<Yellow>「援护技：你好！握手！」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot1"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_9_1": {
+        "GuideAnnottation": "（角色教学）曳尔沐大招形态切换",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "GuideCP",
+              "Desc": {
+                "CultureInvariantString": null
+              },
+              "Context": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_9_guide_1",
+                "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>",
+                "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>"
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "GuideCP"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "GuideCP",
+                  "Desc": {
+                    "CultureInvariantString": null
+                  },
+                  "Context": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_1",
+                    "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>",
+                    "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>"
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideCP"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "GuideCP",
+                  "Desc": {
+                    "CultureInvariantString": null
+                  },
+                  "Context": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_1",
+                    "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>",
+                    "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>"
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideCP"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_9_2": {
+        "GuideAnnottation": "（角色教学）曳尔沐大招对群",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonUltimateSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_9_guide_2",
+                "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>",
+                "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_UltSkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_UltSkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonUltimateSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_2",
+                    "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>",
+                    "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_UltSkill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_UltSkill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_2",
+                    "SourceString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>",
+                    "LocalizedString": "曳尔沐释放援护技、强化技能、进阶强化技能时将检索场上敌人数量，<Yellow>自动切换极轨终结的形态</>，点击释放<Yellow>「极轨终结：一如昨日光景」-对群</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Elyms_9_3": {
+        "GuideAnnottation": "（角色教学）曳尔沐切换队友2",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "CharacterSlot2",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Elyms_9_guide_3",
+                "SourceString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>",
+                "LocalizedString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "1001",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_2KeyBoard'",
+                    "ObjectPath": "/Game/Input/IA_2KeyBoard.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "CharacterSlot2"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "CharacterSlot2",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_3",
+                    "SourceString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>",
+                    "LocalizedString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "1001",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_SwitchRole_2_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_SwitchRole_2_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot2"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "CharacterSlot2",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Elyms_9_guide_3",
+                    "SourceString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>",
+                    "LocalizedString": "释放<Yellow>「极轨终结：一如昨日光景」-对群</>后，切换至队友，曳尔沐在后台会自动进行<Yellow>对群形态的协同攻击</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CharacterSlot2"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Exe_2_1": {
+        "GuideAnnottation": "（角色教学）Exe帧教学",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "TeachExe",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Exe_2_guide_1",
+                "SourceString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快",
+                "LocalizedString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "TeachExe"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachExe",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_2_guide_1",
+                    "SourceString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快",
+                    "LocalizedString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachExe"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachExe",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_2_guide_1",
+                    "SourceString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快",
+                    "LocalizedString": "Exe对敌人造成伤害时，会积攒<Yellow>「帧数」</>和<Yellow>「评分」</>，Exe的普攻第5段和部分招式会消耗<Yellow>「帧数」</>导出<Yellow>「数字残像」</>一同攻击敌人，「评分」等级越高，「帧数」的积攒速度越快"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachExe"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Exe_4_1": {
+        "GuideAnnottation": "（角色教学）Exe技能教学",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Exe_4_guide_1",
+                "SourceString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>",
+                "LocalizedString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_SkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_SkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_4_guide_1",
+                    "SourceString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>",
+                    "LocalizedString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_Skill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_Skill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_4_guide_1",
+                    "SourceString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>",
+                    "LocalizedString": "点击释放<Yellow>变轨技能</>，可消耗大量<Yellow>「帧数」</>导出多个<Yellow>「数字残像」</>，并<Yellow>快速提升「评分」等级</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Exe_5_1": {
+        "GuideAnnottation": "（角色教学）Exe大招教学",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonUltimateSkill",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Exe_5_guide_1",
+                "SourceString": "点击释放<Yellow>极轨终结</>",
+                "LocalizedString": "点击释放<Yellow>极轨终结</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "None",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_UltSkillAttack'",
+                    "ObjectPath": "/Game/Input/IA_UltSkillAttack.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonUltimateSkill"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": true
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Gamepad",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_1",
+                    "SourceString": "点击释放<Yellow>极轨终结</>",
+                    "LocalizedString": "点击释放<Yellow>极轨终结</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "None",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_UltSkill_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_UltSkill_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill_Gamepad"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonUltimateSkill_Mobile",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_1",
+                    "SourceString": "点击释放<Yellow>极轨终结</>",
+                    "LocalizedString": "点击释放<Yellow>极轨终结</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonUltimateSkill"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": true
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Exe_5_2": {
+        "GuideAnnottation": "（角色教学）Exe大招后消耗帧",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "TeachExe",
+              "Desc": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Exe_5_guide_2",
+                "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "TeachExe"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachExe",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_2",
+                    "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                    "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachExe"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "TeachExe",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_2",
+                    "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                    "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "TeachExe"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Teach_Exe_6_1": {
+        "GuideAnnottation": "（角色教学）Exe分支攻击处决",
+        "bForceGuide": false,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "DescPos": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "ResponseTime": 0.0,
+              "WidgetID": "GuideCPNone",
+              "Desc": {
+                "CultureInvariantString": null
+              },
+              "Context": {
+                "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                "Key": "Trial_Exe_5_guide_2",
+                "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "GuideCP"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "GuideCPNone",
+                  "Desc": {
+                    "CultureInvariantString": null
+                  },
+                  "Context": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_2",
+                    "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                    "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideCP"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "DescPos": {
+                    "X": 0.0,
+                    "Y": 0.0
+                  },
+                  "ResponseTime": 0.0,
+                  "WidgetID": "GuideCPNone",
+                  "Desc": {
+                    "CultureInvariantString": null
+                  },
+                  "Context": {
+                    "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
+                    "Key": "Trial_Exe_5_guide_2",
+                    "SourceString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>",
+                    "LocalizedString": "释放极轨终结后，Exe会进入<Yellow>「方程构建」</>状态，期间内Exe所有攻击均可以<Yellow>消耗「帧数」导出「数字残像」</>"
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideCP"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Guide11004": {
+        "GuideAnnottation": "（任务引导）Meta相册",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "ButtonPCUse",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide11004_1",
+                "SourceString": "按下<img id=\"1001\"/>使用道具<Yellow>回忆缓存</>",
+                "LocalizedString": "按下<img id=\"1001\"/>使用道具<Yellow>回忆缓存</>"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "1001",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_Shortcut'",
+                    "ObjectPath": "/Game/Input/IA_Shortcut.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "ButtonPCUse"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonPCUse",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide11004_2",
+                    "SourceString": "按下<img id=\"1001\"/>呼出快捷轮盘，使用道具<Yellow>回忆缓存</>",
+                    "LocalizedString": "按下<img id=\"1001\"/>呼出快捷轮盘，使用道具<Yellow>回忆缓存</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "1001",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_QuickMenu'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_QuickMenu.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "ButtonPCUse"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "ButtonPCUse",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide11004_3",
+                    "SourceString": "按下使用道具<Yellow>回忆缓存</>",
+                    "LocalizedString": "按下使用道具<Yellow>回忆缓存</>"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "ButtonPCUse"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": false,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Guide10066_1": {
+        "GuideAnnottation": "物流中心引导1",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "Button_Click",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_1",
+                "SourceString": "按下<img id=\"1001\"/>打开<Yellow>地图</>界面。",
+                "LocalizedString": "按下<img id=\"1001\"/>打开<Yellow>地图</>界面。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [
+                {
+                  "ImageID": "1001",
+                  "CurUIAction": {
+                    "ObjectName": "InputAction'IA_Map'",
+                    "ObjectPath": "/Game/Input/IA_Map.1"
+                  },
+                  "TrigInputEvent": "EInputEvent::IE_Pressed"
+                }
+              ],
+              "GuideTriggerEvents": [
+                "Button_Click"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CityGameplayButton",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_2",
+                "SourceString": "点击查看<Yellow>都市闲趣</>界面。",
+                "LocalizedString": "点击查看<Yellow>都市闲趣</>界面。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CityGameplayButton"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "GuideLogisticsCityGameplaySlotButton",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_3",
+                "SourceString": "点击选择<Yellow>同城派送</>。",
+                "LocalizedString": "点击选择<Yellow>同城派送</>。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "GuideLogisticsCityGameplaySlotButton"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BgImage",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_4",
+                "SourceString": "物流中心每日会刷新不同的<Yellow>委托订单</>。",
+                "LocalizedString": "物流中心每日会刷新不同的<Yellow>委托订单</>。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BgImage"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CanvasPanel_guide",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_5",
+                "SourceString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。",
+                "LocalizedString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CanvasPanel_guide"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CompanyCenterButton",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_6",
+                "SourceString": "点击查看<Yellow>物流中心</>详细信息。",
+                "LocalizedString": "点击查看<Yellow>物流中心</>详细信息。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CompanyCenterButton"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CanvasPanel_79",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_7",
+                "SourceString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。",
+                "LocalizedString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CanvasPanel_79"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CanvasPanel_110",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_1_8",
+                "SourceString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。",
+                "LocalizedString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CanvasPanel_110"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "Button_Click",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_1",
+                    "SourceString": "按下<img id=\"1001\"/>打开<Yellow>地图</>界面。",
+                    "LocalizedString": "按下<img id=\"1001\"/>打开<Yellow>地图</>界面。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [
+                    {
+                      "ImageID": "1001",
+                      "CurUIAction": {
+                        "ObjectName": "InputAction'IA_Map_Gamepad'",
+                        "ObjectPath": "/Game/Input/Gamepad/IA_Map_Gamepad.0"
+                      },
+                      "TrigInputEvent": "EInputEvent::IE_Pressed"
+                    }
+                  ],
+                  "GuideTriggerEvents": [
+                    "Button_Click"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CityGameplayButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_2",
+                    "SourceString": "点击查看<Yellow>都市闲趣</>界面。",
+                    "LocalizedString": "点击查看<Yellow>都市闲趣</>界面。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CityGameplayButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "GuideLogisticsCityGameplaySlotButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_3",
+                    "SourceString": "点击选择<Yellow>同城派送</>。",
+                    "LocalizedString": "点击选择<Yellow>同城派送</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideLogisticsCityGameplaySlotButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "BgImage",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_4",
+                    "SourceString": "物流中心每日会刷新不同的<Yellow>委托订单</>。",
+                    "LocalizedString": "物流中心每日会刷新不同的<Yellow>委托订单</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "BgImage"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_guide",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_5",
+                    "SourceString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。",
+                    "LocalizedString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_guide"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CompanyCenterButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_6",
+                    "SourceString": "点击查看<Yellow>物流中心</>详细信息。",
+                    "LocalizedString": "点击查看<Yellow>物流中心</>详细信息。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CompanyCenterButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_79",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_7",
+                    "SourceString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。",
+                    "LocalizedString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_79"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_110",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_8",
+                    "SourceString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。",
+                    "LocalizedString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_110"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "Button_Click",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_1b",
+                    "SourceString": "打开<Yellow>地图</>界面。",
+                    "LocalizedString": "打开<Yellow>地图</>界面。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "Button_Click"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CityGameplayButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_2",
+                    "SourceString": "点击查看<Yellow>都市闲趣</>界面。",
+                    "LocalizedString": "点击查看<Yellow>都市闲趣</>界面。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CityGameplayButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "GuideLogisticsCityGameplaySlotButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_3",
+                    "SourceString": "点击选择<Yellow>同城派送</>。",
+                    "LocalizedString": "点击选择<Yellow>同城派送</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "GuideLogisticsCityGameplaySlotButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "BgImage",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_4",
+                    "SourceString": "物流中心每日会刷新不同的<Yellow>委托订单</>。",
+                    "LocalizedString": "物流中心每日会刷新不同的<Yellow>委托订单</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "BgImage"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_guide",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_5",
+                    "SourceString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。",
+                    "LocalizedString": "鉴定师可以选择亲自派送或是派遣司机进行委托。派遣司机每周存在<Yellow>都市活力</>消耗上限，<Yellow>达到上限</>后将无法再获得方斯奖励。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_guide"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": false,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CompanyCenterButton",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_6",
+                    "SourceString": "点击查看<Yellow>物流中心</>详细信息。",
+                    "LocalizedString": "点击查看<Yellow>物流中心</>详细信息。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CompanyCenterButton"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": false,
+                  "bEnableKeyIcon": true,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_79",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_7",
+                    "SourceString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。",
+                    "LocalizedString": "这里可以查看物流中心的<Yellow>基本信息</>、设置物流助理<Yellow>辅助运营</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_79"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_110",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_1_8",
+                    "SourceString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。",
+                    "LocalizedString": "这里可以<Yellow>签约</>和<Yellow>管理</>司机、查看于不同组织的<Yellow>关系</>，<Yellow>升级</>物流策略提升物流公司运作效率。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_110"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": false,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "Guide10066_2": {
+        "GuideAnnottation": "物流中心引导2",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CanvasPanel_67",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_2_1",
+                "SourceString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。",
+                "LocalizedString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CanvasPanel_67"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": true,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "CanvasPanel_38",
+              "Desc": {
+                "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                "Key": "Guide10066_2_2",
+                "SourceString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。",
+                "LocalizedString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "CanvasPanel_38"
+              ],
+              "GuardTime": 10.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": true,
+              "bEnableKeyIcon": false,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [
+          {
+            "Key": "EUINavigationInputType::Gamepad",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_67",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_2_1",
+                    "SourceString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。",
+                    "LocalizedString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_67"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_38",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_2_2",
+                    "SourceString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。",
+                    "LocalizedString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_38"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          },
+          {
+            "Key": "EUINavigationInputType::Touch",
+            "Value": {
+              "MutualExclusionGuideIDs": [],
+              "GuideStepDatas": [
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_67",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_2_1",
+                    "SourceString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。",
+                    "LocalizedString": "随着物流中心的<Yellow>升级</>，物流中心将解锁新的关系。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_67"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                },
+                {
+                  "bGuard": true,
+                  "bCanClickNextStep": true,
+                  "CustomNextStepKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUIActionsIgnoreNextStep": false,
+                  "WidgetID": "CanvasPanel_38",
+                  "Desc": {
+                    "TableId": "/Game/Text/ST_Guide.ST_Guide",
+                    "Key": "Guide10066_2_2",
+                    "SourceString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。",
+                    "LocalizedString": "<Yellow>完成部分委托</>将影响物流中心的官方和地下<Yellow>信誉</>，不同的信誉影响每日刷新的<Yellow>订单类型</>。"
+                  },
+                  "Context": {
+                    "CultureInvariantString": null
+                  },
+                  "CurUIActions": [],
+                  "GuideTriggerEvents": [
+                    "CanvasPanel_38"
+                  ],
+                  "GuardTime": 10.0,
+                  "CustomKey": {
+                    "KeyName": "Gamepad_FaceButton_Bottom"
+                  },
+                  "bUseFastNextStep": true,
+                  "bEnableKeyIcon": false,
+                  "ExWidgetID": "None",
+                  "IgnoreListViewStep": false,
+                  "bIsWidgetIDMustInScreen": false
+                }
+              ],
+              "TeachGuideIDs": []
+            }
+          }
+        ],
+        "GuideEffectArray": [],
+        "bCanRepeat": false,
+        "BeforeGuideStartAddQuestArray": [],
+        "AfterGuideEndAddQuestArray": []
+      },
+      "BalatroTutorial_PlayCardTest": {
+        "GuideAnnottation": "BalatroLike tutorial: OneCafe -> Takoyaki -> BikeStation; 6 repeatable steps",
+        "bForceGuide": true,
+        "GuideFunctionID": "None",
+        "bNeedAllComplete": false,
+        "DefaultGuide": {
+          "MutualExclusionGuideIDs": [],
+          "GuideStepDatas": [
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_Cafe_Hand",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_select_card",
+                "SourceString": "点击一咖舍手牌",
+                "LocalizedString": "点击一咖舍手牌"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_Cafe_Hand"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_Cafe_Grid",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_place_grid",
+                "SourceString": "点击指定地块，放置一咖舍",
+                "LocalizedString": "点击指定地块，放置一咖舍"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_Cafe_Grid"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "BalatroTutorial_Cafe_Hand",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_Takoyaki_Hand",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_select_takoyaki",
+                "SourceString": "点击丸子小铺手牌",
+                "LocalizedString": "点击丸子小铺手牌"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_Takoyaki_Hand"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_Takoyaki_Grid",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_place_takoyaki",
+                "SourceString": "点击指定地块，放置丸子小铺",
+                "LocalizedString": "点击指定地块，放置丸子小铺"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_Takoyaki_Grid"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "BalatroTutorial_Takoyaki_Hand",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_BikeStation_Hand",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_select_bike_station",
+                "SourceString": "点击自行车站手牌",
+                "LocalizedString": "点击自行车站手牌"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_BikeStation_Hand"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "None",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            },
+            {
+              "bGuard": true,
+              "bCanClickNextStep": false,
+              "CustomNextStepKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUIActionsIgnoreNextStep": false,
+              "WidgetID": "BalatroTutorial_BikeStation_Grid",
+              "Desc": {
+                "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
+                "Key": "balatrolike_tutorial_test_place_bike_station",
+                "SourceString": "点击指定地块，放置自行车站",
+                "LocalizedString": "点击指定地块，放置自行车站"
+              },
+              "Context": {
+                "CultureInvariantString": null
+              },
+              "CurUIActions": [],
+              "GuideTriggerEvents": [
+                "BalatroTutorial_BikeStation_Grid"
+              ],
+              "GuardTime": 5.0,
+              "CustomKey": {
+                "KeyName": "Gamepad_FaceButton_Bottom"
+              },
+              "bUseFastNextStep": false,
+              "bEnableKeyIcon": true,
+              "ExWidgetID": "BalatroTutorial_BikeStation_Hand",
+              "IgnoreListViewStep": false,
+              "bIsWidgetIDMustInScreen": false
+            }
+          ],
+          "TeachGuideIDs": []
+        },
+        "PlatformGuideInfo": [],
+        "GuideEffectArray": [],
+        "bCanRepeat": true,
         "BeforeGuideStartAddQuestArray": [],
         "AfterGuideEndAddQuestArray": []
       }

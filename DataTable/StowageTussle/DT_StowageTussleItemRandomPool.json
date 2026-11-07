@@ -1,0 +1,937 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StowageTussleItemRandomPool",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/StowageTussle/DT_StowageTussleItemRandomPool",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'StowageTussleItemRandomPoolConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Monster_1_0": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 1.0
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_1": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 1.0
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 2
+          }
+        ]
+      },
+      "Monster_1_2": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_3": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_4": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_5": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_6": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_1_7": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_D01",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_D02",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G08",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_D03",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_D05",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_D04",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_G01",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_2_0": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 1.0
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_2_1": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 1.0
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 2
+          }
+        ]
+      },
+      "Monster_2_2": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_2_3": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_WHITE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          }
+        ]
+      },
+      "Monster_2_4": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K02",
+            "WeightValue": 3
+          }
+        ]
+      },
+      "Monster_2_5": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_GREEN",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 3
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K02",
+            "WeightValue": 3
+          }
+        ]
+      },
+      "Monster_2_6": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K02",
+            "WeightValue": 6
+          }
+        ]
+      },
+      "Monster_2_7": {
+        "QualityData": [
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_BLUE",
+            "Weight": 0.6
+          },
+          {
+            "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
+            "Weight": 0.4
+          }
+        ],
+        "ItemPoolData": [
+          {
+            "PropName": "StowageTussleItem_K01",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_K03",
+            "WeightValue": 6
+          },
+          {
+            "PropName": "StowageTussleItem_G10",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G09",
+            "WeightValue": 2
+          },
+          {
+            "PropName": "StowageTussleItem_G07",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K04",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_K05",
+            "WeightValue": 4
+          },
+          {
+            "PropName": "StowageTussleItem_G02",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G03",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G04",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G05",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_G06",
+            "WeightValue": 1
+          },
+          {
+            "PropName": "StowageTussleItem_K02",
+            "WeightValue": 6
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HPBarTagColorCfg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_HPBarTagColorCfg",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HPBarTagColorCfg'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "UI_HeadUpInfo": {
+        "HPBarTagColorMap": [
+          {
+            "Key": {
+              "TagName": "Ability.Monster.HPBar.Green"
+            },
+            "Value": {
+              "Priority": -1,
+              "ForeColor": {
+                "R": 0.0,
+                "G": 1.0,
+                "B": 0.055708,
+                "A": 1.0,
+                "Hex": "00FF43"
+              },
+              "BackColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFF"
+              }
+            }
+          }
+        ],
+        "DefaultHPBarColor": {
+          "Priority": -1,
+          "ForeColor": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF0000"
+          },
+          "BackColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      }
+    }
+  }
+]

@@ -109403,7 +109403,10 @@
           "LocalizedString": "（唔……等等我，我还没上车！）"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -109533,8 +109536,8 @@
         },
         "IsSelf": false,
         "duration": 4.0,
-        "Delay": 0.0,
-        "EndByVoice": false,
+        "Delay": 0.3,
+        "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
         "MontageInfos": [],
@@ -109551,7 +109554,10 @@
           "LocalizedString": "（塔吉多后悔了，塔吉多要上车！）"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -109680,8 +109686,8 @@
           "SubPathString": ""
         },
         "IsSelf": false,
-        "duration": 2.0,
-        "Delay": 0.5,
+        "duration": 4.0,
+        "Delay": 0.3,
         "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
@@ -109699,7 +109705,10 @@
           "LocalizedString": "（鉴定师！鉴定师！慢一点！）"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -109828,8 +109837,8 @@
           "SubPathString": ""
         },
         "IsSelf": false,
-        "duration": 2.0,
-        "Delay": 0.5,
+        "duration": 4.0,
+        "Delay": 0.3,
         "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
@@ -109847,7 +109856,10 @@
           "LocalizedString": "（塔吉多害怕黑，鉴定师等等！）"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -109976,8 +109988,8 @@
           "SubPathString": ""
         },
         "IsSelf": false,
-        "duration": 2.0,
-        "Delay": 0.5,
+        "duration": 4.0,
+        "Delay": 0.3,
         "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
@@ -109995,7 +110007,10 @@
           "LocalizedString": "Tayge！Tayge！"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -110124,8 +110139,8 @@
           "SubPathString": ""
         },
         "IsSelf": false,
-        "duration": 2.0,
-        "Delay": 0.5,
+        "duration": 4.0,
+        "Delay": 0.3,
         "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
@@ -110143,7 +110158,10 @@
           "LocalizedString": "（鉴定师……塔吉多……还是和你一起走吧……）"
         },
         "SpeakerName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "Anomaly_004_Name",
+          "SourceString": "塔吉多",
+          "LocalizedString": "塔吉多"
         },
         "IconBrush": {
           "TintColor": {
@@ -110272,8 +110290,8 @@
           "SubPathString": ""
         },
         "IsSelf": false,
-        "duration": 2.0,
-        "Delay": 0.5,
+        "duration": 4.0,
+        "Delay": 0.3,
         "EndByVoice": true,
         "NeedTyping": true,
         "ClearNeedQuestID": "None",
@@ -111928,6 +111946,2724 @@
         "Delay": 0.5,
         "EndByVoice": false,
         "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1078_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1078_Player_001",
+          "SourceString": "（现在有第二杯半价活动吗？好像很划算。）",
+          "LocalizedString": "（现在有第二杯半价活动吗？好像很划算。）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1078_Player_002": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1078_Player_002",
+          "SourceString": "（不过我也喝不了两杯啊。今天要是有叫朋友一起来就好了……）",
+          "LocalizedString": "（不过我也喝不了两杯啊。今天要是有叫朋友一起来就好了……）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1079_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1079_Player_001",
+          "SourceString": "（那边的人是……曳尔沐？）",
+          "LocalizedString": "（那边的人是……曳尔沐？）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_WLSD_WJ1079_Player_001.Play_Vo_WLSD_WJ1079_Player_001",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1079_Player_007": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1079_Player_007",
+          "SourceString": "（能让分隔两地的朋友相互联系的东西吗……曳尔沐挑选的藏身地点，真是很有她的风格。）",
+          "LocalizedString": "（能让分隔两地的朋友相互联系的东西吗……曳尔沐挑选的藏身地点，真是很有她的风格。）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_WLSD_WJ1079_Player_007.Play_Vo_WLSD_WJ1079_Player_007",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1079_Player_008": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1079_Player_008",
+          "SourceString": "（……看来曳尔沐不在这里。）",
+          "LocalizedString": "（……看来曳尔沐不在这里。）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_WLSD_WJ1079_Player_008.Play_Vo_WLSD_WJ1079_Player_008",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1079_Player_009": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1079_Player_009",
+          "SourceString": "（这里也不见曳尔沐……）",
+          "LocalizedString": "（这里也不见曳尔沐……）"
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_WLSD_WJ1079_Player_009.Play_Vo_WLSD_WJ1079_Player_009",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [
+          {
+            "RTPCName": "Voice_InnerVoice",
+            "RTPCValue": 1.0
+          }
+        ],
+        "AuxBus": []
+      },
+      "WLSD_WJ1075_Player_044": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1075_Player_044",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 2.0,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_NPC029_WJ1075_031": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_NPC029_WJ1075_031",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1075_Player_045": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1075_Player_045",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_NPC029_WJ1075_032": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_NPC029_WJ1075_032",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_NPC029_WJ1075_033": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_NPC029_WJ1075_033",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1075_Player_046": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1075_Player_046",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_NPC029_WJ1075_034": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_NPC029_WJ1075_034",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 4.0,
+        "Delay": 2.0,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1075_Player_047": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1075_Player_047",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1076_A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1076_A_001",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_WJ107601_Robot",
+          "SourceString": "清洁机器人",
+          "LocalizedString": "清洁机器人"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1076_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1076_Player_001",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WLSD_WJ1076_Player_006": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WLSD_WJ1076_Player_006",
+          "SourceString": null,
+          "LocalizedString": ""
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_029_Name",
+          "SourceString": "Exe",
+          "LocalizedString": "Exe"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 4.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WJ_TY_PhoneB": {
+        "Desc": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "WJ_TY_PhoneB",
+          "SourceString": "（电话声）",
+          "LocalizedString": "（电话声）"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_07901_Name_01",
+          "SourceString": "？？？",
+          "LocalizedString": "？？？"
+        },
+        "IconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "MaleIconBrush": {
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "ImageSize": {
+            "X": 32.0,
+            "Y": 32.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "ResourceObject": null,
+          "OutlineSettings": {
+            "CornerRadii": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "Color": {
+              "SpecifiedColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.0,
+                "Hex": "000000"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "Width": 0.0,
+            "RoundingType": "ESlateBrushRoundingType::HalfHeightRadius",
+            "bUseBrushTransparency": false
+          },
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "bIsDynamicallyLoaded": false,
+          "ResourceName": "None"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Items/Items/Items_DL_Hospital/Near/Play_Sfx_Items_DL_Hospital_Telephone_Ring_Lp.Play_Sfx_Items_DL_Hospital_Telephone_Ring_Lp",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": false,
+        "NeedTyping": false,
         "ClearNeedQuestID": "None",
         "MontageInfos": [],
         "LockTargetInfo": null,
