@@ -25,19 +25,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "Anomaly_004_Name",
           "SourceString": "塔吉多",
-          "LocalizedString": "塔吉多"
+          "LocalizedString": "Taygedo"
         },
         "Name": {
           "TableId": "/Game/Text/ST_Description.ST_Description",
           "Key": "DMU01_L01_001",
           "SourceString": "安魂曲，大好人！",
-          "LocalizedString": "安魂曲，大好人！"
+          "LocalizedString": "Lacrimosa, good person!"
         },
         "Content": {
           "TableId": "/Game/Text/ST_Description.ST_Description",
           "Key": "DMU01_L01_002",
           "SourceString": "安魂曲，热心肠，大好人！",
-          "LocalizedString": "安魂曲，热心肠，大好人！"
+          "LocalizedString": "Lacrimosa, kind-hearted, great person!"
         },
         "bForbid": false,
         "ForbidDelay": 0,
@@ -50,7 +50,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_083",
               "SourceString": "一天前",
-              "LocalizedString": "一天前"
+              "LocalizedString": "1d ago"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_058.player_058",
@@ -60,13 +60,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_001_Name",
               "SourceString": "镜匠",
-              "LocalizedString": "镜匠"
+              "LocalizedString": "Mirror Maker"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_003",
               "SourceString": "你是？",
-              "LocalizedString": "你是？"
+              "LocalizedString": "And you are?"
             },
             "ReplyArr": []
           },
@@ -75,7 +75,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_083",
               "SourceString": "一天前",
-              "LocalizedString": "一天前"
+              "LocalizedString": "1d ago"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_062.player_062",
@@ -85,13 +85,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_002_Name",
               "SourceString": "猎人帮金牌小队委托请私信",
-              "LocalizedString": "猎人帮金牌小队委托请私信"
+              "LocalizedString": "Hyelp_Top_Hunter_DM_for_jobs"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_004",
               "SourceString": "楼主是内部人士？蹲蹲后续",
-              "LocalizedString": "楼主是内部人士？蹲蹲后续"
+              "LocalizedString": "Is OP an insider? Waiting for updates!"
             },
             "ReplyArr": []
           },
@@ -100,7 +100,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_063.player_063",
@@ -110,13 +110,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_003_Name",
               "SourceString": "好想食咔叽玛bot",
-              "LocalizedString": "好想食咔叽玛bot"
+              "LocalizedString": "clickystomach92"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_005",
               "SourceString": "话怎么不说完啊，主楼是被灵感终结者吸走了吗",
-              "LocalizedString": "话怎么不说完啊，主楼是被灵感终结者吸走了吗"
+              "LocalizedString": "Why'd you stop mid-sentence? Did the Inspiration Terminator suck away your thoughts?"
             },
             "ReplyArr": [
               {
@@ -128,13 +128,13 @@
                   "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
                   "Key": "Anomaly_004_Name",
                   "SourceString": "塔吉多",
-                  "LocalizedString": "塔吉多"
+                  "LocalizedString": "Taygedo"
                 },
                 "Content": {
                   "TableId": "/Game/Text/ST_Description.ST_Description",
                   "Key": "DMU01_L01_009",
                   "SourceString": "努力解决番茄酱恶魔！",
-                  "LocalizedString": "努力解决番茄酱恶魔！"
+                  "LocalizedString": "Let's take down the Tomato Devil!"
                 }
               }
             ]
@@ -144,7 +144,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_065.player_065",
@@ -154,13 +154,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_004_Name",
               "SourceString": "罪城_往事",
-              "LocalizedString": "罪城_往事"
+              "LocalizedString": "SinCityChronicles_"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_006",
               "SourceString": "楼主是还在打字还是一击脱离了啊？",
-              "LocalizedString": "楼主是还在打字还是一击脱离了啊？"
+              "LocalizedString": "Is OP still typing or did they just ghost us?"
             },
             "ReplyArr": []
           },
@@ -169,7 +169,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_060.player_060",
@@ -179,13 +179,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_005_Name",
               "SourceString": "克莱门在逃人员",
-              "LocalizedString": "克莱门在逃人员"
+              "LocalizedString": "ClementRunaway"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_007",
               "SourceString": "是纯文字描述啊这下不得不信了",
-              "LocalizedString": "是纯文字描述啊这下不得不信了"
+              "LocalizedString": "It's just a plain text description? Now I have no choice but to believe it."
             },
             "ReplyArr": []
           },
@@ -194,7 +194,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_057.player_057",
@@ -204,13 +204,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_006_Name",
               "SourceString": "绘莉你带我走吧",
-              "LocalizedString": "绘莉你带我走吧"
+              "LocalizedString": "ellie-my-beloved"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_008",
               "SourceString": " 没有证据的话可没什么说服力……",
-              "LocalizedString": " 没有证据的话可没什么说服力……"
+              "LocalizedString": "Claims without evidence aren't very convincing…"
             },
             "ReplyArr": []
           },
@@ -219,7 +219,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_064.player_064",
@@ -229,13 +229,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_007_Name",
               "SourceString": "想要的网名被占用了",
-              "LocalizedString": "想要的网名被占用了"
+              "LocalizedString": "UsernameTaken"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_011",
               "SourceString": "就这？看笑了，她不就是番茄酱恶魔，还能自己解决自己？¯\\_(ツ)_/¯",
-              "LocalizedString": "就这？看笑了，她不就是番茄酱恶魔，还能自己解决自己？¯\\_(ツ)_/¯"
+              "LocalizedString": "That's it? Made me laugh. Isn't she just the Tomato Devil? Can't she just defeat herself then? ¯\\_(ツ)_/¯"
             },
             "ReplyArr": []
           },
@@ -244,7 +244,7 @@
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_084",
               "SourceString": "今天",
-              "LocalizedString": "今天"
+              "LocalizedString": "Today"
             },
             "HeadIcon": {
               "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/BagelAvatar/player_054.player_054",
@@ -254,13 +254,13 @@
               "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
               "Key": "Bagel_008_Name",
               "SourceString": "海特洛不是海洛特",
-              "LocalizedString": "海特洛不是海洛特"
+              "LocalizedString": "Hethereau-not-Hetheraeu"
             },
             "Content": {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMU01_L01_012",
               "SourceString": "管理局给员工洗地，占用公共资源炒作，选一个吧",
-              "LocalizedString": "管理局给员工洗地，占用公共资源炒作，选一个吧"
+              "LocalizedString": "The Administration is either covering for their staff or wasting public resources for publicity. Pick one."
             },
             "ReplyArr": []
           }

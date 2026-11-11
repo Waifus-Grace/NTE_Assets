@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Defulat",
           "SourceString": "随机",
-          "LocalizedString": "随机"
+          "LocalizedString": "Random"
         },
         "RandomRate": 0.0,
         "WeatherTexture": {
@@ -41,7 +41,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Sunny",
           "SourceString": "晴天",
-          "LocalizedString": "晴天"
+          "LocalizedString": "Sunny"
         },
         "RandomRate": 0.79,
         "WeatherTexture": {
@@ -64,7 +64,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Rain",
           "SourceString": "雨天",
-          "LocalizedString": "雨天"
+          "LocalizedString": "Rainy"
         },
         "RandomRate": 0.2,
         "WeatherTexture": {
@@ -87,7 +87,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Snow",
           "SourceString": "雪天",
-          "LocalizedString": "雪天"
+          "LocalizedString": "Snowy"
         },
         "RandomRate": 0.01,
         "WeatherTexture": {
@@ -98,7 +98,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Snow_Lock",
           "SourceString": "完成支线任务 <blue>「 写给你的逆行诗 」</>解锁",
-          "LocalizedString": "完成支线任务 <blue>「 写给你的逆行诗 」</>解锁"
+          "LocalizedString": "Complete Side Quest <blue>A Retrograde Poem for You</> to unlock"
         },
         "bAutoUnlock": false,
         "UnlockCondition": {

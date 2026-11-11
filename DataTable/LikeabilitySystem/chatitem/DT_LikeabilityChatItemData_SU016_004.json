@@ -30,7 +30,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_1",
           "SourceString": "远方，散文诗人，咖啡鉴赏师，终生背包客，修行家，爱情学者，流浪汉，口琴艺人，业余导师，实习异象猎人，电话接线员。",
-          "LocalizedString": "远方，散文诗人，咖啡鉴赏师，终生背包客，修行家，爱情学者，流浪汉，口琴艺人，业余导师，实习异象猎人，电话接线员。"
+          "LocalizedString": "Faraway: Prose poet, coffee connoisseur, lifelong backpacker, spiritual practitioner, scholar of love, vagabond, harmonica artist, amateur mentor, apprentice anomaly hunter, telephone operator."
         },
         "ParaContent": "",
         "IconSource": {
@@ -46,7 +46,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_1_1",
               "SourceString": "电话接线员？",
-              "LocalizedString": "电话接线员？"
+              "LocalizedString": "Telephone operator?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -59,7 +59,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_1_2",
               "SourceString": "今天这么多人？",
-              "LocalizedString": "今天这么多人？"
+              "LocalizedString": "That's a lot of people with us today!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_1_3",
               "SourceString": "别这样好吗？",
-              "LocalizedString": "别这样好吗？"
+              "LocalizedString": "Could you please not do that?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -115,7 +115,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_2_1",
           "SourceString": "怎么有一个格格不入……",
-          "LocalizedString": "怎么有一个格格不入……"
+          "LocalizedString": "One of these is not like the others…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -160,7 +160,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_2_2",
           "SourceString": "今天有这么多人？",
-          "LocalizedString": "今天有这么多人？"
+          "LocalizedString": "That's a lot of people with us today!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -205,7 +205,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_2_3",
           "SourceString": "别这样好吗？",
-          "LocalizedString": "别这样好吗？"
+          "LocalizedString": "Could you please not do that?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -250,7 +250,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_3_1",
           "SourceString": "只是一个身份罢了。",
-          "LocalizedString": "只是一个身份罢了。"
+          "LocalizedString": "It's just one of my many identities, that's all."
         },
         "ParaContent": "",
         "IconSource": {
@@ -295,7 +295,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_3_2",
           "SourceString": "事实上，这些都是我。",
-          "LocalizedString": "事实上，这些都是我。"
+          "LocalizedString": "Actually, all of these titles are mine."
         },
         "ParaContent": "",
         "IconSource": {
@@ -340,7 +340,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_3_3",
           "SourceString": "好的。",
-          "LocalizedString": "好的。"
+          "LocalizedString": "I see."
         },
         "ParaContent": "",
         "IconSource": {
@@ -385,7 +385,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_4",
           "SourceString": "我的故事，来自一个潮湿的，弥漫着丁香花香气的雨夜。",
-          "LocalizedString": "我的故事，来自一个潮湿的，弥漫着丁香花香气的雨夜。"
+          "LocalizedString": "My story begins on a damp, rainy night, perfumed with the scent of lilacs."
         },
         "ParaContent": "",
         "IconSource": {
@@ -430,7 +430,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_5",
           "SourceString": "贫瘠的文字，不，一切语言都无法描述那个美妙的夜晚。",
-          "LocalizedString": "贫瘠的文字，不，一切语言都无法描述那个美妙的夜晚。"
+          "LocalizedString": "Mere words… no, all language fails to capture the wonder of that night."
         },
         "ParaContent": "",
         "IconSource": {
@@ -446,7 +446,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_5_1",
               "SourceString": "奇怪的说话方式",
-              "LocalizedString": "奇怪的说话方式"
+              "LocalizedString": "What a strange way of speaking."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -459,7 +459,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_5_2",
               "SourceString": "一定要这么说话吗？",
-              "LocalizedString": "一定要这么说话吗？"
+              "LocalizedString": "Do you really have to talk like that?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -472,7 +472,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_5_3",
               "SourceString": "散文诗人",
-              "LocalizedString": "散文诗人"
+              "LocalizedString": "\"Prose Poet\", huh?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -515,7 +515,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_6_1",
           "SourceString": "你的说话方式有点奇怪。",
-          "LocalizedString": "你的说话方式有点奇怪。"
+          "LocalizedString": "Your way of speaking is a bit unusual."
         },
         "ParaContent": "",
         "IconSource": {
@@ -560,7 +560,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_6_2",
           "SourceString": "你一定要这么说话吗？",
-          "LocalizedString": "你一定要这么说话吗？"
+          "LocalizedString": "Do you really have to talk like that?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -605,7 +605,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_6_3",
           "SourceString": "这就是散文诗人吗？",
-          "LocalizedString": "这就是散文诗人吗？"
+          "LocalizedString": "So this is what a Prose Poet is like?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -650,7 +650,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_7",
           "SourceString": "那是一通神秘来电，就像她一样，神秘的丁香女子。",
-          "LocalizedString": "那是一通神秘来电，就像她一样，神秘的丁香女子。"
+          "LocalizedString": "It was a mysterious call, just like her—the enigmatic lady. She was like the Lilac…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -695,7 +695,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_8",
           "SourceString": "哦，我的紫丁香，我的阿芙洛狄忒！",
-          "LocalizedString": "哦，我的紫丁香，我的阿芙洛狄忒！"
+          "LocalizedString": "Oh, my Lilac, my Aphrodite!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -711,7 +711,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_8_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -724,7 +724,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_8_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -737,7 +737,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_8_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -780,7 +780,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_9",
           "SourceString": "……",
-          "LocalizedString": "……"
+          "LocalizedString": "…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -825,7 +825,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_10",
           "SourceString": "哦，好吧，看来我的诗歌依旧不受欢迎。",
-          "LocalizedString": "哦，好吧，看来我的诗歌依旧不受欢迎。"
+          "LocalizedString": "Oh, I see. It seems my poetry still isn't well-received."
         },
         "ParaContent": "",
         "IconSource": {
@@ -870,7 +870,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_11",
           "SourceString": "唉，世俗的厌倦，艺术仍无立足之地。",
-          "LocalizedString": "唉，世俗的厌倦，艺术仍无立足之地。"
+          "LocalizedString": "Alas, the weariness of the mundane world—art still has no place to stand."
         },
         "ParaContent": "",
         "IconSource": {
@@ -886,7 +886,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_11_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -929,7 +929,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_12",
           "SourceString": "……",
-          "LocalizedString": "……"
+          "LocalizedString": "…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -974,7 +974,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_13",
           "SourceString": "好吧好吧。",
-          "LocalizedString": "好吧好吧。"
+          "LocalizedString": "Fine, fine."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1019,7 +1019,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_14",
           "SourceString": "一个月前，不，准确说是三十二天前，我接到了一个电话。",
-          "LocalizedString": "一个月前，不，准确说是三十二天前，我接到了一个电话。"
+          "LocalizedString": "A month ago—no, to be precise, thirty-two days ago—I received a phone call."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1064,7 +1064,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_15",
           "SourceString": "当时六家杂志社都拒绝了我的投稿，就在我心灰意冷的时候，角落里的电话响了。",
-          "LocalizedString": "当时六家杂志社都拒绝了我的投稿，就在我心灰意冷的时候，角落里的电话响了。"
+          "LocalizedString": "Six magazine publishers had rejected my submissions, and just when I was at my lowest, the phone in the corner rang."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1109,7 +1109,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_16",
           "SourceString": "那是旧时代的产物，褪色的童年记忆里，它早已蒙上了尘埃。",
-          "LocalizedString": "那是旧时代的产物，褪色的童年记忆里，它早已蒙上了尘埃。"
+          "LocalizedString": "It was a relic from a bygone era, gathering dust in the faded memories of childhood."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1125,7 +1125,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_16_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1168,7 +1168,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_17",
           "SourceString": "……",
-          "LocalizedString": "……"
+          "LocalizedString": "…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1213,7 +1213,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_18",
           "SourceString": "咳咳。",
-          "LocalizedString": "咳咳。"
+          "LocalizedString": "Ahem."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1258,7 +1258,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_19",
           "SourceString": "我以为是什么老牌出版社，想也没想就接起来，对面是一个很好听的女声。",
-          "LocalizedString": "我以为是什么老牌出版社，想也没想就接起来，对面是一个很好听的女声。"
+          "LocalizedString": "I thought it might be some established publishing house, so I answered without a second thought—and was greeted by a lovely female voice."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1303,7 +1303,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_20",
           "SourceString": "是打错了电话，但是就是这样的巧合，她居然也懂诗歌。",
-          "LocalizedString": "是打错了电话，但是就是这样的巧合，她居然也懂诗歌。"
+          "LocalizedString": "It was a wrong number, but by some strange coincidence, she actually appreciated poetry too."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1348,7 +1348,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_21",
           "SourceString": "现在，我每天的事情就是等待她的来电，和她分享我的新作。",
-          "LocalizedString": "现在，我每天的事情就是等待她的来电，和她分享我的新作。"
+          "LocalizedString": "These days, all I do is wait for her calls so I can share my latest works with her."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1393,7 +1393,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_22",
           "SourceString": "我沉入爱河了，是的，我沉入了爱河。",
-          "LocalizedString": "我沉入爱河了，是的，我沉入了爱河。"
+          "LocalizedString": "I've fallen in love, yes, I've fallen in love."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1409,7 +1409,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_22_1",
               "SourceString": "每天都打？",
-              "LocalizedString": "每天都打？"
+              "LocalizedString": "She calls every day?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1422,7 +1422,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_22_2",
               "SourceString": "话费很贵吧",
-              "LocalizedString": "话费很贵吧"
+              "LocalizedString": "The phone bills must be expensive, right?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1435,7 +1435,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_22_3",
               "SourceString": "能跳过吗？",
-              "LocalizedString": "能跳过吗？"
+              "LocalizedString": "Can we skip this?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1478,7 +1478,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_23_1",
           "SourceString": "你们每天都通话？",
-          "LocalizedString": "你们每天都通话？"
+          "LocalizedString": "You two talk on the phone every day?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1523,7 +1523,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_23_2",
           "SourceString": "每天打电话花费一定很贵吧。",
-          "LocalizedString": "每天打电话花费一定很贵吧。"
+          "LocalizedString": "Daily phone calls must cost quite a bit, I imagine."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1568,7 +1568,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_23_3",
           "SourceString": "我申请跳过爱情故事。",
-          "LocalizedString": "我申请跳过爱情故事。"
+          "LocalizedString": "I'd like to formally request we skip your love story arc."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1613,7 +1613,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_24_1",
           "SourceString": "当然，就算那台老古董电话线断了，我们的爱情却连接了起来。",
-          "LocalizedString": "当然，就算那台老古董电话线断了，我们的爱情却连接了起来。"
+          "LocalizedString": "Absolutely. Even if that antique phone's line got disconnected, our love made a connection."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1629,7 +1629,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_25_1",
               "SourceString": "等一下",
-              "LocalizedString": "等一下"
+              "LocalizedString": "Hold on."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1672,7 +1672,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_24_2",
           "SourceString": "话费？那台老古董的电话线早都断了。",
-          "LocalizedString": "话费？那台老古董的电话线早都断了。"
+          "LocalizedString": "Phone bills? The line on that old antique phone has been disconnected for ages."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1688,7 +1688,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_25_1",
               "SourceString": "等一下",
-              "LocalizedString": "等一下"
+              "LocalizedString": "Hold on."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1731,7 +1731,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_24_3",
           "SourceString": "我这可悲的爱情就像断掉的电话线一样摇摇欲坠，我只是想和人分享。",
-          "LocalizedString": "我这可悲的爱情就像断掉的电话线一样摇摇欲坠，我只是想和人分享。"
+          "LocalizedString": "My pitiful love hangs by a thread like that disconnected phone line, I just wanted to share it with someone."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1747,7 +1747,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_25_1",
               "SourceString": "等一下",
-              "LocalizedString": "等一下"
+              "LocalizedString": "Hold on."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1790,7 +1790,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_25",
           "SourceString": "等一下。",
-          "LocalizedString": "等一下。"
+          "LocalizedString": "Wait."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1835,7 +1835,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_26",
           "SourceString": "你是说一台断了线的没电的通讯设备每晚都会自己响起吗？",
-          "LocalizedString": "你是说一台断了线的没电的通讯设备每晚都会自己响起吗？"
+          "LocalizedString": "So you're saying a disconnected, unpowered communication device rings by itself every night?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1880,7 +1880,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_27",
           "SourceString": "没错。",
-          "LocalizedString": "没错。"
+          "LocalizedString": "That's right."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1925,7 +1925,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_28",
           "SourceString": "太浪漫了，我神秘的爱人。",
-          "LocalizedString": "太浪漫了，我神秘的爱人。"
+          "LocalizedString": "So romantic, my mysterious lover."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1970,7 +1970,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_29",
           "SourceString": "虽然她还不知晓我的心意，也许是我的表达过于含蓄，爱情使我胆怯。",
-          "LocalizedString": "虽然她还不知晓我的心意，也许是我的表达过于含蓄，爱情使我胆怯。"
+          "LocalizedString": "Although she still doesn't know my true feelings—perhaps my expressions are too subtle—love makes me timid."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2015,7 +2015,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_30",
           "SourceString": "但它又让我强大，所以我来了，我要证明我的决心。",
-          "LocalizedString": "但它又让我强大，所以我来了，我要证明我的决心。"
+          "LocalizedString": "But love also makes me strong, that's why I'm here—to prove my determination."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2060,7 +2060,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_31",
           "SourceString": "为此我又写了一首诗。",
-          "LocalizedString": "为此我又写了一首诗。"
+          "LocalizedString": "For this occasion, I've written another poem."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2076,7 +2076,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "chat_SU016_004_a_31_1",
               "SourceString": "什么诗？",
-              "LocalizedString": "什么诗？"
+              "LocalizedString": "What poem?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2119,7 +2119,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_32",
           "SourceString": "什么诗？",
-          "LocalizedString": "什么诗？"
+          "LocalizedString": "What poem?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2164,7 +2164,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_33",
           "SourceString": "你们稿费给的多吗？",
-          "LocalizedString": "你们稿费给的多吗？"
+          "LocalizedString": "Do you pay well for poem submissions?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2209,7 +2209,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a_34",
           "SourceString": "如果想要刊登我的诗，请你们编辑联系我，尊重版权。",
-          "LocalizedString": "如果想要刊登我的诗，请你们编辑联系我，尊重版权。"
+          "LocalizedString": "If you want to publish my poem, please have your editor contact me directly—respect copyright."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2254,7 +2254,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_1",
           "SourceString": "紫丁香，阿芙洛狄忒，<Red>电话接线员。</>",
-          "LocalizedString": "紫丁香，阿芙洛狄忒，<Red>电话接线员。</>"
+          "LocalizedString": "Lilac, Aphrodite, <Red>Telephone Operator.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2299,7 +2299,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_2",
           "SourceString": "电话接线员？",
-          "LocalizedString": "电话接线员？"
+          "LocalizedString": "Telephone operator?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2344,7 +2344,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_3",
           "SourceString": "我的故事，来自一台断线的废弃电话机。",
-          "LocalizedString": "我的故事，来自一台断线的废弃电话机。"
+          "LocalizedString": "My story came from a disconnected, abandoned telephone."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2389,7 +2389,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_4",
           "SourceString": "<Red>三十二天前</>，终于有人接听了<Red>我的来电。</>",
-          "LocalizedString": "<Red>三十二天前</>，终于有人接听了<Red>我的来电。</>"
+          "LocalizedString": "<Red>Thirty-two days ago</>, someone finally answered <Red>my call.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2434,7 +2434,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_5",
           "SourceString": "我喜欢他的诗。",
-          "LocalizedString": "我喜欢他的诗。"
+          "LocalizedString": "I like his poetry."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2479,7 +2479,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_6",
           "SourceString": "如果不止是在电话里听见……",
-          "LocalizedString": "如果不止是在电话里听见……"
+          "LocalizedString": "If only I could do more than just hear him through the phone…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2524,7 +2524,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_7",
           "SourceString": "你要做什么？",
-          "LocalizedString": "你要做什么？"
+          "LocalizedString": "What are you going to do?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2569,7 +2569,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_8",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2614,7 +2614,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_9",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2659,7 +2659,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_10",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2704,7 +2704,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_11",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2749,7 +2749,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_12",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2794,7 +2794,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_13",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2839,7 +2839,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_14",
           "SourceString": "<Red>想见面。</>",
-          "LocalizedString": "<Red>想见面。</>"
+          "LocalizedString": "<Red>I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2884,7 +2884,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_15",
           "SourceString": "<Red>想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面。</>",
-          "LocalizedString": "<Red>想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面想见面。</>"
+          "LocalizedString": "<Red>I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you I want to meet you.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2929,7 +2929,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_16",
           "SourceString": "<Red>我沉入爱河了，是的，我沉入了爱河。</>",
-          "LocalizedString": "<Red>我沉入爱河了，是的，我沉入了爱河。</>"
+          "LocalizedString": "<Red>I've fallen in love, yes, I've fallen in love.</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2974,7 +2974,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "chat_SU016_004_a2_17",
           "SourceString": "我们在一起了，就像诗歌中一样幸福。",
-          "LocalizedString": "我们在一起了，就像诗歌中一样幸福。"
+          "LocalizedString": "We're together now, as blissful as in poetry."
         },
         "ParaContent": "",
         "IconSource": {

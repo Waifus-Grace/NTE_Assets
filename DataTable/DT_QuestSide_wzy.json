@@ -188,13 +188,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_NPC001_001",
                   "SourceString": "那是村长绵！好多绵绵在围观，发生什么事了吗？",
-                  "LocalizedString": "那是村长绵！好多绵绵在围观，发生什么事了吗？"
+                  "LocalizedString": "That's Elder Fuzzy! There are so many Fuzzies crowding around… I wonder what happened?"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_NPCAS002_01_001",
                   "SourceString": "是勇者大人！勇者大人们回来了！",
-                  "LocalizedString": "是勇者大人！勇者大人们回来了！"
+                  "LocalizedString": "It's the adventurers! They have returned!"
                 }
               ]
             },
@@ -288,7 +288,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120201_QuestName",
           "SourceString": "寻绵启事",
-          "LocalizedString": "寻绵启事"
+          "LocalizedString": "Missing Fuzzy Notice"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 1.0,
@@ -325,7 +325,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120201_ObjDes_1",
               "SourceString": "与<blue>村长绵</>交谈",
-              "LocalizedString": "与<blue>村长绵</>交谈"
+              "LocalizedString": "Talk to the <blue>Elder Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -383,7 +383,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120201_QuestPanel",
           "SourceString": "回到了沃伦大陆，这里的一切都没有变……吗？",
-          "LocalizedString": "回到了沃伦大陆，这里的一切都没有变……吗？"
+          "LocalizedString": "You're back to the Warren Continent. Has nothing… changed?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -445,7 +445,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120202_QuestName",
           "SourceString": "寻绵高手",
-          "LocalizedString": "寻绵高手"
+          "LocalizedString": "Fuzzy Finder Pro"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 2.0,
@@ -482,7 +482,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120202_ObjDes_1",
               "SourceString": "前往<blue>龙堡外围</>",
-              "LocalizedString": "前往<blue>龙堡外围</>"
+              "LocalizedString": "Go to the outer ring of the <blue>Crimson Castle</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -540,7 +540,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120202_QuestPanel",
           "SourceString": "前往龙堡附近的最后目击地点搜寻馋馋绵。",
-          "LocalizedString": "前往龙堡附近的最后目击地点搜寻馋馋绵。"
+          "LocalizedString": "Go near the Crimson Castle to find the sighting location and look for the Glutton Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -602,7 +602,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120203_QuestName",
           "SourceString": "寻绵高手",
-          "LocalizedString": "寻绵高手"
+          "LocalizedString": "Fuzzy Finder Pro"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 3.0,
@@ -639,13 +639,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120203_ObjDes_1",
               "SourceString": "检查<blue>痕迹</>",
-              "LocalizedString": "检查<blue>痕迹</>"
+              "LocalizedString": "Examine the <blue>traces</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_1",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -656,13 +656,13 @@
                   "TableId": "/Game/Text/Dialogue/ST_Dialogue_Side.ST_Dialogue_Side",
                   "Key": "SU103_NPC028_002",
                   "SourceString": "这里就是村长绵标记的地点了，似乎没有看到馋馋绵呢~",
-                  "LocalizedString": "这里就是村长绵标记的地点了，似乎没有看到馋馋绵呢~"
+                  "LocalizedString": "So this is the spot Elder Fuzzy marked. Looks like Glutton Fuzzy isn't here."
                 },
                 {
                   "TableId": "/Game/Text/Dialogue/ST_Dialogue_Side.ST_Dialogue_Side",
                   "Key": "SU103_NPC032_003",
                   "SourceString": "地上似乎是一些遗落的物品？",
-                  "LocalizedString": "地上似乎是一些遗落的物品？"
+                  "LocalizedString": "Looks like someone dropped a few things over here."
                 }
               ]
             },
@@ -720,13 +720,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120203_ObjDes_2",
               "SourceString": "检查<blue>地面</>",
-              "LocalizedString": "检查<blue>地面</>"
+              "LocalizedString": "Examine the <blue>floor</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_1",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -785,13 +785,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120203_ObjDes_3",
               "SourceString": "询问<blue>绵绵</>",
-              "LocalizedString": "询问<blue>绵绵</>"
+              "LocalizedString": "Ask the <blue>Fuzzy</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_1",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -846,7 +846,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120203_QuestPanel",
           "SourceString": "检查四周的痕迹，搜寻跟馋馋绵相关的线索。",
-          "LocalizedString": "检查四周的痕迹，搜寻跟馋馋绵相关的线索。"
+          "LocalizedString": "Examine the traces around and search for clues related to the Glutton Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -908,7 +908,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120204_QuestName",
           "SourceString": "寻绵高手",
-          "LocalizedString": "寻绵高手"
+          "LocalizedString": "Fuzzy Finder Pro"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 4.0,
@@ -945,7 +945,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120204_ObjDes_1",
               "SourceString": "前往<blue>营地</>",
-              "LocalizedString": "前往<blue>营地</>"
+              "LocalizedString": "Go to the <blue>Camp</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1003,7 +1003,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120204_QuestPanel",
           "SourceString": "根据好斗绵的说法，馋馋绵逃往了营地方向。",
-          "LocalizedString": "根据好斗绵的说法，馋馋绵逃往了营地方向。"
+          "LocalizedString": "The Brawly Fuzzy said that the Glutton Fuzzy ran towards the direction of the camp."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1065,7 +1065,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120205_QuestName",
           "SourceString": "寻绵高手",
-          "LocalizedString": "寻绵高手"
+          "LocalizedString": "Fuzzy Finder Pro"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 5.0,
@@ -1102,7 +1102,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120205_ObjDes_1",
               "SourceString": "寻找知情的绵",
-              "LocalizedString": "寻找知情的绵"
+              "LocalizedString": "Find a Fuzzy that knows something"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1160,7 +1160,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120205_QuestPanel",
           "SourceString": "营地中似乎没有馋馋绵的踪迹，在附近看看有没有知情的绵吧。",
-          "LocalizedString": "营地中似乎没有馋馋绵的踪迹，在附近看看有没有知情的绵吧。"
+          "LocalizedString": "There are no traces of the Glutton Fuzzy in the camp. Look around to see if there are any Fuzzies who know something."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1222,7 +1222,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120206_QuestName",
           "SourceString": "寻绵高手",
-          "LocalizedString": "寻绵高手"
+          "LocalizedString": "Fuzzy Finder Pro"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 6.0,
@@ -1259,7 +1259,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120206_ObjDes_1",
               "SourceString": "询问<blue>失主绵</>",
-              "LocalizedString": "询问<blue>失主绵</>"
+              "LocalizedString": "Ask the <blue>Item-Lost Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1317,7 +1317,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120206_QuestPanel",
           "SourceString": "失主绵可能知情？去问问绵有没有看到过馋馋绵吧。",
-          "LocalizedString": "失主绵可能知情？去问问绵有没有看到过馋馋绵吧。"
+          "LocalizedString": "Maybe the Item-Lost Fuzzy knows something? Go ask if they've seen the Glutton Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1379,7 +1379,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120207_QuestName",
           "SourceString": "寻绵大成功……了吗？",
-          "LocalizedString": "寻绵大成功……了吗？"
+          "LocalizedString": "Lost Fuzzy Found…?"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 7.0,
@@ -1416,7 +1416,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120207_ObjDes_1",
               "SourceString": "返回<blue> 绵绵村</>",
-              "LocalizedString": "返回<blue> 绵绵村</>"
+              "LocalizedString": "Return to the <blue>Fuzzy Village</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1474,7 +1474,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120207_QuestPanel",
           "SourceString": "根据失主绵的说法，馋馋绵向绵绵村跑去了。",
-          "LocalizedString": "根据失主绵的说法，馋馋绵向绵绵村跑去了。"
+          "LocalizedString": "The Item-Lost Fuzzy said that the Glutton Fuzzy went to the Fuzzy Village."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1536,7 +1536,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120208_QuestName",
           "SourceString": "寻绵大成功……了吗？",
-          "LocalizedString": "寻绵大成功……了吗？"
+          "LocalizedString": "Lost Fuzzy Found…?"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 8.0,
@@ -1573,7 +1573,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120208_ObjDes_1",
               "SourceString": "查看<blue>馋馋绵</>",
-              "LocalizedString": "查看<blue>馋馋绵</>"
+              "LocalizedString": "Check the <blue>Glutton Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1587,25 +1587,25 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_NPCAS002_08_001",
                   "SourceString": "就算难过也不能哭，眼泪会把身子融化的！",
-                  "LocalizedString": "就算难过也不能哭，眼泪会把身子融化的！"
+                  "LocalizedString": "Even if you're sad—don't cry! You'll melt!"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_NPCAS002_09_001",
                   "SourceString": "融化……？",
-                  "LocalizedString": "融化……？"
+                  "LocalizedString": "M-Melt…?"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_NPCAS002_08_002",
                   "SourceString": "身子被融化了就会消失，绵不希望你消失……",
-                  "LocalizedString": "身子被融化了就会消失，绵不希望你消失……"
+                  "LocalizedString": "If your body melts away, you'll disappear entirely. This Fuzzy doesn't want you to go away forever…"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST103_Player_020",
                   "SourceString": "这段对话似乎在哪里听到过呢……",
-                  "LocalizedString": "这段对话似乎在哪里听到过呢……"
+                  "LocalizedString": "I have a massive sense of déjà vu right now…"
                 }
               ]
             },
@@ -1659,7 +1659,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120208_QuestPanel",
           "SourceString": "在村口发现了馋馋绵，不过馋馋绵看起来有点……难过？",
-          "LocalizedString": "在村口发现了馋馋绵，不过馋馋绵看起来有点……难过？"
+          "LocalizedString": "You found the Glutton Fuzzy at the entrance of the village, buy they look a bit… sad?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1721,7 +1721,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120209_QuestName",
           "SourceString": "寻绵大成功……了吗？",
-          "LocalizedString": "寻绵大成功……了吗？"
+          "LocalizedString": "Lost Fuzzy Found…?"
         },
         "ChapterID": "SU103",
         "ChapterProgress": 9.0,
@@ -1758,7 +1758,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120209_ObjDes_1",
               "SourceString": "与<blue>村长绵</>交谈",
-              "LocalizedString": "与<blue>村长绵</>交谈"
+              "LocalizedString": "Talk to the <blue>Elder Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1816,7 +1816,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120209_QuestPanel",
           "SourceString": "既然馋馋绵已经找到了，不如去问问村长吧。",
-          "LocalizedString": "既然馋馋绵已经找到了，不如去问问村长吧。"
+          "LocalizedString": "Since you already found the Glutton Fuzzy, you should go ask the elder."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2135,7 +2135,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120211_QuestName",
           "SourceString": "难吃的钥匙",
-          "LocalizedString": "难吃的钥匙"
+          "LocalizedString": "The Key is Hard to Stomach"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 1.0,
@@ -2172,7 +2172,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120211_ObjDes_1",
               "SourceString": "查看<blue>魔法钥匙的配方</>",
-              "LocalizedString": "查看<blue>魔法钥匙的配方</>"
+              "LocalizedString": "Check the <blue>recipe for the magical key</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2230,7 +2230,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120211_QuestPanel",
           "SourceString": "馋馋绵哭晕过去了，先看看馋馋绵留下的配方吧。",
-          "LocalizedString": "馋馋绵哭晕过去了，先看看馋馋绵留下的配方吧。"
+          "LocalizedString": "The Glutton Fuzzy fainted from crying. Go check out the recipe they left."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2292,7 +2292,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120212_QuestName",
           "SourceString": "难吃的钥匙",
-          "LocalizedString": "难吃的钥匙"
+          "LocalizedString": "The Key is Hard to Stomach"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 2.0,
@@ -2329,7 +2329,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120212_ObjDes_1",
               "SourceString": "询问<blue>矮人绵</>",
-              "LocalizedString": "询问<blue>矮人绵</>"
+              "LocalizedString": "Ask the <blue>Dwarf Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2387,7 +2387,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120212_QuestPanel",
           "SourceString": "矮人绵突然出现，它可能会知道什么？",
-          "LocalizedString": "矮人绵突然出现，它可能会知道什么？"
+          "LocalizedString": "The Dwarf Fuzzy suddenly appears. Maybe they know something?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2449,7 +2449,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120213_QuestName",
           "SourceString": "难吃的钥匙",
-          "LocalizedString": "难吃的钥匙"
+          "LocalizedString": "The Key is Hard to Stomach"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 3.0,
@@ -2486,7 +2486,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120213_ObjDes_1",
               "SourceString": "询问<blue>艺术绵</>",
-              "LocalizedString": "询问<blue>艺术绵</>"
+              "LocalizedString": "Ask the <blue>Art Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2544,7 +2544,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120213_QuestPanel",
           "SourceString": "找到艺术绵询问有关「艺术的造物」的线索。",
-          "LocalizedString": "找到艺术绵询问有关「艺术的造物」的线索。"
+          "LocalizedString": "Find the Art Fuzzy and ask about clues for the \"Artistic Creation.\""
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2606,7 +2606,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120214_QuestName",
           "SourceString": "难吃的钥匙",
-          "LocalizedString": "难吃的钥匙"
+          "LocalizedString": "The Key is Hard to Stomach"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 4.0,
@@ -2643,7 +2643,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120214_ObjDes_1",
               "SourceString": "询问<blue>神秘商绵</>",
-              "LocalizedString": "询问<blue>神秘商绵</>"
+              "LocalizedString": "Ask the <blue>Mysterious Fuzzy Merchant</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2701,7 +2701,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120214_QuestPanel",
           "SourceString": "找到神秘商绵询问有关「蓬松松生发膏」的线索。",
-          "LocalizedString": "找到神秘商绵询问有关「蓬松松生发膏」的线索。"
+          "LocalizedString": "Find the Mysterious Fuzzy Merchant and ask about clues for the Cloudcoat Growth Salve."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2763,7 +2763,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120215_QuestName",
           "SourceString": "百变小绵",
-          "LocalizedString": "百变小绵"
+          "LocalizedString": "The Transforming Fuzzy"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 5.0,
@@ -2800,7 +2800,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120215_ObjDes_1",
               "SourceString": "去找<blue>着急的绵绵</>",
-              "LocalizedString": "去找<blue>着急的绵绵</>"
+              "LocalizedString": "Find the <blue>Hurrying Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2858,7 +2858,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120215_QuestPanel",
           "SourceString": "传来着急的绵绵的声音，发生什么了？",
-          "LocalizedString": "传来着急的绵绵的声音，发生什么了？"
+          "LocalizedString": "You hear the sounds of a Fuzzy hurrying. What's going on?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2920,7 +2920,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120216_QuestName",
           "SourceString": "百变小绵",
-          "LocalizedString": "百变小绵"
+          "LocalizedString": "The Transforming Fuzzy"
         },
         "ChapterID": "SU104",
         "ChapterProgress": 6.0,
@@ -2957,7 +2957,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120216_ObjDes_1",
               "SourceString": "与<blue>着急的绵绵</>交谈",
-              "LocalizedString": "与<blue>着急的绵绵</>交谈"
+              "LocalizedString": "Talk to the <blue>Hurrying Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3015,7 +3015,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120216_QuestPanel",
           "SourceString": "馋馋绵似乎醒过来了？问问着急的绵绵发生了什么事情吧。",
-          "LocalizedString": "馋馋绵似乎醒过来了？问问着急的绵绵发生了什么事情吧。"
+          "LocalizedString": "Did the Glutton Fuzzy just wake up? Ask the Hurrying Fuzzy about what happened."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3205,7 +3205,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120221_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 1.0,
@@ -3242,7 +3242,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120221_ObjDes_1",
               "SourceString": "去找<blue>维修绵</>",
-              "LocalizedString": "去找<blue>维修绵</>"
+              "LocalizedString": "Find the <blue>Maintenance Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3300,7 +3300,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120221_QuestPanel",
           "SourceString": "根据村长绵的说法，维修绵似乎有办法。",
-          "LocalizedString": "根据村长绵的说法，维修绵似乎有办法。"
+          "LocalizedString": "According to the Elder Fuzzy, the Maintenance Fuzzy seems to have a solution."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3362,7 +3362,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120222_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 2.0,
@@ -3399,7 +3399,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120222_ObjDes_1",
               "SourceString": "收集<blue>浮毛</>",
-              "LocalizedString": "收集<blue>浮毛</>"
+              "LocalizedString": "Collect <blue>Loose Fur</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3457,7 +3457,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120222_QuestPanel",
           "SourceString": "收集浮毛制作「融化的糖水」吧！",
-          "LocalizedString": "收集浮毛制作「融化的糖水」吧！"
+          "LocalizedString": "Collect Loose Fur to make Melted Sugar Water!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3519,7 +3519,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120223_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 3.0,
@@ -3556,13 +3556,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_ObjDes_1",
               "SourceString": "获得<blue>「艺术的造物」</>",
-              "LocalizedString": "获得<blue>「艺术的造物」</>"
+              "LocalizedString": "Obtain<blue>Artistic Creation</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_1",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -3621,13 +3621,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_ObjDes_2",
               "SourceString": "获得<blue>「黏黏的光秃秃的树枝」</>",
-              "LocalizedString": "获得<blue>「黏黏的光秃秃的树枝」</>"
+              "LocalizedString": "Obtain<blue>Shiny Sticky Stick</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_2",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -3686,13 +3686,13 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_ObjDes_3",
               "SourceString": "获得<blue>「蓬松松生发膏」</>",
-              "LocalizedString": "获得<blue>「蓬松松生发膏」</>"
+              "LocalizedString": "Obtain<blue>Cloudcoat Growth Salve</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120223_Obj_CDes_3",
               "SourceString": "<orange>完成</>",
-              "LocalizedString": "<orange>完成</>"
+              "LocalizedString": "<orange>Complete</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -3747,7 +3747,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120223_QuestPanel",
           "SourceString": "分别找到艺术绵、失主绵、神秘商绵获取造绵的材料吧！",
-          "LocalizedString": "分别找到艺术绵、失主绵、神秘商绵获取造绵的材料吧！"
+          "LocalizedString": "Find the Art Fuzzy, Item-Lost Fuzzy, and Mysterious Fuzzy Merchant to find materials for Fuzzy creation!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3809,7 +3809,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120224_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 4.0,
@@ -3846,7 +3846,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120224_ObjDes_1",
               "SourceString": "到<blue>小树林</>集合",
-              "LocalizedString": "到<blue>小树林</>集合"
+              "LocalizedString": "Assemble at the <blue>woods</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3904,7 +3904,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120224_QuestPanel",
           "SourceString": "前去小树林跟众人集合，开始造绵吧！",
-          "LocalizedString": "前去小树林跟众人集合，开始造绵吧！"
+          "LocalizedString": "Head to the woods to assemble with the others and start creating a Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3966,7 +3966,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120225_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 5.0,
@@ -4003,7 +4003,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120225_ObjDes_1",
               "SourceString": "告诉<blue>维修绵</>准备就绪",
-              "LocalizedString": "告诉<blue>维修绵</>准备就绪"
+              "LocalizedString": "Tell the <blue>Maintenance Fuzzy</> to prepare"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4061,7 +4061,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120225_QuestPanel",
           "SourceString": "材料收集齐全，去告诉维修绵一切准备就绪。",
-          "LocalizedString": "材料收集齐全，去告诉维修绵一切准备就绪。"
+          "LocalizedString": "You've collected the materials. Go tell the Maintenance Fuzzy to get ready."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4123,7 +4123,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120226_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 6.0,
@@ -4162,7 +4162,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120226_ObjDes_1",
               "SourceString": "开始<blue>造绵</>",
-              "LocalizedString": "开始<blue>造绵</>"
+              "LocalizedString": "Begin <blue>Fuzzy creation</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4220,7 +4220,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120226_QuestPanel",
           "SourceString": "一切准备就绪，开始绵体炼成吧！",
-          "LocalizedString": "一切准备就绪，开始绵体炼成吧！"
+          "LocalizedString": "The preparations are complete. Begin creating a Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4282,7 +4282,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120227_QuestName",
           "SourceString": "荷蒙库鲁斯",
-          "LocalizedString": "荷蒙库鲁斯"
+          "LocalizedString": "Homunculus"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 7.0,
@@ -4319,7 +4319,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120227_ObjDes_1",
               "SourceString": "查看<blue>新造的绵</>",
-              "LocalizedString": "查看<blue>新造的绵</>"
+              "LocalizedString": "Check out the <blue>newly created Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4377,7 +4377,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120227_QuestPanel",
           "SourceString": "炼成成功……了吗？",
-          "LocalizedString": "炼成成功……了吗？"
+          "LocalizedString": "Was the attempt a… success?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4814,7 +4814,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120228_QuestName",
           "SourceString": "讲咩设定",
-          "LocalizedString": "讲咩设定"
+          "LocalizedString": "Fuzzy Documents"
         },
         "ChapterID": "SU105",
         "ChapterProgress": 8.0,
@@ -4851,7 +4851,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120228_ObjDes_1",
               "SourceString": "与英雄小屋的神秘绵交谈",
-              "LocalizedString": "与英雄小屋的神秘绵交谈"
+              "LocalizedString": "Talk to the Enigma Fuzzy at the Heroine's residence."
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4909,7 +4909,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120228_QuestPanel",
           "SourceString": "根据残卷中的线索，似乎可以找到英雄小屋那里的神秘绵补全设定？",
-          "LocalizedString": "根据残卷中的线索，似乎可以找到英雄小屋那里的神秘绵补全设定？"
+          "LocalizedString": "The clues from the incomplete manuscript seem to point to the Heroine's Hut. That should be where you can find the Enigma Fuzzy's complete design documents."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5055,7 +5055,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120231_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 1.0,
@@ -5092,7 +5092,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120231_ObjDes_1",
               "SourceString": "与<blue>债主绵</>交谈",
-              "LocalizedString": "与<blue>债主绵</>交谈"
+              "LocalizedString": "Talk to the <blue>Lender Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5150,7 +5150,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120231_QuestPanel",
           "SourceString": "债主绵好像收不回债了，去帮帮它吧。",
-          "LocalizedString": "债主绵好像收不回债了，去帮帮它吧。"
+          "LocalizedString": "The Lender Fuzzy isn't interested in collecting debt anymore. Go help them."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5215,7 +5215,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120232_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 2.0,
@@ -5252,7 +5252,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120232_ObjDes_1",
               "SourceString": "找到<blue>欠债的绵</>",
-              "LocalizedString": "找到<blue>欠债的绵</>"
+              "LocalizedString": "Find the <blue>Debtor Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5310,7 +5310,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120232_QuestPanel",
           "SourceString": "找到欠债的绵们，劝它们回村吧。",
-          "LocalizedString": "找到欠债的绵们，劝它们回村吧。"
+          "LocalizedString": "Find the Debtor Fuzzies and persuade them to return to the village."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5749,7 +5749,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120233_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 3.0,
@@ -5786,7 +5786,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120233_ObjDes_1",
               "SourceString": "回去找<blue>债主绵</>",
-              "LocalizedString": "回去找<blue>债主绵</>"
+              "LocalizedString": "Go back and find the <blue>Lender Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5844,7 +5844,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120233_QuestPanel",
           "SourceString": "告诉债主绵，你已经把欠债的绵绵带回来了。",
-          "LocalizedString": "告诉债主绵，你已经把欠债的绵绵带回来了。"
+          "LocalizedString": "Tell the Lender Fuzzy that you have brought back the Debtor Fuzzies."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5906,7 +5906,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120234_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 4.0,
@@ -5945,7 +5945,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120234_ObjDes_1",
               "SourceString": "有<blue>事情</>要发生",
-              "LocalizedString": "有<blue>事情</>要发生"
+              "LocalizedString": "<blue>Change</> is in the air"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6003,7 +6003,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120234_QuestPanel",
           "SourceString": "债主绵发生了变化。",
-          "LocalizedString": "债主绵发生了变化。"
+          "LocalizedString": "A change occurs to the Lender Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6065,7 +6065,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120235_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 5.0,
@@ -6102,7 +6102,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120235_ObjDes_1",
               "SourceString": "与升级的<blue>地主绵</>交谈",
-              "LocalizedString": "与升级的<blue>地主绵</>交谈"
+              "LocalizedString": "Talk to the leveled-up <blue>Landlord Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6160,7 +6160,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120235_QuestPanel",
           "SourceString": "原来……这才是绵不需要收回金币的真相！",
-          "LocalizedString": "原来……这才是绵不需要收回金币的真相！"
+          "LocalizedString": "And that… is why the Fuzzy wasn't asking for the Gold Coins back!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6222,7 +6222,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120236_QuestName",
           "SourceString": "金币最重要……吗？",
-          "LocalizedString": "金币最重要……吗？"
+          "LocalizedString": "Are Gold Coins really more important than… anything?"
         },
         "ChapterID": "SU130",
         "ChapterProgress": 6.0,
@@ -6259,7 +6259,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120236_ObjDes_1",
               "SourceString": "打开<blue>地主绵的奖励</>",
-              "LocalizedString": "打开<blue>地主绵的奖励</>"
+              "LocalizedString": "Unpack the <blue>Landlord Fuzzy's reward</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6317,7 +6317,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120236_QuestPanel",
           "SourceString": "升级后的地主绵，非常慷慨。",
-          "LocalizedString": "升级后的地主绵，非常慷慨。"
+          "LocalizedString": "The leveled-up Landlord Fuzzy is extremely generous."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6463,7 +6463,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120241_QuestName",
           "SourceString": "靓绵们的请求",
-          "LocalizedString": "靓绵们的请求"
+          "LocalizedString": "Fetching Fuzzy Favor"
         },
         "ChapterID": "SU131",
         "ChapterProgress": 1.0,
@@ -6500,7 +6500,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120241_ObjDes_1",
               "SourceString": "询问<blue>靓绵们</>",
-              "LocalizedString": "询问<blue>靓绵们</>"
+              "LocalizedString": "Ask the <blue>Fetching Fuzzies</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6558,7 +6558,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120241_QuestPanel",
           "SourceString": "菇绵们好像在争吵，上前问问吧……",
-          "LocalizedString": "菇绵们好像在争吵，上前问问吧……"
+          "LocalizedString": "The Fungi Fuzzies are arguing with each other. Go and ask them what it's about…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6620,7 +6620,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120242_QuestName",
           "SourceString": "要有好多菇！",
-          "LocalizedString": "要有好多菇！"
+          "LocalizedString": "More Fungi!"
         },
         "ChapterID": "SU131",
         "ChapterProgress": 2.0,
@@ -6657,7 +6657,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120242_ObjDes_1",
               "SourceString": "为<blue>靓绵们</>收集<blue>菇</>",
-              "LocalizedString": "为<blue>靓绵们</>收集<blue>菇</>"
+              "LocalizedString": "Collect <blue>Fungi</> for <blue>Fetching Fuzzies</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6715,7 +6715,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120242_QuestPanel",
           "SourceString": "收集绵们需要的菇。",
-          "LocalizedString": "收集绵们需要的菇。"
+          "LocalizedString": "Collect the fungi the Fuzzies asked for."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6777,7 +6777,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120243_QuestName",
           "SourceString": "新人物资",
-          "LocalizedString": "新人物资"
+          "LocalizedString": "Newbie Supplies"
         },
         "ChapterID": "SU131",
         "ChapterProgress": 3.0,
@@ -6814,7 +6814,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120243_ObjDes_1",
               "SourceString": "去拿<blue>俱乐部物资</>",
-              "LocalizedString": "去拿<blue>俱乐部物资</>"
+              "LocalizedString": "Go get <blue>Club Supplies</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6872,7 +6872,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120243_QuestPanel",
           "SourceString": "绵们给你准备了物资作为谢礼，去看看吧。",
-          "LocalizedString": "绵们给你准备了物资作为谢礼，去看看吧。"
+          "LocalizedString": "The Fuzzies prepared some supplies to thank you. Go take a look."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6936,7 +6936,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120244_QuestName",
           "SourceString": "新人物资",
-          "LocalizedString": "新人物资"
+          "LocalizedString": "Newbie Supplies"
         },
         "ChapterID": "SU131",
         "ChapterProgress": 4.0,
@@ -6973,7 +6973,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S120244_ObjDes_1",
               "SourceString": "拿取<blue>俱乐部物资</>",
-              "LocalizedString": "拿取<blue>俱乐部物资</>"
+              "LocalizedString": "Take the <blue>Club Supplies</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -7031,7 +7031,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S120244_QuestPanel",
           "SourceString": "绵们给你准备了物资作为谢礼，去看看吧。",
-          "LocalizedString": "绵们给你准备了物资作为谢礼，去看看吧。"
+          "LocalizedString": "The Fuzzies prepared some supplies to thank you. Go take a look."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -7682,7 +7682,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130001_QuestName",
           "SourceString": "跃动吧，夏日之心！",
-          "LocalizedString": "跃动吧，夏日之心！"
+          "LocalizedString": "Beat On, the Heart of Summer!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 1.0,
@@ -7719,7 +7719,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130001_ObjDes_1",
               "SourceString": "前往<blue>沙滩</>",
-              "LocalizedString": "前往<blue>沙滩</>"
+              "LocalizedString": "Go to the <blue>beach</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -7777,7 +7777,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130001_QuestPanel",
           "SourceString": "星沉湾沙滩上正在举行排球比赛，过去看看吧。",
-          "LocalizedString": "星沉湾沙滩上正在举行排球比赛，过去看看吧。"
+          "LocalizedString": "A volleyball competition is being held at Starfall Bay. Go take a look."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -7834,7 +7834,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130002_QuestName",
           "SourceString": "跃动吧，夏日之心！",
-          "LocalizedString": "跃动吧，夏日之心！"
+          "LocalizedString": "Beat On, the Heart of Summer!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 2.0,
@@ -7871,7 +7871,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130002_ObjDes_1",
               "SourceString": "与<blue>龙叔</>交谈",
-              "LocalizedString": "与<blue>龙叔</>交谈"
+              "LocalizedString": "Talk to <blue>Uncle Loong</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -7929,7 +7929,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130002_QuestPanel",
           "SourceString": "向龙叔打听比赛相关事宜。",
-          "LocalizedString": "向龙叔打听比赛相关事宜。"
+          "LocalizedString": "Ask Uncle Loong about the competition"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -7991,7 +7991,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130003_QuestName",
           "SourceString": "「神秘」搭档来袭！",
-          "LocalizedString": "「神秘」搭档来袭！"
+          "LocalizedString": "The \"Mysterious\" Partner Debuts!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 3.0,
@@ -8026,7 +8026,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130003_ObjDes_1",
               "SourceString": "查看<blue>薄荷的短信</>",
-              "LocalizedString": "查看<blue>薄荷的短信</>"
+              "LocalizedString": "Check <blue>Mint's message</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8062,7 +8062,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130003_QuestPanel",
           "SourceString": "薄荷好像正在为某件事苦恼……",
-          "LocalizedString": "薄荷好像正在为某件事苦恼……"
+          "LocalizedString": "Something is bothering Mint…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8122,7 +8122,7 @@
           "TableId": "/Game/Text/ST_Description.ST_Description",
           "Key": "TextMessage_001",
           "SourceString": "查看任务消息",
-          "LocalizedString": "查看任务消息"
+          "LocalizedString": "View Quest Messages"
         }
       },
       "S130004": {
@@ -8131,7 +8131,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130004_QuestName",
           "SourceString": "「神秘」搭档来袭！",
-          "LocalizedString": "「神秘」搭档来袭！"
+          "LocalizedString": "The \"Mysterious\" Partner Debuts!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 4.0,
@@ -8168,7 +8168,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130004_ObjDes_1",
               "SourceString": "等待<blue>薄荷</>",
-              "LocalizedString": "等待<blue>薄荷</>"
+              "LocalizedString": "Wait for <blue>Mint</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8226,7 +8226,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130004_QuestPanel",
           "SourceString": "在沙滩等待薄荷。",
-          "LocalizedString": "在沙滩等待薄荷。"
+          "LocalizedString": "Wait for Mint at the beach."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8288,7 +8288,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130005_QuestName",
           "SourceString": "「神秘」搭档来袭！",
-          "LocalizedString": "「神秘」搭档来袭！"
+          "LocalizedString": "The \"Mysterious\" Partner Debuts!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 5.0,
@@ -8325,7 +8325,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130005_ObjDes_1",
               "SourceString": "与<blue>薄荷</>交谈",
-              "LocalizedString": "与<blue>薄荷</>交谈"
+              "LocalizedString": "Talk to <blue>Mint</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8383,7 +8383,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130005_QuestPanel",
           "SourceString": "和薄荷一起组队吧！",
-          "LocalizedString": "和薄荷一起组队吧！"
+          "LocalizedString": "Team up with Mint!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8445,7 +8445,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130006_QuestName",
           "SourceString": "现在是热身时间！",
-          "LocalizedString": "现在是热身时间！"
+          "LocalizedString": "It's Warm-up Time!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 6.0,
@@ -8482,7 +8482,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130006_ObjDes_1",
               "SourceString": "与<blue>龙叔</>交谈",
-              "LocalizedString": "与<blue>龙叔</>交谈"
+              "LocalizedString": "Talk to <blue>Uncle Loong</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8540,7 +8540,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130006_QuestPanel",
           "SourceString": "在正式参赛之前，龙叔似乎还有其他的安排……",
-          "LocalizedString": "在正式参赛之前，龙叔似乎还有其他的安排……"
+          "LocalizedString": "Uncle Loong seems to have another plan before the competition begins…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8602,7 +8602,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130007_QuestName",
           "SourceString": "现在是热身时间！",
-          "LocalizedString": "现在是热身时间！"
+          "LocalizedString": "It's Warm-up Time!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 7.0,
@@ -8639,7 +8639,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130007_ObjDes_1",
               "SourceString": "赢得<blue>比赛</>",
-              "LocalizedString": "赢得<blue>比赛</>"
+              "LocalizedString": "Win the <blue>competition</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8697,7 +8697,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130007_QuestPanel",
           "SourceString": "在热身赛中取得胜利。",
-          "LocalizedString": "在热身赛中取得胜利。"
+          "LocalizedString": "Win the warm-up match."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8759,7 +8759,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130008_QuestName",
           "SourceString": "现在是热身时间！",
-          "LocalizedString": "现在是热身时间！"
+          "LocalizedString": "It's Warm-up Time!"
         },
         "ChapterID": "SU139",
         "ChapterProgress": 8.0,
@@ -8796,7 +8796,7 @@
               "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
               "Key": "S130008_ObjDes_1",
               "SourceString": "与<blue>龙叔</>交谈",
-              "LocalizedString": "与<blue>龙叔</>交谈"
+              "LocalizedString": "Talk to <blue>Uncle Loong</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -8854,7 +8854,7 @@
           "TableId": "/Game/Text/ST_SideQuest_wzy.ST_SideQuest_wzy",
           "Key": "S130008_QuestPanel",
           "SourceString": "看起来龙叔对你们的表现相当满意……",
-          "LocalizedString": "看起来龙叔对你们的表现相当满意……"
+          "LocalizedString": "Uncle Loong seems pleased with your performance…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -8995,7 +8995,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112501_QuestName",
           "SourceString": "黑羽的邀约",
-          "LocalizedString": "黑羽的邀约"
+          "LocalizedString": "Blackbird Beckons"
         },
         "ChapterID": "SU113",
         "ChapterProgress": 1.0,
@@ -9029,7 +9029,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112501_ObjDes_1",
               "SourceString": "前往<blue>浮冰影院</>",
-              "LocalizedString": "前往<blue>浮冰影院</>"
+              "LocalizedString": "Go to the <blue>Floe Cinema</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9087,7 +9087,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112501_QuestPanel",
           "SourceString": "去浮冰影院和黑羽会合。",
-          "LocalizedString": "去浮冰影院和黑羽会合。"
+          "LocalizedString": "Meet Blackbird at the Floe Cinema."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -9144,7 +9144,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112502_QuestName",
           "SourceString": "黑羽的邀约",
-          "LocalizedString": "黑羽的邀约"
+          "LocalizedString": "Blackbird Beckons"
         },
         "ChapterID": "SU113",
         "ChapterProgress": 2.0,
@@ -9181,7 +9181,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112502_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9239,7 +9239,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112502_QuestPanel",
           "SourceString": "与黑羽聊聊今天要看的电影吧。",
-          "LocalizedString": "与黑羽聊聊今天要看的电影吧。"
+          "LocalizedString": "Talk to Blackbird about what movie to watch today."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -9301,7 +9301,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112503_QuestName",
           "SourceString": "甜蜜「错误」",
-          "LocalizedString": "甜蜜「错误」"
+          "LocalizedString": "A Sweet Mistake"
         },
         "ChapterID": "SU113",
         "ChapterProgress": 3.0,
@@ -9335,7 +9335,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112503_ObjDes_1",
               "SourceString": "前往<blue>抽风猫奶茶店</>",
-              "LocalizedString": "前往<blue>抽风猫奶茶店</>"
+              "LocalizedString": "Go to <blue>Crazy Cat</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9393,7 +9393,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112503_QuestPanel",
           "SourceString": "带黑羽去抽风猫奶茶店。",
-          "LocalizedString": "带黑羽去抽风猫奶茶店。"
+          "LocalizedString": "Take Blackbird to Crazy Cat."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -9455,7 +9455,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112504_QuestName",
           "SourceString": "甜蜜「错误」",
-          "LocalizedString": "甜蜜「错误」"
+          "LocalizedString": "A Sweet Mistake"
         },
         "ChapterID": "SU113",
         "ChapterProgress": 4.0,
@@ -9492,7 +9492,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112504_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9550,7 +9550,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112504_QuestPanel",
           "SourceString": "给自己和黑羽分别买一杯奶茶。",
-          "LocalizedString": "给自己和黑羽分别买一杯奶茶。"
+          "LocalizedString": "Buy two milk teas, one for you and one for Blackbird."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -9704,7 +9704,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112511_QuestName",
           "SourceString": "来自照相馆的委托",
-          "LocalizedString": "来自照相馆的委托"
+          "LocalizedString": "Picture-Perfect Job"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 1.0,
@@ -9738,7 +9738,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112511_ObjDes_1",
               "SourceString": "前往<blue>「菲林轨迹」</>",
-              "LocalizedString": "前往<blue>「菲林轨迹」</>"
+              "LocalizedString": "Go to the <blue>Film Orbit Studio</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9796,7 +9796,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112511_QuestPanel",
           "SourceString": "去「菲林轨迹」照相馆与黑羽会合。",
-          "LocalizedString": "去「菲林轨迹」照相馆与黑羽会合。"
+          "LocalizedString": "Meet Blackbird at the Film Orbit Studio."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -9853,7 +9853,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112512_QuestName",
           "SourceString": "来自照相馆的委托",
-          "LocalizedString": "来自照相馆的委托"
+          "LocalizedString": "Picture-Perfect Job"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 2.0,
@@ -9890,7 +9890,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112512_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -9948,7 +9948,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112512_QuestPanel",
           "SourceString": "向黑羽打听一下今日的委托内容。",
-          "LocalizedString": "向黑羽打听一下今日的委托内容。"
+          "LocalizedString": "Ask Blackbird about today's commission."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10010,7 +10010,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112513_QuestName",
           "SourceString": "来自照相馆的委托",
-          "LocalizedString": "来自照相馆的委托"
+          "LocalizedString": "Picture-Perfect Job"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 3.0,
@@ -10044,7 +10044,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112513_ObjDes_1",
               "SourceString": "进入<blue>「菲林轨迹」</>",
-              "LocalizedString": "进入<blue>「菲林轨迹」</>"
+              "LocalizedString": "Enter the <blue>Film Orbit Studio</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10102,7 +10102,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112513_QuestPanel",
           "SourceString": "进入照相馆内。",
-          "LocalizedString": "进入照相馆内。"
+          "LocalizedString": "Enter the Photo Studio."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10164,7 +10164,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112514_QuestName",
           "SourceString": "来自照相馆的委托",
-          "LocalizedString": "来自照相馆的委托"
+          "LocalizedString": "Picture-Perfect Job"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 4.0,
@@ -10201,7 +10201,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112514_ObjDes_1",
               "SourceString": "与<blue>柯达</>交谈",
-              "LocalizedString": "与<blue>柯达</>交谈"
+              "LocalizedString": "Talk to <blue>Kodak</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10259,7 +10259,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112514_QuestPanel",
           "SourceString": "听照相馆老板聊聊具体的委托事项。",
-          "LocalizedString": "听照相馆老板聊聊具体的委托事项。"
+          "LocalizedString": "Talk to the Photo Studio Owner to learn the details of the commission."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10321,7 +10321,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112515_QuestName",
           "SourceString": "黑羽的恐怖美学",
-          "LocalizedString": "黑羽的恐怖美学"
+          "LocalizedString": "A Taste for Terror"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 5.0,
@@ -10355,7 +10355,7 @@
               "TableId": "/Game/Text/ST_Mainquest_prologue.ST_Mainquest_prologue",
               "Key": "q110074_ObjDes_1",
               "SourceString": "前往<blue>照相馆二层</>",
-              "LocalizedString": "前往<blue>照相馆二层</>"
+              "LocalizedString": "Go to the <blue>Second Floor of the Photo Studio</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10414,7 +10414,7 @@
               "TableId": "/Game/Text/ST_Mainquest_prologue.ST_Mainquest_prologue",
               "Key": "q110074_ObjDes_1",
               "SourceString": "前往<blue>照相馆二层</>",
-              "LocalizedString": "前往<blue>照相馆二层</>"
+              "LocalizedString": "Go to the <blue>Second Floor of the Photo Studio</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10472,7 +10472,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112515_QuestPanel",
           "SourceString": "前往照相馆二楼。",
-          "LocalizedString": "前往照相馆二楼。"
+          "LocalizedString": "Go to the second floor of the Photo Studio."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10534,7 +10534,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112516_QuestName",
           "SourceString": "黑羽的恐怖美学",
-          "LocalizedString": "黑羽的恐怖美学"
+          "LocalizedString": "A Taste for Terror"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 6.0,
@@ -10571,7 +10571,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112516_ObjDes_1",
               "SourceString": "查看<blue>布景</>",
-              "LocalizedString": "查看<blue>布景</>"
+              "LocalizedString": "View the <blue>Backdrop</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10647,7 +10647,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112516_QuestPanel",
           "SourceString": "与黑羽四处看看照相馆现有的布景。",
-          "LocalizedString": "与黑羽四处看看照相馆现有的布景。"
+          "LocalizedString": "Look around the existing backdrops in the Photo Studio with Blackbird."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10709,7 +10709,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112517_QuestName",
           "SourceString": "黑羽的恐怖美学",
-          "LocalizedString": "黑羽的恐怖美学"
+          "LocalizedString": "A Taste for Terror"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 7.0,
@@ -10746,7 +10746,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112517_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10804,7 +10804,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112517_QuestPanel",
           "SourceString": "黑羽似乎对改造后的布景很满意……",
-          "LocalizedString": "黑羽似乎对改造后的布景很满意……"
+          "LocalizedString": "Blackbird seems quite satisfied with the remodeled backdrop…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -10866,7 +10866,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112518_QuestName",
           "SourceString": "任务之外的……",
-          "LocalizedString": "任务之外的……"
+          "LocalizedString": "After Hours…"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 8.0,
@@ -10900,7 +10900,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112518_ObjDes_1",
               "SourceString": "离开<blue>「菲林轨迹」</>",
-              "LocalizedString": "离开<blue>「菲林轨迹」</>"
+              "LocalizedString": "Leave the <blue>Film Orbit Studio</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -10958,7 +10958,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112518_QuestPanel",
           "SourceString": "委托圆满完成，是时候离开了。",
-          "LocalizedString": "委托圆满完成，是时候离开了。"
+          "LocalizedString": "The commission is complete. It's time to leave."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11020,7 +11020,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112519_QuestName",
           "SourceString": "任务之外的……",
-          "LocalizedString": "任务之外的……"
+          "LocalizedString": "After Hours…"
         },
         "ChapterID": "SU114",
         "ChapterProgress": 9.0,
@@ -11057,7 +11057,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112519_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -11115,7 +11115,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112519_QuestPanel",
           "SourceString": "在照相馆外和黑羽聊聊。",
-          "LocalizedString": "在照相馆外和黑羽聊聊。"
+          "LocalizedString": "Talk to Blackbird outside the Photo Studio."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11269,7 +11269,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112521_QuestName",
           "SourceString": "茶会时间！",
-          "LocalizedString": "茶会时间！"
+          "LocalizedString": "Tea for Two!"
         },
         "ChapterID": "SU115",
         "ChapterProgress": 1.0,
@@ -11303,7 +11303,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112521_ObjDes_1",
               "SourceString": "前往<blue>魔女之家</>",
-              "LocalizedString": "前往<blue>魔女之家</>"
+              "LocalizedString": "Go to <blue>The Witch's House</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -11361,7 +11361,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112521_QuestPanel",
           "SourceString": "黑羽似乎有事找你？去魔女之家看看吧。",
-          "LocalizedString": "黑羽似乎有事找你？去魔女之家看看吧。"
+          "LocalizedString": "Blackbird might need you for something. Why not check out The Witch's House?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11421,7 +11421,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112522_QuestName",
           "SourceString": "「魔女」的谢礼",
-          "LocalizedString": "「魔女」的谢礼"
+          "LocalizedString": "Compliments of the Witch"
         },
         "ChapterID": "SU115",
         "ChapterProgress": 2.0,
@@ -11458,7 +11458,7 @@
               "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
               "Key": "K112522_ObjDes_1",
               "SourceString": "与<blue>黑羽</>交谈",
-              "LocalizedString": "与<blue>黑羽</>交谈"
+              "LocalizedString": "Talk to <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -11516,7 +11516,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112522_QuestPanel",
           "SourceString": "和黑羽聊聊她的收藏。",
-          "LocalizedString": "和黑羽聊聊她的收藏。"
+          "LocalizedString": "Talk to Blackbird about her collection."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11656,7 +11656,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112522_h1_QuestPanel",
           "SourceString": "#隐藏任务#礼物选鎏金盏",
-          "LocalizedString": "#隐藏任务#礼物选鎏金盏"
+          "LocalizedString": "#Hidden Quest# Reward Choice: Gold Gilded Cup"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11789,7 +11789,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112522_h2_QuestPanel",
           "SourceString": "#隐藏任务#礼物选宝石",
-          "LocalizedString": "#隐藏任务#礼物选宝石"
+          "LocalizedString": "#Hidden Quest# Reward Choice: Gem"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -11922,7 +11922,7 @@
           "TableId": "/Game/Text/Dialogue/ST_Likingquest_Blackbird.ST_Likingquest_Blackbird",
           "Key": "K112522_h3_QuestPanel",
           "SourceString": "#隐藏任务#礼物选木鸟",
-          "LocalizedString": "#隐藏任务#礼物选木鸟"
+          "LocalizedString": "#Hidden Quest# Reward Choice: Wooden Bird"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,

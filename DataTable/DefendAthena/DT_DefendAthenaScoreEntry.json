@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "DefendNS_JBGW",
           "SourceString": "击败怪物得分",
-          "LocalizedString": "击败怪物得分"
+          "LocalizedString": "Enemy Defeat Score"
         },
         "EntryInstance": {
           "Rate": 5.0
@@ -28,7 +28,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "DefendNS_CGFYBC",
           "SourceString": "成功抵御波次得分",
-          "LocalizedString": "成功抵御波次得分"
+          "LocalizedString": "Wave Defense Score"
         },
         "EntryInstance": {
           "WaveScores": [
@@ -81,7 +81,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "defendNS_TTSYXL",
           "SourceString": "炭团剩余生命值得分",
-          "LocalizedString": "炭团剩余生命值得分"
+          "LocalizedString": "Coal Lump Remaining HP Score"
         },
         "EntryInstance": {
           "Rate": 0.4
@@ -92,7 +92,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "DefendNS_jibaiboss",
           "SourceString": "击败Boss得分",
-          "LocalizedString": "击败Boss得分"
+          "LocalizedString": "Boss Defeat Score"
         },
         "EntryInstance": {
           "Rate": 100.0
@@ -103,7 +103,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "DefendNS_Time",
           "SourceString": "游戏时长得分",
-          "LocalizedString": "游戏时长得分"
+          "LocalizedString": "Time Score"
         },
         "EntryInstance": {
           "TotalTimeSeconds": 3000.0,

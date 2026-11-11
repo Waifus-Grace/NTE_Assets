@@ -19,14 +19,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_8_Name",
           "SourceString": "小小的朋友",
-          "LocalizedString": "小小的朋友"
+          "LocalizedString": "Tiny Friend"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_8_Desc",
           "SourceString": "一个人出门太寂寞了，带上这个吧！",
-          "LocalizedString": "一个人出门太寂寞了，带上这个吧！"
+          "LocalizedString": "Going out on your own sounds lonely. Take this with you!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_8.432_Pendant_8",
@@ -615,7 +615,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "CumLottery_name",
           "SourceString": "「集市分福」活动获得",
-          "LocalizedString": "「集市分福」活动获得"
+          "LocalizedString": "Fortune's Bounty Event Reward"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -630,14 +630,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_9_Name",
           "SourceString": "射手之眼",
-          "LocalizedString": "射手之眼"
+          "LocalizedString": "Eagle Eye"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_9_Desc",
           "SourceString": "某个电子游戏中提高命中率的酷炫装备。",
-          "LocalizedString": "某个电子游戏中提高命中率的酷炫装备。"
+          "LocalizedString": "A cool piece of gear from some video game that boosts accuracy."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_9.432_Pendant_9",
@@ -1108,13 +1108,13 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Giftpackage_RMB",
           "SourceString": "商城礼包获取",
-          "LocalizedString": "商城礼包获取"
+          "LocalizedString": "Via Mall - Bundles"
         },
         "SourceLockText": {
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Giftpackage_RMB",
           "SourceString": "商城礼包获取",
-          "LocalizedString": "商城礼包获取"
+          "LocalizedString": "Via Mall - Bundles"
         },
         "IsCharacterShow": true,
         "IsCheckLimitTime": true
@@ -1126,14 +1126,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_1_Name",
           "SourceString": "明日之星",
-          "LocalizedString": "明日之星"
+          "LocalizedString": "Tomorrow's Star"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_1_Desc",
           "SourceString": "此刻，站在聚光灯的中心，光环为你加冕。",
-          "LocalizedString": "此刻，站在聚光灯的中心，光环为你加冕。"
+          "LocalizedString": "Standing in the center of the spotlight, a halo crowns you."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_1.432_Pendant_1",
@@ -2026,7 +2026,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "FashionShop",
           "SourceString": "商城购买获取",
-          "LocalizedString": "商城购买获取"
+          "LocalizedString": "Purchase from Mall"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -2041,14 +2041,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_2_Name",
           "SourceString": "舞台中心",
-          "LocalizedString": "舞台中心"
+          "LocalizedString": "Position Zero"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_2_Desc",
           "SourceString": "今夜的灯多亮了一个像素点。",
-          "LocalizedString": "今夜的灯多亮了一个像素点。"
+          "LocalizedString": "Tonight, the lights shine one pixel brighter."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_2.432_Pendant_2",
@@ -2945,7 +2945,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "FashionShop",
           "SourceString": "商城购买获取",
-          "LocalizedString": "商城购买获取"
+          "LocalizedString": "Purchase from Mall"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -2960,14 +2960,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_3_Name",
           "SourceString": "晦夜",
-          "LocalizedString": "晦夜"
+          "LocalizedString": "Moonless Night"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_3_Desc",
           "SourceString": "夜色沉沉如水。",
-          "LocalizedString": "夜色沉沉如水。"
+          "LocalizedString": "Night, murky and still as water."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_3.432_Pendant_3",
@@ -3675,7 +3675,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Tycoon_Pukaland",
           "SourceString": "噗卡计划等级奖励",
-          "LocalizedString": "噗卡计划等级奖励"
+          "LocalizedString": "Puka Membership Program Level Rewards"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -3690,14 +3690,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_4_Name",
           "SourceString": "头等奖",
-          "LocalizedString": "头等奖"
+          "LocalizedString": "Grand Prize"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_4_Desc",
           "SourceString": "欢迎光临「午夜」猫……人……猫……报刊亭！",
-          "LocalizedString": "欢迎光临「午夜」猫……人……猫……报刊亭！"
+          "LocalizedString": "Welcome to \"The Midnight\" Cat… Er, human… N-no, cat… newsstand!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_4.432_Pendant_4",
@@ -5353,7 +5353,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Tycoon_Pukaland",
           "SourceString": "噗卡计划等级奖励",
-          "LocalizedString": "噗卡计划等级奖励"
+          "LocalizedString": "Puka Membership Program Level Rewards"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -5368,14 +5368,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_5_Name",
           "SourceString": "大智慧",
-          "LocalizedString": "大智慧"
+          "LocalizedString": "Big Brains"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_5_Desc",
           "SourceString": "这也是计划的一环。",
-          "LocalizedString": "这也是计划的一环。"
+          "LocalizedString": "All a part of the plan."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_5.432_Pendant_5",
@@ -6125,7 +6125,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "PukalandTicketShop",
           "SourceString": "奇遇补给站（噗卡乐园）",
-          "LocalizedString": "奇遇补给站（噗卡乐园）"
+          "LocalizedString": "Journey Savepoint (Pukaland)"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -6140,14 +6140,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_6_Name",
           "SourceString": "夜色斑斓",
-          "LocalizedString": "夜色斑斓"
+          "LocalizedString": "Neon Nights"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_6_Desc",
           "SourceString": "月亮是最闪耀的灯球。",
-          "LocalizedString": "月亮是最闪耀的灯球。"
+          "LocalizedString": "The moon: the brightest disco ball of all."
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_6.432_Pendant_6",
@@ -7156,7 +7156,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "FashionShop",
           "SourceString": "商城购买获取",
-          "LocalizedString": "商城购买获取"
+          "LocalizedString": "Purchase from Mall"
         },
         "SourceLockText": {
           "CultureInvariantString": null
@@ -7171,14 +7171,14 @@
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_7_Name",
           "SourceString": "鸫鸫鸫",
-          "LocalizedString": "鸫鸫鸫"
+          "LocalizedString": "Knockingbird"
         },
         "Quality": "EItemQuality::ITEM_QUALITY_PURPLE",
         "Desc": {
           "TableId": "/Game/Text/ST_Appearance.ST_Appearance",
           "Key": "Pendant_7_Desc",
           "SourceString": "乌鸫抓到了超级大的谕石！",
-          "LocalizedString": "乌鸫抓到了超级大的谕石！"
+          "LocalizedString": "Blackbird just snagged a huge Oracle Stone!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/Appearance/Pendant/432_Pendant_7.432_Pendant_7",
@@ -7961,7 +7961,7 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "Pendant_7_route",
           "SourceString": "「命运的第三条岸」成就获得",
-          "LocalizedString": "「命运的第三条岸」成就获得"
+          "LocalizedString": "Beyond the Forks of Fate Achievement Reward"
         },
         "SourceLockText": {
           "CultureInvariantString": null

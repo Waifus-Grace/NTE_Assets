@@ -102,7 +102,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110101_b_QuestName",
           "SourceString": "异象失踪事件",
-          "LocalizedString": "异象失踪事件"
+          "LocalizedString": "Disappearance Incident"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 1.0,
@@ -139,7 +139,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110101_b_ObjDes_1",
               "SourceString": "询问事件详情",
-              "LocalizedString": "询问事件详情"
+              "LocalizedString": "Listen to the details of the incident"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -197,7 +197,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110101_b_QuestPanel",
           "SourceString": "向<blue>蓼蓝</>询问事件的具体情况吧。",
-          "LocalizedString": "向<blue>蓼蓝</>询问事件的具体情况吧。"
+          "LocalizedString": "Ask <blue>Violet</> about the specific details of the incident."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -254,7 +254,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110101_QuestName",
           "SourceString": "「信风」的去向",
-          "LocalizedString": "「信风」的去向"
+          "LocalizedString": "Where's the Windbringer"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 2.0,
@@ -291,13 +291,13 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110101_ObjDes_1",
               "SourceString": "向<blue>水果店店主</>打听情况",
-              "LocalizedString": "向<blue>水果店店主</>打听情况"
+              "LocalizedString": "Talk to the <blue>Fruit Shop Owner</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110101_Obj_CDes_1",
               "SourceString": "向<blue>水果店店主</>打听情况<blue>（完成）</>",
-              "LocalizedString": "向<blue>水果店店主</>打听情况<blue>（完成）</>"
+              "LocalizedString": "Talk to the <blue>Fruit Shop Owner</> <blue>(Complete)</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -308,7 +308,7 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_001",
                   "SourceString": "现在掌握的线索还太少了。嗯……先去附近的店铺打听打听吧。",
-                  "LocalizedString": "现在掌握的线索还太少了。嗯……先去附近的店铺打听打听吧。"
+                  "LocalizedString": "We will need more clues to work with… let's start by talking to the shops nearby."
                 }
               ]
             },
@@ -366,13 +366,13 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110101_ObjDes_2",
               "SourceString": "向<blue>肉铺店主</>打听情况",
-              "LocalizedString": "向<blue>肉铺店主</>打听情况"
+              "LocalizedString": "Talk to the <blue>Butcher Shop Owner</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110101_Obj_CDes_2",
               "SourceString": "向<blue>肉铺店主</>打听情况<blue>（完成）</>",
-              "LocalizedString": "向<blue>肉铺店主</>打听情况<blue>（完成）</>"
+              "LocalizedString": "Talk to the <blue>Butcher Shop Owner</> <blue>(Complete)</>"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -427,7 +427,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110101_QuestPanel",
           "SourceString": "在<blue>附近的店铺</>打听一下有关「信风」的消息吧。",
-          "LocalizedString": "在<blue>附近的店铺</>打听一下有关「信风」的消息吧。"
+          "LocalizedString": "Ask around at <blue>nearby shops</> for information about Windbringer."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -489,7 +489,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S1101011_QuestName",
           "SourceString": "新生的疑点",
-          "LocalizedString": "新生的疑点"
+          "LocalizedString": "New Doubts"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 3.0,
@@ -526,7 +526,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S1101011_ObjDes_1",
               "SourceString": "去<blue>广场附近的店铺</>看看",
-              "LocalizedString": "去<blue>广场附近的店铺</>看看"
+              "LocalizedString": "Check out the <blue>Shops Near the Square</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -587,7 +587,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S1101011_QuestPanel",
           "SourceString": "<blue>广场附近的店铺</>人流量更大些，去那里打听一下消息吧。",
-          "LocalizedString": "<blue>广场附近的店铺</>人流量更大些，去那里打听一下消息吧。"
+          "LocalizedString": "There are more people in <blue>shops near the plaza</>. Let's ask around there for information."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -653,7 +653,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110102_QuestName",
           "SourceString": "另一个买家",
-          "LocalizedString": "另一个买家"
+          "LocalizedString": "Another Buyer"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 4.0,
@@ -690,7 +690,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110102_ObjDes_1",
               "SourceString": "向<blue>潮玩店店员</>打听情况",
-              "LocalizedString": "向<blue>潮玩店店员</>打听情况"
+              "LocalizedString": "Talk to the <blue>DSD POP Staff</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -704,13 +704,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_002",
                   "SourceString": "虽然找到了一些线索，但事情好像变得更复杂了。",
-                  "LocalizedString": "虽然找到了一些线索，但事情好像变得更复杂了。"
+                  "LocalizedString": "Got a few clues, but things seems more complicated than it started now…"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_003",
                   "SourceString": "接下来……去半角广场附近人多热闹的大店打听一下吧。",
-                  "LocalizedString": "接下来……去半角广场附近人多热闹的大店打听一下吧。"
+                  "LocalizedString": "Alright… time to check out the popular shops near Hankaku Square."
                 }
               ]
             },
@@ -764,7 +764,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110102_QuestPanel",
           "SourceString": "<blue>潮玩店</>里出现了与花店中相同的包装盒，向<blue>店员</>询问一下情况吧。",
-          "LocalizedString": "<blue>潮玩店</>里出现了与花店中相同的包装盒，向<blue>店员</>询问一下情况吧。"
+          "LocalizedString": "The same packages from the flower shop have appeared in the <blue>Pop Toys shop</>. Ask the <blue>staff</> about the situation."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -826,7 +826,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110103_QuestName",
           "SourceString": "更多的疑点",
-          "LocalizedString": "更多的疑点"
+          "LocalizedString": "More Doubts"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 5.0,
@@ -863,7 +863,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110103_ObjDes_1",
               "SourceString": "去<blue>广场对面的店铺</>看看",
-              "LocalizedString": "去<blue>广场对面的店铺</>看看"
+              "LocalizedString": "Check out the <blue>Shop Across the Square</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -877,13 +877,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_005",
                   "SourceString": "「异象推销员」……花店店长和潮玩店店员都曾从这个人手上买过可疑的异象产品。",
-                  "LocalizedString": "「异象推销员」……花店店长和潮玩店店员都曾从这个人手上买过可疑的异象产品。"
+                  "LocalizedString": "\"Anomaly Salesman\"… both the florist and the pop toy staff have bought suspicious anomaly products from this person."
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_006",
                   "SourceString": "半角街的其他店家可能也和他有过交集。先去广场对面的店铺看看情况吧。",
-                  "LocalizedString": "半角街的其他店家可能也和他有过交集。先去广场对面的店铺看看情况吧。"
+                  "LocalizedString": "Other shops on Hankaku Street might also have seen him. Let's check out the stores across the square first."
                 }
               ]
             },
@@ -941,7 +941,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110103_ObjDes_2",
               "SourceString": "在店铺里打听消息",
-              "LocalizedString": "在店铺里打听消息"
+              "LocalizedString": "Inquire around the shop"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -999,7 +999,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110103_QuestPanel",
           "SourceString": "前往<blue>广场对面的店铺</>，继续调查吧。",
-          "LocalizedString": "前往<blue>广场对面的店铺</>，继续调查吧。"
+          "LocalizedString": "Go to the <blue>shops across from the plaza</> and continue investigating."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1061,7 +1061,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110104_QuestName",
           "SourceString": "赃物的下落",
-          "LocalizedString": "赃物的下落"
+          "LocalizedString": "Whereabout of Stolen Goods"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 6.0,
@@ -1098,7 +1098,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110104_ObjDes_1",
               "SourceString": "前往<blue>中古店</>",
-              "LocalizedString": "前往<blue>中古店</>"
+              "LocalizedString": "Go to the <blue>Vintage Shop</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1112,19 +1112,19 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_009",
                   "SourceString": "和其他店铺不同，这个骗子并未直接骗取咖啡店店员的金钱，而是骗走了她昂贵的模型收藏。",
-                  "LocalizedString": "和其他店铺不同，这个骗子并未直接骗取咖啡店店员的金钱，而是骗走了她昂贵的模型收藏。"
+                  "LocalizedString": "Unlike other shops, this scammer didn't directly steal money from the café staff but instead tricked her out of her valuable model collection."
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_010",
                   "SourceString": "除非他是狂热的模型爱好者，否则……这一批模型也很可能被他转手出售，换成金钱。",
-                  "LocalizedString": "除非他是狂热的模型爱好者，否则……这一批模型也很可能被他转手出售，换成金钱。"
+                  "LocalizedString": "Unless he’s a hardcore model collector, he’s probably just planning to resell them for cash…"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST007_Player_011",
                   "SourceString": "如果他要销赃，很可能会前往中古店这类地方……嗯，去打听一下情况吧。",
-                  "LocalizedString": "如果他要销赃，很可能会前往中古店这类地方……嗯，去打听一下情况吧。"
+                  "LocalizedString": "If he's going to fence them, he might head to places like vintage shops… hmm, let's go check it out."
                 }
               ]
             },
@@ -1178,7 +1178,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110104_QuestPanel",
           "SourceString": "去<blue>中古店</>打听一下情况吧。",
-          "LocalizedString": "去<blue>中古店</>打听一下情况吧。"
+          "LocalizedString": "Go ask around at the <blue>vintage shop</> for information."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1240,7 +1240,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110105_QuestName",
           "SourceString": "推理时间到",
-          "LocalizedString": "推理时间到"
+          "LocalizedString": "Time to Think"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 7.0,
@@ -1277,7 +1277,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110105_ObjDes_1",
               "SourceString": "坐下整理思绪",
-              "LocalizedString": "坐下整理思绪"
+              "LocalizedString": "Sit down and organize your thoughts"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1335,7 +1335,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110105_QuestPanel",
           "SourceString": "基于现有情报，进行分析整理……",
-          "LocalizedString": "基于现有情报，进行分析整理……"
+          "LocalizedString": "Analyze and organize the available intel…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1397,7 +1397,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110106_QuestName",
           "SourceString": "真相只有一个！",
-          "LocalizedString": "真相只有一个！"
+          "LocalizedString": "There Is Always Only One Truth!"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 8.0,
@@ -1434,7 +1434,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110106_ObjDes_1",
               "SourceString": "向<blue>J.T.F</>提供线索",
-              "LocalizedString": "向<blue>J.T.F</>提供线索"
+              "LocalizedString": "Share clues with <blue>JTF</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1492,7 +1492,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110106_QuestPanel",
           "SourceString": "将自己的线索提供给<blue>J.T.F</>吧。",
-          "LocalizedString": "将自己的线索提供给<blue>J.T.F</>吧。"
+          "LocalizedString": "Share your clues with <blue>JTF</>."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1554,7 +1554,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110107_QuestName",
           "SourceString": "不自知的受害者",
-          "LocalizedString": "不自知的受害者"
+          "LocalizedString": "Unaware Victim"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 9.0,
@@ -1588,7 +1588,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110107_ObjDes_1",
               "SourceString": "返回<blue>花店</>",
-              "LocalizedString": "返回<blue>花店</>"
+              "LocalizedString": "Return to the <blue>Flower Shop</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1646,7 +1646,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110107_QuestPanel",
           "SourceString": "事件告一段落，是时候回到<blue>花店</>了。",
-          "LocalizedString": "事件告一段落，是时候回到<blue>花店</>了。"
+          "LocalizedString": "The incident has come to an end. It's time to return to the <blue>flower shop</>."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1708,7 +1708,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110108_QuestName",
           "SourceString": "不自知的受害者",
-          "LocalizedString": "不自知的受害者"
+          "LocalizedString": "Unaware Victim"
         },
         "ChapterID": "SU007",
         "ChapterProgress": 10.0,
@@ -1745,7 +1745,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110108_ObjDes_1",
               "SourceString": "告知<blue>花店店员</>真相",
-              "LocalizedString": "告知<blue>花店店员</>真相"
+              "LocalizedString": "Inform the <blue>Flower Shop Staff</> of the truth"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1803,7 +1803,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110108_QuestPanel",
           "SourceString": "将事件的真相告诉<blue>花店店员</>吧。",
-          "LocalizedString": "将事件的真相告诉<blue>花店店员</>吧。"
+          "LocalizedString": "Tell the <blue>flower shop staff</> the truth about the incident."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1952,7 +1952,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110201_QuestName",
           "SourceString": "电话亭也颠倒？",
-          "LocalizedString": "电话亭也颠倒？"
+          "LocalizedString": "Flipped Phone Booth?"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 1.0,
@@ -1989,7 +1989,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110201_ObjDes_1",
               "SourceString": "查看颠倒的电话亭",
-              "LocalizedString": "查看颠倒的电话亭"
+              "LocalizedString": "Examine the upside-down Phone Booth"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2047,7 +2047,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110201_QuestPanel",
           "SourceString": "道路中有一个摆放颠倒的电话亭，看上去有些奇怪……",
-          "LocalizedString": "道路中有一个摆放颠倒的电话亭，看上去有些奇怪……"
+          "LocalizedString": "There's a Phone Booth placed upside down in the middle of the road. Something seems off about it…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2104,7 +2104,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110202_QuestName",
           "SourceString": "对「真实」抱有异议！",
-          "LocalizedString": "对「真实」抱有异议！"
+          "LocalizedString": "Objection!"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 2.0,
@@ -2141,7 +2141,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110202_ObjDes_1",
               "SourceString": "与<blue>谜皮鬼</>交谈",
-              "LocalizedString": "与<blue>谜皮鬼</>交谈"
+              "LocalizedString": "Talk to <blue>Mysty</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2199,7 +2199,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110202_QuestPanel",
           "SourceString": "经过仔细观察，原来是一只伪装的「谜皮鬼」……",
-          "LocalizedString": "经过仔细观察，原来是一只伪装的「谜皮鬼」……"
+          "LocalizedString": "Upon closer inspection, it turns out to be a Mysty in disguise…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2261,7 +2261,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110203_QuestName",
           "SourceString": "嗡嗡嗡的工作",
-          "LocalizedString": "嗡嗡嗡的工作"
+          "LocalizedString": "Buzzing Work"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 3.0,
@@ -2295,7 +2295,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110203_ObjDes_1",
               "SourceString": "寻找有关<blue>嗡嗡嗡</>的线索",
-              "LocalizedString": "寻找有关<blue>嗡嗡嗡</>的线索"
+              "LocalizedString": "Search for clues about <blue>Bzzz</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2353,7 +2353,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110203_QuestPanel",
           "SourceString": "贪玩的谜皮鬼再次进入伪装中，线索似乎是「嗡嗡嗡」？周围有关「嗡嗡嗡」的物品是什么？",
-          "LocalizedString": "贪玩的谜皮鬼再次进入伪装中，线索似乎是「嗡嗡嗡」？周围有关「嗡嗡嗡」的物品是什么？"
+          "LocalizedString": "The playful Mysty has disguised itself again, and the clue seems to be \"Bzzz\"? What object around here makes a buzzing sound?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2415,7 +2415,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110204_QuestName",
           "SourceString": "反直觉系~察觉！",
-          "LocalizedString": "反直觉系~察觉！"
+          "LocalizedString": "Perception Against Intuition!"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 4.0,
@@ -2452,7 +2452,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110204_ObjDes_1",
               "SourceString": "识破<blue>谜皮鬼</>的伪装",
-              "LocalizedString": "识破<blue>谜皮鬼</>的伪装"
+              "LocalizedString": "See through <blue>Mysty</>'s disguise"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2513,7 +2513,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110204_QuestPanel",
           "SourceString": "空调内机和外机的摆放位置有些奇怪，谜皮鬼会藏在这里吗？",
-          "LocalizedString": "空调内机和外机的摆放位置有些奇怪，谜皮鬼会藏在这里吗？"
+          "LocalizedString": "The indoor and outdoor AC units are placed oddly… Could Mysty be hiding here?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2575,7 +2575,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110205_QuestName",
           "SourceString": "对「真实」抱有异议！",
-          "LocalizedString": "对「真实」抱有异议！"
+          "LocalizedString": "Objection!"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 5.0,
@@ -2612,7 +2612,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110205_ObjDes_1",
               "SourceString": "与<blue>谜皮鬼</>交谈",
-              "LocalizedString": "与<blue>谜皮鬼</>交谈"
+              "LocalizedString": "Talk to <blue>Mysty</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2670,7 +2670,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110205_QuestPanel",
           "SourceString": "谜皮鬼的藏身处再次被识破了，只不过从交谈中，谜皮鬼看上去不太聪明的样子……",
-          "LocalizedString": "谜皮鬼的藏身处再次被识破了，只不过从交谈中，谜皮鬼看上去不太聪明的样子……"
+          "LocalizedString": "Mysty's hiding spot has been discovered again. From our conversation though, it doesn't seem to be the brightest creature…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2732,7 +2732,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110206_QuestName",
           "SourceString": "决战！wakawaka！",
-          "LocalizedString": "决战！wakawaka！"
+          "LocalizedString": "Showdown! Wakawaka!"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 6.0,
@@ -2769,7 +2769,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110206_ObjDes_1",
               "SourceString": "寻找有关<blue>waka</>的线索",
-              "LocalizedString": "寻找有关<blue>waka</>的线索"
+              "LocalizedString": "Search for clues about <blue>waka</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2783,13 +2783,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST004_Player_009",
                   "SourceString": "谜皮鬼是往那个方向飞过去的，跟上去看看吧。",
-                  "LocalizedString": "谜皮鬼是往那个方向飞过去的，跟上去看看吧。"
+                  "LocalizedString": "Mysty flew in that direction, let's follow and see."
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST004_Player_010",
                   "SourceString": "线索是「waka」？",
-                  "LocalizedString": "线索是「waka」？"
+                  "LocalizedString": "Is the clue \"waka\"?"
                 }
               ]
             },
@@ -2843,7 +2843,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110206_QuestPanel",
           "SourceString": "新的线索是「waka」？似乎和一家店铺有关……",
-          "LocalizedString": "新的线索是「waka」？似乎和一家店铺有关……"
+          "LocalizedString": "The new clue is waka? It seems to be related to some shop…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2905,7 +2905,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110209_QuestName",
           "SourceString": "关于颜色的线索",
-          "LocalizedString": "关于颜色的线索"
+          "LocalizedString": "Doll Management Handbook"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 7.0,
@@ -2942,7 +2942,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110209_ObjDes_1",
               "SourceString": "识破<blue>谜皮鬼</>的伪装",
-              "LocalizedString": "识破<blue>谜皮鬼</>的伪装"
+              "LocalizedString": "See through <blue>Mysty</>'s disguise"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2956,7 +2956,7 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST004_Player_011",
                   "SourceString": "线索似乎和颜色有关……或许附近有符合这类颜色的物品。",
-                  "LocalizedString": "线索似乎和颜色有关……或许附近有符合这类颜色的物品。"
+                  "LocalizedString": "The clue seems to be related to color… Maybe something nearby matches that color pattern."
                 }
               ]
             },
@@ -3010,7 +3010,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110209_QuestPanel",
           "SourceString": "颜色特征明显的物件么，谜皮鬼藏在了哪里？",
-          "LocalizedString": "颜色特征明显的物件么，谜皮鬼藏在了哪里？"
+          "LocalizedString": "DSD has various WakaWaka AnoAnomaly toys on display. Where could Mysty be hiding?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3072,7 +3072,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110210_QuestName",
           "SourceString": "对「真实」抱有异议！",
-          "LocalizedString": "对「真实」抱有异议！"
+          "LocalizedString": "Objection!"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 8.0,
@@ -3109,7 +3109,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110210_ObjDes_1",
               "SourceString": "与<blue>谜皮鬼</>交谈",
-              "LocalizedString": "与<blue>谜皮鬼</>交谈"
+              "LocalizedString": "Talk to <blue>Mysty</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3167,7 +3167,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110210_QuestPanel",
           "SourceString": "新的伪装并不是很完美……",
-          "LocalizedString": "新的伪装并不是很完美……"
+          "LocalizedString": "This toy is placed upside down…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3229,7 +3229,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110211_QuestName",
           "SourceString": "咔滋咔滋的约定",
-          "LocalizedString": "咔滋咔滋的约定"
+          "LocalizedString": "Crunchy Promise"
         },
         "ChapterID": "SU004",
         "ChapterProgress": 9.0,
@@ -3266,7 +3266,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S110211_ObjDes_1",
               "SourceString": "寻找有关<blue>咔滋咔滋</>的线索",
-              "LocalizedString": "寻找有关<blue>咔滋咔滋</>的线索"
+              "LocalizedString": "Search for clues that go <blue>Crunch Crunch</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3280,13 +3280,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST004_Player_012",
                   "SourceString": "线索是「咔滋咔滋」？",
-                  "LocalizedString": "线索是「咔滋咔滋」？"
+                  "LocalizedString": "Is the clue \"crunch crunch\"?"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST004_Player_013",
                   "SourceString": "「咔滋咔滋」听起来有些熟悉，似乎在哪里听到过……",
-                  "LocalizedString": "「咔滋咔滋」听起来有些熟悉，似乎在哪里听到过……"
+                  "LocalizedString": "\"Crunch crunch\" sounds familiar, I think I've heard this sound somewhere before…"
                 }
               ]
             },
@@ -3340,7 +3340,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S110211_QuestPanel",
           "SourceString": "再次伪装的谜皮鬼留下了「咔滋咔滋」的线索……",
-          "LocalizedString": "再次伪装的谜皮鬼留下了「咔滋咔滋」的线索……"
+          "LocalizedString": "The disguised Mysty has left behind a Crunch Crunch clue…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3489,7 +3489,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111701_F_QuestName",
           "SourceString": "中古店的镜子",
-          "LocalizedString": "中古店的镜子"
+          "LocalizedString": "The Vintage Shop's Mirror"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 1.0,
@@ -3528,7 +3528,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111701_F_ObjDes_1",
               "SourceString": "前往<blue>中古店</>打听消息",
-              "LocalizedString": "前往<blue>中古店</>打听消息"
+              "LocalizedString": "Go to <blue>Vintage Shop</> to gather information"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3586,7 +3586,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111701_F_QuestPanel",
           "SourceString": "据说那面神奇的镜子在中古店……",
-          "LocalizedString": "据说那面神奇的镜子在中古店……"
+          "LocalizedString": "They say that magical mirror is at the vintage shop…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3648,7 +3648,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111701_QuestName",
           "SourceString": "中古店的镜子",
-          "LocalizedString": "中古店的镜子"
+          "LocalizedString": "The Vintage Shop's Mirror"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 1.5,
@@ -3685,7 +3685,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111701_ObjDes_1",
               "SourceString": "前往<blue>中古店</>打听消息",
-              "LocalizedString": "前往<blue>中古店</>打听消息"
+              "LocalizedString": "Go to <blue>Vintage Shop</> to gather information"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3699,19 +3699,19 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_001",
                   "SourceString": "（想象中的自己、未来、平行世界……好多复杂的概念。）",
-                  "LocalizedString": "（想象中的自己、未来、平行世界……好多复杂的概念。）"
+                  "LocalizedString": "(My imagined self, the future, parallel worlds… So many complex concepts.)"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_002",
                   "SourceString": "（很少能见到这种类型的异象，最好还是找到实物研究一下。）",
-                  "LocalizedString": "（很少能见到这种类型的异象，最好还是找到实物研究一下。）"
+                  "LocalizedString": "(It's rare to see this type of Anomaly. I should try to find the actual object to study it.)"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_003",
                   "SourceString": "（总之先去中古店找找这面镜子……）",
-                  "LocalizedString": "（总之先去中古店找找这面镜子……）"
+                  "LocalizedString": "(Anyway, I should start by looking for this mirror at the vintage shop…)"
                 }
               ]
             },
@@ -3765,7 +3765,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111701_QuestPanel",
           "SourceString": "据说那面神奇的镜子在中古店……",
-          "LocalizedString": "据说那面神奇的镜子在中古店……"
+          "LocalizedString": "They say that magical mirror is at the vintage shop…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3827,7 +3827,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111702_QuestName",
           "SourceString": "并非镜子",
-          "LocalizedString": "并非镜子"
+          "LocalizedString": "Not a Mirror"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 2.0,
@@ -3864,7 +3864,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111702_ObjDes_1",
               "SourceString": "离开<blue>中古店</>",
-              "LocalizedString": "离开<blue>中古店</>"
+              "LocalizedString": "Leave the <blue>Vintage Shop</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3922,7 +3922,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111702_QuestPanel",
           "SourceString": "门口似乎也有慕名而来的人……",
-          "LocalizedString": "门口似乎也有慕名而来的人……"
+          "LocalizedString": "There seem to be other people at the entrance who've come because of the rumors too…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3984,7 +3984,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111703_QuestName",
           "SourceString": "会是藏品吗？",
-          "LocalizedString": "会是藏品吗？"
+          "LocalizedString": "Could It Be a Collectible?"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 3.0,
@@ -4018,7 +4018,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111703_ObjDes_1",
               "SourceString": "前往<blue>金苹果藏馆</>",
-              "LocalizedString": "前往<blue>金苹果藏馆</>"
+              "LocalizedString": "Go to <blue>Gold Apple Collection Hall</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4032,19 +4032,19 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_004",
                   "SourceString": "（接下来要去哪里呢……）",
-                  "LocalizedString": "（接下来要去哪里呢……）"
+                  "LocalizedString": "(Where should I go next…?)"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_005",
                   "SourceString": "（对了，好人乔提到金苹果藏馆，说不定这件东西真的被收到那里去了。）",
-                  "LocalizedString": "（对了，好人乔提到金苹果藏馆，说不定这件东西真的被收到那里去了。）"
+                  "LocalizedString": "(Oh right, Good Joe mentioned the Gold Apple Collection Hall. Maybe it really was taken there.)"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_006",
                   "SourceString": "（过去看看吧。）",
-                  "LocalizedString": "（过去看看吧。）"
+                  "LocalizedString": "(Let's go take a look.)"
                 }
               ]
             },
@@ -4098,7 +4098,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111703_QuestPanel",
           "SourceString": "神奇的异象，或许会被收藏在金苹果藏馆？",
-          "LocalizedString": "神奇的异象，或许会被收藏在金苹果藏馆？"
+          "LocalizedString": "This magical Anomaly might be housed in the Gold Apple Collection Hall?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4160,7 +4160,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111704_QuestName",
           "SourceString": "「神奇容器」",
-          "LocalizedString": "「神奇容器」"
+          "LocalizedString": "Miraculous Container"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 4.0,
@@ -4197,7 +4197,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111704_ObjDes_1",
               "SourceString": "询问<blue>讲解员</>相关情况",
-              "LocalizedString": "询问<blue>讲解员</>相关情况"
+              "LocalizedString": "Ask the <blue>Guide</> about the situation"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4255,7 +4255,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111704_QuestPanel",
           "SourceString": "讲解员想必很了解馆藏情况，问问她关于「神奇容器」的事吧。",
-          "LocalizedString": "讲解员想必很了解馆藏情况，问问她关于「神奇容器」的事吧。"
+          "LocalizedString": "The guide must be very familiar with the collection. Let's ask her about the \"miraculous container\"."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4317,7 +4317,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111705_QuestName",
           "SourceString": "脸盆的所有者",
-          "LocalizedString": "脸盆的所有者"
+          "LocalizedString": "Owner of the Washbasin"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 5.0,
@@ -4354,7 +4354,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111705_ObjDes_1",
               "SourceString": "与<blue>副食店店主</>交谈",
-              "LocalizedString": "与<blue>副食店店主</>交谈"
+              "LocalizedString": "Talk to the <blue>Grocery Shop Owner</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4412,7 +4412,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111705_QuestPanel",
           "SourceString": "神奇脸盆的所有者，原来是副食店的店主。",
-          "LocalizedString": "神奇脸盆的所有者，原来是副食店的店主。"
+          "LocalizedString": "The owner of the magical washbasin turns out to be the grocery shop owner."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4474,7 +4474,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111706_QuestName",
           "SourceString": "一探究竟",
-          "LocalizedString": "一探究竟"
+          "LocalizedString": "Investigate Further"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 6.0,
@@ -4511,7 +4511,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111706_ObjDes_1",
               "SourceString": "向<blue>脸盆</>内装水",
-              "LocalizedString": "向<blue>脸盆</>内装水"
+              "LocalizedString": "Fill the <blue>Washbasin</> with water"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4569,7 +4569,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111706_QuestPanel",
           "SourceString": "只要将脸盆装满水，再看向它的倒影……",
-          "LocalizedString": "只要将脸盆装满水，再看向它的倒影……"
+          "LocalizedString": "Just fill the washbasin with water, then look at the reflection…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4631,7 +4631,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111708_QuestName",
           "SourceString": "感想……",
-          "LocalizedString": "感想……"
+          "LocalizedString": "Thoughts…"
         },
         "ChapterID": "SU035",
         "ChapterProgress": 8.0,
@@ -4668,7 +4668,7 @@
               "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
               "Key": "S111708_ObjDes_1",
               "SourceString": "与<blue>副食店店主</>交谈",
-              "LocalizedString": "与<blue>副食店店主</>交谈"
+              "LocalizedString": "Talk to the <blue>Grocery Shop Owner</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4682,13 +4682,13 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_007",
                   "SourceString": "这好像，并不是我啊……",
-                  "LocalizedString": "这好像，并不是我啊……"
+                  "LocalizedString": "This seems like… it's not really me…"
                 },
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST035_Player_008",
                   "SourceString": "可是某些地方又很相似……",
-                  "LocalizedString": "可是某些地方又很相似……"
+                  "LocalizedString": "But in some ways, it's quite similar…"
                 }
               ]
             },
@@ -4742,7 +4742,7 @@
           "TableId": "/Game/Text/ST_SideQuest_lx.ST_SideQuest_lx",
           "Key": "S111708_QuestPanel",
           "SourceString": "店主想知道你看到了些什么，和她聊聊吧。",
-          "LocalizedString": "店主想知道你看到了些什么，和她聊聊吧。"
+          "LocalizedString": "The shop owner wants to know what you saw. Talk to her about it."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4885,7 +4885,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU141",
         "ChapterProgress": 1.0,
@@ -4920,7 +4920,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111501_ObjDes",
               "SourceString": "查看<blue>薄荷</>的短信",
-              "LocalizedString": "查看<blue>薄荷</>的短信"
+              "LocalizedString": "View <blue>Mint</>'s message"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4956,7 +4956,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5011,7 +5011,7 @@
           "TableId": "/Game/Text/ST_Description.ST_Description",
           "Key": "TextMessage_001",
           "SourceString": "查看任务消息",
-          "LocalizedString": "查看任务消息"
+          "LocalizedString": "View Quest Messages"
         }
       },
       "S111502": {
@@ -5020,7 +5020,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU141",
         "ChapterProgress": 2.0,
@@ -5057,7 +5057,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111502_ObjDes",
               "SourceString": "与<blue>薄荷</>交谈",
-              "LocalizedString": "与<blue>薄荷</>交谈"
+              "LocalizedString": "Talk to <blue>Mint</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5115,7 +5115,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5184,7 +5184,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU141",
         "ChapterProgress": 3.0,
@@ -5221,7 +5221,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111503_ObjDes",
               "SourceString": "与<blue>DSD宣传员</>交谈",
-              "LocalizedString": "与<blue>DSD宣传员</>交谈"
+              "LocalizedString": "Talk to the <blue>DSD POP Promoter</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5279,7 +5279,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5346,7 +5346,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU142",
         "ChapterProgress": 1.0,
@@ -5383,7 +5383,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111504_Des",
               "SourceString": "挑战<blue>薄荷</>",
-              "LocalizedString": "挑战<blue>薄荷</>"
+              "LocalizedString": "Challenge <blue>Mint</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5441,7 +5441,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5503,7 +5503,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU143",
         "ChapterProgress": 1.0,
@@ -5540,7 +5540,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111505_Des",
               "SourceString": "挑战<blue>曳尔沐</>",
-              "LocalizedString": "挑战<blue>曳尔沐</>"
+              "LocalizedString": "Challenge <blue>Elyms</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5598,7 +5598,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5660,7 +5660,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU144",
         "ChapterProgress": 1.0,
@@ -5697,7 +5697,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111506_Des",
               "SourceString": "挑战<blue>安魂曲</>",
-              "LocalizedString": "挑战<blue>安魂曲</>"
+              "LocalizedString": "Challenge <blue>Lacrimosa</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5755,7 +5755,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5817,7 +5817,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU145",
         "ChapterProgress": 1.0,
@@ -5854,7 +5854,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111507_Des",
               "SourceString": "挑战<blue>明音</>",
-              "LocalizedString": "挑战<blue>明音</>"
+              "LocalizedString": "Challenge <blue>Akane</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5912,7 +5912,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5974,7 +5974,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU146",
         "ChapterProgress": 1.0,
@@ -6011,7 +6011,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111508_Des",
               "SourceString": "挑战<blue>黑羽</>",
-              "LocalizedString": "挑战<blue>黑羽</>"
+              "LocalizedString": "Challenge <blue>Blackbird</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6069,7 +6069,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6131,7 +6131,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU147",
         "ChapterProgress": 1.0,
@@ -6168,7 +6168,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111509_Des",
               "SourceString": "挑战<blue>EXE</>",
-              "LocalizedString": "挑战<blue>EXE</>"
+              "LocalizedString": "Challenge <blue>Exe</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6226,7 +6226,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6288,7 +6288,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU148",
         "ChapterProgress": 1.0,
@@ -6325,7 +6325,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111510_Des",
               "SourceString": "挑战<blue>于零</>",
-              "LocalizedString": "挑战<blue>于零</>"
+              "LocalizedString": "Challenge <blue>Yuling</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6383,7 +6383,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6445,7 +6445,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "ChapterID": "SU149",
         "ChapterProgress": 1.0,
@@ -6482,7 +6482,7 @@
               "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
               "Key": "S111511_Des",
               "SourceString": "挑战<blue>莱拉</>",
-              "LocalizedString": "挑战<blue>莱拉</>"
+              "LocalizedString": "Challenge <blue>Leila</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6540,7 +6540,7 @@
           "TableId": "/Game/Text/ST_BalatroLike.ST_BalatroLike",
           "Key": "S111503_QuestName",
           "SourceString": "铺满全城",
-          "LocalizedString": "铺满全城"
+          "LocalizedString": "Tycoon's Deck"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,

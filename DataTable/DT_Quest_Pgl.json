@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120001_QuestName",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "ChapterID": "SU125",
         "ChapterProgress": 1.0,
@@ -55,7 +55,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120001_ObjDes_1",
               "SourceString": "前往<blue>火山</>",
-              "LocalizedString": "前往<blue>火山</>"
+              "LocalizedString": "Go to <blue>Volcano</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -113,7 +113,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120001_QuestPanel",
           "SourceString": "说话很奇怪的绵叫住了你，它似乎想让「勇者大人」给它打工？",
-          "LocalizedString": "说话很奇怪的绵叫住了你，它似乎想让「勇者大人」给它打工？"
+          "LocalizedString": "A Fuzzy with a bizarre dialect stopped you. It seems to want to recruit the adventurer for a few odd jobs?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -175,7 +175,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120002_QuestName",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "ChapterID": "SU125",
         "ChapterProgress": 2.0,
@@ -212,13 +212,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120002_ObjDes_1",
               "SourceString": "前往<blue>火山</>击败<blue>火茸雕</>",
-              "LocalizedString": "前往<blue>火山</>击败<blue>火茸雕</>"
+              "LocalizedString": "Go to <blue>Volcano</> and defeat <blue>Flaming Condor</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -255,13 +255,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120002_ObjDes_2",
               "SourceString": "前往<blue>火山</>击败<blue>炎角虎</>",
-              "LocalizedString": "前往<blue>火山</>击败<blue>炎角虎</>"
+              "LocalizedString": "Go to <blue>Volcano</> and defeat <blue>Blazehorn Tiger</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -294,7 +294,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120002_QuestPanel",
           "SourceString": "前往火山完成任务吧！",
-          "LocalizedString": "前往火山完成任务吧！"
+          "LocalizedString": "Go to the volcano and complete the quest!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -356,7 +356,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120003_QuestName",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "ChapterID": "SU125",
         "ChapterProgress": 3.0,
@@ -393,7 +393,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120003_ObjDes_1",
               "SourceString": "与<blue>勇者绵</>交谈",
-              "LocalizedString": "与<blue>勇者绵</>交谈"
+              "LocalizedString": "Talk to <blue>Hero Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -451,7 +451,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120003_QuestPanel",
           "SourceString": "工作完成，但突然出现的绵让你意识到，背后似乎另有隐情。",
-          "LocalizedString": "工作完成，但突然出现的绵让你意识到，背后似乎另有隐情。"
+          "LocalizedString": "The work is done, but the Fuzzy that suddenly appeared makes you suspect there's more going on beneath the surface."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -513,7 +513,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120004_QuestName",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "ChapterID": "SU125",
         "ChapterProgress": 4.0,
@@ -550,7 +550,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120004_ObjDes_1",
               "SourceString": "与<blue>烤核绵</>交谈",
-              "LocalizedString": "与<blue>烤核绵</>交谈"
+              "LocalizedString": "Talk to <blue>Eval Fuzzy</>."
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -608,7 +608,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120004_QuestPanel",
           "SourceString": "当面与烤核绵对峙，要怎么解决呢？",
-          "LocalizedString": "当面与烤核绵对峙，要怎么解决呢？"
+          "LocalizedString": "Now that you're face-to-face with Eval Fuzzy, how are you gonna settle this?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -673,7 +673,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200051_QuestName",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "ChapterID": "SU135",
         "ChapterProgress": 1.0,
@@ -710,13 +710,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200051_ObjDes_1",
               "SourceString": "前往<blue>冰原</>击败<blue>霜茸鹿</>",
-              "LocalizedString": "前往<blue>冰原</>击败<blue>霜茸鹿</>"
+              "LocalizedString": "Go to <blue>Ice Plains</> and defeat <blue>Frostcrown Stag</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -753,13 +753,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200051_ObjDes_2",
               "SourceString": "前往<blue>冰原</>击败<blue>团尾狐</>",
-              "LocalizedString": "前往<blue>冰原</>击败<blue>团尾狐</>"
+              "LocalizedString": "Go to <blue>Ice Plains</> and defeat <blue>Bushtail Fox</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -792,7 +792,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200051_QuestPanel",
           "SourceString": "打工吧！勇者大人！",
-          "LocalizedString": "打工吧！勇者大人！"
+          "LocalizedString": "The Hero is a Part-Timer!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -854,7 +854,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200052_QuestName",
           "SourceString": "调薪窗口",
-          "LocalizedString": "调薪窗口"
+          "LocalizedString": "Oppurtunity for a Raise"
         },
         "ChapterID": "SU135",
         "ChapterProgress": 2.0,
@@ -891,7 +891,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200052_ObjDes_1",
               "SourceString": "与<blue>烤核绵</>交谈",
-              "LocalizedString": "与<blue>烤核绵</>交谈"
+              "LocalizedString": "Talk to <blue>Eval Fuzzy</>."
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -949,7 +949,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200052_QuestPanel",
           "SourceString": "工作闭环了，跟烤核绵拉齐一下。",
-          "LocalizedString": "工作闭环了，跟烤核绵拉齐一下。"
+          "LocalizedString": "Project loop closed. Time to touch base with the Eval Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1014,7 +1014,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200061_QuestName",
           "SourceString": "不要中间商赚差价",
-          "LocalizedString": "不要中间商赚差价"
+          "LocalizedString": "No Middle-Fuzzies Allowed"
         },
         "ChapterID": "SU136",
         "ChapterProgress": 1.0,
@@ -1051,7 +1051,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200061_ObjDes_1",
               "SourceString": "与<blue>教父绵</>交谈",
-              "LocalizedString": "与<blue>教父绵</>交谈"
+              "LocalizedString": "Talk to <blue>Godfather Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1109,7 +1109,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200061_QuestPanel",
           "SourceString": "你决定诱导烤核绵说出上线，打工，我要直接跟老板谈！",
-          "LocalizedString": "你决定诱导烤核绵说出上线，打工，我要直接跟老板谈！"
+          "LocalizedString": "You decide to get Eval Fuzzy to spill who's really in charge. If I'm doing this gig, I'm talking to the boss directly!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1171,7 +1171,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200062_QuestName",
           "SourceString": "不要中间商赚差价",
-          "LocalizedString": "不要中间商赚差价"
+          "LocalizedString": "No Middle-Fuzzies Allowed"
         },
         "ChapterID": "SU136",
         "ChapterProgress": 2.0,
@@ -1208,13 +1208,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200062_ObjDes_1",
               "SourceString": "前往<blue>湖泊</>击败<blue>苔藓牛</>",
-              "LocalizedString": "前往<blue>湖泊</>击败<blue>苔藓牛</>"
+              "LocalizedString": "Go to the <blue>Lake</> and defeat <blue>Moss Ox</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -1250,13 +1250,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200062_ObjDes_2",
               "SourceString": "前往<blue>湖泊</>击败<blue>卷叶蝎</>",
-              "LocalizedString": "前往<blue>湖泊</>击败<blue>卷叶蝎</>"
+              "LocalizedString": "Go to the <blue>Lake</> and defeat <blue>Scroll-leaf Scorpion</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": true,
             "bHideTrackIndicatorInFightState": true,
@@ -1289,7 +1289,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200062_QuestPanel",
           "SourceString": "找到教父绵交涉，不要中间商赚差价！",
-          "LocalizedString": "找到教父绵交涉，不要中间商赚差价！"
+          "LocalizedString": "Find Godfather Fuzzy and talk to him directly!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1351,7 +1351,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200063_QuestName",
           "SourceString": "不要中间商赚差价",
-          "LocalizedString": "不要中间商赚差价"
+          "LocalizedString": "No Middle-Fuzzies Allowed"
         },
         "ChapterID": "SU136",
         "ChapterProgress": 3.0,
@@ -1388,7 +1388,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200063_ObjDes_1",
               "SourceString": "与<blue>教父绵</>交谈",
-              "LocalizedString": "与<blue>教父绵</>交谈"
+              "LocalizedString": "Talk to <blue>Godfather Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1446,7 +1446,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200063_QuestPanel",
           "SourceString": "完成任务，回去向教父绵交付成果吧。",
-          "LocalizedString": "完成任务，回去向教父绵交付成果吧。"
+          "LocalizedString": "Quest complete. Time to deliver the goods to Godfather Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1511,7 +1511,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200071_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 1.0,
@@ -1548,7 +1548,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200071_ObjDes_1",
               "SourceString": "与<blue>劳工绵</>交谈",
-              "LocalizedString": "与<blue>劳工绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grinding Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1606,7 +1606,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200071_QuestPanel",
           "SourceString": "劳工绵似乎知道更多，可能也被压榨了更多……",
-          "LocalizedString": "劳工绵似乎知道更多，可能也被压榨了更多……"
+          "LocalizedString": "Grinding Fuzzy seems to know more, and may have been taken advantage of…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1668,7 +1668,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200072_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 2.0,
@@ -1705,7 +1705,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200072_ObjDes_1",
               "SourceString": "与<blue>反诈绵</>交谈",
-              "LocalizedString": "与<blue>反诈绵</>交谈"
+              "LocalizedString": "Talk to <blue>Anti-fraud Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1763,7 +1763,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200072_QuestPanel",
           "SourceString": "反诈绵提醒您，打工需谨慎，谨防劳务派遣！",
-          "LocalizedString": "反诈绵提醒您，打工需谨慎，谨防劳务派遣！"
+          "LocalizedString": "Anti-fraud Fuzzy reminds you: Be careful when taking jobs, and watch out for labor placement scams!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1825,7 +1825,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200073_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 3.0,
@@ -1862,7 +1862,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200073_ObjDes_1",
               "SourceString": "前往<blue>接头地点</>",
-              "LocalizedString": "前往<blue>接头地点</>"
+              "LocalizedString": "Go to the <blue>Rendezvous Point</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -1920,7 +1920,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200073_QuestPanel",
           "SourceString": "前往邪恶的接头地，去揭绵的老底。",
-          "LocalizedString": "前往邪恶的接头地，去揭绵的老底。"
+          "LocalizedString": "Go to the shady meetup spot and dig up this Fuzzy's secrets."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -1982,7 +1982,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200074_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 4.0,
@@ -2019,7 +2019,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200074_ObjDes_1",
               "SourceString": "找到<blue>教父绵</>",
-              "LocalizedString": "找到<blue>教父绵</>"
+              "LocalizedString": "Find <blue>Godfather Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2077,7 +2077,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200074_QuestPanel",
           "SourceString": "找到教父绵谈谈。",
-          "LocalizedString": "找到教父绵谈谈。"
+          "LocalizedString": "Find Godfather Fuzzy and talk to him."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2139,7 +2139,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200075_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 5.0,
@@ -2176,7 +2176,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200075_ObjDes_1",
               "SourceString": "与<blue>教父绵</>交谈",
-              "LocalizedString": "与<blue>教父绵</>交谈"
+              "LocalizedString": "Talk to <blue>Godfather Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2234,7 +2234,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200075_QuestPanel",
           "SourceString": "你决定直接跟教父绵交涉，不要中间商赚差价！",
-          "LocalizedString": "你决定直接跟教父绵交涉，不要中间商赚差价！"
+          "LocalizedString": "You've decided to talk to Godfather Fuzzy directly!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2296,7 +2296,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200076_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 6.0,
@@ -2332,13 +2332,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200076_ObjDes_1",
               "SourceString": "前往<blue>龙堡</>击败<blue>坚甲犀兽</>",
-              "LocalizedString": "前往<blue>龙堡</>击败<blue>坚甲犀兽</>"
+              "LocalizedString": "Go to <blue>Crimson Castle</> and defeat <blue>Plated Rhino</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -2375,13 +2375,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200076_ObjDes_2",
               "SourceString": "前往<blue>龙堡</>击败<blue>石盔甲</>",
-              "LocalizedString": "前往<blue>龙堡</>击败<blue>石盔甲</>"
+              "LocalizedString": "Go to <blue>Crimson Castle</> and defeat <blue>Stone Armor</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -2414,7 +2414,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200076_QuestPanel",
           "SourceString": "前往龙堡完成任务吧！",
-          "LocalizedString": "前往龙堡完成任务吧！"
+          "LocalizedString": "Go to Crimson Castle and complete the quest!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2476,7 +2476,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200077_QuestName",
           "SourceString": "劳务派遣",
-          "LocalizedString": "劳务派遣"
+          "LocalizedString": "Labor Dispatch"
         },
         "ChapterID": "SU138",
         "ChapterProgress": 7.0,
@@ -2513,7 +2513,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s1200077_ObjDes_1",
               "SourceString": "与<blue>教父绵</>交谈",
-              "LocalizedString": "与<blue>教父绵</>交谈"
+              "LocalizedString": "Talk to <blue>Godfather Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2571,7 +2571,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s1200077_QuestPanel",
           "SourceString": "完成任务，回去向教父绵交付成果吧。",
-          "LocalizedString": "完成任务，回去向教父绵交付成果吧。"
+          "LocalizedString": "Quest complete. Time to deliver the goods to Godfather Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2636,7 +2636,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120009_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 1.0,
@@ -2672,7 +2672,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120008_ObjDes_None",
               "SourceString": "完成<blue>第一轮</>挑战",
-              "LocalizedString": "完成<blue>第一轮</>挑战"
+              "LocalizedString": "Complete the <blue>First Round</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2730,7 +2730,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120008_QuestPanel",
           "SourceString": "颇有哲学思考的绵叫住你，邀请你来，打一架？",
-          "LocalizedString": "颇有哲学思考的绵叫住你，邀请你来，打一架？"
+          "LocalizedString": "A Fuzzy with a philosophical streak calls you over for a sparring session?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2787,7 +2787,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120009_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 2.0,
@@ -2824,7 +2824,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120009_ObjDes_1",
               "SourceString": "与<blue>文明绵</>交谈",
-              "LocalizedString": "与<blue>文明绵</>交谈"
+              "LocalizedString": "Talk to <blue>Refined Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -2882,7 +2882,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120009_QuestPanel",
           "SourceString": "战斗结束，去找刚刚的绵领取奖励吧！",
-          "LocalizedString": "战斗结束，去找刚刚的绵领取奖励吧！"
+          "LocalizedString": "Battle's over. Go find the Fuzzy from before and claim your reward!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -2947,7 +2947,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120010_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 3.0,
@@ -2983,7 +2983,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120010_ObjDes_1",
               "SourceString": "完成<blue>第二轮</>挑战",
-              "LocalizedString": "完成<blue>第二轮</>挑战"
+              "LocalizedString": "Complete the <blue>Second Round</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3041,7 +3041,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120010_QuestPanel",
           "SourceString": "文明绵再次叫住你参加绵击俱乐部的战斗！",
-          "LocalizedString": "文明绵再次叫住你参加绵击俱乐部的战斗！"
+          "LocalizedString": "Refined Fuzzy calls you back for another battle at the Fuzzy Club!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3103,7 +3103,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120011_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 4.0,
@@ -3140,7 +3140,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120011_ObjDes_1",
               "SourceString": "与<blue>文明绵</>交谈",
-              "LocalizedString": "与<blue>文明绵</>交谈"
+              "LocalizedString": "Talk to <blue>Refined Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3198,7 +3198,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120011_QuestPanel",
           "SourceString": "战斗爽！去找文明绵领取奖励吧！",
-          "LocalizedString": "战斗爽！去找文明绵领取奖励吧！"
+          "LocalizedString": "Battle was awesome! Go see Refined Fuzzy to claim your reward!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3263,7 +3263,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120012_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 5.0,
@@ -3299,7 +3299,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120012_ObjDes_1",
               "SourceString": "完成<blue>第三轮</>挑战",
-              "LocalizedString": "完成<blue>第三轮</>挑战"
+              "LocalizedString": "Complete the <blue>Third Round</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3357,7 +3357,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120012_QuestPanel",
           "SourceString": "虽然绵似乎有所变化，但总之战斗就好了吧！",
-          "LocalizedString": "虽然绵似乎有所变化，但总之战斗就好了吧！"
+          "LocalizedString": "The Fuzzy seems a bit different now, but who cares? Let's keep the battle going!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3419,7 +3419,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120013_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 6.0,
@@ -3456,7 +3456,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120013_ObjDes_1",
               "SourceString": "与<blue>野蛮绵</>交谈",
-              "LocalizedString": "与<blue>野蛮绵</>交谈"
+              "LocalizedString": "Talk to <blue>Wild Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3514,7 +3514,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120013_QuestPanel",
           "SourceString": "向野蛮绵领取奖励吧！",
-          "LocalizedString": "向野蛮绵领取奖励吧！"
+          "LocalizedString": "Claim your reward from Wild Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3579,7 +3579,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120014_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 7.0,
@@ -3615,7 +3615,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120014_ObjDes_1",
               "SourceString": "完成<blue>第四轮</>挑战",
-              "LocalizedString": "完成<blue>第四轮</>挑战"
+              "LocalizedString": "Complete the <blue>Fourth Round</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3673,7 +3673,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120014_QuestPanel",
           "SourceString": "根据野蛮绵的说法，这次的战斗好像会很……特殊？",
-          "LocalizedString": "根据野蛮绵的说法，这次的战斗好像会很……特殊？"
+          "LocalizedString": "According to Wild Fuzzy, this battle sounds like it'll be… special?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3735,7 +3735,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120015_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 8.0,
@@ -3772,7 +3772,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120015_ObjDes_1",
               "SourceString": "与<blue>野蛮绵</>交谈",
-              "LocalizedString": "与<blue>野蛮绵</>交谈"
+              "LocalizedString": "Talk to <blue>Wild Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3830,7 +3830,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120015_QuestPanel",
           "SourceString": "野蛮绵似乎有了更大的变化……不过更多的奖励……",
-          "LocalizedString": "野蛮绵似乎有了更大的变化……不过更多的奖励……"
+          "LocalizedString": "Wild Fuzzy seems to have changed even more… but the rewards look pretty tempting…"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -3895,7 +3895,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120016_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 9.0,
@@ -3934,7 +3934,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120016_ObjDes_1",
               "SourceString": "完成<blue>最终</>挑战",
-              "LocalizedString": "完成<blue>最终</>挑战"
+              "LocalizedString": "Complete the <blue>Final</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3973,7 +3973,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120016_ObjDes_1",
               "SourceString": "完成<blue>最终</>挑战",
-              "LocalizedString": "完成<blue>最终</>挑战"
+              "LocalizedString": "Complete the <blue>Final</> challenge"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4031,7 +4031,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120016_QuestPanel",
           "SourceString": "那是什么，那还是之前的绵吗？还要战斗吗？",
-          "LocalizedString": "那是什么，那还是之前的绵吗？还要战斗吗？"
+          "LocalizedString": "What happened? Is that even the same Fuzzy from before? Do we still have to battle?"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4093,7 +4093,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120017_QuestName",
           "SourceString": "绵击俱乐部",
-          "LocalizedString": "绵击俱乐部"
+          "LocalizedString": "Fuzzy Club"
         },
         "ChapterID": "SU102",
         "ChapterProgress": 10.0,
@@ -4130,7 +4130,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120017_ObjDes_1",
               "SourceString": "与<blue>？？？</>交谈",
-              "LocalizedString": "与<blue>？？？</>交谈"
+              "LocalizedString": "Talk to <blue>???</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4188,7 +4188,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120017_QuestPanel",
           "SourceString": "与奇怪的黑绵完成战斗，究竟发生了什么？还是不要深究了吧……",
-          "LocalizedString": "与奇怪的黑绵完成战斗，究竟发生了什么？还是不要深究了吧……"
+          "LocalizedString": "The battle with the strange Fuzzy is over, but what exactly happened? Honestly… better not to ask."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4253,7 +4253,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120018_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 1.0,
@@ -4290,7 +4290,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120018_ObjDes_1",
               "SourceString": "解开残局<blue>「一」</>",
-              "LocalizedString": "解开残局<blue>「一」</>"
+              "LocalizedString": "Solve the Endgame <blue>I</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4348,7 +4348,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120018_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要一枚「兵」。\r\n「兵」似乎在某个商绵手中。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要一枚「兵」。\r\n「兵」似乎在某个商绵手中。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A pawn is needed.\r\nThe pawn seems to be with a Fuzzy Merchant."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4405,7 +4405,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120019_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 2.0,
@@ -4442,7 +4442,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120019_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4500,7 +4500,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120019_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4565,7 +4565,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120020_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 3.0,
@@ -4602,7 +4602,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120020_ObjDes_1",
               "SourceString": "解开残局<blue>「二」</>",
-              "LocalizedString": "解开残局<blue>「二」</>"
+              "LocalizedString": "Solve the Endgame <blue>II</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4660,7 +4660,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120020_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要两枚「兵」。\r\n「兵」似乎在某个商绵手中。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要两枚「兵」。\r\n「兵」似乎在某个商绵手中。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. Two pawns are needed.\r\nThe pawns seem to be with a Fuzzy Merchant."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4722,7 +4722,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120021_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 4.0,
@@ -4759,7 +4759,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120021_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4817,7 +4817,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120021_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -4882,7 +4882,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120022_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 5.0,
@@ -4919,7 +4919,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120022_ObjDes_1",
               "SourceString": "解开残局<blue>「三」</>",
-              "LocalizedString": "解开残局<blue>「三」</>"
+              "LocalizedString": "Solve the Endgame <blue>III</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4977,7 +4977,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120022_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要「兵」、「车」各一枚。\r\n「兵」似乎在某个商绵手中，「车」似乎隐藏在冰原深处的危险之地。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要「兵」、「车」各一枚。\r\n「兵」似乎在某个商绵手中，「车」似乎隐藏在冰原深处的危险之地。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A pawn and a rook are needed.\r\nThe pawn seems to be with a Fuzzy Merchant, while the rook seems to be hidden deep in a dangerous part of the frozen wasteland."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5039,7 +5039,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120023_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 6.0,
@@ -5076,7 +5076,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120023_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5134,7 +5134,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120023_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5199,7 +5199,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120024_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 7.0,
@@ -5236,7 +5236,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120024_ObjDes_1",
               "SourceString": "解开残局<blue>「四」</>",
-              "LocalizedString": "解开残局<blue>「四」</>"
+              "LocalizedString": "Solve the Endgame <blue>IV</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5294,7 +5294,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120024_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要「车」、「马」各一枚。\r\n「车」似乎隐藏在冰原深处的危险之地，获取「马」似乎需要为奇怪的绵展示一系列战斗。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要「车」、「马」各一枚。\r\n「车」似乎隐藏在冰原深处的危险之地，获取「马」似乎需要为奇怪的绵展示一系列战斗。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A rook and a knight are needed.\r\nThe rook seems to be hidden deep in a dangerous part of the frozen wasteland, while getting the knight seems to require completing a series of battles for a strange Fuzzy."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5356,7 +5356,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120025_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 8.0,
@@ -5393,7 +5393,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120025_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5451,7 +5451,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120025_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5516,7 +5516,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120026_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 9.0,
@@ -5553,7 +5553,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120026_ObjDes_1",
               "SourceString": "解开残局<blue>「五」</>",
-              "LocalizedString": "解开残局<blue>「五」</>"
+              "LocalizedString": "Solve the Endgame <blue>V</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5611,7 +5611,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120026_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要「马」、「象」各一枚。\r\n获取「马」似乎需要为奇怪的绵展示一系列战斗，「象」 隐藏在龙堡深处的危险之地咩。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要「马」、「象」各一枚。\r\n获取「马」似乎需要为奇怪的绵展示一系列战斗，「象」 隐藏在龙堡深处的危险之地咩。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A knight and a bishop are needed.\r\nGetting the knight seems to require completing a series of battles for a strange Fuzzy, while the bishop is tucked away in a dangerous place deep in Crimson Castle, baa."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5673,7 +5673,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120027_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 10.0,
@@ -5710,7 +5710,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120027_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5768,7 +5768,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120027_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5833,7 +5833,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120028_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 11.0,
@@ -5870,7 +5870,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120028_ObjDes_1",
               "SourceString": "解开残局<blue>「六」</>",
-              "LocalizedString": "解开残局<blue>「六」</>"
+              "LocalizedString": "Solve the Endgame <blue>VI</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -5928,7 +5928,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120028_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要「车」、「马」、「后」各一枚。\r\n「车」似乎隐藏在冰原深处的危险之地，获取「马」似乎需要为奇怪的绵展示一系列战斗，「后」 隐藏在一团鲜红的迷雾中咩。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要「车」、「马」、「后」各一枚。\r\n「车」似乎隐藏在冰原深处的危险之地，获取「马」似乎需要为奇怪的绵展示一系列战斗，「后」 隐藏在一团鲜红的迷雾中咩。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A rook, a knight, and a queen are needed.\r\nThe rook seems to be hidden deep in a dangerous part of the frozen wasteland, while getting the knight seems to require completing a series of battles for a strange Fuzzy. The queen seems hidden somewhere in the crimson mist."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -5990,7 +5990,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120029_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 12.0,
@@ -6027,7 +6027,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120029_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6085,7 +6085,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120029_QuestPanel",
           "SourceString": "将所需棋子交付棋圣绵吧！",
-          "LocalizedString": "将所需棋子交付棋圣绵吧！"
+          "LocalizedString": "Deliver the required pieces to Grandmaster Fuzzy!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6150,7 +6150,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120030_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 13.0,
@@ -6187,7 +6187,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120030_ObjDes_1",
               "SourceString": "解开残局<blue>「七」</>",
-              "LocalizedString": "解开残局<blue>「七」</>"
+              "LocalizedString": "Solve the Endgame <blue>VII</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6245,7 +6245,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120030_QuestPanel",
           "SourceString": "棋圣绵需要你帮助它解开残局，这一局需要「王」、「后」、「兵」各一枚。\r\n「王」已经在你手中，「后」 隐藏在一团鲜红的迷雾中，「兵」似乎在某个商绵手中。",
-          "LocalizedString": "棋圣绵需要你帮助它解开残局，这一局需要「王」、「后」、「兵」各一枚。\r\n「王」已经在你手中，「后」 隐藏在一团鲜红的迷雾中，「兵」似乎在某个商绵手中。"
+          "LocalizedString": "Grandmaster Fuzzy needs your help solving the endgame. A king, a queen, and a pawn are needed.\r\nThe king is already in your hand. The queen seems hidden somewhere in the crimson mist. The pawn seems to be with a Fuzzy Merchant."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6307,7 +6307,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120031_QuestName",
           "SourceString": "后翼弃绵",
-          "LocalizedString": "后翼弃绵"
+          "LocalizedString": "The Fuzzy's Gambit"
         },
         "ChapterID": "SU126",
         "ChapterProgress": 14.0,
@@ -6344,7 +6344,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120031_ObjDes_1",
               "SourceString": "与<blue>棋圣绵</>交谈",
-              "LocalizedString": "与<blue>棋圣绵</>交谈"
+              "LocalizedString": "Talk to <blue>Grandmaster Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6402,7 +6402,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120031_QuestPanel",
           "SourceString": "残局已经尽数破解，棋圣绵会拿出什么奖励来呢！",
-          "LocalizedString": "残局已经尽数破解，棋圣绵会拿出什么奖励来呢！"
+          "LocalizedString": "With all the endgames cleared, what reward does Grandmaster Fuzzy have in store?!"
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6467,7 +6467,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120032_QuestName",
           "SourceString": "爱好是分享冷圈！",
-          "LocalizedString": "爱好是分享冷圈！"
+          "LocalizedString": "My Hobby is Sharing Cool Obscurities!"
         },
         "ChapterID": "SU132",
         "ChapterProgress": 1.0,
@@ -6499,13 +6499,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120032_ObjDes_1",
               "SourceString": "收集<blue>棒冰晶簇</>",
-              "LocalizedString": "收集<blue>棒冰晶簇</>"
+              "LocalizedString": "Collect <blue>Icy Geodes</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -6537,13 +6537,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120032_ObjDes_2",
               "SourceString": "收集<blue>冰纹蝶</>",
-              "LocalizedString": "收集<blue>冰纹蝶</>"
+              "LocalizedString": "Collect <blue>Frostvein Butterflies</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -6576,7 +6576,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120032_QuestPanel",
           "SourceString": "冰冰绵喜欢棒冰晶簇和冰纹蝶，找找看吧。",
-          "LocalizedString": "冰冰绵喜欢棒冰晶簇和冰纹蝶，找找看吧。"
+          "LocalizedString": "Icy Fuzzy likes Icy Geodes and Frostvein Butterflies. See if you can find some."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6638,7 +6638,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120033_QuestName",
           "SourceString": "爱好是分享冷圈！",
-          "LocalizedString": "爱好是分享冷圈！"
+          "LocalizedString": "My Hobby is Sharing Cool Obscurities!"
         },
         "ChapterID": "SU132",
         "ChapterProgress": 2.0,
@@ -6675,7 +6675,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120033_ObjDes_1",
               "SourceString": "与<blue>冰冰绵</>交谈",
-              "LocalizedString": "与<blue>冰冰绵</>交谈"
+              "LocalizedString": "Talk to <blue>Icy Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -6733,7 +6733,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120033_QuestPanel",
           "SourceString": "把「冷冰冰」交给冰冰绵，和它聊聊吧。",
-          "LocalizedString": "把「冷冰冰」交给冰冰绵，和它聊聊吧。"
+          "LocalizedString": "Give chilly stuff to Icy Fuzzy, then chat with it."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6798,7 +6798,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120034_QuestName",
           "SourceString": "神奇草药制作中……",
-          "LocalizedString": "神奇草药制作中……"
+          "LocalizedString": "Miracle Concoction in the Making…"
         },
         "ChapterID": "SU133",
         "ChapterProgress": 1.0,
@@ -6830,13 +6830,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120034_ObjDes_1",
               "SourceString": "收集<blue>迷雾果实</>",
-              "LocalizedString": "收集<blue>迷雾果实</>"
+              "LocalizedString": "Collect <blue>Misty Fruits</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -6868,13 +6868,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120034_ObjDes_2",
               "SourceString": "收集<blue>翠闪蝶</>",
-              "LocalizedString": "收集<blue>翠闪蝶</>"
+              "LocalizedString": "Collect <blue>Emerald Butterflies</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -6907,7 +6907,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120034_QuestPanel",
           "SourceString": "药草绵需要迷雾果实和翠闪蝶制作草药，带一些回去吧。",
-          "LocalizedString": "药草绵需要迷雾果实和翠闪蝶制作草药，带一些回去吧。"
+          "LocalizedString": "Herbalist Fuzzy needs Misty Fruits and Emerald Butterflies to make the remedy. Bring some back."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -6969,7 +6969,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120035_QuestName",
           "SourceString": "神奇草药制作中……",
-          "LocalizedString": "神奇草药制作中……"
+          "LocalizedString": "Miracle Concoction in the Making…"
         },
         "ChapterID": "SU133",
         "ChapterProgress": 2.0,
@@ -7006,7 +7006,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120035_ObjDes_1",
               "SourceString": "与<blue>药草绵</>交谈",
-              "LocalizedString": "与<blue>药草绵</>交谈"
+              "LocalizedString": "Talk to <blue>Herbalist Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -7064,7 +7064,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120035_QuestPanel",
           "SourceString": "把草药交付给药草绵，看看它能不能做出神奇草药。",
-          "LocalizedString": "把草药交付给药草绵，看看它能不能做出神奇草药。"
+          "LocalizedString": "Deliver the herbs to Herbalist Fuzzy and see if it can make the magic herb."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -7129,7 +7129,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120036_QuestName",
           "SourceString": "侦探绵的呢喃",
-          "LocalizedString": "侦探绵的呢喃"
+          "LocalizedString": "The Detective Diaries"
         },
         "ChapterID": "SU134",
         "ChapterProgress": 1.0,
@@ -7161,13 +7161,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120036_ObjDes_1",
               "SourceString": "收集<blue>骑士花</>",
-              "LocalizedString": "收集<blue>骑士花</>"
+              "LocalizedString": "Collect <blue>Flowers of the Knight</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -7199,13 +7199,13 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120036_ObjDes_2",
               "SourceString": "收集<blue>幽影蝶</>",
-              "LocalizedString": "收集<blue>幽影蝶</>"
+              "LocalizedString": "Collect <blue>Umbral Butterflies</>"
             },
             "CompletedDescription": {
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120006_complete",
               "SourceString": "已完成",
-              "LocalizedString": "已完成"
+              "LocalizedString": "Completed"
             },
             "NeedShowProgress": false,
             "bHideTrackIndicatorInFightState": true,
@@ -7238,7 +7238,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120036_QuestPanel",
           "SourceString": "侦探绵想找些骑士花和幽影蝶研究一下。",
-          "LocalizedString": "侦探绵想找些骑士花和幽影蝶研究一下。"
+          "LocalizedString": "Detective Fuzzy would like to find some Flowers of the Knight and Umbral Butterflies to study."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -7300,7 +7300,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120037_QuestName",
           "SourceString": "侦探绵的呢喃",
-          "LocalizedString": "侦探绵的呢喃"
+          "LocalizedString": "The Detective Diaries"
         },
         "ChapterID": "SU134",
         "ChapterProgress": 2.0,
@@ -7337,7 +7337,7 @@
               "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
               "Key": "s120037_ObjDes_1",
               "SourceString": "与<blue>侦探绵</>交谈",
-              "LocalizedString": "与<blue>侦探绵</>交谈"
+              "LocalizedString": "Talk to <blue>Detective Fuzzy</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -7395,7 +7395,7 @@
           "TableId": "/Game/Text/ST_Sidequest_pgl.ST_Sidequest_pgl",
           "Key": "s120037_QuestPanel",
           "SourceString": "把物品交付给侦探绵，或许有一天它真的能梦想成真呢？",
-          "LocalizedString": "把物品交付给侦探绵，或许有一天它真的能梦想成真呢？"
+          "LocalizedString": "Hand the items over to Detective Fuzzy—maybe one day that dream will come true."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,

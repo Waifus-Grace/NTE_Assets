@@ -32,7 +32,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishBait01_Name",
           "SourceString": "万能鱼饵",
-          "LocalizedString": "万能鱼饵"
+          "LocalizedString": "Universal Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -51,13 +51,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishBait01_Usedesc",
           "SourceString": "最基础的鱼饵，虽然不具备任何特殊效果，但具有最高的性价比。",
-          "LocalizedString": "最基础的鱼饵，虽然不具备任何特殊效果，但具有最高的性价比。"
+          "LocalizedString": "Bait suitable for beginners. Can be used at any fishing spot, but has no special effects."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishBait01_Desc",
           "SourceString": "使用复合材料制作的鱼饵，由于添加了对海水鱼和淡水鱼都具有一定吸引力的饵料，因此可以在任何水域使用。低廉的成本和极高的性价比让其在新手和老手中都深受喜爱。",
-          "LocalizedString": "使用复合材料制作的鱼饵，由于添加了对海水鱼和淡水鱼都具有一定吸引力的饵料，因此可以在任何水域使用。低廉的成本和极高的性价比让其在新手和老手中都深受喜爱。"
+          "LocalizedString": "Bait made from multiple materials. Contains additives that attract both saltwater and freshwater fish, making it usable in any body of water. Perfect for beginners."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -131,7 +131,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait201_name",
           "SourceString": "杂谷饵",
-          "LocalizedString": "杂谷饵"
+          "LocalizedString": "Mixed Grain Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -150,13 +150,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait201_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：黑纹水虎、活翡翠、水下彩、牙巴拉、 鹤顶红",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：黑纹水虎、活翡翠、水下彩、牙巴拉、 鹤顶红"
+          "LocalizedString": "A simple bait that increases the chance of catching the following freshwater fish: Black-striped Piranha, Living Jade, Underwater Rainbow, Payara, and Red Cap Oranda."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait201_desc",
           "SourceString": "每位钓者在入门时期都会学习制作的鱼饵，主要由稻谷和蚯蚓揉造而成，对于一般的鱼类而言有难以拒绝的吸引力。\r\n「如果我钓上了这一条，再有两条就三条了。」",
-          "LocalizedString": "每位钓者在入门时期都会学习制作的鱼饵，主要由稻谷和蚯蚓揉造而成，对于一般的鱼类而言有难以拒绝的吸引力。\r\n「如果我钓上了这一条，再有两条就三条了。」"
+          "LocalizedString": "A bait that every angler learns to make when starting out. Crafted mainly from rice grains and earthworms, it has an irresistible appeal to most common fish.\r\n\"If I catch this one, just two more and I'll have three!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -251,7 +251,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait202_name",
           "SourceString": "果渍饵",
-          "LocalizedString": "果渍饵"
+          "LocalizedString": "Fruit-Infused Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -270,13 +270,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait202_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：绿斑水虎、红腹水虎、三秋桂、 鹤顶红、 黑魔鬼",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：绿斑水虎、红腹水虎、三秋桂、 鹤顶红、 黑魔鬼"
+          "LocalizedString": "A simple bait that increases the chance of catching the following freshwater fish: Green-Spotted Piranha, Red-Bellied Piranha, Tench, Red Cap, and Black Ghost Knifefish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait202_desc",
           "SourceString": "一些细心的钓者在杂谷饵原料的基础上添加果泥而制成的饵料，他们相信这种更加香甜的鱼饵会吸引更多游鳞的光顾。\r\n「看来同时也吸引了嗜甜的飞虫呢……」",
-          "LocalizedString": "一些细心的钓者在杂谷饵原料的基础上添加果泥而制成的饵料，他们相信这种更加香甜的鱼饵会吸引更多游鳞的光顾。\r\n「看来同时也吸引了嗜甜的飞虫呢……」"
+          "LocalizedString": "A bait crafted by meticulous anglers who add fruit puree to the basic Mixed Grain Bait ingredients. They believe this sweeter concoction will attract more fish to their lines.\r\n\"Looks like it's also attracting sweet-toothed bugs…\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -371,7 +371,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait203_name",
           "SourceString": "全麦饵",
-          "LocalizedString": "全麦饵"
+          "LocalizedString": "Wheat Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -390,13 +390,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait203_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：银纹鲈、金鲫",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下淡水鱼的概率：银纹鲈、金鲫"
+          "LocalizedString": "A simple bait that increases the chance of catching the following freshwater fish: Silverstripe Bass and Golden Crucian."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait203_desc",
           "SourceString": "一些崇尚健康的钓者在杂谷饵原料的基础上使用全麦制成的饵料，他们相信这种更加低糖的鱼饵会吸引更加健康的游鳞的光顾。\r\n「难道这片水域的鱼类麸质过敏？」",
-          "LocalizedString": "一些崇尚健康的钓者在杂谷饵原料的基础上使用全麦制成的饵料，他们相信这种更加低糖的鱼饵会吸引更加健康的游鳞的光顾。\r\n「难道这片水域的鱼类麸质过敏？」"
+          "LocalizedString": "A bait crafted by health-conscious anglers who utilize wheat and Mixed Grain Bait to attract \"healthier\" fish.\r\n\"Are these fish 'gluten-free'?\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -479,7 +479,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait301_name",
           "SourceString": "酒糟饵",
-          "LocalizedString": "酒糟饵"
+          "LocalizedString": "Distiller's Grain Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -498,13 +498,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait301_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：红绿灯鱼、胭脂红、三色金鱼、 紫花条、 三瓣花",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：红绿灯鱼、胭脂红、三色金鱼、 紫花条、 三瓣花"
+          "LocalizedString": "A processed bait that increases the chance of catching the following freshwater fish: Neon Tetra, Wimple Carp, Ryukin Goldfish, Zebrafish, and Red Betta."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait301_desc",
           "SourceString": "精心加工后的鱼饵，添加了诸如酒糟，麸皮等对鱼类颇具吸引力的原料，综合效果自然比自制的饵料要更上一层楼，但总有不信邪的人坚持使用自己手搓的鱼饵。\r\n「钓鱼没有捷径可走。」",
-          "LocalizedString": "精心加工后的鱼饵，添加了诸如酒糟，麸皮等对鱼类颇具吸引力的原料，综合效果自然比自制的饵料要更上一层楼，但总有不信邪的人坚持使用自己手搓的鱼饵。\r\n「钓鱼没有捷径可走。」"
+          "LocalizedString": "A carefully processed bait enhanced with ingredients highly attractive to fish, such as distiller's grains and wheat bran. Naturally, its overall effectiveness surpasses that of homemade bait. Still, there are always stubborn folks who insist on using their own hand-rolled creations.\r\n\"There are no shortcuts in fishing.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -599,7 +599,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait302_name",
           "SourceString": "甜麦饵",
-          "LocalizedString": "甜麦饵"
+          "LocalizedString": "Sweet Wheat Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -618,13 +618,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait302_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：金鱼、银龙鱼、波拿拿、三瓣花、五彩扇",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：金鱼、银龙鱼、波拿拿、三瓣花、五彩扇"
+          "LocalizedString": "A processed bait that increases the chance of catching the following freshwater fish: Goldfish, Silver Arowana, Golden Mbuna, Red Betta, and Rainbow Guppy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait302_desc",
           "SourceString": "含有小麦粉的精制鱼饵，投入水中会散发出持久的谷香和肉香，且溶解速度慢，非常适合揉碎了用来打窝，吸引鱼儿来觅食。\r\n「钓鱼不打窝，鱼儿不会多。」",
-          "LocalizedString": "含有小麦粉的精制鱼饵，投入水中会散发出持久的谷香和肉香，且溶解速度慢，非常适合揉碎了用来打窝，吸引鱼儿来觅食。\r\n「钓鱼不打窝，鱼儿不会多。」"
+          "LocalizedString": "A refined bait containing wheat flour. When cast into water, it releases a lasting aroma of grain and meat while dissolving slowly, making it perfect for crumbling up as groundbait to attract fish to your spot.\r\n\"No chum in the water, no fish on the line.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -719,7 +719,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait303_name",
           "SourceString": "薯条饵",
-          "LocalizedString": "薯条饵"
+          "LocalizedString": "French Fry Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -738,13 +738,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait303_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：虹彩鳟、琥珀鲶",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下淡水鱼的概率：虹彩鳟、琥珀鲶"
+          "LocalizedString": "A processed bait that increases the chance of catching the following freshwater fish: Prism Trout and Amber Catfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait303_desc",
           "SourceString": "原料中添加了薯条的鱼饵，诱惑力十足。\r\n「你又不是鱼，怎么知道鱼不爱吃？」",
-          "LocalizedString": "原料中添加了薯条的鱼饵，诱惑力十足。\r\n「你又不是鱼，怎么知道鱼不爱吃？」"
+          "LocalizedString": "Bait with french fries added to the base ingredients. Incredibly irresistible.\r\n\"Fish and chips are a popular combo, right?\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -827,7 +827,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait401_name",
           "SourceString": "八珍饵",
-          "LocalizedString": "八珍饵"
+          "LocalizedString": "Eight Treasure Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -846,13 +846,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait401_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：电光雷龙、 锦鲤",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：电光雷龙、 锦鲤"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following freshwater fish: Giant Snakehead and Koi."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait401_desc",
           "SourceString": "原料丰富并经过精心配比的饵料，价格自然也较一般的鱼饵高上一些，但热衷钓鱼的人从不吝啬。毕竟只有放对鱼饵，鱼儿才会上钩，这是连小孩子都知道的道理。\r\n「不能省！坚决不能省！」",
-          "LocalizedString": "原料丰富并经过精心配比的饵料，价格自然也较一般的鱼饵高上一些，但热衷钓鱼的人从不吝啬。毕竟只有放对鱼饵，鱼儿才会上钩，这是连小孩子都知道的道理。\r\n「不能省！坚决不能省！」"
+          "LocalizedString": "A bait made with rich ingredients and a carefully balanced formula. Naturally, it costs a bit more than regular bait, but fishing enthusiasts never skimp on quality. After all, you need the right bait to hook the fish. Even a child knows that.\r\n\"Ain't nobody's cutting corners!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -935,7 +935,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait402_name",
           "SourceString": "秘酿饵",
-          "LocalizedString": "秘酿饵"
+          "LocalizedString": "Secret Blend Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -954,13 +954,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait402_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：金光雷龙、蓝玉鳞",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：金光雷龙、蓝玉鳞"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following freshwater fish: Golden Cobra Snakehead and Star Sapphire Cichlid."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait402_desc",
           "SourceString": "曾是某个捕鱼世家代代相传的鱼饵配方，后来被一位商人花大价钱买下并用现代工艺进行了改良，推出后一度成为鱼饵市场上炙手可热的「断货王」。\r\n「真正的钓者就算不用饵也能让鱼儿咬钩的！」",
-          "LocalizedString": "曾是某个捕鱼世家代代相传的鱼饵配方，后来被一位商人花大价钱买下并用现代工艺进行了改良，推出后一度成为鱼饵市场上炙手可热的「断货王」。\r\n「真正的钓者就算不用饵也能让鱼儿咬钩的！」"
+          "LocalizedString": "A bait recipe once passed down through generations in a fishing family. It was later purchased at great expense by a merchant who refined it with modern techniques. After its release, it became such a hot seller that it was constantly out of stock.\r\n\"A true angler can get fish to bite without any bait at all!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1043,7 +1043,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait403_name",
           "SourceString": "百草饵",
-          "LocalizedString": "百草饵"
+          "LocalizedString": "Herbal Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1062,13 +1062,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait403_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：电光狗鱼",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下淡水鱼的概率：电光狗鱼"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following freshwater fish: Lightning Pike."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait403_desc",
           "SourceString": "某位老渔夫留下的鱼饵，由多味草药调制而成，据传钓上的鱼都调理好了身体。\r\n「对症下药，这鱼湿气太重！」",
-          "LocalizedString": "某位老渔夫留下的鱼饵，由多味草药调制而成，据传钓上的鱼都调理好了身体。\r\n「对症下药，这鱼湿气太重！」"
+          "LocalizedString": "Bait left behind by an old fisherman, blended from a variety of herbs. Rumor has it the fish caught with it all end up in fine fettle.\r\n\"An herb a day keeps the fishes in the bay!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1147,7 +1147,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait501_name",
           "SourceString": "芳泽饵",
-          "LocalizedString": "芳泽饵"
+          "LocalizedString": "Aromatic Blend Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1166,13 +1166,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait501_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下淡水鱼的概率：闪电鳗、金龙鱼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下淡水鱼的概率：闪电鳗、金龙鱼"
+          "LocalizedString": "An expensive bait that increases your chances of catching the following freshwater fish: Electric Eel, Golden Dragonfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait501_desc",
           "SourceString": "据称是经过专门的实验室研发，在原料中添加了多种令人眼花缭乱的香料的鱼饵，价格自然令人咋舌，效果的话似乎比一般的鱼饵要好上那么一些吧……\r\n「钓欲善其事必先利其饵。」",
-          "LocalizedString": "据称是经过专门的实验室研发，在原料中添加了多种令人眼花缭乱的香料的鱼饵，价格自然令人咋舌，效果的话似乎比一般的鱼饵要好上那么一些吧……\r\n「钓欲善其事必先利其饵。」"
+          "LocalizedString": "Allegedly developed in a specialized laboratory, this bait contains a dazzling array of spices mixed into its ingredients. The price is naturally jaw-dropping, though the effect seems to be only somewhat better than regular bait…\r\n\"An angler who wishes to do their job well must first have good bait.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1255,7 +1255,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait502_name",
           "SourceString": "龙涎饵",
-          "LocalizedString": "龙涎饵"
+          "LocalizedString": "Ambergris Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1274,13 +1274,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait502_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下淡水鱼的概率：寒冰鲟、银龙鱼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下淡水鱼的概率：寒冰鲟、银龙鱼"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following freshwater fish: Frost Sturgeon and Silver Arowana."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FreshwaterFishBait502_desc",
           "SourceString": "散发着浓郁香气的珍贵饵料，选用了十分名贵的香料制作，鱼饵中当之无愧的奢侈品。\r\n「上次没忍住自己吃了两口。」",
-          "LocalizedString": "散发着浓郁香气的珍贵饵料，选用了十分名贵的香料制作，鱼饵中当之无愧的奢侈品。\r\n「上次没忍住自己吃了两口。」"
+          "LocalizedString": "A prized bait with a rich aroma, made with exceptionally expensive spices. The ultimate luxury bait.\r\n\"I almost got hooked on it.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1363,7 +1363,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait201_name",
           "SourceString": "虾籽饵",
-          "LocalizedString": "虾籽饵"
+          "LocalizedString": "Shrimp Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1382,13 +1382,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait201_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：球球鱼、生气球球鱼、三文鱼、蓝纹石斑鱼、蓝鳍金枪",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：球球鱼、生气球球鱼、三文鱼、蓝纹石斑鱼、蓝鳍金枪"
+          "LocalizedString": "A simple bait that increases the chance of catching the following saltwater fish: Porcupine Fish, Pink Porcupine Fish, Salmon, Blue-striped Grouper, and Bluefin Tuna."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait201_desc",
           "SourceString": "以鲜嫩的虾米为主要原料制作的鱼饵，在手工鱼饵中算得上是相当上乘的饵料，总有一些钓鱼爱好者声称用这种鱼饵可以钓上比往常多一倍的鱼。\r\n「不管是素饵还是荤饵，能钓上鱼就是好饵。」",
-          "LocalizedString": "以鲜嫩的虾米为主要原料制作的鱼饵，在手工鱼饵中算得上是相当上乘的饵料，总有一些钓鱼爱好者声称用这种鱼饵可以钓上比往常多一倍的鱼。\r\n「不管是素饵还是荤饵，能钓上鱼就是好饵。」"
+          "LocalizedString": "Bait made primarily from fresh, tender shrimp. Among handmade baits, this is considered top quality. Some fishing enthusiasts claim it can help you catch twice as many fish as usual.\r\n\"Whether it's plant bait or meat bait, if it catches fish, it's good bait.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1483,7 +1483,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait202_name",
           "SourceString": "鲜腴饵",
-          "LocalizedString": "鲜腴饵"
+          "LocalizedString": "Savory Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1502,13 +1502,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait202_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：斑纹狮子鱼、火焰狮子鱼、黄鳍金枪、紫纹石斑鱼、鬼头刀",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：斑纹狮子鱼、火焰狮子鱼、黄鳍金枪、紫纹石斑鱼、鬼头刀"
+          "LocalizedString": "A simple bait that increases the chance of catching the following saltwater fish: Striped Lionfish, Red Lionfish, Yellowfin Tuna, Purple-striped Grouper, and Mahi-mahi."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait202_desc",
           "SourceString": "以虾肉为底料的鱼饵，混入了香嫩的鱼肉粉，气味浓郁，在原有的鲜味上更添一层鲜美。\r\n「对鱼来说就是能把鱼鳞都鲜掉。」",
-          "LocalizedString": "以虾肉为底料的鱼饵，混入了香嫩的鱼肉粉，气味浓郁，在原有的鲜味上更添一层鲜美。\r\n「对鱼来说就是能把鱼鳞都鲜掉。」"
+          "LocalizedString": "Bait with a shrimp base, mixed with tender fish meal powder. It has a rich aroma that adds an extra layer of savory flavor to its natural freshness.\r\n\"For fish, it's so good it could knock their scales right off.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1603,7 +1603,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait203_name",
           "SourceString": "蠕须饵",
-          "LocalizedString": "蠕须饵"
+          "LocalizedString": "Worm Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1622,13 +1622,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait203_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：翻车鱼、红翻车鱼、比目鱼、赤鲷、骄阳鬼头刀",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：翻车鱼、红翻车鱼、比目鱼、赤鲷、骄阳鬼头刀"
+          "LocalizedString": "A simple bait that increases the chance of catching the following saltwater fish: Sunfish, Red Sunfish, Flounder, Red Sea Bream, and Blazing Mahi-mahi."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait203_desc",
           "SourceString": "在原有底料的基础上又额外添加蠕虫的饵料，总有不嫌麻烦的钓者将蠕虫剁成肉糜再进行混合，他们认为这是一位合格的钓者应该具备的耐心。\r\n「有这样的精神干什么都会成功的。」",
-          "LocalizedString": "在原有底料的基础上又额外添加蠕虫的饵料，总有不嫌麻烦的钓者将蠕虫剁成肉糜再进行混合，他们认为这是一位合格的钓者应该具备的耐心。\r\n「有这样的精神干什么都会成功的。」"
+          "LocalizedString": "Bait that adds worms to the original base mixture. Some dedicated anglers go the extra mile to mince the worms into a paste before mixing, believing this level of patience is what separates a true angler from the rest.\r\n\"With that kind of dedication, you could succeed at anything.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1723,7 +1723,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait204_name",
           "SourceString": "五香饵",
-          "LocalizedString": "五香饵"
+          "LocalizedString": "Spiced Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1742,13 +1742,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait204_usedesc",
           "SourceString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：黄鳍鲷、蓝纹蝴蝶鱼、黄金蝴蝶鱼",
-          "LocalizedString": "制作简易的鱼饵，可以提升钓到以下海水鱼的概率：黄鳍鲷、蓝纹蝴蝶鱼、黄金蝴蝶鱼"
+          "LocalizedString": "A simple bait that increases the chance of catching the following saltwater fish: Yellowfin Bream, Blueband Butterflyfish, and Golden Butterflyfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait204_desc",
           "SourceString": "只要将秘制卤肉香料混进最基础的鱼饵中就可以制成的新手级鱼饵，很适合初学者。\n「在鱼被钓上岸前，已经完成了腌制这步。」",
-          "LocalizedString": "只要将秘制卤肉香料混进最基础的鱼饵中就可以制成的新手级鱼饵，很适合初学者。\n「在鱼被钓上岸前，已经完成了腌制这步。」"
+          "LocalizedString": "A beginner-friendly bait made with basic bait and a secret braised-meat spice mix. Perfect for newcomers.\n\"Before the fish even leaves the water, it's already marinated.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1835,7 +1835,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait205_name",
           "SourceString": "百果饵",
-          "LocalizedString": "百果饵"
+          "LocalizedString": "Orchard Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1860,7 +1860,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait205_desc",
           "SourceString": "据制作者说这虾里面足足添加了一百种配料，因此得名，至于这一百种都是什么……\n「这是什么？蚕蛹，加一点。这是什么？蛋黄派，加一点。」",
-          "LocalizedString": "据制作者说这虾里面足足添加了一百种配料，因此得名，至于这一百种都是什么……\n「这是什么？蚕蛹，加一点。这是什么？蛋黄派，加一点。」"
+          "LocalizedString": "According to its maker, this bait contains a full hundred ingredients, hence the name. As for what those hundred ingredients are…\n\"What's this? Silkworm pupae? Toss some in. What's this? Egg-yolk pie? Toss some in.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1934,7 +1934,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait301_name",
           "SourceString": "螺腥饵",
-          "LocalizedString": "螺腥饵"
+          "LocalizedString": "Shellfish Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1953,13 +1953,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait301_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：蓝纹神仙鱼、绿纹神仙鱼、蓝面神仙鱼、破晓流光、红斑鱼",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：蓝纹神仙鱼、绿纹神仙鱼、蓝面神仙鱼、破晓流光、红斑鱼"
+          "LocalizedString": "A processed bait that increases the chance of catching the following saltwater fish: Blue-striped Angelfish, Green-striped Angelfish, Blueface Angelfish, Dawn Shimmer, and Red Starry Dragonet."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait301_desc",
           "SourceString": "原料中添加了螺肉和贝肉的鱼饵，营养丰富，腥香异常，对一些海水鱼有致命的诱惑力。\r\n「你怎么知道我上个月钓上了一条四十五斤的鱼？」",
-          "LocalizedString": "原料中添加了螺肉和贝肉的鱼饵，营养丰富，腥香异常，对一些海水鱼有致命的诱惑力。\r\n「你怎么知道我上个月钓上了一条四十五斤的鱼？」"
+          "LocalizedString": "Bait with snails and shellfish added to the ingredients. Rich in nutrients with an intensely pungent aroma, it's irresistible to certain saltwater fish.\r\n\"How did you know I caught a 50-pound fish last month?\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2054,7 +2054,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait302_name",
           "SourceString": "连竿饵",
-          "LocalizedString": "连竿饵"
+          "LocalizedString": "Streak Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2073,13 +2073,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait302_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：火箭鱼、蓝火箭鱼、绿面神仙鱼、魔鬼炮弹、青占鱼",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：火箭鱼、蓝火箭鱼、绿面神仙鱼、魔鬼炮弹、青占鱼"
+          "LocalizedString": "A processed bait that increases the chance of catching the following saltwater fish: Butterflyfish, Blue Butterflyfish, Greenface Angelfish, Redtoothed Triggerfish, and Chub Mackerel."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait302_desc",
           "SourceString": "据说是可以做到十次提竿九次有鱼的神奇鱼饵，或许不乏夸大其词的嫌疑，但它对钓者的吸引力并不比对鱼儿们的少。\r\n「我要向所有人证明我什么都钓得到，包括鱼。」",
-          "LocalizedString": "据说是可以做到十次提竿九次有鱼的神奇鱼饵，或许不乏夸大其词的嫌疑，但它对钓者的吸引力并不比对鱼儿们的少。\r\n「我要向所有人证明我什么都钓得到，包括鱼。」"
+          "LocalizedString": "A legendary bait said to hook a fish nine times out of ten. While this claim might be a bit exaggerated, its appeal to anglers is no less than its appeal to the fish themselves.\r\n\"I'll prove to everyone that I can catch anything… including fish.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2174,7 +2174,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait303_name",
           "SourceString": "诱食饵",
-          "LocalizedString": "诱食饵"
+          "LocalizedString": "Aromatic Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2193,13 +2193,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait303_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：皇后神仙鱼、骑士神仙鱼、蔚蓝流光、幽灵炮弹、金青占鱼",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：皇后神仙鱼、骑士神仙鱼、蔚蓝流光、幽灵炮弹、金青占鱼"
+          "LocalizedString": "A processed bait that increases the chance of catching the following saltwater fish: Emperor Angelfish, Knight Angelfish, Blue Surgeonfish, Ghost Triggerfish, and Golden Chub Mackerel."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait303_desc",
           "SourceString": "进一步添加了晒干香料的鱼饵，所散发出的香味有时甚至能让人食指大动，但实际上的味道似乎并没有想象中的那么好。\r\n「敢吃鱼饵的人是很值得佩服的……各种意义上来说。」",
-          "LocalizedString": "进一步添加了晒干香料的鱼饵，所散发出的香味有时甚至能让人食指大动，但实际上的味道似乎并没有想象中的那么好。\r\n「敢吃鱼饵的人是很值得佩服的……各种意义上来说。」"
+          "LocalizedString": "Bait enhanced with dried spices. The aroma it gives off can sometimes be so enticing it makes your mouth water, but the actual taste apparently doesn't live up to the smell.\r\n\"Anyone brave enough to eat fish bait deserves respect… in more ways than one.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2294,7 +2294,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait304_name",
           "SourceString": "十全饵",
-          "LocalizedString": "十全饵"
+          "LocalizedString": "Prime Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2313,13 +2313,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait304_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：黑斑鲽、赤焰海马、紫冠海马",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：黑斑鲽、赤焰海马、紫冠海马"
+          "LocalizedString": "A processed bait that increases the chance of catching the following saltwater fish: Blackspot Flounder, Ember Seahorse, and Violet-Crest Seahorse."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait304_desc",
           "SourceString": "严选鱼类最爱食物排行榜前十，1:1:1:1:1:1:1:1:1:1配置而成。\r\n「绝对的黄金配比，助力您的完美渔生。」",
-          "LocalizedString": "严选鱼类最爱食物排行榜前十，1:1:1:1:1:1:1:1:1:1配置而成。\r\n「绝对的黄金配比，助力您的完美渔生。」"
+          "LocalizedString": "Made from the top 10 foods fish love most, blended in a perfect 1:1:1:1:1:1:1:1:1:1 ratio.\r\n\"The ultimate golden ratio, made to perfect your fishing life.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2406,7 +2406,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait390_name",
           "SourceString": "蜜炼饵",
-          "LocalizedString": "蜜炼饵"
+          "LocalizedString": "Nectar Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2425,13 +2425,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait390_usedesc",
           "SourceString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：蓝鳞旗、红鳞旗、绿鳞旗",
-          "LocalizedString": "经过加工的鱼饵，可以提升钓到以下海水鱼的概率：蓝鳞旗、红鳞旗、绿鳞旗"
+          "LocalizedString": "A processed bait that increases the chance of catching the following saltwater fish: Blue Scales Banner, Red Scales Banner, and Green Scales Banner."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait390_desc",
           "SourceString": "散发着甜腻香气的饵料，很怀疑里面是不是加入了致死量的糖。\r\n「甜食令人心情愉悦，钓鱼也是。」",
-          "LocalizedString": "散发着甜腻香气的饵料，很怀疑里面是不是加入了致死量的糖。\r\n「甜食令人心情愉悦，钓鱼也是。」"
+          "LocalizedString": "Bait with a sweet, cloying aroma. It makes you wonder if someone added a lethal amount of sugar.\r\n\"Sweet things lift the spirit. So does fishing.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2518,7 +2518,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait401_name",
           "SourceString": "丰藻饵",
-          "LocalizedString": "丰藻饵"
+          "LocalizedString": "Seaweed Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2537,13 +2537,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait401_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：刺尾鱼、红刺尾鱼、粉鞍神仙鱼",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：刺尾鱼、红刺尾鱼、粉鞍神仙鱼"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following saltwater fish: Yellow Tang, Red Tang, and Pink Saddleback Angelfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait401_desc",
           "SourceString": "额外增添了海藻和鱼骨粉的鱼饵，价格不菲却非常畅销，有种说法是带有这种鱼饵的船会受到大海的庇佑，后经查证传说的源头来自某个饵料商家。\r\n「上大鱼了！——诶我抄网呢？！」",
-          "LocalizedString": "额外增添了海藻和鱼骨粉的鱼饵，价格不菲却非常畅销，有种说法是带有这种鱼饵的船会受到大海的庇佑，后经查证传说的源头来自某个饵料商家。\r\n「上大鱼了！——诶我抄网呢？！」"
+          "LocalizedString": "Bait enhanced with seaweed and fish bone powder. Despite the hefty price tag, it sells like hotcakes. Legend has it that boats carrying this bait receive the sea's blessing, though further investigation revealed this legend originated from a certain bait merchant.\r\n\"I got a big one! Wait, where's my landing net?!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2630,7 +2630,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait402_name",
           "SourceString": "骨渣饵",
-          "LocalizedString": "骨渣饵"
+          "LocalizedString": "Bone Bit Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2649,13 +2649,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait402_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：红刺尾鱼、马鞍神仙鱼、青斑鱼",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：红刺尾鱼、马鞍神仙鱼、青斑鱼"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following saltwater fish: Red Tang, Majestic Angelfish, and Pink Saddle Angelfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait402_desc",
           "SourceString": "与其他鱼饵相比，原料里含有一些体积较大的酥骨渣，似乎对一些大鱼来说是不可多得的美味佳肴。\r\n「鱼饵越大鱼越大。」",
-          "LocalizedString": "与其他鱼饵相比，原料里含有一些体积较大的酥骨渣，似乎对一些大鱼来说是不可多得的美味佳肴。\r\n「鱼饵越大鱼越大。」"
+          "LocalizedString": "Compared to other baits, the ingredients include larger pieces of crispy bone bits, which seem to be a rare delicacy for bigger fish.\r\n\"Bigger bait, bigger fish.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2742,7 +2742,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait403_name",
           "SourceString": "甘脂饵",
-          "LocalizedString": "甘脂饵"
+          "LocalizedString": "Offal Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2761,13 +2761,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait403_usedesc",
           "SourceString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：蓝斑鱼、鲸头鱼、绀紫鲸头鱼",
-          "LocalizedString": "配比精良的鱼饵，可以提升钓到以下海水鱼的概率：蓝斑鱼、鲸头鱼、绀紫鲸头鱼"
+          "LocalizedString": "A well-formulated bait that increases the chance of catching the following saltwater fish: Blue Starry Dragonet, Whalefish, and Indigo Whalefish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait403_desc",
           "SourceString": "原料中加入了某些动物内脏的鱼饵，腥膻异常，使用时经常会沾染一身不太令人舒适的气味，因此事后请务必做好清洁。\r\n「已经洗了五遍了，这衣服还有救吗……」",
-          "LocalizedString": "原料中加入了某些动物内脏的鱼饵，腥膻异常，使用时经常会沾染一身不太令人舒适的气味，因此事后请务必做好清洁。\r\n「已经洗了五遍了，这衣服还有救吗……」"
+          "LocalizedString": "Bait made with certain animal organs mixed into the ingredients. It has an extremely pungent, gamey smell and will often leave you reeking of an unpleasant odor after use, so be sure to clean up thoroughly afterwards.\r\n\"I've washed this five times already. I think they're done…\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2854,7 +2854,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait404_name",
           "SourceString": "浮光饵",
-          "LocalizedString": "浮光饵"
+          "LocalizedString": "Gleam Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2873,13 +2873,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait404_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：海星、星斑鱼、银光海龙",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：海星、星斑鱼、银光海龙"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Starfish, Astral Spotfin, and Silvershine Pipefish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait404_desc",
           "SourceString": "在水下会发出微光的鱼饵，用以模拟游鱼在水下游动的姿态，很考验持杆者的微操水平。\n「浮光跃金，静影沉璧。」",
-          "LocalizedString": "在水下会发出微光的鱼饵，用以模拟游鱼在水下游动的姿态，很考验持杆者的微操水平。\n「浮光跃金，静影沉璧。」"
+          "LocalizedString": "Bait that glows faintly underwater, mimicking fish as they swim beneath the surface. It requires a steady hand.\n\"Glittering light dances over gold; still shadows sink into jade.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2966,7 +2966,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait405_name",
           "SourceString": "幽兰饵",
-          "LocalizedString": "幽兰饵"
+          "LocalizedString": "Orchid Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -2985,13 +2985,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait405_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：金梭子、海中栗、黄刺尾鱼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：金梭子、海中栗、黄刺尾鱼"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Gilded Dart, Brine Chestnut, and Golden Tang."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait405_desc",
           "SourceString": "抛弃传统香辛料选择，采用幽兰为主料，此刻钓鱼钓的是心境。\r\n「渔乃心声，非关人事，如空谷幽兰，不求赏识，乃足为渔。」",
-          "LocalizedString": "抛弃传统香辛料选择，采用幽兰为主料，此刻钓鱼钓的是心境。\r\n「渔乃心声，非关人事，如空谷幽兰，不求赏识，乃足为渔。」"
+          "LocalizedString": "Made with orchid instead of traditional spices, this bait turns fishing into a state of mind.\r\n\"Fishing is the voice of the heart, free from worldly concerns. Like an orchid in an empty valley, it seeks no praise, and that is enough.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -3078,7 +3078,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait501_name",
           "SourceString": "金髓饵",
-          "LocalizedString": "金髓饵"
+          "LocalizedString": "Golden Marrow Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -3097,13 +3097,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait501_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：紫后神仙鱼、青后神仙鱼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：紫后神仙鱼、青后神仙鱼"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Purple Queen Angelfish and Cyan Queen Angelfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait501_desc",
           "SourceString": "由新鲜鱼糜混合秘制香料制作而成的钓鱼香津，连历经风浪的老渔民都坚信，世界上没有任何一条鱼可以抵挡它的喷香美味。\r\n「从现在开始，不是我想要的鱼，直接放生。」",
-          "LocalizedString": "由新鲜鱼糜混合秘制香料制作而成的钓鱼香津，连历经风浪的老渔民都坚信，世界上没有任何一条鱼可以抵挡它的喷香美味。\r\n「从现在开始，不是我想要的鱼，直接放生。」"
+          "LocalizedString": "A fishing delicacy made from fresh fish paste mixed with secret spices. Even weathered old fishermen swear that no fish in the world can resist its savory aroma.\r\n\"From now on, if it's not the fish I want, I'm throwing it back.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -3186,7 +3186,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait502_name",
           "SourceString": "沉香饵",
-          "LocalizedString": "沉香饵"
+          "LocalizedString": "Agarwood Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -3205,13 +3205,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait502_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：赤火神仙鱼、落日波纹",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：赤火神仙鱼、落日波纹"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Flame Angelfish and Bariene Surgeonfish."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait502_desc",
           "SourceString": "只看名字就知道价值不菲的鱼饵，其中含有颇为珍贵的香精，相当适合作为礼物送给爱好钓鱼的人。\r\n「都用上沉香饵了，再钓不到鱼一定是我的问题。」",
-          "LocalizedString": "只看名字就知道价值不菲的鱼饵，其中含有颇为珍贵的香精，相当适合作为礼物送给爱好钓鱼的人。\r\n「都用上沉香饵了，再钓不到鱼一定是我的问题。」"
+          "LocalizedString": "A bait whose name alone tells you it's worth a fortune. It contains precious fragrant essences and makes an excellent gift for fishing enthusiasts.\r\n\"If I still can't catch anything with Agarwood Bait, it's definitely my fault.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -3294,7 +3294,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait503_name",
           "SourceString": "玉引饵",
-          "LocalizedString": "玉引饵"
+          "LocalizedString": "Jade Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -3313,13 +3313,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait503_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：剧毒狮子鱼、骨鲷",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：剧毒狮子鱼、骨鲷"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Venomous Lionfish and Brocade Perch."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait503_desc",
           "SourceString": "工艺复杂，用料繁多的的高端饵料，除了贵几乎没有缺点，能否找到它的平替是钓者圈子中一直以来讨论颇多的话题，但用过的人都知道有些东西贵自然有贵的道理。\r\n「老兄，我敢打赌连竿饵能达到它差不多70%的效果。」",
-          "LocalizedString": "工艺复杂，用料繁多的的高端饵料，除了贵几乎没有缺点，能否找到它的平替是钓者圈子中一直以来讨论颇多的话题，但用过的人都知道有些东西贵自然有贵的道理。\r\n「老兄，我敢打赌连竿饵能达到它差不多70%的效果。」"
+          "LocalizedString": "A high-end bait with intricate craftsmanship and a complex blend of ingredients. Its only flaw is the price. Finding a budget alternative has been a hot topic among anglers, but anyone who's used it knows that some things are expensive for a reason.\r\n\"Dude, I bet Streak Bait can get you about 70% of the same results.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -3402,7 +3402,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait504_name",
           "SourceString": "流霞饵",
-          "LocalizedString": "流霞饵"
+          "LocalizedString": "Duskglow Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -3421,13 +3421,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait504_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：条纹椰、黑夜蝠鲼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：条纹椰、黑夜蝠鲼"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Coco Stripe and Midnight Ray."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait504_desc",
           "SourceString": "当鱼饵入水时会飘散开来，如同夕阳斜照，流霞映江，因而得名。\n「此刻，鱼饵不再是鱼饵，是凝聚着制作者心血的艺术品，至于钓上来的是不是鱼……」",
-          "LocalizedString": "当鱼饵入水时会飘散开来，如同夕阳斜照，流霞映江，因而得名。\n「此刻，鱼饵不再是鱼饵，是凝聚着制作者心血的艺术品，至于钓上来的是不是鱼……」"
+          "LocalizedString": "When this bait enters the water, it scatters like sunset light and rosy clouds reflected on the river, hence its name.\n\"In this moment, bait is no longer merely bait. It is a work of art filled with its maker's devotion. As for whether it actually catches fish…\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -3510,7 +3510,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait505_name",
           "SourceString": "愿者上钩饵",
-          "LocalizedString": "愿者上钩饵"
+          "LocalizedString": "Surebite Bait"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -3529,13 +3529,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait505_usedesc",
           "SourceString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：绿鹦嘴鱼、黄鳍金枪鱼",
-          "LocalizedString": "造价高昂的鱼饵，可以提升钓到以下海水鱼的概率：绿鹦嘴鱼、黄鳍金枪鱼"
+          "LocalizedString": "An expensive bait that increases the chance of catching the following saltwater fish: Green Parrotfish and Yellowfin Tuna."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "SeaFishBait505_desc",
           "SourceString": "总之就是能钓到大鱼的绝世鱼饵，多了不说了，一口价，有心的人自会得到。\r\n「真正的钓客钓的不只是鱼。」",
-          "LocalizedString": "总之就是能钓到大鱼的绝世鱼饵，多了不说了，一口价，有心的人自会得到。\r\n「真正的钓客钓的不只是鱼。」"
+          "LocalizedString": "Simply put, this is peerless bait among all baits—perfect for landing big fish. One price only, take it or leave it—those who know, know.\r\n\"The ultimate bait, the ultimate catch.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],

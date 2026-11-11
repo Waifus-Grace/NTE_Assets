@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_1_1",
           "SourceString": "我需要这件拍品。",
-          "LocalizedString": "我需要这件拍品。"
+          "LocalizedString": "I need this auction item."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_1_1_f'",
@@ -37,7 +37,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_1_2",
           "SourceString": "还在预算范围内。",
-          "LocalizedString": "还在预算范围内。"
+          "LocalizedString": "Still within budget."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_1_2_f'",
@@ -56,7 +56,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_1_3",
           "SourceString": "要向店长预支工资吗……",
-          "LocalizedString": "要向店长预支工资吗……"
+          "LocalizedString": "Should I ask the shop owner for an advance…?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_1_3_f'",
@@ -75,7 +75,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_1_4",
           "SourceString": "要多接几份委托了。",
-          "LocalizedString": "要多接几份委托了。"
+          "LocalizedString": "I need to take on more commissions."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_1_4_f'",
@@ -94,7 +94,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_1_5",
           "SourceString": "这件拍品值得这个价。",
-          "LocalizedString": "这件拍品值得这个价。"
+          "LocalizedString": "This auction item is worth the price."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_1_5_f'",
@@ -113,7 +113,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_1",
           "SourceString": "这个数，足够了吧。",
-          "LocalizedString": "这个数，足够了吧。"
+          "LocalizedString": "This amount should be enough."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_1'",
@@ -129,7 +129,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_2",
           "SourceString": "今晚全场的消费由本公子买单。",
-          "LocalizedString": "今晚全场的消费由本公子买单。"
+          "LocalizedString": "I'll be covering everyone's tab tonight."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_2'",
@@ -145,7 +145,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_3",
           "SourceString": "这样东西，一定得拍下！",
-          "LocalizedString": "这样东西，一定得拍下！"
+          "LocalizedString": "I have to win this bid!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_3'",
@@ -161,7 +161,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_4",
           "SourceString": "洒洒水啦~",
-          "LocalizedString": "洒洒水啦~"
+          "LocalizedString": "It's no big deal!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_4'",
@@ -177,7 +177,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_5",
           "SourceString": "哦？事情有意思起来了。",
-          "LocalizedString": "哦？事情有意思起来了。"
+          "LocalizedString": "Oh? Things are getting interesting."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_5'",
@@ -193,7 +193,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_6",
           "SourceString": "都是些小打小闹的，我没兴趣了。",
-          "LocalizedString": "都是些小打小闹的，我没兴趣了。"
+          "LocalizedString": "It's all small-time stuff. I'm not interested anymore."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_6'",
@@ -209,7 +209,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_2_7",
           "SourceString": "行吧行吧，本公子今天高抬贵手。",
-          "LocalizedString": "行吧行吧，本公子今天高抬贵手。"
+          "LocalizedString": "Fine, fine. I'll be generous and let it slide this time."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_2_7'",
@@ -225,7 +225,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_1",
           "SourceString": "（声音中包含了三分讥笑）",
-          "LocalizedString": "（声音中包含了三分讥笑）"
+          "LocalizedString": "(with a somewhat sneering tone)"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_1'",
@@ -241,7 +241,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_2",
           "SourceString": "（声音中包含了三分凉薄）",
-          "LocalizedString": "（声音中包含了三分凉薄）"
+          "LocalizedString": "(with a somewhat aloof tone)"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_2'",
@@ -257,7 +257,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_3",
           "SourceString": "（声音中包含了三分漫不经心）",
-          "LocalizedString": "（声音中包含了三分漫不经心）"
+          "LocalizedString": "(with a somewhat nonchalant tone)"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_3'",
@@ -273,7 +273,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_4",
           "SourceString": "（声音中包含了三分不屑）",
-          "LocalizedString": "（声音中包含了三分不屑）"
+          "LocalizedString": "(with a somewhat contemptuous tone)"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_4'",
@@ -289,7 +289,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_5",
           "SourceString": "（声音中包含了三分满不在乎）",
-          "LocalizedString": "（声音中包含了三分满不在乎）"
+          "LocalizedString": "(with a somewhat indifferent tone)"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_5'",
@@ -305,7 +305,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_6",
           "SourceString": "哼\r\n（声音中包含了三分释然）",
-          "LocalizedString": "哼\r\n（声音中包含了三分释然）"
+          "LocalizedString": "Hmph\r\n (with a somewhat relieved tone)."
         },
         "BidVoice": null,
         "MaleBidVoice": null,
@@ -318,7 +318,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_3_7",
           "SourceString": "哼\r\n（声音中包含了三分无所谓）",
-          "LocalizedString": "哼\r\n（声音中包含了三分无所谓）"
+          "LocalizedString": "Hmph\r\n (with a somewhat dismissive tone)."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_3_7'",
@@ -334,7 +334,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_1",
           "SourceString": "计算中，价格合理。",
-          "LocalizedString": "计算中，价格合理。"
+          "LocalizedString": "Calculating… A reasonable price."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_1'",
@@ -350,7 +350,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_2",
           "SourceString": "仍在预估范围内，可加价。",
-          "LocalizedString": "仍在预估范围内，可加价。"
+          "LocalizedString": "Still within estimated range. Go higher."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_2'",
@@ -366,7 +366,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_3",
           "SourceString": "二次确认。",
-          "LocalizedString": "二次确认。"
+          "LocalizedString": "Double-checking."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_3'",
@@ -382,7 +382,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_4",
           "SourceString": "启用备选方案。",
-          "LocalizedString": "启用备选方案。"
+          "LocalizedString": "Initiating backup plan."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_4'",
@@ -398,7 +398,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_5",
           "SourceString": "获得拍品概率符合预期。",
-          "LocalizedString": "获得拍品概率符合预期。"
+          "LocalizedString": "The odds of winning the bid are about expected."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_5'",
@@ -414,7 +414,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_6",
           "SourceString": "超出最值，放弃竞价。",
-          "LocalizedString": "超出最值，放弃竞价。"
+          "LocalizedString": "Exceeds maximum budget. Abandoning bid."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_6'",
@@ -430,7 +430,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_4_7",
           "SourceString": "资金重新分配中……放弃竞价。",
-          "LocalizedString": "资金重新分配中……放弃竞价。"
+          "LocalizedString": "Reallocating funds… abandoning bid."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_4_7'",
@@ -446,7 +446,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_1",
           "SourceString": "就决定是你了。",
-          "LocalizedString": "就决定是你了。"
+          "LocalizedString": "I choose you."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_1'",
@@ -462,7 +462,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_2",
           "SourceString": "相信我们之间的羁绊！",
-          "LocalizedString": "相信我们之间的羁绊！"
+          "LocalizedString": "I believe in our bond!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_2'",
@@ -478,7 +478,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_3",
           "SourceString": "这就是友情的力量！",
-          "LocalizedString": "这就是友情的力量！"
+          "LocalizedString": "This is the power of friendship!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_3'",
@@ -494,7 +494,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_4",
           "SourceString": "这个价格绝对会赢的！",
-          "LocalizedString": "这个价格绝对会赢的！"
+          "LocalizedString": "This bid will definitely win!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_4'",
@@ -510,7 +510,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_5",
           "SourceString": "这次压上所有的荣誉！",
-          "LocalizedString": "这次压上所有的荣誉！"
+          "LocalizedString": "I'm putting my honor on the line!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_5'",
@@ -526,7 +526,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_6",
           "SourceString": "果然还是做不到吗……",
-          "LocalizedString": "果然还是做不到吗……"
+          "LocalizedString": "So I still couldn't do it…"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_6'",
@@ -542,7 +542,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_5_7",
           "SourceString": "还是无法战胜吗……",
-          "LocalizedString": "还是无法战胜吗……"
+          "LocalizedString": "I still couldn't win…?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_5_7'",
@@ -558,7 +558,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_1",
           "SourceString": "就当给喵喵买个玩具。",
-          "LocalizedString": "就当给喵喵买个玩具。"
+          "LocalizedString": "I'll consider this a new toy for my Meow-meow."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_1'",
@@ -574,7 +574,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_2",
           "SourceString": "不过一包口粮的钱。",
-          "LocalizedString": "不过一包口粮的钱。"
+          "LocalizedString": "It's but the cost of one meal."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_2'",
@@ -590,7 +590,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_3",
           "SourceString": "新玩意，喵喵说不定感兴趣。",
-          "LocalizedString": "新玩意，喵喵说不定感兴趣。"
+          "LocalizedString": "Meow-meow might be interested in this new thing."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_3'",
@@ -606,7 +606,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_4",
           "SourceString": "为了喵喵还要更努力一些。",
-          "LocalizedString": "为了喵喵还要更努力一些。"
+          "LocalizedString": "I need to work harder for my Meow-meow."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_4'",
@@ -622,7 +622,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_5",
           "SourceString": "和喵喵的新造型很配呢。",
-          "LocalizedString": "和喵喵的新造型很配呢。"
+          "LocalizedString": "This will go nicely with Meow-meow's new look."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_5'",
@@ -638,7 +638,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_6",
           "SourceString": "算了，喵喵说不喜欢这个。",
-          "LocalizedString": "算了，喵喵说不喜欢这个。"
+          "LocalizedString": "Forget it. Meow-meow doesn't like this."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_6'",
@@ -654,7 +654,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_6_7",
           "SourceString": "唉，喵喵只是一只小狗罢了。",
-          "LocalizedString": "唉，喵喵只是一只小狗罢了。"
+          "LocalizedString": "Alas, Meow-meow is just a puppy."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_6_7'",
@@ -670,7 +670,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_1",
           "SourceString": "压上下个月的零花钱。",
-          "LocalizedString": "压上下个月的零花钱。"
+          "LocalizedString": "I'm staking next month's allowance on this."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_1'",
@@ -686,7 +686,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_2",
           "SourceString": "对不起了绘莉老婆。",
-          "LocalizedString": "对不起了绘莉老婆。"
+          "LocalizedString": "Sorry about this, my dear Ellie."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_2'",
@@ -702,7 +702,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_3",
           "SourceString": "这张卡里还有点……",
-          "LocalizedString": "这张卡里还有点……"
+          "LocalizedString": "There are remaining points in this card…"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_3'",
@@ -718,7 +718,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_4",
           "SourceString": "拜托拜托给我吧！",
-          "LocalizedString": "拜托拜托给我吧！"
+          "LocalizedString": "Please, please give it to me!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_4'",
@@ -734,7 +734,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_5",
           "SourceString": "……已经是极限了。",
-          "LocalizedString": "……已经是极限了。"
+          "LocalizedString": "That's my absolute limit…"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_5'",
@@ -750,7 +750,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_6",
           "SourceString": "拼尽全力还是不够吗……",
-          "LocalizedString": "拼尽全力还是不够吗……"
+          "LocalizedString": "Even giving it all wasn't enough…?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_6'",
@@ -766,7 +766,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_7_7",
           "SourceString": "可恶偏偏昨天补了尾款。",
-          "LocalizedString": "可恶偏偏昨天补了尾款。"
+          "LocalizedString": "Damn it, I just paid off the balance yesterday."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_7_7'",
@@ -782,7 +782,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_1",
           "SourceString": "这样东西大人势在必得。",
-          "LocalizedString": "这样东西大人势在必得。"
+          "LocalizedString": "My master must win this bid."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_1'",
@@ -798,7 +798,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_2",
           "SourceString": "献给那位大人的东西不可疏漏。",
-          "LocalizedString": "献给那位大人的东西不可疏漏。"
+          "LocalizedString": "Nothing can be overlooked when preparing offerings for the master."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_2'",
@@ -814,7 +814,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_3",
           "SourceString": "在场的各位可收手了。",
-          "LocalizedString": "在场的各位可收手了。"
+          "LocalizedString": "Everyone here needs to back off now."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_3'",
@@ -830,7 +830,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_4",
           "SourceString": "计划不可更改。",
-          "LocalizedString": "计划不可更改。"
+          "LocalizedString": "The plan is set in stone."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_4'",
@@ -846,7 +846,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_5",
           "SourceString": "一切都是为了……",
-          "LocalizedString": "一切都是为了……"
+          "LocalizedString": "It's all for the sake of…"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_5'",
@@ -862,7 +862,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_6",
           "SourceString": "……去找更好的替代品吧。",
-          "LocalizedString": "……去找更好的替代品吧。"
+          "LocalizedString": "I'll… look for a better alternative."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_6'",
@@ -878,7 +878,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_8_7",
           "SourceString": "联系拍卖方。",
-          "LocalizedString": "联系拍卖方。"
+          "LocalizedString": "Contacting the auction house."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_8_7'",
@@ -894,7 +894,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_1",
           "SourceString": "合理的价格。",
-          "LocalizedString": "合理的价格。"
+          "LocalizedString": "A reasonable price."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_1'",
@@ -910,7 +910,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_2",
           "SourceString": "还能商量。",
-          "LocalizedString": "还能商量。"
+          "LocalizedString": "We can still negotiate."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_2'",
@@ -926,7 +926,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_3",
           "SourceString": "竞价是正常的商业行为。",
-          "LocalizedString": "竞价是正常的商业行为。"
+          "LocalizedString": "Bidding is a normal part of business."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_3'",
@@ -942,7 +942,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_4",
           "SourceString": "稍微有点超预算了。",
-          "LocalizedString": "稍微有点超预算了。"
+          "LocalizedString": "This is slightly over my budget."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_4'",
@@ -958,7 +958,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_5",
           "SourceString": "我加价其余随意。",
-          "LocalizedString": "我加价其余随意。"
+          "LocalizedString": "I'm raising the bid. The rest is your call."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_5'",
@@ -974,7 +974,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_6",
           "SourceString": "技不如人，我放弃。",
-          "LocalizedString": "技不如人，我放弃。"
+          "LocalizedString": "I admit defeat. I give up."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_6'",
@@ -990,7 +990,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_9_7",
           "SourceString": "就到这里吧，我放弃。",
-          "LocalizedString": "就到这里吧，我放弃。"
+          "LocalizedString": "This is where I draw the line. I'm out."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_9_7'",
@@ -1006,7 +1006,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_1",
           "SourceString": "跟。",
-          "LocalizedString": "跟。"
+          "LocalizedString": "Call."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_1'",
@@ -1022,7 +1022,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_2",
           "SourceString": "继续。",
-          "LocalizedString": "继续。"
+          "LocalizedString": "Keep going."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_2'",
@@ -1038,7 +1038,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_3",
           "SourceString": "再加。",
-          "LocalizedString": "再加。"
+          "LocalizedString": "Raise."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_3'",
@@ -1054,7 +1054,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_4",
           "SourceString": "有了。",
-          "LocalizedString": "有了。"
+          "LocalizedString": "Got it."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_4'",
@@ -1070,7 +1070,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_5",
           "SourceString": "确认。",
-          "LocalizedString": "确认。"
+          "LocalizedString": "Confirm."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_5'",
@@ -1086,7 +1086,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_6",
           "SourceString": "过。",
-          "LocalizedString": "过。"
+          "LocalizedString": "Pass."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_6'",
@@ -1102,7 +1102,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_10_7",
           "SourceString": "放弃。",
-          "LocalizedString": "放弃。"
+          "LocalizedString": "Fold."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_10_7'",
@@ -1118,7 +1118,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_1",
           "SourceString": "它真漂亮。",
-          "LocalizedString": "它真漂亮。"
+          "LocalizedString": "It's gorgeous."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_1'",
@@ -1134,7 +1134,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_2",
           "SourceString": "珍品值得优待。",
-          "LocalizedString": "珍品值得优待。"
+          "LocalizedString": "Precious items deserve special treatment."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_2'",
@@ -1150,7 +1150,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_3",
           "SourceString": "我要为你专门准备一个保险箱。",
-          "LocalizedString": "我要为你专门准备一个保险箱。"
+          "LocalizedString": "I'll prepare a dedicated safe for you."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_3'",
@@ -1166,7 +1166,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_4",
           "SourceString": "跟我回家吧。",
-          "LocalizedString": "跟我回家吧。"
+          "LocalizedString": "Come home with me."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_4'",
@@ -1182,7 +1182,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_5",
           "SourceString": "这个价格才配得上它。",
-          "LocalizedString": "这个价格才配得上它。"
+          "LocalizedString": "Now that's a price worthy of it."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_5'",
@@ -1198,7 +1198,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_6",
           "SourceString": "艺术无价。",
-          "LocalizedString": "艺术无价。"
+          "LocalizedString": "Art is priceless."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_6'",
@@ -1214,7 +1214,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_11_7",
           "SourceString": "缺了点缘分呢。",
-          "LocalizedString": "缺了点缘分呢。"
+          "LocalizedString": "Just wasn't meant to be."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_11_7'",
@@ -1230,7 +1230,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_1",
           "SourceString": "算我请的。",
-          "LocalizedString": "算我请的。"
+          "LocalizedString": "My treat."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_1'",
@@ -1246,7 +1246,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_2",
           "SourceString": "这一局到我。",
-          "LocalizedString": "这一局到我。"
+          "LocalizedString": "This round is mine."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_2'",
@@ -1262,7 +1262,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_3",
           "SourceString": "让游戏更精彩一些。",
-          "LocalizedString": "让游戏更精彩一些。"
+          "LocalizedString": "Let's make this more interesting."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_3'",
@@ -1278,7 +1278,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_4",
           "SourceString": "有点陪伴感如何？",
-          "LocalizedString": "有点陪伴感如何？"
+          "LocalizedString": "How about some company?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_4'",
@@ -1294,7 +1294,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_5",
           "SourceString": "再支持一回。",
-          "LocalizedString": "再支持一回。"
+          "LocalizedString": "Give it another shot."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_5'",
@@ -1310,7 +1310,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_6",
           "SourceString": "下一件或许更好。",
-          "LocalizedString": "下一件或许更好。"
+          "LocalizedString": "The next one might be better."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_6'",
@@ -1326,7 +1326,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_12_7",
           "SourceString": "预算没带够啊。",
-          "LocalizedString": "预算没带够啊。"
+          "LocalizedString": "Didn't bring enough funds."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_12_7'",
@@ -1342,7 +1342,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_1",
           "SourceString": "添点彩头。",
-          "LocalizedString": "添点彩头。"
+          "LocalizedString": "Add some stakes."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_1'",
@@ -1358,7 +1358,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_2",
           "SourceString": "不错不错。",
-          "LocalizedString": "不错不错。"
+          "LocalizedString": "Not bad, not bad."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_2'",
@@ -1374,7 +1374,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_3",
           "SourceString": "让游戏更精彩一些。",
-          "LocalizedString": "让游戏更精彩一些。"
+          "LocalizedString": "Let's make this more interesting."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_3'",
@@ -1390,7 +1390,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_4",
           "SourceString": "好机会！",
-          "LocalizedString": "好机会！"
+          "LocalizedString": "Great opportunity!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_4'",
@@ -1406,7 +1406,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_5",
           "SourceString": "再来再来！",
-          "LocalizedString": "再来再来！"
+          "LocalizedString": "Let's go again!"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_5'",
@@ -1422,7 +1422,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_6",
           "SourceString": "休息时间。",
-          "LocalizedString": "休息时间。"
+          "LocalizedString": "Break time."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_6'",
@@ -1438,7 +1438,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionChat_13_7",
           "SourceString": "就到这里吧。",
-          "LocalizedString": "就到这里吧。"
+          "LocalizedString": "That's all for now."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionChat_13_7'",
@@ -1454,7 +1454,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionDetail_5",
           "SourceString": "这件拍品属于您",
-          "LocalizedString": "这件拍品属于您"
+          "LocalizedString": "This item is yours."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionDetail_5'",
@@ -1470,7 +1470,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionDetail_3_2",
           "SourceString": "，有人愿意出更高的价格吗？",
-          "LocalizedString": "，有人愿意出更高的价格吗？"
+          "LocalizedString": "Is anyone willing to go higher?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionDetail_3_2'",
@@ -1486,7 +1486,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionDetail_4_2",
           "SourceString": "，这件拍品有很高的升值空间。",
-          "LocalizedString": "，这件拍品有很高的升值空间。"
+          "LocalizedString": "This auction item has great investment value."
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionDetail_4_2'",
@@ -1502,7 +1502,7 @@
           "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
           "Key": "AuctionDetail_5_3",
           "SourceString": "，还有人感兴趣吗？",
-          "LocalizedString": "，还有人感兴趣吗？"
+          "LocalizedString": "Anyone else interested?"
         },
         "BidVoice": {
           "ObjectName": "AkAudioEvent'Play_Vo_AuctionDetail_5_3'",

@@ -18,7 +18,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "HPMax",
           "SourceString": "生命值",
-          "LocalizedString": "生命值"
+          "LocalizedString": "HP"
         },
         "Value": 100,
         "Addition": 2.0,
@@ -30,7 +30,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Def",
           "SourceString": "防御力",
-          "LocalizedString": "防御力"
+          "LocalizedString": "DEF"
         },
         "Value": 200,
         "Addition": 4.0,
@@ -42,7 +42,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 300,
         "Addition": 6.0,
@@ -54,7 +54,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 400,
         "Addition": 8.0,
@@ -66,7 +66,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 500,
         "Addition": 10.0,
@@ -78,7 +78,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 600,
         "Addition": 12.0,
@@ -90,7 +90,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 700,
         "Addition": 14.0,
@@ -102,7 +102,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 800,
         "Addition": 16.0,
@@ -114,7 +114,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 900,
         "Addition": 18.0,
@@ -126,7 +126,7 @@
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DefUp",
           "SourceString": "防御力百分比",
-          "LocalizedString": "防御力百分比"
+          "LocalizedString": "DEF Bonus"
         },
         "Value": 1000,
         "Addition": 20.0,

@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star1_name",
               "SourceString": "唷 队长！",
-              "LocalizedString": "唷 队长！"
+              "LocalizedString": "Yo, Captain!"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_1.1033_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star1_des",
               "SourceString": "「判予秋」期间，触发「噤」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>4</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。",
-              "LocalizedString": "「判予秋」期间，触发「噤」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>4</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。"
+              "LocalizedString": "Increases Baicang's next Skill's damage by <NumGreen>30%</> when Silence triggers during Judgment of Autumn. Effect stacks. Reduces Baicang's Skill cooldown by <NumGreen>4s</> when Objurgate triggers. Effect stacks (applies to the next use if no Skill is on cooldown)."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star2_name",
               "SourceString": "招魂幡",
-              "LocalizedString": "招魂幡"
+              "LocalizedString": "Soul Caller"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_2.1033_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star2_des",
               "SourceString": "与那座山峦一样，层层叠叠。每生成任意<NumGreen>1</>个言灵字，白藏的攻击力将提升<NumGreen>6%</>，效果最多叠加<NumGreen>4</>层，每层持续时间<NumGreen>10</>秒。",
-              "LocalizedString": "与那座山峦一样，层层叠叠。每生成任意<NumGreen>1</>个言灵字，白藏的攻击力将提升<NumGreen>6%</>，效果最多叠加<NumGreen>4</>层，每层持续时间<NumGreen>10</>秒。"
+              "LocalizedString": "Like those mountain ranges, layer upon layer. Every <NumGreen>1</> Power Word generated increases Baicang's ATK by <NumGreen>6%</>, up to <NumGreen>4</> stacks. Each stack lasts <NumGreen>10s</>."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star3_name",
               "SourceString": "恶诅不过一开口",
-              "LocalizedString": "恶诅不过一开口"
+              "LocalizedString": "Curses Spoken Into Being"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_3.1033_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star3_des",
               "SourceString": "生成言灵字的上限提升至<NumGreen>4</>个。",
-              "LocalizedString": "生成言灵字的上限提升至<NumGreen>4</>个。"
+              "LocalizedString": "Increases Power Word generation limit to <NumGreen>4</>."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star4_name",
               "SourceString": "亦或是祝祷",
-              "LocalizedString": "亦或是祝祷"
+              "LocalizedString": "Or Perhaps Blessings"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_4.1033_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star4_des",
               "SourceString": "「判予秋」期间，当任意<NumGreen>1</>个言灵字被触发时，白藏额外恢复<NumGreen>5%</>的最大生命值。",
-              "LocalizedString": "「判予秋」期间，当任意<NumGreen>1</>个言灵字被触发时，白藏额外恢复<NumGreen>5%</>的最大生命值。"
+              "LocalizedString": "Restores an additional <NumGreen>5%</> of Max HP when any <NumGreen>1</> Power Word triggers during Judgment of Autumn."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star5_name",
               "SourceString": "敬此月色",
-              "LocalizedString": "敬此月色"
+              "LocalizedString": "In Honor of Moonlight"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_5.1033_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star5_des",
               "SourceString": "尚未结束。「判予秋」的持续时间提升至<NumGreen>16</>秒。",
-              "LocalizedString": "尚未结束。「判予秋」的持续时间提升至<NumGreen>16</>秒。"
+              "LocalizedString": "It's not over yet. Increases the duration of Judgment of Autumn to <NumGreen>16s</>."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star6_name",
               "SourceString": "于五色为白",
-              "LocalizedString": "于五色为白"
+              "LocalizedString": "White Aspect"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1033_6.1033_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star6_des",
               "SourceString": "「判予秋」期间，白藏的暴击率提升<NumGreen>30%</>。",
-              "LocalizedString": "「判予秋」期间，白藏的暴击率提升<NumGreen>30%</>。"
+              "LocalizedString": "Increases Baicang's CRIT Rate by <NumGreen>30%</> during Judgment of Autumn."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra1_name",
               "SourceString": "序属归藏",
-              "LocalizedString": "序属归藏"
+              "LocalizedString": "Earth Sequence"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra1_des",
               "SourceString": "「言行合一」、「不吝赐教」、「判予秋」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「言行合一」、「不吝赐教」、「判予秋」的技能等级提升<NumGreen>1</>级。"
+              "LocalizedString": "Increases the skill levels of Walk the Talk, Generous Guidance, and Judgment of Autumn by <NumGreen>1</>."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra2_name",
               "SourceString": "驻于此处",
-              "LocalizedString": "驻于此处"
+              "LocalizedString": "Remained"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra2_des",
               "SourceString": "偶尔展现队长的庇护力。「判予秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。",
-              "LocalizedString": "偶尔展现队长的庇护力。「判予秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。"
+              "LocalizedString": "Captain, sometimes. Grants all allies within the domain <NumGreen>20%</> ATK and the Execution effect during Judgment of Autumn."
             },
             "GEIdArray": []
           }

@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star1_name",
               "SourceString": "目",
-              "LocalizedString": "目"
+              "LocalizedString": "Eye"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_1.1054_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star1_des",
               "SourceString": "全队角色每次释放援护技时为「变轨技能：同振」提升的伤害值变为<NumGreen>100%</>，倾陷值变为<NumGreen>250%</>。",
-              "LocalizedString": "全队角色每次释放援护技时为「变轨技能：同振」提升的伤害值变为<NumGreen>100%</>，倾陷值变为<NumGreen>250%</>。"
+              "LocalizedString": "Increases Resonance's DMG by 100% and Break by 250% per Support Skill cast."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star2_name",
               "SourceString": "机械游行",
-              "LocalizedString": "机械游行"
+              "LocalizedString": "Mechanical March"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_2.1054_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star2_des",
               "SourceString": "如果未能使用<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillQTE\">「幻影移行」</>成功承轨反击目标，最后一段攻击可对目标造成高额伤害，产生倾陷值，并为「极轨终结：见此终幕」蓄满充能。",
-              "LocalizedString": "如果未能使用<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillQTE\">「幻影移行」</>成功承轨反击目标，最后一段攻击可对目标造成高额伤害，产生倾陷值，并为「极轨终结：见此终幕」蓄满充能。"
+              "LocalizedString": "Deals high damage to the target, generates Break, and fully charges Finale with the final attack if <hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillQTE\">Phantom Step</> fails to Parry Attack the target."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star3_name",
               "SourceString": "造物之众",
-              "LocalizedString": "造物之众"
+              "LocalizedString": "Assembly of Creations"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_3.1054_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star3_des",
               "SourceString": "目标被施加<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>后不再移除（目标死亡/脱战除外），重复施加可叠层，上限<NumGreen>2</>层。",
-              "LocalizedString": "目标被施加<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>后不再移除（目标死亡/脱战除外），重复施加可叠层，上限<NumGreen>2</>层。"
+              "LocalizedString": "目标被施加<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>后不再移除（目标死亡/脱战除外），重复施加可叠层，上限2层。"
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star4_name",
               "SourceString": "于隐匿中",
-              "LocalizedString": "于隐匿中"
+              "LocalizedString": "In Concealment"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_4.1054_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star4_des",
               "SourceString": "如果目标在<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>效果期间进入倾陷，每有1层<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>，达芙蒂尔额外造成的倾陷伤害提升<NumGreen>15%</>。",
-              "LocalizedString": "如果目标在<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>效果期间进入倾陷，每有1层<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>，达芙蒂尔额外造成的倾陷伤害提升<NumGreen>15%</>。"
+              "LocalizedString": "If a target enters Break while under the <hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">Insight</> effect, Daffodill's Break DMG increases by 15% for each stack of <hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">Insight</>."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star5_name",
               "SourceString": "完美真相",
-              "LocalizedString": "完美真相"
+              "LocalizedString": "Perfect Truth"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_5.1054_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star5_des",
               "SourceString": "如果目标在<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>效果期间进入倾陷，每有<NumGreen>1</>层<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>，目标额外受到<NumGreen>1</>次达芙蒂尔造成的倾陷伤害。",
-              "LocalizedString": "如果目标在<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>效果期间进入倾陷，每有<NumGreen>1</>层<hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">「洞察」</>，目标额外受到<NumGreen>1</>次达芙蒂尔造成的倾陷伤害。"
+              "LocalizedString": "Deals 1 additional instance of Break Damage per stack of <hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">Insight</> if the target enters Break while affected by <hot textstyle=\"TextEXPL\" param=\"nouns&DaffodillInsight\">Insight</>."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star6_name",
               "SourceString": "湖心花",
-              "LocalizedString": "湖心花"
+              "LocalizedString": "Bloom in the Lake"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1054_6.1054_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_star6_des",
               "SourceString": "达芙蒂尔造成的所有伤害无视目标<NumGreen>15%</>的防御力。",
-              "LocalizedString": "达芙蒂尔造成的所有伤害无视目标<NumGreen>15%</>的防御力。"
+              "LocalizedString": "Ignores 15% of the target's DEF when dealing damage."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_starExtra1_name",
               "SourceString": "秘密行动",
-              "LocalizedString": "秘密行动"
+              "LocalizedString": "Covert Operation"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_starExtra1_des",
               "SourceString": "「普通攻击：止水」、「变轨技能：同振」、「极轨终结：见此终幕」的技能等级提升1级。",
-              "LocalizedString": "「普通攻击：止水」、「变轨技能：同振」、「极轨终结：见此终幕」的技能等级提升1级。"
+              "LocalizedString": "Increases the skill level of Still Waters, Resonance, and Witness This Finale by 1."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_starExtra2_name",
               "SourceString": "晴光与归所",
-              "LocalizedString": "晴光与归所"
+              "LocalizedString": "Sunlight and Sanctuary"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
               "Key": "GA_daffodill_starExtra2_des",
               "SourceString": "目标处于倾陷时，目标的暗属性抗性降低<NumGreen>15%</>。",
-              "LocalizedString": "目标处于倾陷时，目标的暗属性抗性降低<NumGreen>15%</>。"
+              "LocalizedString": "目标处于倾陷时，目标的暗属性抗性降低15%。"
             },
             "GEIdArray": []
           }

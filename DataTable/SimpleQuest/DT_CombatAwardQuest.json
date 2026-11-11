@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardDailyQuest_01",
           "SourceString": "每日登录1次",
-          "LocalizedString": "每日登录1次"
+          "LocalizedString": "Daily login"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Daily",
@@ -105,7 +105,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardDailyQuest_02",
           "SourceString": "任意消耗本性像素",
-          "LocalizedString": "任意消耗本性像素"
+          "LocalizedString": "Consume Character Pixels"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Daily",
@@ -193,7 +193,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardDailyQuest_03",
           "SourceString": "每日活跃到达100点",
-          "LocalizedString": "每日活跃到达100点"
+          "LocalizedString": "Get 100 Daily Activity Points"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Daily",
@@ -280,7 +280,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardDailyQuest_04",
           "SourceString": "本日获得10000方斯",
-          "LocalizedString": "本日获得10000方斯"
+          "LocalizedString": "Earn 10,000 Fons today"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Daily",
@@ -376,7 +376,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_01",
           "SourceString": "本周消耗720点本性像素",
-          "LocalizedString": "本周消耗720点本性像素"
+          "LocalizedString": "Consume Character Pixel *720 this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -464,7 +464,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_02",
           "SourceString": "本周消耗200点都市活力",
-          "LocalizedString": "本周消耗200点都市活力"
+          "LocalizedString": "Spend 200 City Stamina this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -552,7 +552,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_03",
           "SourceString": "本周赚取300000方斯",
-          "LocalizedString": "本周赚取300000方斯"
+          "LocalizedString": "Earn 300,000 Fons this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -648,7 +648,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_04",
           "SourceString": "本周空幕「倒带」10次",
-          "LocalizedString": "本周空幕「倒带」10次"
+          "LocalizedString": "Complete Console Rewind *10 this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -735,7 +735,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_05",
           "SourceString": "本周通关3次兔子洞",
-          "LocalizedString": "本周通关3次兔子洞"
+          "LocalizedString": "Clear Rabbit Hole *3 this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -825,7 +825,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_06",
           "SourceString": "本周通关2次异象巡礼",
-          "LocalizedString": "本周通关2次异象巡礼"
+          "LocalizedString": "Complete Anomaly Pilgrimage *2 this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -915,7 +915,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_07",
           "SourceString": "本周消耗100000甲硬币",
-          "LocalizedString": "本周消耗100000甲硬币"
+          "LocalizedString": "Spend 100,000 Beetle Coins this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -1011,7 +1011,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardWeeklyQuest_08",
           "SourceString": "本周赠送10次礼物",
-          "LocalizedString": "本周赠送10次礼物"
+          "LocalizedString": "Send 10 gifts this week"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::Weekly",
@@ -1099,7 +1099,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_01",
           "SourceString": "通关正篇-「生意经与招财宝」",
-          "LocalizedString": "通关正篇-「生意经与招财宝」"
+          "LocalizedString": "Complete Episode: Good Business, Better Treasure"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1189,7 +1189,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_02",
           "SourceString": "通关正篇-「成交？成交！」",
-          "LocalizedString": "通关正篇-「成交？成交！」"
+          "LocalizedString": "Complete Episode: Deal? Deal!"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1279,7 +1279,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_03",
           "SourceString": "通关番外-「某传奇乐队（吗？）的第一页」",
-          "LocalizedString": "通关番外-「某传奇乐队（吗？）的第一页」"
+          "LocalizedString": "Complete Spinoff: A Legendary(?) Band's First Page"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1369,7 +1369,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_04",
           "SourceString": "养成4个角色到达50级",
-          "LocalizedString": "养成4个角色到达50级"
+          "LocalizedString": "Reach Level 50 with 4 characters"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1459,7 +1459,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_05",
           "SourceString": "养成4个弧盘到达50级",
-          "LocalizedString": "养成4个弧盘到达50级"
+          "LocalizedString": "Reach Level 50 with Arc *4"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1549,7 +1549,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_06",
           "SourceString": "养成2个空幕「卡带」到达20级",
-          "LocalizedString": "养成2个空幕「卡带」到达20级"
+          "LocalizedString": "Reach Lvl 20 with Console Cartridge *2"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1639,7 +1639,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_07",
           "SourceString": "养成8个空幕「驱动块」到达20级",
-          "LocalizedString": "养成8个空幕「驱动块」到达20级"
+          "LocalizedString": "Reach Lvl 20 with Console Module *2"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1729,7 +1729,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_08",
           "SourceString": "通关「轨外之境-节理环线」第8关",
-          "LocalizedString": "通关「轨外之境-节理环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Fracture Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1818,7 +1818,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1905,7 +1905,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1992,7 +1992,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_01",
           "SourceString": "通关正篇-「游梦洄廊」",
-          "LocalizedString": "通关正篇-「游梦洄廊」"
+          "LocalizedString": "Clear Episode: Dreamwalk Corridor"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2082,7 +2082,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_02",
           "SourceString": "通关异象巡礼「讨债人」3次",
-          "LocalizedString": "通关异象巡礼「讨债人」3次"
+          "LocalizedString": "Clear Anomaly Pilgrimage: Debt Collector 3 times"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2174,7 +2174,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_03",
           "SourceString": "本期累计消耗甲硬币500,000",
-          "LocalizedString": "本期累计消耗甲硬币500,000"
+          "LocalizedString": "Spend a total of 500,000 Beetle Coins during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2270,7 +2270,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_04",
           "SourceString": "本期累计消耗方斯2,000,000",
-          "LocalizedString": "本期累计消耗方斯2,000,000"
+          "LocalizedString": "Spend a total of 2,000,000 Fons during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2366,7 +2366,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_05",
           "SourceString": "养成1个空幕「卡带」到达20级",
-          "LocalizedString": "养成1个空幕「卡带」到达20级"
+          "LocalizedString": "Upgrade 1 Console Cartridges to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2456,7 +2456,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_06",
           "SourceString": "养成4个空幕「驱动块」到达20级",
-          "LocalizedString": "养成4个空幕「驱动块」到达20级"
+          "LocalizedString": "Upgrade 4 Console Modules to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2546,7 +2546,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_07",
           "SourceString": "通关「轨外之境-未明环线」第8关",
-          "LocalizedString": "通关「轨外之境-未明环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Uncharted Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2635,7 +2635,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_08",
           "SourceString": "通关「轨外之境-呼啸环线」第8关",
-          "LocalizedString": "通关「轨外之境-呼啸环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Howling Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2724,7 +2724,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2811,7 +2811,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest2_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2898,7 +2898,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_01",
           "SourceString": "通关正篇-「勇者斗赤龙」",
-          "LocalizedString": "通关正篇-「勇者斗赤龙」"
+          "LocalizedString": "Clear Episode: Fighting with a Dragon"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2988,7 +2988,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_02",
           "SourceString": "累计在「九百九十九夜」中获得10000枚「神秘纽扣」",
-          "LocalizedString": "累计在「九百九十九夜」中获得10000枚「神秘纽扣」"
+          "LocalizedString": "Obtain a total of 10,000 Mystery Buttons in 999 Nights"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3084,7 +3084,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_03",
           "SourceString": "本期累计消耗甲硬币500,000",
-          "LocalizedString": "本期累计消耗甲硬币500,000"
+          "LocalizedString": "Spend a total of 500,000 Beetle Coins during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3180,7 +3180,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_04",
           "SourceString": "本期累计消耗方斯2,000,000",
-          "LocalizedString": "本期累计消耗方斯2,000,000"
+          "LocalizedString": "Spend a total of 2,000,000 Fons during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3276,7 +3276,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_05",
           "SourceString": "养成1个空幕「卡带」到达20级",
-          "LocalizedString": "养成1个空幕「卡带」到达20级"
+          "LocalizedString": "Upgrade 1 Console Cartridge to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3366,7 +3366,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_06",
           "SourceString": "养成4个空幕「驱动块」到达20级",
-          "LocalizedString": "养成4个空幕「驱动块」到达20级"
+          "LocalizedString": "Upgrade 4 Console Modules to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3456,7 +3456,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_07",
           "SourceString": "通关「轨外之境-燎原环线」第8关",
-          "LocalizedString": "通关「轨外之境-燎原环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Blazing Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3545,7 +3545,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_08",
           "SourceString": "通关「轨外之境-浪涌环线」第8关",
-          "LocalizedString": "通关「轨外之境-浪涌环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Cresting Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3634,7 +3634,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3721,7 +3721,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest04_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3808,7 +3808,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_01",
           "SourceString": "通关正篇-「雾巢游戏」",
-          "LocalizedString": "通关正篇-「雾巢游戏」"
+          "LocalizedString": "Clear Episode: Fogden Game"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3898,7 +3898,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_02",
           "SourceString": "将「排球之星」中任意一名角色升至15级",
-          "LocalizedString": "将「排球之星」中任意一名角色升至15级"
+          "LocalizedString": "Reach Level 15 with any character in Volley Star."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -3987,7 +3987,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_03",
           "SourceString": "本期累计消耗甲硬币500,000",
-          "LocalizedString": "本期累计消耗甲硬币500,000"
+          "LocalizedString": "Spend a total of 500,000 Beetle Coins during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4083,7 +4083,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_04",
           "SourceString": "本期累计消耗方斯2,000,000",
-          "LocalizedString": "本期累计消耗方斯2,000,000"
+          "LocalizedString": "Spend a total of 2,000,000 Fons during this season"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4179,7 +4179,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_05",
           "SourceString": "养成1个空幕「卡带」到达20级",
-          "LocalizedString": "养成1个空幕「卡带」到达20级"
+          "LocalizedString": "Upgrade 1 Console Cartridge to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4269,7 +4269,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_06",
           "SourceString": "养成4个空幕「驱动块」到达20级",
-          "LocalizedString": "养成4个空幕「驱动块」到达20级"
+          "LocalizedString": "Upgrade 4 Console Modules to Lvl 20"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4359,7 +4359,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_07",
           "SourceString": "通关「轨外之境-烛天环线」第8关",
-          "LocalizedString": "通关「轨外之境-烛天环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Incandescent Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4448,7 +4448,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_08",
           "SourceString": "通关「轨外之境-幽语环线」第8关",
-          "LocalizedString": "通关「轨外之境-幽语环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Whisper Circle Stage 8"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4537,7 +4537,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4624,7 +4624,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest05_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4711,7 +4711,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_01",
           "SourceString": "通关正篇-「魔女」",
-          "LocalizedString": "通关正篇-「魔女」"
+          "LocalizedString": "Clear Episode: Witch"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4801,7 +4801,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_02",
           "SourceString": "累计在「噗卡乐园」获得10000个「噗卡星票」",
-          "LocalizedString": "累计在「噗卡乐园」获得10000个「噗卡星票」"
+          "LocalizedString": "Earn a total of 10,000 Puka Stars in Pukaland."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4897,7 +4897,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_03",
           "SourceString": "本期累计消耗甲硬币500,000",
-          "LocalizedString": "本期累计消耗甲硬币500,000"
+          "LocalizedString": "Spend a total of 500,000 Beetle Coins during this season."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -4993,7 +4993,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_04",
           "SourceString": "本期累计消耗方斯2,000,000",
-          "LocalizedString": "本期累计消耗方斯2,000,000"
+          "LocalizedString": "Spend a total of 2,000,000 Fons during this season."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5089,7 +5089,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_05",
           "SourceString": "养成1个空幕「卡带」到达20级",
-          "LocalizedString": "养成1个空幕「卡带」到达20级"
+          "LocalizedString": "Upgrade 1 Console Cartridge to Lvl 20."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5179,7 +5179,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_06",
           "SourceString": "养成4个空幕「驱动块」到达20级",
-          "LocalizedString": "养成4个空幕「驱动块」到达20级"
+          "LocalizedString": "Upgrade 4 Console Modules to Lvl 20."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5269,7 +5269,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_07",
           "SourceString": "通关「轨外之境-夕照环线」第8关",
-          "LocalizedString": "通关「轨外之境-夕照环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Sunset Circle Stage 8."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5358,7 +5358,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_08",
           "SourceString": "通关「轨外之境-澄明环线」第8关",
-          "LocalizedString": "通关「轨外之境-澄明环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Lucent Circle Stage 8."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5447,7 +5447,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5534,7 +5534,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest06_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5621,7 +5621,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_01",
           "SourceString": "通关正篇-「空号」",
-          "LocalizedString": "通关正篇-「空号」"
+          "LocalizedString": "Clear Episode: Invalid Number"
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5711,7 +5711,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_02",
           "SourceString": "「物流中心」中通过派遣司机，累计完成10个订单",
-          "LocalizedString": "「物流中心」中通过派遣司机，累计完成10个订单"
+          "LocalizedString": "Complete 10 orders by dispatching drivers from the Logistics Hub."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5802,7 +5802,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_03",
           "SourceString": "本期累计消耗甲硬币500,000",
-          "LocalizedString": "本期累计消耗甲硬币500,000"
+          "LocalizedString": "Spend a total of 500,000 Beetle Coins during this season."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5898,7 +5898,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_04",
           "SourceString": "本期累计消耗方斯2,000,000",
-          "LocalizedString": "本期累计消耗方斯2,000,000"
+          "LocalizedString": "Spend a total of 2,000,000 Fons during this season."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -5994,7 +5994,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_05",
           "SourceString": "养成1个空幕「卡带」到达20级",
-          "LocalizedString": "养成1个空幕「卡带」到达20级"
+          "LocalizedString": "Upgrade 1 Console Cartridge to Lvl 20."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -6084,7 +6084,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_06",
           "SourceString": "养成4个空幕「驱动块」到达20级",
-          "LocalizedString": "养成4个空幕「驱动块」到达20级"
+          "LocalizedString": "Upgrade 4 Console Modules to Lvl 20."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -6174,7 +6174,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_07",
           "SourceString": "通关「轨外之境-霜寒环线」第8关",
-          "LocalizedString": "通关「轨外之境-霜寒环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Frozen Circle Stage 8."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -6263,7 +6263,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_08",
           "SourceString": "通关「轨外之境-云集环线」第8关",
-          "LocalizedString": "通关「轨外之境-云集环线」第8关"
+          "LocalizedString": "Clear Beyond the Rails - Convergence Circle Stage 8."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -6352,7 +6352,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_09",
           "SourceString": "在「斯卡布罗集市」中累计掷骰30次",
-          "LocalizedString": "在「斯卡布罗集市」中累计掷骰30次"
+          "LocalizedString": "Roll Dice 30 times in Scarborough Fair."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -6439,7 +6439,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "CombatAwardOnceQuest07_10",
           "SourceString": "在「奇迹盒盒」中累计开启30次",
-          "LocalizedString": "在「奇迹盒盒」中累计开启30次"
+          "LocalizedString": "Open 30 boxes in Miracle Box."
         },
         "SimpleQuestType": "ESimpleQuestType::CombatAwardQuest",
         "QuestRefreshType": "ESimpleQuestRefresh::None",

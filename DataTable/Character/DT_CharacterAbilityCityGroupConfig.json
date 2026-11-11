@@ -25,7 +25,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_palyer_01_name",
           "SourceString": "五星好人",
-          "LocalizedString": "五星好人"
+          "LocalizedString": "Five-Star Paragon"
         },
         "AbilityCityAttributeArray": [
           {
@@ -42,7 +42,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_palyer_01_lv1",
               "SourceString": "当角色羁遇等级为<Green2>4</>级及以下时，赠送礼物增加的好感值提高<Green2>5%</>。",
-              "LocalizedString": "当角色羁遇等级为<Green2>4</>级及以下时，赠送礼物增加的好感值提高<Green2>5%</>。"
+              "LocalizedString": "Increases Affinity gained from Gifts by <Green2>5%</> when Bond Level is <Green2>4</> or below."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -176,7 +176,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_fadia_02_name",
           "SourceString": "车技不错",
-          "LocalizedString": "车技不错"
+          "LocalizedString": "Good Driving"
         },
         "AbilityCityAttributeArray": [
           {
@@ -193,7 +193,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_fadia_02_lv1",
               "SourceString": "「雨燕出行」中每个订单会额外获得<Green2>1000</>方斯的小费。",
-              "LocalizedString": "「雨燕出行」中每个订单会额外获得<Green2>1000</>方斯的小费。"
+              "LocalizedString": "Grants an additional <Green2>1000</> Fons in tips for each order in Swift Travel."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -217,7 +217,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_fadia_02_lv2",
               "SourceString": "「雨燕出行」中订单最终满意度额外增加<Green2>25</>点。",
-              "LocalizedString": "「雨燕出行」中订单最终满意度额外增加<Green2>25</>点。"
+              "LocalizedString": "In Swift Travel, final satisfaction for orders is increased by an additional <Green2>25</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -241,7 +241,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_fadia_02_lv3",
               "SourceString": "「雨燕出行」中每个订单会额外获得<Green2>1000</>方斯的小费。",
-              "LocalizedString": "「雨燕出行」中每个订单会额外获得<Green2>1000</>方斯的小费。"
+              "LocalizedString": "Grants an additional <Green2>1000</> Fons in tips for each order in Swift Travel."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -265,7 +265,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_fadia_02_lv4",
               "SourceString": "「雨燕出行」中订单最终满意度额外增加<Green2>25</>点。",
-              "LocalizedString": "「雨燕出行」中订单最终满意度额外增加<Green2>25</>点。"
+              "LocalizedString": "In Swift Travel, final satisfaction for orders is increased by an additional <Green2>25</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -289,7 +289,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_fadia_02_lv5",
               "SourceString": "「雨燕出行」中每位客人满意度上限增加<Green2>50</>点。",
-              "LocalizedString": "「雨燕出行」中每位客人满意度上限增加<Green2>50</>点。"
+              "LocalizedString": "In Swift Travel, the satisfaction cap for each customer is increased by <Green2>50</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -317,7 +317,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_melt_01_name",
           "SourceString": "薄荷龙卷风",
-          "LocalizedString": "薄荷龙卷风"
+          "LocalizedString": "Mint Tornado"
         },
         "AbilityCityAttributeArray": [
           {
@@ -334,7 +334,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_melt_01_lv1",
               "SourceString": "薄荷上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "薄荷上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Mint increases dish prices by an additional <Green2>0.12</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -380,7 +380,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_melt_01_lv2",
               "SourceString": "薄荷上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "薄荷上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Mint reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -426,7 +426,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Mint",
               "SourceString": "每次连击，「店长特供」中获得的小费额外提高，最多可提高<Green2>5</>次。",
-              "LocalizedString": "每次连击，「店长特供」中获得的小费额外提高，最多可提高<Green2>5</>次。"
+              "LocalizedString": "In Owner's Selection, tips increase with each combo. Up to <Green2>5</> times per combo."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -470,7 +470,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_melt_01_lv4",
               "SourceString": "薄荷上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "薄荷上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Mint reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -516,7 +516,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_melt_01_lv5",
               "SourceString": "薄荷上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。",
-              "LocalizedString": "薄荷上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。"
+              "LocalizedString": "Mint increases dish prices by an additional <Green2>0.18</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -566,7 +566,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_adler_01_name",
           "SourceString": "咖啡大师",
-          "LocalizedString": "咖啡大师"
+          "LocalizedString": "Coffee Master"
         },
         "AbilityCityAttributeArray": [
           {
@@ -583,7 +583,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_adler_01_lv1",
               "SourceString": "阿德勒上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "阿德勒上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Adler increases dish prices by an additional <Green2>0.12</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -629,7 +629,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_adler_01_lv2",
               "SourceString": "阿德勒上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "阿德勒上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Adler reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -675,7 +675,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Adler",
               "SourceString": "「店长特供」中可自动制作咖啡。",
-              "LocalizedString": "「店长特供」中可自动制作咖啡。"
+              "LocalizedString": "In Owner's Selection, coffee is automatically prepared."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -719,7 +719,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_adler_01_lv4",
               "SourceString": "阿德勒上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "阿德勒上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Adler reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -765,7 +765,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_adler_01_lv5",
               "SourceString": "阿德勒上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。",
-              "LocalizedString": "阿德勒上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。"
+              "LocalizedString": "Adler increases dish prices by an additional <Green2>0.18</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -815,7 +815,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Haniel_01_name",
           "SourceString": "打工能手",
-          "LocalizedString": "打工能手"
+          "LocalizedString": "A Pro on the Job"
         },
         "AbilityCityAttributeArray": [
           {
@@ -832,7 +832,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haniel_02_lv1",
               "SourceString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Haniel increases dish prices by an additional <Green2>0.12</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -878,7 +878,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haniel_02_lv2",
               "SourceString": "哈尼娅上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "哈尼娅上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Haniel reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -924,7 +924,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haniel_02_lv1",
               "SourceString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Haniel increases dish prices by an additional <Green2>0.12</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -970,7 +970,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haniel_02_lv4",
               "SourceString": "哈尼娅上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "哈尼娅上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Haniel reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1016,7 +1016,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haniel_02_lv5",
               "SourceString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。",
-              "LocalizedString": "哈尼娅上阵店铺后菜品售价额外增加<Green2>0.18</>方斯。"
+              "LocalizedString": "Haniel increases dish prices by an additional <Green2>0.18</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1066,7 +1066,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_skia_01_name",
           "SourceString": "中层主管",
-          "LocalizedString": "中层主管"
+          "LocalizedString": "Middle Manager"
         },
         "AbilityCityAttributeArray": [
           {
@@ -1083,7 +1083,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_skia_01_lv1",
               "SourceString": "翳上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "翳上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Skia increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1129,7 +1129,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_skia_01_lv2",
               "SourceString": "翳上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "翳上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Skia reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1175,7 +1175,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Haniel",
               "SourceString": "「店长特供」中客人的耐心度额外提高<Green2>50%</>。",
-              "LocalizedString": "「店长特供」中客人的耐心度额外提高<Green2>50%</>。"
+              "LocalizedString": "In Owner's Selection, customer patience is boosted by <Green2>50%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1219,7 +1219,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_skia_01_lv4",
               "SourceString": "翳上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "翳上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Skia reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1265,7 +1265,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_skia_01_lv5",
               "SourceString": "翳上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "翳上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Skia increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1315,7 +1315,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_jin_01_name",
           "SourceString": "散乱金钱观",
-          "LocalizedString": "散乱金钱观"
+          "LocalizedString": "Money, What It Is"
         },
         "AbilityCityAttributeArray": [
           {
@@ -1332,7 +1332,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Cang",
               "SourceString": "「店长特供」中每次正确提交菜品（非团三郎顾客），本局内菜品售价额外提高，最多可提高<Green2>15</>次。",
-              "LocalizedString": "「店长特供」中每次正确提交菜品（非团三郎顾客），本局内菜品售价额外提高，最多可提高<Green2>15</>次。"
+              "LocalizedString": "In Owner's Selection, each correct dish (excluding Danzaburou) raises prices. Up to <Green2>15</> times per round."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1376,7 +1376,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_01_lv2",
               "SourceString": "浔上阵店铺后菜品基础价格增加<Green2>0.2</>方斯。",
-              "LocalizedString": "浔上阵店铺后菜品基础价格增加<Green2>0.2</>方斯。"
+              "LocalizedString": "Hotori increases dish prices by an additional <Green2>0.2</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -1494,7 +1494,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_01_lv4",
               "SourceString": "浔上阵店铺后菜品吸引力额外增加<Green2>0.2%</>。",
-              "LocalizedString": "浔上阵店铺后菜品吸引力额外增加<Green2>0.2%</>。"
+              "LocalizedString": "Hotori increases dish appeal by an additional <Green2>0.2%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1540,7 +1540,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_01_lv5",
               "SourceString": "浔上阵店铺后上架菜品的标签数每增加<Green2>1</>个，该店的菜品基础价格增加<Green2>0.05</>方斯。",
-              "LocalizedString": "浔上阵店铺后上架菜品的标签数每增加<Green2>1</>个，该店的菜品基础价格增加<Green2>0.05</>方斯。"
+              "LocalizedString": "Hotori increases dish prices by an additional <Green2>0.05</> Fons for <Green2>every</> tag on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1590,7 +1590,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_jin_02_name",
           "SourceString": "寻宝时刻",
-          "LocalizedString": "寻宝时刻"
+          "LocalizedString": "Treasure Hunt"
         },
         "AbilityCityAttributeArray": [
           {
@@ -1607,7 +1607,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_02_lv1",
               "SourceString": "每期拍卖会额外增加<Green2>1</>个拍卖品。",
-              "LocalizedString": "每期拍卖会额外增加<Green2>1</>个拍卖品。"
+              "LocalizedString": "Increases auction items by <Green2>1</> extra per auction."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1631,7 +1631,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_02_lv2",
               "SourceString": "每期拍卖会可额外获得<Green2>1</>次刷新未购买拍卖品的机会。",
-              "LocalizedString": "每期拍卖会可额外获得<Green2>1</>次刷新未购买拍卖品的机会。"
+              "LocalizedString": "Grants <Green2>1</> additional attempt to refresh unpurchased auction items per auction."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1655,7 +1655,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_02_lv3",
               "SourceString": "每期拍卖会额外拍卖品增加至<Green2>2</>个。",
-              "LocalizedString": "每期拍卖会额外拍卖品增加至<Green2>2</>个。"
+              "LocalizedString": "Increases auction items by <Green2>2</> extra per auction."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1679,7 +1679,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_02_lv4",
               "SourceString": "刷新未购买拍卖品的机会变为<Green2>2</>次",
-              "LocalizedString": "刷新未购买拍卖品的机会变为<Green2>2</>次"
+              "LocalizedString": "Sets the number of attempts to refresh unpurchased auction items to <Green2>2</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1703,7 +1703,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_jin_02_lv5",
               "SourceString": "每期拍卖会额外拍卖品增加至<Green2>3</>个。",
-              "LocalizedString": "每期拍卖会额外拍卖品增加至<Green2>3</>个。"
+              "LocalizedString": "Increases auction items by <Green2>3</> extra per auction."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1731,7 +1731,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_lacrimosa_01_name",
           "SourceString": "番茄大厨",
-          "LocalizedString": "番茄大厨"
+          "LocalizedString": "Chef Tomato"
         },
         "AbilityCityAttributeArray": [
           {
@@ -1748,7 +1748,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_01_lv1",
               "SourceString": "安魂曲上阵店铺后上架菜品包含1个甜品标签，该店的菜品售价额外增加<Green2>1%</>。",
-              "LocalizedString": "安魂曲上阵店铺后上架菜品包含1个甜品标签，该店的菜品售价额外增加<Green2>1%</>。"
+              "LocalizedString": "Lacrimosa increases dish prices by <Green2>1%</> for each Dessert tag on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1794,7 +1794,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_01_lv2",
               "SourceString": "安魂曲上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "安魂曲上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Lacrimosa reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1840,7 +1840,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Lacrimosa",
               "SourceString": "「店长特供」中会出现特殊菜品「特调番茄汁」，在玻璃杯中加入番茄汁即可制作。",
-              "LocalizedString": "「店长特供」中会出现特殊菜品「特调番茄汁」，在玻璃杯中加入番茄汁即可制作。"
+              "LocalizedString": "In Owner's Selection, a special dish \"Special Tomato Juice\" appears, made by adding tomato juice to a glass."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1884,7 +1884,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_01_lv4",
               "SourceString": "安魂曲上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "安魂曲上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Lacrimosa reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1930,7 +1930,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_01_lv5",
               "SourceString": "安魂曲上阵店铺后上架菜品包含2个甜品标签，该店的菜品售价额外增加<Green2>1.5%</>。",
-              "LocalizedString": "安魂曲上阵店铺后上架菜品包含2个甜品标签，该店的菜品售价额外增加<Green2>1.5%</>。"
+              "LocalizedString": "Lacrimosa increases dish prices by <Green2>1.5%</> for every 2 Dessert tags on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -1980,7 +1980,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Sagiri_01_name",
           "SourceString": "不劳不得食",
-          "LocalizedString": "不劳不得食"
+          "LocalizedString": "No Work, No Reward"
         },
         "AbilityCityAttributeArray": [
           {
@@ -1997,7 +1997,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Sagiri_01_lv1",
               "SourceString": "早雾上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "早雾上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Sakiri increases dish prices by an additional <Green2>0.12</> Fons."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2043,7 +2043,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Sagiri_01_lv2",
               "SourceString": "早雾上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "早雾上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Sakiri reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2089,7 +2089,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Sagiri",
               "SourceString": "「店长特供」中鬼郎丸会主动攻击驱赶团三郎顾客。",
-              "LocalizedString": "「店长特供」中鬼郎丸会主动攻击驱赶团三郎顾客。"
+              "LocalizedString": "In Owner's Selection, Kiroumaru actively attacks and drives away Danzaburou."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2133,7 +2133,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Sagiri_01_lv4",
               "SourceString": "早雾上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "早雾上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Sakiri reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2179,7 +2179,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Sagiri_01_lv5",
               "SourceString": "早雾上阵店铺后上架菜品包含任意3个相同标签，该店的菜品售价额外增加<Green2>0.3</>方斯。",
-              "LocalizedString": "早雾上阵店铺后上架菜品包含任意3个相同标签，该店的菜品售价额外增加<Green2>0.3</>方斯。"
+              "LocalizedString": "Sakiri increases dish prices by <Green2>0.3</> Fons when a dish contains 3 identical tags."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2229,7 +2229,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Hathor_01_name",
           "SourceString": "精英快递员",
-          "LocalizedString": "精英快递员"
+          "LocalizedString": "Elite Courier"
         },
         "AbilityCityAttributeArray": [
           {
@@ -2246,7 +2246,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_01_lv1",
               "SourceString": "「同城派送」每日额外增加<Green2>2</>个派送点。",
-              "LocalizedString": "「同城派送」每日额外增加<Green2>2</>个派送点。"
+              "LocalizedString": "Increases delivery points for City Delivery by <Green2>2</> per day."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2270,7 +2270,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_01_lv2",
               "SourceString": "「同城派送」的顾客满意度额外增加<Green2>10</>点。",
-              "LocalizedString": "「同城派送」的顾客满意度额外增加<Green2>10</>点。"
+              "LocalizedString": "Increases customer satisfaction for City Delivery by an additional <Green2>10</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2294,7 +2294,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_01_lv3",
               "SourceString": "「同城派送」每日额外增加<Green2>2</>个派送点。",
-              "LocalizedString": "「同城派送」每日额外增加<Green2>2</>个派送点。"
+              "LocalizedString": "Increases delivery points for City Delivery by <Green2>2</> per day."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2318,7 +2318,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_01_lv4",
               "SourceString": "「同城派送」的顾客满意度额外增加<Green2>10</>点。",
-              "LocalizedString": "「同城派送」的顾客满意度额外增加<Green2>10</>点。"
+              "LocalizedString": "Increases customer satisfaction for City Delivery by an additional <Green2>10</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2342,7 +2342,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_01_lv5",
               "SourceString": "哈索尔每日可帮忙完成<Green2>1</>次「同城派送」并直接获得奖励。",
-              "LocalizedString": "哈索尔每日可帮忙完成<Green2>1</>次「同城派送」并直接获得奖励。"
+              "LocalizedString": "Hathor can help complete <Green2>1</> City Delivery per day and directly obtain the rewards."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2370,7 +2370,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Hathor_02_name",
           "SourceString": "上门取货",
-          "LocalizedString": "上门取货"
+          "LocalizedString": "Pickup Service"
         },
         "AbilityCityAttributeArray": [
           {
@@ -2387,7 +2387,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_02_lv1",
               "SourceString": "<!>「粉爪大劫案」中哈索尔有<Green2>x%</>的概率回收掉落物品。",
-              "LocalizedString": "<!>「粉爪大劫案」中哈索尔有<Green2>x%</>的概率回收掉落物品。"
+              "LocalizedString": "In \"The Pink Claw Heist\", Hathor has a <Green2>x%</> chance to recycle dropped items."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2410,7 +2410,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_02_lv2",
               "SourceString": "<!>「粉爪大劫案」中哈索尔被监控附电灵发现所需的时间增加<Green2>x%</>。",
-              "LocalizedString": "<!>「粉爪大劫案」中哈索尔被监控附电灵发现所需的时间增加<Green2>x%</>。"
+              "LocalizedString": "In \"The Pink Claw Heist,\" the time required for Hathor to be discovered by the monitored, electrified spirit increases by <Green2>x%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2433,7 +2433,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_02_lv3",
               "SourceString": "<!>「粉爪大劫案」中哈索尔回收掉落物品的概率增加<Green2>x%</>。",
-              "LocalizedString": "<!>「粉爪大劫案」中哈索尔回收掉落物品的概率增加<Green2>x%</>。"
+              "LocalizedString": "In \"The Pink Claw Heist\", Hathor's chance of recovering dropped items increases by <Green2>x%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2456,7 +2456,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_02_lv4",
               "SourceString": "<!>「粉爪大劫案」中哈索尔被监控附电灵发现所需的时间增加<Green2>x%</>。",
-              "LocalizedString": "<!>「粉爪大劫案」中哈索尔被监控附电灵发现所需的时间增加<Green2>x%</>。"
+              "LocalizedString": "In \"The Pink Claw Heist,\" the time required for Hathor to be discovered by the monitored, electrified spirit increases by <Green2>x%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2479,7 +2479,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Hathor_02_lv5",
               "SourceString": "<!>「粉爪大劫案」中哈索尔回收掉落物品的概率增加<Green2>x%</>。",
-              "LocalizedString": "<!>「粉爪大劫案」中哈索尔回收掉落物品的概率增加<Green2>x%</>。"
+              "LocalizedString": "In \"The Pink Claw Heist\", Hathor's chance of recovering dropped items increases by <Green2>x%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2506,7 +2506,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_nanally_01_name",
           "SourceString": "家族产业",
-          "LocalizedString": "家族产业"
+          "LocalizedString": "Family Business"
         },
         "AbilityCityAttributeArray": [
           {
@@ -2523,7 +2523,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_nanally_01_lv1",
               "SourceString": "娜娜莉上阵店铺后上架菜品包含1个主食标签，该店的菜品售价额外增加<Green2>0.2</>方斯。",
-              "LocalizedString": "娜娜莉上阵店铺后上架菜品包含1个主食标签，该店的菜品售价额外增加<Green2>0.2</>方斯。"
+              "LocalizedString": "Nanally increases dish prices by <Green2>0.2</> Fons for each Main Dish tag on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2569,7 +2569,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_nanally_01_lv2",
               "SourceString": "娜娜莉上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "娜娜莉上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Nanally reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2615,7 +2615,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Nanally",
               "SourceString": "「店长特供」中用锤子砸中客人，可获得当前菜品售价的<Green2>115%</>。",
-              "LocalizedString": "「店长特供」中用锤子砸中客人，可获得当前菜品售价的<Green2>115%</>。"
+              "LocalizedString": "In Owner's Selection, hitting customers with the hammer grants <Green2>115%</> of the current dish price."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2659,7 +2659,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_nanally_01_lv4",
               "SourceString": "娜娜莉上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "娜娜莉上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Nanally reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2705,7 +2705,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_nanally_01_lv5",
               "SourceString": "娜娜莉上阵店铺后上架菜品包含2个主食标签，该店的菜品售价额外增加<Green2>0.3</>方斯。",
-              "LocalizedString": "娜娜莉上阵店铺后上架菜品包含2个主食标签，该店的菜品售价额外增加<Green2>0.3</>方斯。"
+              "LocalizedString": "Nanally increases dish prices by <Green2>0.3</> Fons for every 2 Main Dish tags on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2755,7 +2755,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_nanally_03_name",
           "SourceString": "电玩高手",
-          "LocalizedString": "电玩高手"
+          "LocalizedString": "Arcade Master"
         },
         "AbilityCityAttributeArray": [
           {
@@ -2896,7 +2896,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_cang_01_name",
           "SourceString": "蒸蒸日上",
-          "LocalizedString": "蒸蒸日上"
+          "LocalizedString": "Thriving Daily"
         },
         "AbilityCityAttributeArray": [
           {
@@ -2913,7 +2913,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_cang_01_lv1",
               "SourceString": "白藏上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "白藏上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Baicang increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -2959,7 +2959,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_cang_01_lv2",
               "SourceString": "白藏上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "白藏上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Baicang reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3005,7 +3005,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Jin",
               "SourceString": "「店长特供」中客人的耐心度耗尽或被锤子砸中时仍可以连击。",
-              "LocalizedString": "「店长特供」中客人的耐心度耗尽或被锤子砸中时仍可以连击。"
+              "LocalizedString": "In Owner's Selection, combos persist when customers lose patience or get hit by hammers."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3049,7 +3049,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_cang_01_lv4",
               "SourceString": "白藏上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "白藏上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Baicang reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3095,7 +3095,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_cang_01_lv5",
               "SourceString": "白藏上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "白藏上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Baicang increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3145,7 +3145,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_cang_02_name",
           "SourceString": "血脉觉醒",
-          "LocalizedString": "血脉觉醒"
+          "LocalizedString": "Bloodline Awakening"
         },
         "AbilityCityAttributeArray": [
           {
@@ -3281,7 +3281,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Jiuyuan_01_name",
           "SourceString": "车行贵客",
-          "LocalizedString": "车行贵客"
+          "LocalizedString": "Dealership VIP"
         },
         "AbilityCityAttributeArray": [
           {
@@ -3298,7 +3298,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Jiuyuan_01_lv1",
               "SourceString": "载具受损时扣除的耐久度降低<Green2>3%</>。",
-              "LocalizedString": "载具受损时扣除的耐久度降低<Green2>3%</>。"
+              "LocalizedString": "Reduces vehicle durability loss when damaged by <Green2>3%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3322,7 +3322,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Jiuyuan_01_lv2",
               "SourceString": "「暴走玩家」改车服务人工费减免<Green2>10%</>。",
-              "LocalizedString": "「暴走玩家」改车服务人工费减免<Green2>10%</>。"
+              "LocalizedString": "Reduces Rampage Players vehicle modification labor fees by <Green2>10%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3346,7 +3346,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Jiuyuan_01_lv3",
               "SourceString": "载具受损时扣除的耐久度降低<Green2>3%</>。",
-              "LocalizedString": "载具受损时扣除的耐久度降低<Green2>3%</>。"
+              "LocalizedString": "Reduces vehicle durability loss when damaged by <Green2>3%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3370,7 +3370,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Jiuyuan_01_lv4",
               "SourceString": "「暴走玩家」改车服务人工费减免<Green2>10%</>。",
-              "LocalizedString": "「暴走玩家」改车服务人工费减免<Green2>10%</>。"
+              "LocalizedString": "Reduces Rampage Players vehicle modification labor fees by <Green2>10%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3394,7 +3394,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Jiuyuan_01_lv5",
               "SourceString": "载具受损时扣除的耐久度降低<Green2>4%</>。",
-              "LocalizedString": "载具受损时扣除的耐久度降低<Green2>4%</>。"
+              "LocalizedString": "Reduces vehicle durability loss when damaged by <Green2>4%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3422,7 +3422,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_edgar_01_name",
           "SourceString": "读以致用",
-          "LocalizedString": "读以致用"
+          "LocalizedString": "Knowledge in Action"
         },
         "AbilityCityAttributeArray": [
           {
@@ -3439,7 +3439,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_edgar_lv1",
               "SourceString": "埃德嘉上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "埃德嘉上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Edgar increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3485,7 +3485,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_edgar_lv2",
               "SourceString": "埃德嘉上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "埃德嘉上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Edgar reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3531,7 +3531,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_edgar_lv3",
               "SourceString": "埃德嘉上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "埃德嘉上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Edgar increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3577,7 +3577,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_edgar_lv4",
               "SourceString": "埃德嘉上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "埃德嘉上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Edgar reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3623,7 +3623,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_edgar_lv5",
               "SourceString": "埃德嘉上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "埃德嘉上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Edgar increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3673,7 +3673,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Xiaozhi_01_name",
           "SourceString": "大堂经理",
-          "LocalizedString": "大堂经理"
+          "LocalizedString": "Lobby Manager"
         },
         "AbilityCityAttributeArray": [
           {
@@ -3690,7 +3690,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_chiichan_lv1",
               "SourceString": "小吱上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "小吱上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Chiz increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3736,7 +3736,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_chiichan_lv2",
               "SourceString": "小吱上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "小吱上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Chiz reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3782,7 +3782,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Cang",
               "SourceString": "「店长特供」中每次正确提交菜品（非团三郎顾客），本局内菜品售价额外提高，最多可提高<Green2>15</>次。",
-              "LocalizedString": "「店长特供」中每次正确提交菜品（非团三郎顾客），本局内菜品售价额外提高，最多可提高<Green2>15</>次。"
+              "LocalizedString": "In Owner's Selection, each correct dish (excluding Danzaburou) raises prices. Up to <Green2>15</> times per round."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3826,7 +3826,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_chiichan_lv4",
               "SourceString": "小吱上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "小吱上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Chiz reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3872,7 +3872,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_chiichan_lv5",
               "SourceString": "小吱上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "小吱上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Chiz increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3922,7 +3922,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Dafudier_02_name",
           "SourceString": "待客的修行",
-          "LocalizedString": "待客的修行"
+          "LocalizedString": "The Art of Hospitality"
         },
         "AbilityCityAttributeArray": [
           {
@@ -3939,7 +3939,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_daffodill_lv1",
               "SourceString": "达芙蒂尔上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "达芙蒂尔上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Daffodill increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -3985,7 +3985,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_daffodill_lv2",
               "SourceString": "达芙蒂尔上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "达芙蒂尔上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Daffodill reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4031,7 +4031,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Hathor",
               "SourceString": "「店长特供」中顾客选择售价最高的菜品的概率提高。",
-              "LocalizedString": "「店长特供」中顾客选择售价最高的菜品的概率提高。"
+              "LocalizedString": "In Owner's Selection, customers are more likely to choose the highest-priced dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4075,7 +4075,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_daffodill_lv4",
               "SourceString": "达芙蒂尔上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "达芙蒂尔上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Daffodill reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4121,7 +4121,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_daffodill_lv5",
               "SourceString": "达芙蒂尔上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "达芙蒂尔上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Daffodill increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4171,7 +4171,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Haiyue_01_name",
           "SourceString": "专业对口",
-          "LocalizedString": "专业对口"
+          "LocalizedString": "Perfect Fit"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4188,7 +4188,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haiyue_01_lv1",
               "SourceString": "海月上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。",
-              "LocalizedString": "海月上阵店铺后菜品售价额外增加<Green2>0.12</>方斯。"
+              "LocalizedString": "Aurelia increases traffic by <Green2>1%</> for each Beverage tag on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -4234,7 +4234,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haiyue_01_lv2",
               "SourceString": "海月上阵店铺后上架菜品包含2个饮品标签，该店的人流量额外增加<Green2>1%</>。",
-              "LocalizedString": "海月上阵店铺后上架菜品包含2个饮品标签，该店的人流量额外增加<Green2>1%</>。"
+              "LocalizedString": "Aurelia reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -4280,7 +4280,7 @@
               "TableId": "/Game/Text/ST_Store.ST_Store",
               "Key": "DT_OnlineEmployee_Skia",
               "SourceString": "「店长特供」中当客人离开时会额外留下小费。",
-              "LocalizedString": "「店长特供」中当客人离开时会额外留下小费。"
+              "LocalizedString": "In Owner's Selection, customers leave additional tips when they leave."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -4304,7 +4304,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haiyue_01_lv4",
               "SourceString": "海月上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "海月上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Aurelia reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -4350,7 +4350,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Haiyue_01_lv5",
               "SourceString": "海月上阵店铺后上架菜品包含2个饮品标签，该店的人流量额外增加<Green2>1.5%</>。",
-              "LocalizedString": "海月上阵店铺后上架菜品包含2个饮品标签，该店的人流量额外增加<Green2>1.5%</>。"
+              "LocalizedString": "Aurelia increases traffic by <Green2>1.5%</> for every 2 Beverage tag on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::COOK_PRICE_ADD",
             "AbilityCityAttribute": [
@@ -4400,7 +4400,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Chaos_01_name",
           "SourceString": "垂钓大师",
-          "LocalizedString": "垂钓大师"
+          "LocalizedString": "Master Angler"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4417,7 +4417,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_01_lv1",
               "SourceString": "「海上钓客」中渔获市场每日额外增加<Green2>1</>种鱼的高价收购。",
-              "LocalizedString": "「海上钓客」中渔获市场每日额外增加<Green2>1</>种鱼的高价收购。"
+              "LocalizedString": "Increases the daily high-value order limit in the Fish Market in Sea Angler by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4441,7 +4441,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_01_lv2",
               "SourceString": "「海上钓客」中使用特制鱼饵的效果提升<Green2>25%</>。",
-              "LocalizedString": "「海上钓客」中使用特制鱼饵的效果提升<Green2>25%</>。"
+              "LocalizedString": "Increases special bait effects in Sea Angler by <Green2>25%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4465,7 +4465,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_01_lv3",
               "SourceString": "「海上钓客」中<purple>贵重</>和<orange>珍稀</>品质的鱼的耐力减少<Green2>1</>点。",
-              "LocalizedString": "「海上钓客」中<purple>贵重</>和<orange>珍稀</>品质的鱼的耐力减少<Green2>1</>点。"
+              "LocalizedString": "Reduces the Stamina of <purple>valuable</> and <orange>rare</> fish in Sea Angler by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4489,7 +4489,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_01_lv4",
               "SourceString": "「海上钓客」中渔获市场每日额外增加<Green2>1</>种鱼的高价收购。",
-              "LocalizedString": "「海上钓客」中渔获市场每日额外增加<Green2>1</>种鱼的高价收购。"
+              "LocalizedString": "Increases the daily high-value order limit in the Fish Market in Sea Angler by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4513,7 +4513,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_01_lv5",
               "SourceString": "「海上钓客」中所有鱼的耐力减少<Green2>1</>点。",
-              "LocalizedString": "「海上钓客」中所有鱼的耐力减少<Green2>1</>点。"
+              "LocalizedString": "Reduces the Stamina of all fish in Sea Angler by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4541,7 +4541,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Xiaozhi_sp01_name",
           "SourceString": "夜游动物",
-          "LocalizedString": "夜游动物"
+          "LocalizedString": "Nocturnal Animal"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4558,7 +4558,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Xiaozhi_sp01_lv1",
               "SourceString": "「粉爪大劫案」全局藏品将高亮显示。",
-              "LocalizedString": "「粉爪大劫案」全局藏品将高亮显示。"
+              "LocalizedString": "Highlights global collectibles in Pink Paws Heist."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4585,7 +4585,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_lacrimosa_sp01_name",
           "SourceString": "专属「蝠利」",
-          "LocalizedString": "专属「蝠利」"
+          "LocalizedString": "Exclusive Bat-efit"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4602,7 +4602,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_sp01_lv1",
               "SourceString": "安魂曲在队伍中时，「粉爪大劫案」中结算时获取的方斯和爪爪币提高<Green2>15%</>。（不能超过上限）",
-              "LocalizedString": "安魂曲在队伍中时，「粉爪大劫案」中结算时获取的方斯和爪爪币提高<Green2>15%</>。（不能超过上限）"
+              "LocalizedString": "Increases Fons and Paw-Paw Coins obtained from Pink Paws Heist settlement by <Green2>15%</> while Lacrimosa is in the team (Cannot exceed the cap)."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4626,7 +4626,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_lacrimosa_sp01_lv2",
               "SourceString": "安魂曲在队伍中时，「粉爪大劫案」中结算时获取的方斯和爪爪币提高效果增加至<Green2>20%</>。（不能超过上限）",
-              "LocalizedString": "安魂曲在队伍中时，「粉爪大劫案」中结算时获取的方斯和爪爪币提高效果增加至<Green2>20%</>。（不能超过上限）"
+              "LocalizedString": "Increases the bonus to Fons and Paw-Paw Coins obtained from Pink Paws Heist settlement to <Green2>20%</> while Lacrimosa is in the team (Cannot exceed the cap)."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4654,7 +4654,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Chaos_sp01_name",
           "SourceString": "记忆/船锚",
-          "LocalizedString": "记忆/船锚"
+          "LocalizedString": "Memory / Anchor"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4671,7 +4671,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Chaos_sp01_lv1",
               "SourceString": "传送锚点的放置上限增加至<Green2>2</>个。",
-              "LocalizedString": "传送锚点的放置上限增加至<Green2>2</>个。"
+              "LocalizedString": "Increases the Teleport Anchor placement limit to <Green2>2</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4699,7 +4699,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Shinku_01_name",
           "SourceString": "偶尔摸鱼",
-          "LocalizedString": "偶尔摸鱼"
+          "LocalizedString": "Sneaking a Break"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4716,7 +4716,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_01_lv1",
               "SourceString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>0.3</>方斯。",
-              "LocalizedString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>0.3</>方斯。"
+              "LocalizedString": "Shinku increases dish prices by <Green2>0.3</> Fons for every 3 Beverage Tags on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4762,7 +4762,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_01_lv2",
               "SourceString": "真红上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "真红上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Shinku reduces Ingredient Consumption Rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4808,7 +4808,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_01_lv3",
               "SourceString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>0.3</>方斯。",
-              "LocalizedString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>0.3</>方斯。"
+              "LocalizedString": "Shinku increases dish prices by <Green2>0.3</> Fons for every 3 Beverage Tags on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4854,7 +4854,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_01_lv4",
               "SourceString": "真红上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "真红上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Shinku reduces Ingredient Consumption Rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4900,7 +4900,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_01_lv5",
               "SourceString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>3%</>。",
-              "LocalizedString": "真红上阵店铺后上架菜品包含3个饮料标签，该店的菜品售价额外增加<Green2>3%</>。"
+              "LocalizedString": "Shinku increases dish prices by <Green2>3%</> for every 3 Beverage Tags on dishes."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -4950,7 +4950,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Shinku_02_name",
           "SourceString": "处处好胜",
-          "LocalizedString": "处处好胜"
+          "LocalizedString": "Always Up for a Challenge"
         },
         "AbilityCityAttributeArray": [
           {
@@ -4967,7 +4967,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_02_lv1",
               "SourceString": "「小小麻雀」中「血流麻将」模式将额外消耗<Green2>2</>点都市活力，「立直麻将」模式将额外消耗<Green2>6</>点都市活力，并获得对应奖励。",
-              "LocalizedString": "「小小麻雀」中「血流麻将」模式将额外消耗<Green2>2</>点都市活力，「立直麻将」模式将额外消耗<Green2>6</>点都市活力，并获得对应奖励。"
+              "LocalizedString": "Spend an additional <Green2>2</> City Stamina in Little Sparrow: Mahjong Inferno mode, or an additional <Green2>6</> City Stamina in Little Sparrow: Riichi Mahjong mode, and receive corresponding rewards for spending more Stamina."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5000,7 +5000,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Shinku_02_lv2",
               "SourceString": "「小小麻雀」中「血流麻将」模式将额外消耗<Green2>1</>点都市活力，「立直麻将」模式将额外消耗<Green2>3</>点都市活力，并获得对应奖励。",
-              "LocalizedString": "「小小麻雀」中「血流麻将」模式将额外消耗<Green2>1</>点都市活力，「立直麻将」模式将额外消耗<Green2>3</>点都市活力，并获得对应奖励。"
+              "LocalizedString": "Spend an additional <Green2>1</> City Stamina in Little Sparrow: Mahjong Inferno mode, or an additional <Green2>3</> City Stamina in Little Sparrow: Riichi Mahjong mode, and receive corresponding rewards for spending more Stamina."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5037,7 +5037,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Oneiroi_01_name",
           "SourceString": "欢迎，欢迎！",
-          "LocalizedString": "欢迎，欢迎！"
+          "LocalizedString": "Come On In!"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5054,7 +5054,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_01_lv1",
               "SourceString": "伊洛伊上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "伊洛伊上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Iroi increases Traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5100,7 +5100,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_01_lv2",
               "SourceString": "伊洛伊上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "伊洛伊上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Iroi reduces Ingredient Consumption Rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5146,7 +5146,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_01_lv3",
               "SourceString": "伊洛伊上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "伊洛伊上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Iroi increases Traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5192,7 +5192,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_01_lv4",
               "SourceString": "伊洛伊上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "伊洛伊上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Iroi reduces Ingredient Consumption Rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5238,7 +5238,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_01_lv5",
               "SourceString": "伊洛伊上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "伊洛伊上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Iroi increases Traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5288,7 +5288,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Oneiroi_02_name",
           "SourceString": "短途畅谈",
-          "LocalizedString": "短途畅谈"
+          "LocalizedString": "Ride-Along Chat"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5305,7 +5305,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_02_lv1",
               "SourceString": "「雨燕出行」中每个订单的基础车费会增加<Green2>1000</>方斯。",
-              "LocalizedString": "「雨燕出行」中每个订单的基础车费会增加<Green2>1000</>方斯。"
+              "LocalizedString": "Grants an additional <Green2>1000</> Fons in Base Fare for each order in Swift Cab."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5329,7 +5329,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Oneiroi_02_lv2",
               "SourceString": "「雨燕出行」中每位客人满意度上限增加<Green2>25</>点。",
-              "LocalizedString": "「雨燕出行」中每位客人满意度上限增加<Green2>25</>点。"
+              "LocalizedString": "Increases each customer's satisfaction limit in Swift Cab by <Green2>25</> points."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5357,7 +5357,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Zankou_01_name",
           "SourceString": "争强好胜",
-          "LocalizedString": "争强好胜"
+          "LocalizedString": "Competitive Edge"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5374,7 +5374,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_01_lv1",
               "SourceString": "「排球之星」中所有角色的发球属性增加<Green2>10</>点。",
-              "LocalizedString": "「排球之星」中所有角色的发球属性增加<Green2>10</>点。"
+              "LocalizedString": "Increases all Volley Star characters' Serve by <Green2>10</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5409,7 +5409,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_01_lv2",
               "SourceString": "「排球之星-周常联赛」获得的大亨计划激励金额外增加<Green2>10%</>。（不能超过激励金上限）",
-              "LocalizedString": "「排球之星-周常联赛」获得的大亨计划激励金额外增加<Green2>10%</>。（不能超过激励金上限）"
+              "LocalizedString": "Increases Tycoon Incentive Fund earnings from Volley Star Weekly Matches by <Green2>10%</>. (Up to the Tycoon Incentive Fund limit.)"
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5433,7 +5433,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_01_lv3",
               "SourceString": "「排球之星」中所有角色的扣球属性增加<Green2>10</>点。",
-              "LocalizedString": "「排球之星」中所有角色的扣球属性增加<Green2>10</>点。"
+              "LocalizedString": "Increases all Volley Star characters' Spike by <Green2>10</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5468,7 +5468,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_01_lv4",
               "SourceString": "「排球之星-周常联赛」获得的大亨计划激励金额外增加<Green2>10%</>。（不能超过激励金上限）",
-              "LocalizedString": "「排球之星-周常联赛」获得的大亨计划激励金额外增加<Green2>10%</>。（不能超过激励金上限）"
+              "LocalizedString": "Increases Tycoon Incentive Fund earnings from Volley Star Weekly Matches by <Green2>10%</>. (Up to the Tycoon Incentive Fund limit.)"
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5492,7 +5492,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_01_lv5",
               "SourceString": "「排球之星」中所有角色的接球属性增加<Green2>10</>点。",
-              "LocalizedString": "「排球之星」中所有角色的接球属性增加<Green2>10</>点。"
+              "LocalizedString": "Increases all Volley Star characters' Receive by <Green2>10</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5531,7 +5531,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Zankou_02_name",
           "SourceString": "全力以赴",
-          "LocalizedString": "全力以赴"
+          "LocalizedString": "All In"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5548,7 +5548,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_02_lv1",
               "SourceString": "「格斗俱乐部」每局将额外消耗<Green2>1</>点都市活力，并获得对应奖励。",
-              "LocalizedString": "「格斗俱乐部」每局将额外消耗<Green2>1</>点都市活力，并获得对应奖励。"
+              "LocalizedString": "Costs <Green2>1</> additional City Stamina per Fight Club match to claim the corresponding rewards."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5572,7 +5572,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Zankou_02_lv2",
               "SourceString": "「格斗俱乐部」每局将额外消耗<Green2>1</>点都市活力，并获得对应奖励。",
-              "LocalizedString": "「格斗俱乐部」每局将额外消耗<Green2>1</>点都市活力，并获得对应奖励。"
+              "LocalizedString": "Costs <Green2>1</> additional City Stamina per Fight Club match to claim the corresponding rewards."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5600,7 +5600,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Radio072_01_name",
           "SourceString": "厨房奇想",
-          "LocalizedString": "厨房奇想"
+          "LocalizedString": "Kitchen Magic"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5617,7 +5617,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_01_lv1",
               "SourceString": "灵可上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "灵可上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Linko increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5663,7 +5663,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_01_lv2",
               "SourceString": "灵可上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "灵可上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Linko reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5709,7 +5709,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_01_lv3",
               "SourceString": "灵可上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "灵可上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Linko increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5755,7 +5755,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_01_lv4",
               "SourceString": "灵可上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "灵可上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Linko reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5801,7 +5801,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_01_lv5",
               "SourceString": "灵可上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "灵可上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Linko increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5851,7 +5851,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Radio072_02_name",
           "SourceString": "分享欲",
-          "LocalizedString": "分享欲"
+          "LocalizedString": "Show & Tell"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5868,7 +5868,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_02_lv1",
               "SourceString": "「即刻落槌」中展览柜所获得的方斯收益提升<Green2>10%</>。",
-              "LocalizedString": "「即刻落槌」中展览柜所获得的方斯收益提升<Green2>10%</>。"
+              "LocalizedString": "Increases Fons Earnings from display cases in Going, Going, Gone! by <Green2>10%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5892,7 +5892,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Radio072_02_lv2",
               "SourceString": "「即刻落槌」中展览柜所获得的方斯收益提升<Green2>5%</>。",
-              "LocalizedString": "「即刻落槌」中展览柜所获得的方斯收益提升<Green2>5%</>。"
+              "LocalizedString": "Increases Fons Earnings from display cases in Going, Going, Gone! by <Green2>5%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5920,7 +5920,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_BlackBird_01_name",
           "SourceString": "祈歌",
-          "LocalizedString": "祈歌"
+          "LocalizedString": "Lucky Encore"
         },
         "AbilityCityAttributeArray": [
           {
@@ -5937,7 +5937,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_01_lv1",
               "SourceString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）",
-              "LocalizedString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）"
+              "LocalizedString": "Increases daily Bless attempts in The Witch's House Divination by <Green2>1</>.\r\nA new Bless effect replaces the existing one."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5961,7 +5961,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_01_lv2",
               "SourceString": "「魔女之家」每日卜运中「佚闻」次数增加<Green2>1</>次。",
-              "LocalizedString": "「魔女之家」每日卜运中「佚闻」次数增加<Green2>1</>次。"
+              "LocalizedString": "Increases daily Lost Tales attempts in The Witch's House Divination by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -5985,7 +5985,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_01_lv3",
               "SourceString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）",
-              "LocalizedString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）"
+              "LocalizedString": "Increases daily Bless attempts in The Witch's House Divination by <Green2>1</>.\r\nA new Bless effect replaces the existing one."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6009,7 +6009,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_01_lv4",
               "SourceString": "「魔女之家」每日卜运中「寻宝」次数增加<Green2>1</>次。",
-              "LocalizedString": "「魔女之家」每日卜运中「寻宝」次数增加<Green2>1</>次。"
+              "LocalizedString": "Increases daily Treasure Hunt attempts in The Witch's House Divination by <Green2>1</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6033,7 +6033,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_01_lv5",
               "SourceString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）",
-              "LocalizedString": "「魔女之家」每日卜运中「赐福」次数增加<Green2>1</>次。\r\n（新的赐福效果将覆盖原有赐福效果）"
+              "LocalizedString": "Increases daily Bless attempts in The Witch's House Divination by <Green2>1</>.\r\nA new Bless effect replaces the existing one."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6061,7 +6061,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_BlackBird_02_name",
           "SourceString": "躲猫猫高手",
-          "LocalizedString": "躲猫猫高手"
+          "LocalizedString": "Now You Don't"
         },
         "AbilityCityAttributeArray": [
           {
@@ -6078,7 +6078,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_02_lv1",
               "SourceString": "「徊影憧憧」每局会额外消耗<Green2>1</>点都市活力。",
-              "LocalizedString": "「徊影憧憧」每局会额外消耗<Green2>1</>点都市活力。"
+              "LocalizedString": "Costs <Green2>1</> additional City Stamina per Shadow-n-Seek match."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6102,7 +6102,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_BlackBird_02_lv2",
               "SourceString": "「徊影憧憧」每局会额外消耗<Green2>1</>点都市活力。",
-              "LocalizedString": "「徊影憧憧」每局会额外消耗<Green2>1</>点都市活力。"
+              "LocalizedString": "Costs <Green2>1</> additional City Stamina per Shadow-n-Seek match."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6130,7 +6130,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Akane_01_name",
           "SourceString": "吧台特调",
-          "LocalizedString": "吧台特调"
+          "LocalizedString": "House Special"
         },
         "AbilityCityAttributeArray": [
           {
@@ -6147,7 +6147,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_01_lv1",
               "SourceString": "明音凛上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "明音凛上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Akane Rin increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6193,7 +6193,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_01_lv2",
               "SourceString": "明音凛上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "明音凛上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Akane Rin reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6239,7 +6239,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_01_lv3",
               "SourceString": "明音凛上阵店铺后人流量增加<Green2>18</>点。",
-              "LocalizedString": "明音凛上阵店铺后人流量增加<Green2>18</>点。"
+              "LocalizedString": "Akane Rin increases traffic by <Green2>18</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6285,7 +6285,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_01_lv4",
               "SourceString": "明音凛上阵店铺后食材消耗速度降低<Green2>1%</>。",
-              "LocalizedString": "明音凛上阵店铺后食材消耗速度降低<Green2>1%</>。"
+              "LocalizedString": "Akane Rin reduces ingredient consumption rate by <Green2>1%</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6331,7 +6331,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_01_lv5",
               "SourceString": "明音凛上阵店铺后人流量增加<Green2>27</>点。",
-              "LocalizedString": "明音凛上阵店铺后人流量增加<Green2>27</>点。"
+              "LocalizedString": "Akane Rin increases traffic by <Green2>27</>."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6381,7 +6381,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Akane_02_name",
           "SourceString": "舞台之星",
-          "LocalizedString": "舞台之星"
+          "LocalizedString": "Shining Idol"
         },
         "AbilityCityAttributeArray": [
           {
@@ -6398,7 +6398,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_02_lv1",
               "SourceString": "「 超强音」每局会额外消耗<Green2>1</>点都市活力。",
-              "LocalizedString": "「 超强音」每局会额外消耗<Green2>1</>点都市活力。"
+              "LocalizedString": "Super Sound costs an extra <Green2>1</> City Stamina per run."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6422,7 +6422,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Akane_02_lv2",
               "SourceString": "「 超强音」每局会额外消耗<Green2>1</>点都市活力。",
-              "LocalizedString": "「 超强音」每局会额外消耗<Green2>1</>点都市活力。"
+              "LocalizedString": "Super Sound costs an extra <Green2>1</> City Stamina per run."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6450,7 +6450,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Elyms_01_name",
           "SourceString": "社会网络",
-          "LocalizedString": "社会网络"
+          "LocalizedString": "Social Network"
         },
         "AbilityCityAttributeArray": [
           {
@@ -6467,7 +6467,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_01_lv1",
               "SourceString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。",
-              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。"
+              "LocalizedString": "Increases the satisfaction rating for driver-delivered orders by <Green2>5</> while Elyms is assigned as a Logistics Assistant at the Logistics Hub."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6493,7 +6493,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_01_lv2",
               "SourceString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。",
-              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。"
+              "LocalizedString": "Increases the maximum number of partner drivers by <Green2>1</> while Elyms is assigned as a Logistics Assistant at the Logistics Hub."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6519,7 +6519,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_01_lv3",
               "SourceString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。",
-              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，司机派送订单满意度增加<Green2>5</>点。"
+              "LocalizedString": "Increases the satisfaction rating for driver-delivered orders by <Green2>5</> while Elyms is assigned as a Logistics Assistant at the Logistics Hub."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6545,7 +6545,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_01_lv4",
               "SourceString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。",
-              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可合作司机上限增加<Green2>1</>位。"
+              "LocalizedString": "Increases the maximum number of partner drivers by <Green2>1</> while Elyms is assigned as a Logistics Assistant at the Logistics Hub."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6571,7 +6571,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_01_lv5",
               "SourceString": "曳尔沐作为物流助理派驻物流中心时，可同时派遣司机数量增加<Green2>1</>位。",
-              "LocalizedString": "曳尔沐作为物流助理派驻物流中心时，可同时派遣司机数量增加<Green2>1</>位。"
+              "LocalizedString": "Increases the number of drivers you can dispatch at once by <Green2>1</> while Elyms is assigned as a Logistics Assistant at the Logistics Hub."
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6601,7 +6601,7 @@
           "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
           "Key": "City_Ability_Elyms_02_name",
           "SourceString": "人脉关系",
-          "LocalizedString": "人脉关系"
+          "LocalizedString": "Social Connections"
         },
         "AbilityCityAttributeArray": [
           {
@@ -6618,7 +6618,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_02_lv1",
               "SourceString": "「即刻落槌」第<Green2>1</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）",
-              "LocalizedString": "「即刻落槌」第<Green2>1</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）"
+              "LocalizedString": "Going, Going, Gone!: Reduces the collectible cost of the <Green2>1</>st furniture exchange at the Collection Showcase by <Green2>1</>. (Resets each exchange cycle.)"
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [
@@ -6642,7 +6642,7 @@
               "TableId": "/Game/Text/ST_CityCharacterAbility.ST_CityCharacterAbility",
               "Key": "City_Ability_Elyms_02_lv2",
               "SourceString": "效果变更为：「即刻落槌」前<Green2>2</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）",
-              "LocalizedString": "效果变更为：「即刻落槌」前<Green2>2</>次在收藏展柜中用藏品兑换家具时，所需藏品的数量减少<Green2>1</>个（每个兑换周期重置）"
+              "LocalizedString": "Effect Changes - Going, Going, Gone!: Reduces the collectible cost of the first <Green2>2</> furniture exchanges at the Collection Showcase by <Green2>1</>. (Resets each exchange cycle.)"
             },
             "AbilityAttributeType": "ECharacterCityAbilityType::NONE",
             "AbilityCityAttribute": [

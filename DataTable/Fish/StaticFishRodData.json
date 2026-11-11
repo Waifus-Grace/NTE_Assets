@@ -32,7 +32,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod01_name",
           "SourceString": "新手鱼竿",
-          "LocalizedString": "新手鱼竿"
+          "LocalizedString": "Fishing Rod I"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -51,13 +51,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod01_usedesc",
           "SourceString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度较低。\r\n鱼线耐久度：12",
-          "LocalizedString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度较低。\r\n鱼线耐久度：12"
+          "LocalizedString": "A fishing rod fitted with a low-durability fishing line.\r\nFishing Line Durability: 12"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod01_desc",
           "SourceString": "适于新手使用的木质鱼竿，因其较高的性价比，经常位居钓鱼爱好者网站中钓竿排行榜前十。",
-          "LocalizedString": "适于新手使用的木质鱼竿，因其较高的性价比，经常位居钓鱼爱好者网站中钓竿排行榜前十。"
+          "LocalizedString": "A wooden fishing rod designed for beginners. Its excellent value consistently places it among the top ten rods on fishing enthusiast websites."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -140,7 +140,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod02_name",
           "SourceString": "中级鱼竿",
-          "LocalizedString": "中级鱼竿"
+          "LocalizedString": "Fishing Rod II"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -159,13 +159,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod02_usedesc",
           "SourceString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度中等。同时将略微提高上钩的鱼的重量。\r\n鱼线耐久度：18",
-          "LocalizedString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度中等。同时将略微提高上钩的鱼的重量。\r\n鱼线耐久度：18"
+          "LocalizedString": "A fishing rod fitted with a medium-durability fishing line. Slightly increases the weight of caught fish.\r\nFishing Line Durability: 18"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod02_desc",
           "SourceString": "颇受钓鱼爱好者青睐的玻璃纤维制鱼竿，较高的材料强度使其更为耐用。",
-          "LocalizedString": "颇受钓鱼爱好者青睐的玻璃纤维制鱼竿，较高的材料强度使其更为耐用。"
+          "LocalizedString": "A fiberglass fishing rod favored by fishing enthusiasts. Its materials are strong and durable."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -307,7 +307,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod03_name",
           "SourceString": "高级鱼竿",
-          "LocalizedString": "高级鱼竿"
+          "LocalizedString": "Fishing Rod III"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -326,13 +326,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod03_usedesc",
           "SourceString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度较高。同时将小幅提高上钩的鱼的重量。\r\n鱼线耐久度：28",
-          "LocalizedString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度较高。同时将小幅提高上钩的鱼的重量。\r\n鱼线耐久度：28"
+          "LocalizedString": "A fishing rod fitted with a high-durability fishing line. Moderately increases the weight of caught fish.\r\nFishing Line Durability: 28"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod03_desc",
           "SourceString": "采用了碳纤维材料的钓竿，又称碳素竿，具有轻、坚实、抗拉强度高的特点，其酷炫的造型让无数钓鱼爱好者趋之若鹜。",
-          "LocalizedString": "采用了碳纤维材料的钓竿，又称碳素竿，具有轻、坚实、抗拉强度高的特点，其酷炫的造型让无数钓鱼爱好者趋之若鹜。"
+          "LocalizedString": "A carbon fiber fishing rod that is lightweight, sturdy, and has high tensile strength. Its sleek design has fishing enthusiasts everywhere wanting to buy one."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -474,7 +474,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod04_name",
           "SourceString": "钓王鱼竿",
-          "LocalizedString": "钓王鱼竿"
+          "LocalizedString": "Fishing Rod IV"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -493,13 +493,13 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod04_usedesc",
           "SourceString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度极高。同时将较大提高上钩的鱼的重量。\r\n鱼线耐久度：40",
-          "LocalizedString": "可用于钓鱼的鱼竿，其配备的鱼线耐久度极高。同时将较大提高上钩的鱼的重量。\r\n鱼线耐久度：40"
+          "LocalizedString": "A fishing rod fitted with an extremely durable fishing line. Greatly increases the weight of caught fish.\r\nFishing Line Durability: 40"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "FishRod04_desc",
           "SourceString": "采用航空级别的钛合金材料，并施加镀金工艺的最高级鱼竿，只有被成为钓鱼界王者之人才有资格拥有它。",
-          "LocalizedString": "采用航空级别的钛合金材料，并施加镀金工艺的最高级鱼竿，只有被成为钓鱼界王者之人才有资格拥有它。"
+          "LocalizedString": "The ultimate fishing rod, crafted from aerospace-grade titanium alloy and finished with gold plating. Only those worthy of the rank of master anglers are fit to wield one."
         },
         "LimitScenes": [],
         "ToolDatas": [],

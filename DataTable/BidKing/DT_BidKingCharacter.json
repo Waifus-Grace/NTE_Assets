@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter1_Name",
           "SourceString": "阿德勒",
-          "LocalizedString": "阿德勒"
+          "LocalizedString": "Adler"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_015.player_015",
@@ -31,19 +31,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter1_Desc",
           "SourceString": "盲人未必盲目。",
-          "LocalizedString": "盲人未必盲目。"
+          "LocalizedString": "Those without sight are not always blind to the truth."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character1_SkillName",
           "SourceString": "无鹿",
-          "LocalizedString": "无鹿"
+          "LocalizedString": "Blindsense"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character1_SkillDescFull",
           "SourceString": "第一回合展示所有白色品质藏品的轮廓；第二回合展示所有绿色品质藏品的轮廓；第三回合展示所有蓝色品质藏品的轮廓；第四回合展示所有紫色品质藏品的轮廓。",
-          "LocalizedString": "第一回合展示所有白色品质藏品的轮廓；第二回合展示所有绿色品质藏品的轮廓；第三回合展示所有蓝色品质藏品的轮廓；第四回合展示所有紫色品质藏品的轮廓。"
+          "LocalizedString": "Reveals collectible silhouettes by rarity: White in Round 1, Green in Round 2, Blue in Round 3, and Purple in Round 4."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -79,7 +79,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter2_Name",
           "SourceString": "哈尼娅",
-          "LocalizedString": "哈尼娅"
+          "LocalizedString": "Haniel"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_020.player_020",
@@ -93,19 +93,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter2_Desc",
           "SourceString": "抽卡99次，总会有好结果……的吧？",
-          "LocalizedString": "抽卡99次，总会有好结果……的吧？"
+          "LocalizedString": "After 99 pulls, surely something good has to happen… right?"
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character2_SkillName",
           "SourceString": "抽牌！",
-          "LocalizedString": "抽牌！"
+          "LocalizedString": "Draw!"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character2_SkillDescFull",
           "SourceString": "竞拍开始时，随机展示5件藏品的品质和轮廓。之后每回合展示2件信息完全未知藏品的品质。",
-          "LocalizedString": "竞拍开始时，随机展示5件藏品的品质和轮廓。之后每回合展示2件信息完全未知藏品的品质。"
+          "LocalizedString": "Reveals the rarity and silhouettes of 5 random collectibles at auction start, then reveals the rarity of 2 unknown collectibles each round after."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -142,7 +142,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter3_Name",
           "SourceString": "达芙蒂尔",
-          "LocalizedString": "达芙蒂尔"
+          "LocalizedString": "Daffodill"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_005.player_005",
@@ -156,19 +156,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter3_Desc",
           "SourceString": "一眼观全局。",
-          "LocalizedString": "一眼观全局。"
+          "LocalizedString": "She sees the whole board at a glance."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character3_SkillName",
           "SourceString": "千眼其一",
-          "LocalizedString": "千眼其一"
+          "LocalizedString": "Eye Among Thousands"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character3_SkillDescFull",
           "SourceString": "竞拍开始时，显示紫色，金色和红色品质藏品的总件数。",
-          "LocalizedString": "竞拍开始时，显示紫色，金色和红色品质藏品的总件数。"
+          "LocalizedString": "Reveals the total number of Purple-, Gold-, and Red-rarity collectibles at auction start."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -201,7 +201,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter4_Name",
           "SourceString": "九原",
-          "LocalizedString": "九原"
+          "LocalizedString": "Jiuyuan"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_104.player_104",
@@ -215,19 +215,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter4_Desc",
           "SourceString": "最重要的情报当然要优先看。",
-          "LocalizedString": "最重要的情报当然要优先看。"
+          "LocalizedString": "The most valuable intel always comes first, of course."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character4_SkillName",
           "SourceString": "玫约速递",
-          "LocalizedString": "玫约速递"
+          "LocalizedString": "Rose Pact Express"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character4_SkillDescFull",
           "SourceString": "竞拍开始时，随机展示一件品质最高的藏品的轮廓。此后每回合展示一件随机藏品的品质与轮廓。",
-          "LocalizedString": "竞拍开始时，随机展示一件品质最高的藏品的轮廓。此后每回合展示一件随机藏品的品质与轮廓。"
+          "LocalizedString": "Reveals the silhouette of 1 highest-rarity collectible at auction start. Each following round reveals the rarity and silhouette of 1 random collectible."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -264,7 +264,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter5_Name",
           "SourceString": "小吱",
-          "LocalizedString": "小吱"
+          "LocalizedString": "Chiz"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_073.player_073",
@@ -278,19 +278,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter5_Desc",
           "SourceString": "咬一口金苹果。",
-          "LocalizedString": "咬一口金苹果。"
+          "LocalizedString": "Go on, take a bite of the golden apple."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character5_SkillName",
           "SourceString": "下午茶",
-          "LocalizedString": "下午茶"
+          "LocalizedString": "Afternoon Tea"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character5_SkillDescFull",
           "SourceString": "竞拍开始时，随机展示8件藏品的轮廓。在第三回合显示第一回合展示的8件藏品。",
-          "LocalizedString": "竞拍开始时，随机展示8件藏品的轮廓。在第三回合显示第一回合展示的8件藏品。"
+          "LocalizedString": "Reveals the silhouettes of 8 random collectibles at auction start. In Round 3, reveals the identities of those same 8 collectibles from Round 1."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -324,7 +324,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter6_Name",
           "SourceString": "哈索尔",
-          "LocalizedString": "哈索尔"
+          "LocalizedString": "Hathor"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_012.player_012",
@@ -338,19 +338,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter6_Desc",
           "SourceString": "谋定而后动。",
-          "LocalizedString": "谋定而后动。"
+          "LocalizedString": "Plan first. Strike later."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character6_SkillName",
           "SourceString": "上膛",
-          "LocalizedString": "上膛"
+          "LocalizedString": "Loaded"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character6_SkillDescFull",
           "SourceString": "第五回合开始时，展示全部藏品的品质。",
-          "LocalizedString": "第五回合开始时，展示全部藏品的品质。"
+          "LocalizedString": "Reveals the rarity of all collectibles at the start of Round 5."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -383,7 +383,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter7_Name",
           "SourceString": "埃德嘉",
-          "LocalizedString": "埃德嘉"
+          "LocalizedString": "Edgar"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_021.player_021",
@@ -397,19 +397,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter7_Desc",
           "SourceString": "保守，也是一种策略。",
-          "LocalizedString": "保守，也是一种策略。"
+          "LocalizedString": "Playing it safe is still a strategy."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character7_SkillName",
           "SourceString": "图书馆守则",
-          "LocalizedString": "图书馆守则"
+          "LocalizedString": "Library Rules"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character7_SkillDescFull",
           "SourceString": "竞拍开始时，显示白色，绿色和蓝色品质藏品的品质和轮廓。",
-          "LocalizedString": "竞拍开始时，显示白色，绿色和蓝色品质藏品的品质和轮廓。"
+          "LocalizedString": "Reveals the rarity and silhouettes of all White-, Green-, and Blue-rarity collectibles at auction start."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -442,7 +442,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter8_Name",
           "SourceString": "浔",
-          "LocalizedString": "浔"
+          "LocalizedString": "Hotori"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_013.player_013",
@@ -456,19 +456,19 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter8_Desc",
           "SourceString": "不要小看古董店老板的眼光。",
-          "LocalizedString": "不要小看古董店老板的眼光。"
+          "LocalizedString": "Never underestimate the eye of an antique dealer."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character8_SkillName",
           "SourceString": "时间长河",
-          "LocalizedString": "时间长河"
+          "LocalizedString": "River of Time"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character8_SkillDescFull",
           "SourceString": "在第一到第三回合中，每回合展示1种未知的随机类型藏品的轮廓。在第五回合展示所有品质已知的藏品的轮廓。",
-          "LocalizedString": "在第一到第三回合中，每回合展示1种未知的随机类型藏品的轮廓。在第五回合展示所有品质已知的藏品的轮廓。"
+          "LocalizedString": "In Rounds 1–3, reveals the silhouette of 1 random collectible of unknown type. In Round 5, reveals the silhouettes of all collectibles with known rarity."
         },
         "UnlockQuestID": "None",
         "UnlockDesc": {
@@ -504,7 +504,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter9_Name",
           "SourceString": "黑羽",
-          "LocalizedString": "黑羽"
+          "LocalizedString": "Blackbird"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_012heiyu.player_012heiyu",
@@ -518,26 +518,26 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter9_Desc",
           "SourceString": "匿于阴影的珍宝，逃不过她的眼睛。",
-          "LocalizedString": "匿于阴影的珍宝，逃不过她的眼睛。"
+          "LocalizedString": "No treasure hidden in the shadows can escape her unerring eye."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character9_SkillName",
           "SourceString": "未卜先知",
-          "LocalizedString": "未卜先知"
+          "LocalizedString": "Second Sight"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character9_SkillDescFull",
           "SourceString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值\r\n命运的启言1-5概率均等，命运的启言6概率始终为15%。",
-          "LocalizedString": "在第一，第三，第五回合中随机揭示一条命运的启言。\r\n命运的启言1：展示本局藏品的总件数\r\n命运的启言2：随机展示1件最高品质藏品的轮廓\r\n命运的启言3：随机显示3件藏品\r\n命运的启言4：随机展示6件藏品的品质\r\n命运的启言5：随机展示6件藏品的轮廓\r\n命运的启言6：展示本局随机一件最高品质藏品的价值\r\n命运的启言1-5概率均等，命运的启言6概率始终为15%。"
+          "LocalizedString": "Randomly reveals one of Fate's Prophecies in rounds 1, 3, and 5.\r\nFate's Prophecy 1: Reveals the total number of collectibles in the match.\r\nFate's Prophecy 2: Reveals the silhouette of 1 random collectible of the highest rarity.\r\nFate's Prophecy 3: Randomly reveals 3 collectibles.\r\nFate's Prophecy 4: Randomly reveals the rarity of 6 collectibles.\r\nFate's Prophecy 5: Randomly reveals the silhouettes of 6 collectibles.\r\nFate's Prophecy 6: Reveals the value of 1 random collectible of the highest rarity in the match.\r\nFate's Prophecy 1–5 are equally likely to appear, while Fate's Prophecy 6 always has a 15% chance of appearing."
         },
         "UnlockQuestID": "S1_Heiyu",
         "UnlockDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_S1_Heiyu",
           "SourceString": "成功拍下10件红色藏品",
-          "LocalizedString": "成功拍下10件红色藏品"
+          "LocalizedString": "Win 10 bids on Red Collectibles."
         },
         "bDefaultUnLock": false,
         "SortIndex": 9,
@@ -566,7 +566,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter10_Name",
           "SourceString": "曳尔沐",
-          "LocalizedString": "曳尔沐"
+          "LocalizedString": "Elyms"
         },
         "MapMiniImage": {
           "AssetPathName": "/Game/UI/UI_Icon/Appearance/1090/Fashion_1090_0/200_Fashion_1090_0.200_Fashion_1090_0",
@@ -580,26 +580,26 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidCharacter10_Desc",
           "SourceString": "信息不足时，求助一下人脉网吧~",
-          "LocalizedString": "信息不足时，求助一下人脉网吧~"
+          "LocalizedString": "Not enough information? Try asking your contacts for help."
         },
         "SkillName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character10_SkillName",
           "SourceString": "神秘来电",
-          "LocalizedString": "神秘来电"
+          "LocalizedString": "Mystery Call"
         },
         "SkillDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "Character10_SkillDescFull",
           "SourceString": "每回合随机展示4件信息完全未知藏品的轮廓。若上回合出价并非最高，获得一条场外来电。\r\n场外来电将随机展示3件其他竞拍者的已知藏品信息，不会与自身已知信息重复。",
-          "LocalizedString": "每回合随机展示4件信息完全未知藏品的轮廓。若上回合出价并非最高，获得一条场外来电。\r\n场外来电将随机展示3件其他竞拍者的已知藏品信息，不会与自身已知信息重复。"
+          "LocalizedString": "Reveals the silhouettes of 4 randomly selected collectibles with no known info each round. If your bid wasn't the highest in the previous round, you receive an Insider Call.\r\nAn Insider Call randomly reveals info known to other bidders about 3 collectibles, excluding any info you already know."
         },
         "UnlockQuestID": "S1_Yeermu",
         "UnlockDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_Yeermu_Unlock",
-          "SourceString": "使用20次仪器",
-          "LocalizedString": "使用20次仪器"
+          "SourceString": "累计参加15场竞拍",
+          "LocalizedString": "Join 15 Auctions"
         },
         "bDefaultUnLock": false,
         "SortIndex": 10,

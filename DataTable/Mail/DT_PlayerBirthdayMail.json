@@ -20,26 +20,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1003",
           "SourceString": "特别作战成果",
-          "LocalizedString": "特别作战成果"
+          "LocalizedString": "Special Operation: Birthday Celebration"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1003",
           "SourceString": "特别作战成果",
-          "LocalizedString": "特别作战成果"
+          "LocalizedString": "Special Operation: Birthday Celebration"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1003",
           "SourceString": "\"前两天，娜娜莉抓着我和呆子要开个什么「特别作战会议」，还特意叮嘱我们不要告诉鉴定师，你这么聪明，肯定能猜到是要做什么吧？生日快乐咯！说起来娜娜莉真是的，完全不知道鉴定师会喜欢什么就拉着我们在新赫兰德区跑了一下午！\r\n当然，我也给你准备了生日礼物，放心，我保证它没有进过鬼郎丸的肚子，这两天要提防鬼郎丸把这个吃掉可费了我好大劲！\"",
-          "LocalizedString": "\"前两天，娜娜莉抓着我和呆子要开个什么「特别作战会议」，还特意叮嘱我们不要告诉鉴定师，你这么聪明，肯定能猜到是要做什么吧？生日快乐咯！说起来娜娜莉真是的，完全不知道鉴定师会喜欢什么就拉着我们在新赫兰德区跑了一下午！\r\n当然，我也给你准备了生日礼物，放心，我保证它没有进过鬼郎丸的肚子，这两天要提防鬼郎丸把这个吃掉可费了我好大劲！\""
+          "LocalizedString": "A few days ago, Nanally dragged the local idiot and me into some \"special ops meeting\" and made us promise not to tell you. You're clever—I bet you've already guessed what it was about, right? Happy Birthday!! Honestly, Nanally was such a headache about the whole thing… she had zero clue what you wanted, so she had us running all over the New Herland District for the entire afternoon!\r\nOf course, I personally got a birthday gift for you, too. Don't worry, I can attest that it hasn't been inside Kiroumaru's stomach… yet. Keeping that pig from eating it these past two days was a full-time job!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_003",
           "SourceString": "早雾",
-          "LocalizedString": "早雾"
+          "LocalizedString": "Sakiri"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -64,26 +64,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1004",
           "SourceString": "礼物的真容",
-          "LocalizedString": "礼物的真容"
+          "LocalizedString": "Is the Gift More Important Than the Meaning Behind It?"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1004",
           "SourceString": "礼物的真容",
-          "LocalizedString": "礼物的真容"
+          "LocalizedString": "Is the Gift More Important Than the Meaning Behind It?"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1004",
           "SourceString": "\"鉴定师，生日快乐。安魂曲，没记错吧……？唔……安魂曲，记在手机上了。应该，没记错。\r\n生日，很好，可以放假。还有，好朋友会送礼物。安魂曲，是鉴定师的好朋友，也想送礼物。但是，不知道送什么好。告诉了队里，一起去挑了。店里，礼物好多好多，安魂曲，眼睛花了……最后，选好了。鉴定师，拆开看看？\"",
-          "LocalizedString": "\"鉴定师，生日快乐。安魂曲，没记错吧……？唔……安魂曲，记在手机上了。应该，没记错。\r\n生日，很好，可以放假。还有，好朋友会送礼物。安魂曲，是鉴定师的好朋友，也想送礼物。但是，不知道送什么好。告诉了队里，一起去挑了。店里，礼物好多好多，安魂曲，眼睛花了……最后，选好了。鉴定师，拆开看看？\""
+          "LocalizedString": "Happy Birthday, Appraiser… Lacrimosa didn't get the date wrong… right? Huh… Lacrimosa made sure to write it down in her phone… It… should be right.\r\nBirthdays are really nice… You get to take the day off. And give gifts to good friends. The Appraiser is a good friend, so lacrimosa had to get a gift. But… Lacrimosa didn't know what to get. She went to the team for help, so we went out to pick out a gift together. There was so much stuff to choose from at the store… Lacrimosa started to get dizzy. But we finally picked something out. Appraiser, wanna take a look?"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_004",
           "SourceString": "安魂曲",
-          "LocalizedString": "安魂曲"
+          "LocalizedString": "Lacrimosa"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -108,26 +108,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1008",
           "SourceString": "生日快乐",
-          "LocalizedString": "生日快乐"
+          "LocalizedString": "Happy Birthday!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1008",
           "SourceString": "生日快乐",
-          "LocalizedString": "生日快乐"
+          "LocalizedString": "Happy Birthday!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1008",
           "SourceString": "生辰之际，谨代表异象管理局禁制机动队四队，前来致以诚挚的祝贺，生日快乐。\r\n这么郑重的话我想其他人是不会说的，就由我来传达吧……我们一直为能在管理局之外也有一位像鉴定师这样可靠的伙伴而倍感荣幸。\r\n今后也维持良好的合作关系吧。",
-          "LocalizedString": "生辰之际，谨代表异象管理局禁制机动队四队，前来致以诚挚的祝贺，生日快乐。\r\n这么郑重的话我想其他人是不会说的，就由我来传达吧……我们一直为能在管理局之外也有一位像鉴定师这样可靠的伙伴而倍感荣幸。\r\n今后也维持良好的合作关系吧。"
+          "LocalizedString": "On your birthday, I'd like to extend my sincere congratulations on behalf of the Bureau of Anomaly Control ETD-4.\r\nNot everyone would say something this formal, so I'll take the honor… We've always felt fortunate to have someone as dependable as you outside the Bureau.\r\nHere's to continuing our strong collaboration in the future."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_008",
           "SourceString": "翳",
-          "LocalizedString": "翳"
+          "LocalizedString": "Skia"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -152,26 +152,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1010",
           "SourceString": "来点惊喜",
-          "LocalizedString": "来点惊喜"
+          "LocalizedString": "Little Surprise"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1010",
           "SourceString": "来点惊喜",
-          "LocalizedString": "来点惊喜"
+          "LocalizedString": "Little Surprise"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1010",
           "SourceString": "\"生日快乐！！！我绝对是第一个跟你说祝福的吧，嘿嘿，这么重要的日子我可不会忘记。\r\n伊波恩的大家也都准备了礼物，蛋糕，书，奇怪的新发明，大姐头的没看到，看起来很小的一个盒子，早雾……早雾不告诉我是什么，说我知道了一定会提前告诉你，真是可惜。\r\n至于我的，我想了很久也不知道送什么，那就交给命运吧！拆到什么一定要记得告诉我，期待期待！！！\"",
-          "LocalizedString": "\"生日快乐！！！我绝对是第一个跟你说祝福的吧，嘿嘿，这么重要的日子我可不会忘记。\r\n伊波恩的大家也都准备了礼物，蛋糕，书，奇怪的新发明，大姐头的没看到，看起来很小的一个盒子，早雾……早雾不告诉我是什么，说我知道了一定会提前告诉你，真是可惜。\r\n至于我的，我想了很久也不知道送什么，那就交给命运吧！拆到什么一定要记得告诉我，期待期待！！！\""
+          "LocalizedString": "HAPPPPPPPY BIRTHDAAAAAY!!! I was the first to message you, right? I stayed up all night to make sure…\r\nEveryone at Eibon got you a whole bunch of stuff—cake, books, some weird new tech… I didn't actually see our Boss's present, just a tiny little box with your name on it. As for Sakiri's gift… she wouldn't tell me she got you. She said if I'd knew, I'd totally spill the beans. AS IF!!\r\nI couldn't sleep trying to come up with a gift for you, so I left it in the hands of the universe! Whatever you get, you gotta' let me know, OK? I'm dying to know!!!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_010",
           "SourceString": "娜娜莉",
-          "LocalizedString": "娜娜莉"
+          "LocalizedString": "Nanally"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -196,26 +196,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1019",
           "SourceString": "可可专属惊喜派送中",
-          "LocalizedString": "可可专属惊喜派送中"
+          "LocalizedString": "Special Delivery! An Awesome, Incredible, Fantastic Surprise Just for Coco!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1019",
           "SourceString": "可可专属惊喜派送中",
-          "LocalizedString": "可可专属惊喜派送中"
+          "LocalizedString": "Special Delivery! An Awesome, Incredible, Fantastic Surprise Just for Coco!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1019",
           "SourceString": "\"咚咚咚！这里是踏着风而来的薄荷物流为可可送上的生日速递！请亲自签收，并支付派送费哦！我要——看到可可你今天最幸福的笑容！！！\r\n来来来，在「生日快乐！」的明信片上盖上一个大大的笑脸戳！拆开我为可可准备的专属惊喜吧！\"",
-          "LocalizedString": "\"咚咚咚！这里是踏着风而来的薄荷物流为可可送上的生日速递！请亲自签收，并支付派送费哦！我要——看到可可你今天最幸福的笑容！！！\r\n来来来，在「生日快乐！」的明信片上盖上一个大大的笑脸戳！拆开我为可可准备的专属惊喜吧！\""
+          "LocalizedString": "Knock, knock! Mint Logistics here, running like the wind to deliver something for Coco! Please make sure you're at home to receive the gift and sign for it (the delivery fee will be billed to your account)!! I'd better see your biggest, brightest smile today!\r\nChop chop! Draw a smiley face on this 'Happy Birthday' card and open the exclusive surprise I got just for you, Coco!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_019",
           "SourceString": "薄荷",
-          "LocalizedString": "薄荷"
+          "LocalizedString": "Mint"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -240,26 +240,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1020",
           "SourceString": "超级大奇遇",
-          "LocalizedString": "超级大奇遇"
+          "LocalizedString": "The Ultimate Encounter!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1020",
           "SourceString": "超级大奇遇",
-          "LocalizedString": "超级大奇遇"
+          "LocalizedString": "The Ultimate Encounter!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1020",
           "SourceString": "\"鉴定师，告诉你一个超大——的秘密，那就是我今天早上送快递路过一棵树的时候，我突然发现，我竟然能够听懂小鸟的叫声！这么神奇的事情怎么能错过，于是机智的哈尼娅立刻停下车，仔细地听小鸟在说什么，它说——\r\n「祝鉴定师生日快乐！」\r\n于是，树下的哈尼娅也说：「祝鉴定师生日快乐！」\r\n现在鉴定师收到了双份的祝福，不过光有祝福还不够，哼哼，伟大的哈尼娅大人还准备了一份超大——的礼物！\r\n「如果鉴定师不喜欢礼物怎么办？」小鸟问。\r\n「哦？你在质疑全知全能的哈尼娅大人吗？不必担心，今天的哈尼娅会实现你所有的愿望，说到做到！」\"",
-          "LocalizedString": "\"鉴定师，告诉你一个超大——的秘密，那就是我今天早上送快递路过一棵树的时候，我突然发现，我竟然能够听懂小鸟的叫声！这么神奇的事情怎么能错过，于是机智的哈尼娅立刻停下车，仔细地听小鸟在说什么，它说——\r\n「祝鉴定师生日快乐！」\r\n于是，树下的哈尼娅也说：「祝鉴定师生日快乐！」\r\n现在鉴定师收到了双份的祝福，不过光有祝福还不够，哼哼，伟大的哈尼娅大人还准备了一份超大——的礼物！\r\n「如果鉴定师不喜欢礼物怎么办？」小鸟问。\r\n「哦？你在质疑全知全能的哈尼娅大人吗？不必担心，今天的哈尼娅会实现你所有的愿望，说到做到！」\""
+          "LocalizedString": "Appraiser, I've got a super-duper top-secret to tell you—this morning, while I was out delivering packages, I passed a big tree with a bunch of birds chirping, and I suddenly realized… I could actually understand what the birds were saying! Isn't that crazy? I couldn't bear to walk away from something so magical, so the brilliant Haniel slammed on the brakes, perked her ears, and listened carefully to what each little birdie had to say. Unsurprisingly, they all had the same message—\r\n\"Happy birthday, Appraiser!\"\r\nNaturally, Haniel also yelled, \"Happy birthday, Appraiser!\"\r\nNow the Appraiser's got twice the amount of \"happy birthday\" messages. But well-wishes alone aren't enough, hmph. The great Haniel has also prepared a huuuuge gift just for you!\r\n\"What if the Appraiser doesn't like the gift?\" one of the little birdies asked.\r\n\"Oh? Are you doubting the all-knowing, all-powerful Haniel?\" I responded. \"No need to worry—today, Haniel will grant your every wish. If you want it, I'll make it happen!\""
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_020",
           "SourceString": "哈尼娅",
-          "LocalizedString": "哈尼娅"
+          "LocalizedString": "Haniel"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -284,26 +284,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1021",
           "SourceString": "最好的生日礼物是？",
-          "LocalizedString": "最好的生日礼物是？"
+          "LocalizedString": "What's the Best Birthday Gift…?"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1021",
           "SourceString": "最好的生日礼物是？",
-          "LocalizedString": "最好的生日礼物是？"
+          "LocalizedString": "What's the Best Birthday Gift…?"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1021",
           "SourceString": "生日快乐，鉴定师。鉴定师觉得最好的生日礼物是什么？希望这份礼物合你的心意。如果这次与你心中最好的礼物有所差距的话……希望下次的礼物能更接近一点点：D",
-          "LocalizedString": "生日快乐，鉴定师。鉴定师觉得最好的生日礼物是什么？希望这份礼物合你的心意。如果这次与你心中最好的礼物有所差距的话……希望下次的礼物能更接近一点点：D"
+          "LocalizedString": "Happy birthday, Appraiser. Would you happen to know what the best possible gift to get someone is? I hope the one I got for you is good enough. If it wasn't exactly what you wanted, then… I'll just have to get a better one next time. :D"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_021",
           "SourceString": "埃德嘉",
-          "LocalizedString": "埃德嘉"
+          "LocalizedString": "Edgar"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -328,26 +328,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1023",
           "SourceString": "祝你是你",
-          "LocalizedString": "祝你是你"
+          "LocalizedString": "Stay True to Yourself"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1023",
           "SourceString": "祝你是你",
-          "LocalizedString": "祝你是你"
+          "LocalizedString": "Stay True to Yourself"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1023",
           "SourceString": "难怪我这最近总是睡不好，一不小心翘了几次班，总预感有大事将临……原来是因为有人今天过生日！！过生日很好，这对你的健康有益。研究表明，生日过得越多，寿命就越长！至于生日祝福……我不怎么祝对方「顺意」、「快乐」之类的，毕竟长路漫漫啊~何来坦途？就祝你是你，无所谓意义吧<(￣︶￣)>。",
-          "LocalizedString": "难怪我这最近总是睡不好，一不小心翘了几次班，总预感有大事将临……原来是因为有人今天过生日！！过生日很好，这对你的健康有益。研究表明，生日过得越多，寿命就越长！至于生日祝福……我不怎么祝对方「顺意」、「快乐」之类的，毕竟长路漫漫啊~何来坦途？就祝你是你，无所谓意义吧<(￣︶￣)>。"
+          "LocalizedString": "No wonder my sleep's been garbo lately. I've even been skipping work, totes convinced that something huge was about to go down… turns out it's just because it's *someone's* birthday today!! Having birthdays is actually great for your health, by the way. Research shows that the more birthdays you have, the longer you live (factual, by the way). As for the well-wishes… I'm not really the type to say things like 'stay young' or 'keep that chin up'. Life's a long road—since when was it ever a smooth ride? I'm just hopin' that you continue being you. No deeper meaning, just good vibes!<(￣︶￣)>"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_023",
           "SourceString": "白藏",
-          "LocalizedString": "白藏"
+          "LocalizedString": "Baicang"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -372,26 +372,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1025",
           "SourceString": "24小时响应",
-          "LocalizedString": "24小时响应"
+          "LocalizedString": "24-Hour Expedited Response"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1025",
           "SourceString": "24小时响应",
-          "LocalizedString": "24小时响应"
+          "LocalizedString": "24-Hour Expedited Response"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1025",
           "SourceString": "\"路线确定、快递装载，然后发动引擎，这些是我每天都在重复的流程，本来今天也和往常一样，只是快递的目的却略有不同，它不是通往一个个的目标，而是去了一个地方，给了一个明确的人。\r\n我不太擅长庆祝，也不太擅长说些让人开心的话，比起说出些什么，或许我更擅长做出点什么。\r\n——生日快乐，鉴定师。\r\n如果不是担心擅自的出现也许会变成打扰，可能特别的时间点，以及当面说出这句话才足够表明诚意。\r\n愿你一年顺风顺遂、目标清晰、路况稳定，如果有什么需要，不妨告诉我，斯特利的精英快递员将随时为你服务。\"",
-          "LocalizedString": "\"路线确定、快递装载，然后发动引擎，这些是我每天都在重复的流程，本来今天也和往常一样，只是快递的目的却略有不同，它不是通往一个个的目标，而是去了一个地方，给了一个明确的人。\r\n我不太擅长庆祝，也不太擅长说些让人开心的话，比起说出些什么，或许我更擅长做出点什么。\r\n——生日快乐，鉴定师。\r\n如果不是担心擅自的出现也许会变成打扰，可能特别的时间点，以及当面说出这句话才足够表明诚意。\r\n愿你一年顺风顺遂、目标清晰、路况稳定，如果有什么需要，不妨告诉我，斯特利的精英快递员将随时为你服务。\""
+          "LocalizedString": "Route locked, package loaded, engine on—that's my daily mantra, day in, day out. Today was supposed to be the same… except this delivery's a little different. It's not headed for a bunch of different addresses on a list. It's going to one place, for one very specific person…\r\nI'm not great at celebrations, and I don't care for those 'feel-good' lines. I prefer actions over words. So,\r\n—Happy Birthday, Appraiser.\r\nIf I didn't fear that showing up in person might bother you, I would've already been right in front of you, saying these words to you myself.\r\nHopefully your future is full of clear skies and smooth sailing. If you ever need anything, just let me know—Sterry's Elite Courier is on call for you, anytime."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_025",
           "SourceString": "哈索尔",
-          "LocalizedString": "哈索尔"
+          "LocalizedString": "Hathor"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -416,26 +416,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1033",
           "SourceString": "生日快乐",
-          "LocalizedString": "生日快乐"
+          "LocalizedString": "Happy Birthday!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1033",
           "SourceString": "生日快乐",
-          "LocalizedString": "生日快乐"
+          "LocalizedString": "Happy Birthday!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1033",
           "SourceString": "\"鉴定师，生日快乐。\r\n作为鉴定师来到伊波恩的第一个生日，虽说鄙人准备了一些礼物，多少还是有些仓促了，还望鉴定师不要介意。伊波恩的大家也都准备了礼物，今日鉴定师就好好放松一下吧，至于委托相关就由鄙人代劳吧。\r\n最后，欢迎加入伊波恩，鉴定师。\"",
-          "LocalizedString": "\"鉴定师，生日快乐。\r\n作为鉴定师来到伊波恩的第一个生日，虽说鄙人准备了一些礼物，多少还是有些仓促了，还望鉴定师不要介意。伊波恩的大家也都准备了礼物，今日鉴定师就好好放松一下吧，至于委托相关就由鄙人代劳吧。\r\n最后，欢迎加入伊波恩，鉴定师。\""
+          "LocalizedString": "Happy birthday, Appraiser.\r\nAs this is your first birthday in Eibon as our Appraiser, I have prepared a few gifts for you. They were put together somewhat in haste, so I hope you'll overlook any shortcomings. Everyone in Eibon has prepared gifts as well, so please, take the day to truly relax. I shall handle any of your commissions in your stead.\r\nAnd, of course—welcome to Eibon."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_033",
           "SourceString": "阿德勒",
-          "LocalizedString": "阿德勒"
+          "LocalizedString": "Adler"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -460,26 +460,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1039",
           "SourceString": "世界赞礼",
-          "LocalizedString": "世界赞礼"
+          "LocalizedString": "Global Tribute"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1039",
           "SourceString": "世界赞礼",
-          "LocalizedString": "世界赞礼"
+          "LocalizedString": "Global Tribute"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1039",
           "SourceString": "\"生日快乐啊~\r\n在这一天，世界一边剥夺了你对于出生的决定权，一边又给予你在当天能获得什么的欲求权——可喜可贺！想要什么、会许下什么愿望……不要吝啬地全部告诉我吧。\r\n以及，我给你准备了一个东西，绝对是你没见过的……今晚来找我，我会交给你。\r\n哎呀呀，真期待你会露出什么样的表情呢~~\"",
-          "LocalizedString": "\"生日快乐啊~\r\n在这一天，世界一边剥夺了你对于出生的决定权，一边又给予你在当天能获得什么的欲求权——可喜可贺！想要什么、会许下什么愿望……不要吝啬地全部告诉我吧。\r\n以及，我给你准备了一个东西，绝对是你没见过的……今晚来找我，我会交给你。\r\n哎呀呀，真期待你会露出什么样的表情呢~~\""
+          "LocalizedString": "Happy Birthday, sweet thing~\r\nOn this day, however long ago, the world robbed you of your decision to decide on whether you wanted to be born or not—congratulations! So, what's it gonna be? What kind of wish are you cooking up? Don't be shy, spill everything. I want to all of it.\r\nAlso, I might've… gotten you a little something. Guaranteed to be unlike anything you've ever seen. Swing by tonight, and it's yours.\r\nOoh, I can't wait to see the look on your face~~!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_039",
           "SourceString": "法帝娅",
-          "LocalizedString": "法帝娅"
+          "LocalizedString": "Fadia"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -504,26 +504,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1052",
           "SourceString": "来自你的好店长",
-          "LocalizedString": "来自你的好店长"
+          "LocalizedString": "From Your Favorite Store Manager"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1052",
           "SourceString": "来自你的好店长",
-          "LocalizedString": "来自你的好店长"
+          "LocalizedString": "From Your Favorite Store Manager"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1052",
           "SourceString": "大喜的日子破例给你放个假吧。如今这个世道，像我这样懂得关怀员工的老板可不多见了，你得好好珍惜啊，别被某些送快递的勾勾手指头就给糊弄去了。我让阿德勒准备了一桌好菜，还有我喜欢的你喜欢的美酒！敞开肚子大方地吃！小鬼们今天都算沾你的光！对了——许愿的时候顺便带咱们店一起许一个，你知道的……",
-          "LocalizedString": "大喜的日子破例给你放个假吧。如今这个世道，像我这样懂得关怀员工的老板可不多见了，你得好好珍惜啊，别被某些送快递的勾勾手指头就给糊弄去了。我让阿德勒准备了一桌好菜，还有我喜欢的你喜欢的美酒！敞开肚子大方地吃！小鬼们今天都算沾你的光！对了——许愿的时候顺便带咱们店一起许一个，你知道的……"
+          "LocalizedString": "It's your big day, so I'll let you off the hook. Enjoy your day off. In this day and age, a manager who actually cares about her employees is basically nonexistent. So appreciate me while you still can! Don't let those food delivery gigs delude you with all that talk of \"work-life balance\". I've had Adler prepare a ton of food—even the expensive stuff. I tried some of it, and it's pretty good. The little rascals will get to enjoy the day because of you. While you're at it, throw a coin in the fountain for the shop!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_052",
           "SourceString": "浔",
-          "LocalizedString": "浔"
+          "LocalizedString": "Hotori"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -548,26 +548,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1054",
           "SourceString": "多多指教",
-          "LocalizedString": "多多指教"
+          "LocalizedString": "Relying on Your Mentorship"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1054",
           "SourceString": "多多指教",
-          "LocalizedString": "多多指教"
+          "LocalizedString": "Relying on Your Mentorship"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1054",
           "SourceString": "上次训练的时候，看到你的武器有一点老损。记得按时维护器具，不要受伤了。今天有什么想吃的菜吗？虽然我不擅长烹饪……但我可以买一些，请教一下阿德勒先生。还有，今夜会有个好月亮，适合许愿。生日快乐，往后也请多多指教。",
-          "LocalizedString": "上次训练的时候，看到你的武器有一点老损。记得按时维护器具，不要受伤了。今天有什么想吃的菜吗？虽然我不擅长烹饪……但我可以买一些，请教一下阿德勒先生。还有，今夜会有个好月亮，适合许愿。生日快乐，往后也请多多指教。"
+          "LocalizedString": "I noticed your weapon was looking a bit dull during our last training session. Make sure you're keeping up with the maintenance—I don't want you to get hurt. Actually, uh… Is there anything special you'd like to eat today? I'm not exactly a pro in the kitchen… but I can pick up some stuff from the store and maybe get some pointers from Mr. Adler. Also, I heard that the moon is going to be out in full tonight—the kind of night perfect for making a couple of wishes. Anyway… Happy Birthday. I'm looking forward to what the future brings."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_005",
           "SourceString": "达芙蒂尔",
-          "LocalizedString": "达芙蒂尔"
+          "LocalizedString": "Daffodill"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -592,26 +592,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1055",
           "SourceString": "专属签收",
-          "LocalizedString": "专属签收"
+          "LocalizedString": "Soulbound"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1055",
           "SourceString": "专属签收",
-          "LocalizedString": "专属签收"
+          "LocalizedString": "Soulbound"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1055",
           "SourceString": "\"生日快乐，鉴定师。\r\n斯特利速递待客一向讲究，重要的日子若只托人带句话，总显得不够诚意。既然今日与你相关，我自然得亲自出面派送。礼物和祝福都已经在路上了，只差最后一道手续。\r\n——若你方便，不如来亲自签收？\"",
-          "LocalizedString": "\"生日快乐，鉴定师。\r\n斯特利速递待客一向讲究，重要的日子若只托人带句话，总显得不够诚意。既然今日与你相关，我自然得亲自出面派送。礼物和祝福都已经在路上了，只差最后一道手续。\r\n——若你方便，不如来亲自签收？\""
+          "LocalizedString": "Happy birthday, Appraiser.\r\nSterry Express prides itself on its brand image—just sending a voicemail on your big day isn't enough. Since today's all about you, I had to personally oversee the delivery of your gift. The gifts themselves are already on their way. All that's left is the letter.\r\nIf you're free, why not come over and see it for yourself?"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_055",
           "SourceString": "九原",
-          "LocalizedString": "九原"
+          "LocalizedString": "Jiuyuan"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -636,26 +636,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1070",
           "SourceString": "关于您生日相关事宜的通知",
-          "LocalizedString": "关于您生日相关事宜的通知"
+          "LocalizedString": "The title for Haiyue is currently unavailable."
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1070",
           "SourceString": "关于您生日相关事宜的通知",
-          "LocalizedString": "关于您生日相关事宜的通知"
+          "LocalizedString": "The title for Haiyue is currently unavailable."
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1070",
           "SourceString": "致鉴定师：\r\n您好。\r\n兹通知您，经本委员会查证，今日确系您的生日，请您知悉。\r\n\r\n鉴于鉴定师的生日为重要节日，本委员会建议您采取以下措施，以确保本日顺利度过：\r\n一、请勿照常上班！如条件不允许，请至少提前下班，和重要的亲友共度。\r\n二、请确保今日摄入足量甜食。如您暂无准备，本委员会可提供足量甜点支援，请及时回函告知口味偏好及数量。\r\n三、请勿忘于今日结束前许下愿望。具体内容无需上报，本委员会不作干涉，但将衷心祝愿其顺利实现。\r\n\r\n如您在庆祝过程中遭遇突发状况，可随时联系本委员会工作人员，我们将立即前往解决。\r\n\r\n此致\r\n鉴定师庆生委员会（暂定）\r\n海月\r\n\r\nP.S.真的很感谢你出生在这个世界上。生日快乐！",
-          "LocalizedString": "致鉴定师：\r\n您好。\r\n兹通知您，经本委员会查证，今日确系您的生日，请您知悉。\r\n\r\n鉴于鉴定师的生日为重要节日，本委员会建议您采取以下措施，以确保本日顺利度过：\r\n一、请勿照常上班！如条件不允许，请至少提前下班，和重要的亲友共度。\r\n二、请确保今日摄入足量甜食。如您暂无准备，本委员会可提供足量甜点支援，请及时回函告知口味偏好及数量。\r\n三、请勿忘于今日结束前许下愿望。具体内容无需上报，本委员会不作干涉，但将衷心祝愿其顺利实现。\r\n\r\n如您在庆祝过程中遭遇突发状况，可随时联系本委员会工作人员，我们将立即前往解决。\r\n\r\n此致\r\n鉴定师庆生委员会（暂定）\r\n海月\r\n\r\nP.S.真的很感谢你出生在这个世界上。生日快乐！"
+          "LocalizedString": "The title for Haiyue is currently unavailable."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_070",
           "SourceString": "海月",
-          "LocalizedString": "海月"
+          "LocalizedString": "Aurelia"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -680,26 +680,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1073",
           "SourceString": "都要开心呀",
-          "LocalizedString": "都要开心呀"
+          "LocalizedString": "Be Happy!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1073",
           "SourceString": "都要开心呀",
-          "LocalizedString": "都要开心呀"
+          "LocalizedString": "Be Happy!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1073",
           "SourceString": "\"祝你生日快乐！\r\n我看到你呗果主页上写的日期是今天，希望没有出错……出错的话，就补上生日快乐，或者提前生日快乐！虽然我的祝福应该不是很重要，但还是想说给你听。\r\n我做了蛋糕，还准备了生日礼物。来了海特洛市我才知道，原来过生日的时候大家都会吃蛋糕送礼物。在准备礼物的时候，期待的情绪就一直满满的，原来就算不是自己的生日也会让人这么开心。至于礼物是什么，我想先保密，等见面之后再告诉你吧。\"",
-          "LocalizedString": "\"祝你生日快乐！\r\n我看到你呗果主页上写的日期是今天，希望没有出错……出错的话，就补上生日快乐，或者提前生日快乐！虽然我的祝福应该不是很重要，但还是想说给你听。\r\n我做了蛋糕，还准备了生日礼物。来了海特洛市我才知道，原来过生日的时候大家都会吃蛋糕送礼物。在准备礼物的时候，期待的情绪就一直满满的，原来就算不是自己的生日也会让人这么开心。至于礼物是什么，我想先保密，等见面之后再告诉你吧。\""
+          "LocalizedString": "Happy Birthday!\r\nI saw on your Bagel profile that today's your day—Hopefully I got the date right… If I didn't, consider this a belated happy birthday… or an early one! Even if my little message doesn't mean much, I still wanted to let you know!\r\nActually, I baked a cake and even got you a gift. I only found out after moving to Hethereau that everyone here does the cake-and-presents thing for birthdays. I was super excited planning and prepping your gift—who knew you could be this happy for someone else? As for the gift, I'm gonna keep it under wraps for now. I'll tell you once we meet up!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_073",
           "SourceString": "小吱",
-          "LocalizedString": "小吱"
+          "LocalizedString": "Chiz"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -724,26 +724,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1071",
           "SourceString": "[邮件标题为空]",
-          "LocalizedString": "[邮件标题为空]"
+          "LocalizedString": "Pre-writing"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1071",
           "SourceString": "[邮件标题为空]",
-          "LocalizedString": "[邮件标题为空]"
+          "LocalizedString": "Pre-writing"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1071",
           "SourceString": "[语音输入中]\r\n鉴定师，生日快乐！\r\n当然了，这么重要的日子里，只有一句生日快乐是不够的。所以我准备了「极限99」的超级会员卡，咱们一起去玩个痛快？\r\n噢不过，想必你还有很多其他朋友，又或者早早安排好生日派对了，我这个临时的邀请还是太仓促了……没关系，来不来都随意，我随时奉陪哦！\r\n总之祝你今天过得开心！也不止今天，将来也要多过开心的日子！\r\n\r\n发送\r\n发送\r\n怎么发不出去\r\n难道是这个按\r\n[已发送]",
-          "LocalizedString": "[语音输入中]\r\n鉴定师，生日快乐！\r\n当然了，这么重要的日子里，只有一句生日快乐是不够的。所以我准备了「极限99」的超级会员卡，咱们一起去玩个痛快？\r\n噢不过，想必你还有很多其他朋友，又或者早早安排好生日派对了，我这个临时的邀请还是太仓促了……没关系，来不来都随意，我随时奉陪哦！\r\n总之祝你今天过得开心！也不止今天，将来也要多过开心的日子！\r\n\r\n发送\r\n发送\r\n怎么发不出去\r\n难道是这个按\r\n[已发送]"
+          "LocalizedString": "Pre-writing"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_071",
           "SourceString": "卡厄斯",
-          "LocalizedString": "卡厄斯"
+          "LocalizedString": "Chaos"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -768,26 +768,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1075",
           "SourceString": "特别的礼物",
-          "LocalizedString": "特别的礼物"
+          "LocalizedString": "Pre-writing"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1075",
           "SourceString": "特别的礼物",
-          "LocalizedString": "特别的礼物"
+          "LocalizedString": "Pre-writing"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1075",
           "SourceString": ">w<鉴定师，生日快乐！！\r\n之前一直没机会问，鉴定师想要什么样的生日礼物呢？\r\n我的设想是，请鉴定师来做一场美梦~不过细想又觉得这样听起来好小气呀，我只是和平常一样使用异能而已，这又算得上什么特别的礼物呢？所以，如果鉴定师有什么别的想要的礼物，可以直接告诉我哦！「美梦一日游」也会照常给鉴定师留着的哦！\r\n或者，鉴定师有没有兴趣进到我梦里的象牙门看看呢？在生日重新体会自己从胚胎慢慢变成人的感觉……听起来很应景呢OwO",
-          "LocalizedString": ">w<鉴定师，生日快乐！！\r\n之前一直没机会问，鉴定师想要什么样的生日礼物呢？\r\n我的设想是，请鉴定师来做一场美梦~不过细想又觉得这样听起来好小气呀，我只是和平常一样使用异能而已，这又算得上什么特别的礼物呢？所以，如果鉴定师有什么别的想要的礼物，可以直接告诉我哦！「美梦一日游」也会照常给鉴定师留着的哦！\r\n或者，鉴定师有没有兴趣进到我梦里的象牙门看看呢？在生日重新体会自己从胚胎慢慢变成人的感觉……听起来很应景呢OwO"
+          "LocalizedString": "Pre-writing"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_075",
           "SourceString": "伊洛伊",
-          "LocalizedString": "伊洛伊"
+          "LocalizedString": "Iroi"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -812,26 +812,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1076",
           "SourceString": "故事的开端",
-          "LocalizedString": "故事的开端"
+          "LocalizedString": "Pre-writing"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Title_1076",
           "SourceString": "故事的开端",
-          "LocalizedString": "故事的开端"
+          "LocalizedString": "Pre-writing"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_Content_1076",
           "SourceString": "\"……我试着烤了蛋糕。\r\n薄荷原本想来帮忙，但我没让她插手——这大概是个正确的决定，她倒是也很乐意当个试吃员。烘焙比我想象中还要复杂，虽说大笨猫对那些试作品的评价很高，不过我还是有点没自信……所以我想还是再准备一样礼物好了。\r\n它算不上特别，背后也没什么逸闻趣事。也许到了明年同样的日子，可以再来看看它有没有什么特别的经历……而且到那时肯定也会有新的礼物来和它作伴吧，我猜的。\r\n——总之，生日快乐。\"",
-          "LocalizedString": "\"……我试着烤了蛋糕。\r\n薄荷原本想来帮忙，但我没让她插手——这大概是个正确的决定，她倒是也很乐意当个试吃员。烘焙比我想象中还要复杂，虽说大笨猫对那些试作品的评价很高，不过我还是有点没自信……所以我想还是再准备一样礼物好了。\r\n它算不上特别，背后也没什么逸闻趣事。也许到了明年同样的日子，可以再来看看它有没有什么特别的经历……而且到那时肯定也会有新的礼物来和它作伴吧，我猜的。\r\n——总之，生日快乐。\""
+          "LocalizedString": "Pre-writing"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_076",
           "SourceString": "真红",
-          "LocalizedString": "真红"
+          "LocalizedString": "Crimson"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -856,26 +856,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1036_title",
           "SourceString": "久疏问候",
-          "LocalizedString": "久疏问候"
+          "LocalizedString": "Long-Overdue Greeting"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1036_title",
           "SourceString": "久疏问候",
-          "LocalizedString": "久疏问候"
+          "LocalizedString": "Long-Overdue Greeting"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1036_Content",
           "SourceString": "别来无恙，备受人们喜爱的寿星，很遗憾，你收到的祝贺是来自我，希望你不要太过介怀。\r\n为了弥补被我糟蹋掉的好心情，如果你需要的话，我可以陪你去任何地方，或者像往常一样，在家里度过安详宁静的一日，又或者，我可以如你的愿，暂时从你的眼前和脑中消失一阵……至于多久，取决于你何时又想见我。\r\n你有什么愿望么？或者说，你一直以来的愿望都是什么样的呢？至少今天，我愿意替你实现。\r\n不管你怎么想，生日快乐，鉴定师，这是我真诚的愿望。",
-          "LocalizedString": "别来无恙，备受人们喜爱的寿星，很遗憾，你收到的祝贺是来自我，希望你不要太过介怀。\r\n为了弥补被我糟蹋掉的好心情，如果你需要的话，我可以陪你去任何地方，或者像往常一样，在家里度过安详宁静的一日，又或者，我可以如你的愿，暂时从你的眼前和脑中消失一阵……至于多久，取决于你何时又想见我。\r\n你有什么愿望么？或者说，你一直以来的愿望都是什么样的呢？至少今天，我愿意替你实现。\r\n不管你怎么想，生日快乐，鉴定师，这是我真诚的愿望。"
+          "LocalizedString": "I trust you've been well, dear birthday celebrant so beloved by all. Regrettably, the congratulations you've received are from me, so I hope you won't mind too much.\r\nTo make amends for the good mood I've spoiled, I can accompany you anywhere, or we can spend a serene, quiet day at home as usual, if you wish. Or, if it is your desire, I can disappear from your sight and thoughts for a time… As for how long, that depends on when you would wish to see me again.\r\nDo you have a wish? Or rather, what is it you've always wished for? At least for today, I am willing to grant it.\r\nNo matter what you may think: Happy Birthday, Appraiser."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_036",
           "SourceString": "残虹",
-          "LocalizedString": "残虹"
+          "LocalizedString": " "
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -900,19 +900,19 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1072_title",
           "SourceString": "哔啵~生日祝福！",
-          "LocalizedString": "哔啵~生日祝福！"
+          "LocalizedString": "Beep Boop~ Birthday Wishes!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1072_title",
           "SourceString": "哔啵~生日祝福！",
-          "LocalizedString": "哔啵~生日祝福！"
+          "LocalizedString": "Beep Boop~ Birthday Wishes!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1072_Content",
           "SourceString": "鉴定师鉴定师！生日快乐！\r\n从今天一早我就在想，该怎么给鉴定师一个超大的生日惊喜，比如做一份宇宙级生日蛋糕！或者一起去噗卡乐园玩一整天！或者让小贞戴着猫耳给你唱猫语的生日快乐歌（但她只同意了戴猫耳）！或者什——么都不做，我们一起打打游戏，看看电影，发发呆——只要开心地过就好！\r\n鉴定师今年会有什么样的愿望呢？我好想知道……对电波同频的我们来说，所有的愿望，都会变成我们共同的愿望吧！\r\n祝鉴定师生日快乐，明年、十年、一万年之后的生日！都要开开心心！",
-          "LocalizedString": "鉴定师鉴定师！生日快乐！\r\n从今天一早我就在想，该怎么给鉴定师一个超大的生日惊喜，比如做一份宇宙级生日蛋糕！或者一起去噗卡乐园玩一整天！或者让小贞戴着猫耳给你唱猫语的生日快乐歌（但她只同意了戴猫耳）！或者什——么都不做，我们一起打打游戏，看看电影，发发呆——只要开心地过就好！\r\n鉴定师今年会有什么样的愿望呢？我好想知道……对电波同频的我们来说，所有的愿望，都会变成我们共同的愿望吧！\r\n祝鉴定师生日快乐，明年、十年、一万年之后的生日！都要开开心心！"
+          "LocalizedString": "Appraiser, Appraiser! Happy birthday!\r\nI've been thinking since this morning about how to give you a huge birthday surprise—like making a galaxy-sized birthday cake! Or spending the whole day at Pukaland together! Or having Xiaozhen wear cat ears and sing Happy Birthday to you in cat language (she only agreed to wear the cat ears, though)! Or do ab-so-lutely nothing—we could play games, watch movies, and just space out together—as long as we're having fun, it doesn't matter to me!\r\nI wonder what kind of wish you'll make this year, Appraiser. I really want to know… For us, being on the same frequency means every wish becomes one we share, right?\r\nHappy birthday, Appraiser—next year, ten years from now, even ten thousand years from now! Every birthday must be a happy one!"
         },
         "MailParams": "",
         "MailSender": {
@@ -944,26 +944,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1042_title",
           "SourceString": "向你的世界靠近",
-          "LocalizedString": "向你的世界靠近"
+          "LocalizedString": "Into Your Orbit"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1042_title",
           "SourceString": "向你的世界靠近",
-          "LocalizedString": "向你的世界靠近"
+          "LocalizedString": "Into Your Orbit"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1042_Content",
           "SourceString": "昨晚，有一颗非常明亮的星星闪烁在我的头顶。所以我猜测，今天对你来说，或许是个相当特别的日子。\r\n我很高兴能有机会为你送上一份生日的祝福，恰好也能借此向你传达我一直以来的谢意：曾经我对那囿于迷雾中的命运感到无所适从，但有了你的相伴，所有的未知都变成了令我期待的惊喜。\r\n那我呢，在你我命运的短暂的交汇中，我有没有对你产生些许的意义？\r\n……不过答案其实我们早已知道了，不是么？\r\n总而言之，在未来的一年甚至许多年，你的前路都将有明亮的星光照耀，你的故事将会展开一页又一页的新的篇章。请无所畏惧地继续向前走去吧，鸟儿会守护你的梦境，我也将为你献上对一位勇者最为诚挚的祝福。",
-          "LocalizedString": "昨晚，有一颗非常明亮的星星闪烁在我的头顶。所以我猜测，今天对你来说，或许是个相当特别的日子。\r\n我很高兴能有机会为你送上一份生日的祝福，恰好也能借此向你传达我一直以来的谢意：曾经我对那囿于迷雾中的命运感到无所适从，但有了你的相伴，所有的未知都变成了令我期待的惊喜。\r\n那我呢，在你我命运的短暂的交汇中，我有没有对你产生些许的意义？\r\n……不过答案其实我们早已知道了，不是么？\r\n总而言之，在未来的一年甚至许多年，你的前路都将有明亮的星光照耀，你的故事将会展开一页又一页的新的篇章。请无所畏惧地继续向前走去吧，鸟儿会守护你的梦境，我也将为你献上对一位勇者最为诚挚的祝福。"
+          "LocalizedString": "Last night, a particularly bright star shone overhead. I had a feeling that today might be a very special day for you.\r\nI'm glad I can wish you a happy birthday and take this chance to tell you how grateful I am. I once felt lost, shackled to a fate shrouded in fog, but with you by my side, every unknown has now become a surprise to look forward to.\r\nAnd what about me? In the brief time our paths have crossed, have I meant something to you, too?\r\n…But we already know the answer, don't we?\r\nIn the coming year, and for many years after, may bright starlight guide you as your story unfolds, one new chapter after another. Continue on, without fear. The birds will watch over your dreams, and you'll always have my heartfelt blessings for the brave soul you are."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_042",
           "SourceString": "黑羽",
-          "LocalizedString": "黑羽"
+          "LocalizedString": "Blackbird"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -988,26 +988,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1057_title",
           "SourceString": "予以你的晴天",
-          "LocalizedString": "予以你的晴天"
+          "LocalizedString": "Just a Sunny Day for You"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1057_title",
           "SourceString": "予以你的晴天",
-          "LocalizedString": "予以你的晴天"
+          "LocalizedString": "Just a Sunny Day for You"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1057_Content",
           "SourceString": "生日快乐，鉴定师。在这特殊的一天，愿你开心每一天，心想事成，平安喜乐。\r\n……\r\n好吧，上面的是我从呗果上搜索「给朋友的101句」生日祝福里摘抄的。我嘴比较笨，实在是不知道在这个特殊的日子里说些什么。\r\n过去的一段时间里，麻烦了你不少事情。当然，我们也一起经历了很多。能够加入「猫头音！！！！」，和你同为一个乐队的成员，我感到很开心。人们都说，我一头金灿灿的头发，像是太阳一样。我不知道这样的描述是否准确，但……如果我真的可以成为乐队里的「太阳」，带来晴天，驱散你内心的阴霾与不愉快，那就再好不过了。\r\n呃……是不是有点太煽情？咳咳，总之真心祝你生日快乐，有时间来livehouse找我喝一杯。哈，这样才是我们平日里交谈的方式吧？\r\n",
-          "LocalizedString": "生日快乐，鉴定师。在这特殊的一天，愿你开心每一天，心想事成，平安喜乐。\r\n……\r\n好吧，上面的是我从呗果上搜索「给朋友的101句」生日祝福里摘抄的。我嘴比较笨，实在是不知道在这个特殊的日子里说些什么。\r\n过去的一段时间里，麻烦了你不少事情。当然，我们也一起经历了很多。能够加入「猫头音！！！！」，和你同为一个乐队的成员，我感到很开心。人们都说，我一头金灿灿的头发，像是太阳一样。我不知道这样的描述是否准确，但……如果我真的可以成为乐队里的「太阳」，带来晴天，驱散你内心的阴霾与不愉快，那就再好不过了。\r\n呃……是不是有点太煽情？咳咳，总之真心祝你生日快乐，有时间来livehouse找我喝一杯。哈，这样才是我们平日里交谈的方式吧？\r\n"
+          "LocalizedString": "Happy birthday, Appraiser. On this special day, may every day bring you joy, may your wishes come true, and may peace and happiness be yours.\r\n…\r\nOkay, I copied that from a Bagel search result for \"101 Birthday Wishes for Friends.\" I'm not exactly a wordsmith, so I honestly had no idea what to say on a day like this, okay?\r\nI've asked a lot of you lately. Still, we've also been through a ton together. Getting to join \"THE WHOOTS!!!!\" and be in the same band as you honestly makes me the happiest person alive. People always say my golden hair is like the sun. I don't know if that's really true, but… if I could be the band's \"sun,\" bringing clear skies, and chasing away the rain, that'd be the best.\r\nUh… was that a little too sappy? Ahem. Anyway, I really do wish you a happy birthday. If you've got time, come by the live music venue and have a drink with me. Ha, that's more like my usual self, huh?\r\n"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_057",
           "SourceString": "明音凛",
-          "LocalizedString": "明音凛"
+          "LocalizedString": "Akane Rin"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -1032,26 +1032,26 @@
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1090_title",
           "SourceString": "世界迎来了你的美好日子~",
-          "LocalizedString": "世界迎来了你的美好日子~"
+          "LocalizedString": "The world is celebrating your special day!"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1090_title",
           "SourceString": "世界迎来了你的美好日子~",
-          "LocalizedString": "世界迎来了你的美好日子~"
+          "LocalizedString": "The world is celebrating your special day!"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_PlayerBirthdayMail.ST_PlayerBirthdayMail",
           "Key": "UI_PlayerBirthday_1090_Content",
           "SourceString": "*祝你生日快乐~祝你生日快乐~*\r\n想必，关怀着你的人们在今天传递给你的、各种形式的信息，会化为温暖的感受涌进你的心间，组成你很棒的回忆吧。而我也正是来为这股热流添柴加火的！\r\n礼物是我按照你的喜好推算的，其实还有一些选项我也准备好了，不过全部揭晓就没意思啦！期待以后吧，或许会换在明年或者后年送给你？\r\n来！在很大很大的奶油蛋糕上吹灭蜡烛，在很多很多朋友的包围簇拥中许下心愿！你可是今天的主角哦！",
-          "LocalizedString": "*祝你生日快乐~祝你生日快乐~*\r\n想必，关怀着你的人们在今天传递给你的、各种形式的信息，会化为温暖的感受涌进你的心间，组成你很棒的回忆吧。而我也正是来为这股热流添柴加火的！\r\n礼物是我按照你的喜好推算的，其实还有一些选项我也准备好了，不过全部揭晓就没意思啦！期待以后吧，或许会换在明年或者后年送给你？\r\n来！在很大很大的奶油蛋糕上吹灭蜡烛，在很多很多朋友的包围簇拥中许下心愿！你可是今天的主角哦！"
+          "LocalizedString": "*Happy birthday to you~ Happy birthday to you~*\r\nAll the messages and little gestures from people who care about you today must be filling your heart with warmth and giving you wonderful memories. And I'm here to add a little more warmth to the mix!\r\nI picked out your gift based on what I calculated you'd like. I had a few other options ready too, but where's the fun in giving away every surprise? Maybe one will be next year's gift, or the year after!\r\nCome on! Blow out the candles on a huge frosted cake and make a wish, surrounded by all your friends! You're the star of the day!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_090",
           "SourceString": "曳尔沐",
-          "LocalizedString": "曳尔沐"
+          "LocalizedString": "Elyms"
         },
         "MailAttachStr": "",
         "DropID": "None",

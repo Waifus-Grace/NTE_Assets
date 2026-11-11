@@ -26,13 +26,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_1_name",
           "SourceString": "硬糖宝剑",
-          "LocalizedString": "硬糖宝剑"
+          "LocalizedString": "Candyblade"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_1_desc",
           "SourceString": "全队伤害提升<Green>15%</>",
-          "LocalizedString": "全队伤害提升<Green>15%</>"
+          "LocalizedString": "Increases all allies' DMG by <Green>15%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -53,13 +53,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_2_name",
           "SourceString": "四叶草之心",
-          "LocalizedString": "四叶草之心"
+          "LocalizedString": "Cloverheart"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_2_desc",
           "SourceString": "全队暴击率提升<Green>4%</>，暴击伤害提升<Green>12%</>",
-          "LocalizedString": "全队暴击率提升<Green>4%</>，暴击伤害提升<Green>12%</>"
+          "LocalizedString": "Increases all allies' Crit Rate by <Green>4%</> and Crit DMG by <Green>12%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -80,13 +80,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_3_name",
           "SourceString": "彩虹光环",
-          "LocalizedString": "彩虹光环"
+          "LocalizedString": "Prism Halo"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_3_desc",
           "SourceString": "全队环合强度增加<Green>72</>点",
-          "LocalizedString": "全队环合强度增加<Green>72</>点"
+          "LocalizedString": "Increases all allies' Cycle Intensity by <Green>72</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -107,13 +107,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_4_name",
           "SourceString": "气球翅膀",
-          "LocalizedString": "气球翅膀"
+          "LocalizedString": "Balloon Wings"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_4_desc",
           "SourceString": "全队移动速度提升<Green>20%</>",
-          "LocalizedString": "全队移动速度提升<Green>20%</>"
+          "LocalizedString": "Increases all allies' Movement Speed by <Green>20%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -134,13 +134,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_5_name",
           "SourceString": "姜饼人",
-          "LocalizedString": "姜饼人"
+          "LocalizedString": "Gingerbread"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_5_desc",
           "SourceString": "全队倾陷强度强度提升<Green>7%</>",
-          "LocalizedString": "全队倾陷强度强度提升<Green>7%</>"
+          "LocalizedString": "Increases all allies' Break Intensity by <Green>7%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -161,13 +161,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_6_name",
           "SourceString": "超级能量棒",
-          "LocalizedString": "超级能量棒"
+          "LocalizedString": "Turbo Bar"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Red_6_desc",
           "SourceString": "全队体力上限增加<Green>50</>点",
-          "LocalizedString": "全队体力上限增加<Green>50</>点"
+          "LocalizedString": "Increases all allies' stamina cap by <Green>50</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -188,13 +188,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_1_name",
           "SourceString": "竖起耳朵",
-          "LocalizedString": "竖起耳朵"
+          "LocalizedString": "All Ears"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_1_desc",
           "SourceString": "全队生命上限提升<Green>17.5%</>",
-          "LocalizedString": "全队生命上限提升<Green>17.5%</>"
+          "LocalizedString": "Increases all allies' Max HP by <Green>17.5%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -215,13 +215,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_2_name",
           "SourceString": "蓬松松云",
-          "LocalizedString": "蓬松松云"
+          "LocalizedString": "Cloud Nine"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_2_desc",
           "SourceString": "前台角色每秒恢复生命上限的<Green>5%</>",
-          "LocalizedString": "前台角色每秒恢复生命上限的<Green>5%</>"
+          "LocalizedString": "Restores <Green>5%</> of the active character's Max HP every second."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -242,13 +242,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_3_name",
           "SourceString": "果冻护盾",
-          "LocalizedString": "果冻护盾"
+          "LocalizedString": "Jellyguard"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_3_desc",
           "SourceString": "全队防御力提升<Green>25%</>",
-          "LocalizedString": "全队防御力提升<Green>25%</>"
+          "LocalizedString": "Increases all allies' DEF by <Green>25%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -269,13 +269,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_4_name",
           "SourceString": "一罐花糖",
-          "LocalizedString": "一罐花糖"
+          "LocalizedString": "Sweetbloom Jar"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_4_desc",
           "SourceString": "炭团立即恢复最大生命值的<Green>25%</>",
-          "LocalizedString": "炭团立即恢复最大生命值的<Green>25%</>"
+          "LocalizedString": "Immediately restores <Green>25%</> of Coal Lump's Max HP."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Tower",
@@ -296,13 +296,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_5_name",
           "SourceString": "超级大蛋糕",
-          "LocalizedString": "超级大蛋糕"
+          "LocalizedString": "Cakezilla"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Green_5_desc",
           "SourceString": "炭团的生命值上限提升<Green>20%</>",
-          "LocalizedString": "炭团的生命值上限提升<Green>20%</>"
+          "LocalizedString": "Increases Coal Lump's Max HP by <Green>20%</>."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Tower",
@@ -323,13 +323,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_1_name",
           "SourceString": "扔泥巴",
-          "LocalizedString": "扔泥巴"
+          "LocalizedString": "Mud Toss"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_1_desc",
           "SourceString": "全队对敌人造成伤害时会减少目标<Green>10%</>的移动速度，持续<Yellow>10</>秒。（多次选择不会延长持续时间）",
-          "LocalizedString": "全队对敌人造成伤害时会减少目标<Green>10%</>的移动速度，持续<Yellow>10</>秒。（多次选择不会延长持续时间）"
+          "LocalizedString": "Reduces an enemy's Movement Speed by <Green>10%</> for <Yellow>10</>s when damaged by an ally. (Multiple selections do not extend the duration.)"
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -350,13 +350,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_2_name",
           "SourceString": "雪顶转转杯",
-          "LocalizedString": "雪顶转转杯"
+          "LocalizedString": "Snow Jar Raid"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_2_desc",
           "SourceString": "全队攻击敌人时会额外增加怪物对玩家的仇恨，持续<Green>5</>秒。（多次选择不会提升增加的仇恨值）",
-          "LocalizedString": "全队攻击敌人时会额外增加怪物对玩家的仇恨，持续<Green>5</>秒。（多次选择不会提升增加的仇恨值）"
+          "LocalizedString": "Generates additional aggro toward the player for <Green>5</>s when an ally attacks an enemy. (Multiple selections do not increase the extra aggro generated.)"
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -377,13 +377,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_3_name",
           "SourceString": "蒲公英",
-          "LocalizedString": "蒲公英"
+          "LocalizedString": "Dandelion"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_3_desc",
           "SourceString": "全队对敌人造成伤害时会使得目标每秒受到攻击者<Green>50%</>攻击力的固定伤害，持续<Yellow>5</>秒。（多次选择不会延长持续时间）",
-          "LocalizedString": "全队对敌人造成伤害时会使得目标每秒受到攻击者<Green>50%</>攻击力的固定伤害，持续<Yellow>5</>秒。（多次选择不会延长持续时间）"
+          "LocalizedString": "Deals Fixed DMG equal to <Green>50%</> of the attacking ally's ATK to an enemy every second for <Yellow>5</>s after the enemy takes DMG from an ally. (Multiple selections do not extend the duration.)"
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",
@@ -404,13 +404,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_4_name",
           "SourceString": "口香糖",
-          "LocalizedString": "口香糖"
+          "LocalizedString": "Bubblegum"
         },
         "BuffDesc": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "Blue_4_desc",
           "SourceString": "前台角色攻击敌人时，每次会恢复造成伤害的<Green>5%</>的生命值。",
-          "LocalizedString": "前台角色攻击敌人时，每次会恢复造成伤害的<Green>5%</>的生命值。"
+          "LocalizedString": "Restores HP equal to <Green>5%</> of the DMG dealt whenever the active character attacks an enemy."
         },
         "BuffArguments": [],
         "BuffApplyObject": "EDefendAthenaBuffApplyObject::Player",

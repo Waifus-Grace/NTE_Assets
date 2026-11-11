@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star1_name",
               "SourceString": "弥散性的朦白",
-              "LocalizedString": "弥散性的朦白"
+              "LocalizedString": "Diffusive Haze"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_1.1003_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star1_des",
               "SourceString": "「极轨终结：千钧隆重的饕餮宴」造成的无法移动效果持续时间延长至<NumGreen>6</>秒。",
-              "LocalizedString": "「极轨终结：千钧隆重的饕餮宴」造成的无法移动效果持续时间延长至<NumGreen>6</>秒。"
+              "LocalizedString": "Extends the immovable effect inflicted by Feast of Gluttony to <NumGreen>6s</>."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star2_name",
               "SourceString": "暌离性的轻巧",
-              "LocalizedString": "暌离性的轻巧"
+              "LocalizedString": "Dextrous Separation"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_2.1003_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star2_des",
               "SourceString": "「极轨终结：千钧隆重的饕餮宴」对于浮空的敌人额外造成伤害，额外伤害量随目标质量提升而提升，最大<NumGreen>600%</>*攻击力。",
-              "LocalizedString": "「极轨终结：千钧隆重的饕餮宴」对于浮空的敌人额外造成伤害，额外伤害量随目标质量提升而提升，最大<NumGreen>600%</>*攻击力。"
+              "LocalizedString": "Deals extra damage with Feast of Gluttony to airborne enemies, scaling with the target's mass and capped at <NumGreen>600%</> of ATK."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star3_name",
               "SourceString": "黏附性的啮合",
-              "LocalizedString": "黏附性的啮合"
+              "LocalizedString": "Adhesive Grip"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_3.1003_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star3_des",
               "SourceString": "基于全队角色击败的敌人数量，在之后的<NumGreen>15</>秒内提升「变轨技能：一口吞食」和「极轨终结：千钧隆重的饕餮宴」的伤害。每击败<NumGreen>1</>名敌人，提升<NumGreen>6%</>的伤害，累计最大提升<NumGreen>60%</>，此效果脱战清空。",
-              "LocalizedString": "基于全队角色击败的敌人数量，在之后的<NumGreen>15</>秒内提升「变轨技能：一口吞食」和「极轨终结：千钧隆重的饕餮宴」的伤害。每击败<NumGreen>1</>名敌人，提升<NumGreen>6%</>的伤害，累计最大提升<NumGreen>60%</>，此效果脱战清空。"
+              "LocalizedString": "Increases Devour Whole and Feast of Gluttony damage by <NumGreen>6%</> for <NumGreen>each</> enemy defeated by the Team over the next <NumGreen>15s</>, up to <NumGreen>60%</>. Resets when out of combat."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star4_name",
               "SourceString": "祈愿性的依归",
-              "LocalizedString": "祈愿性的依归"
+              "LocalizedString": "Wishful Reliance"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_4.1003_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star4_des",
               "SourceString": "释放「极轨终结：千钧隆重的饕餮宴」后，基于早雾基础攻击力的<NumGreen>30%</>，提升全队角色（不包括早雾）的攻击力，持续<NumGreen>20</>秒。",
-              "LocalizedString": "释放「极轨终结：千钧隆重的饕餮宴」后，基于早雾基础攻击力的<NumGreen>30%</>，提升全队角色（不包括早雾）的攻击力，持续<NumGreen>20</>秒。"
+              "LocalizedString": "Increases Team ATK (excluding Sakiri) by <NumGreen>30%</> of Sakiri's Base ATK for <NumGreen>20s</> after casting Feast of Gluttony."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star5_name",
               "SourceString": "失觉性的崩落",
-              "LocalizedString": "失觉性的崩落"
+              "LocalizedString": "Sensory Collapse"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_5.1003_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star5_des",
               "SourceString": "「变轨技能：一口吞食」成功使目标浮空时，「极轨终结：千钧隆重的饕餮宴」立即蓄满终结能量，并清空冷却时间。",
-              "LocalizedString": "「变轨技能：一口吞食」成功使目标浮空时，「极轨终结：千钧隆重的饕餮宴」立即蓄满终结能量，并清空冷却时间。"
+              "LocalizedString": "Fully restores Feast of Gluttony's Ultimate Energy and resets its cooldown immediately when Devour Whole makes the target airborne."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star6_name",
               "SourceString": "溶解性的暴食",
-              "LocalizedString": "溶解性的暴食"
+              "LocalizedString": "Gluttonous Dissolution"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1003_6.1003_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_star6_des",
               "SourceString": "鬼郎丸在<hot textstyle=\"TextEXPL\" param=\"nouns&SagiriEat\">「摄食模式」</>下，最多可吞噬并同时消化<NumGreen>3</>个目标，每个目标独立计算消化时间。",
-              "LocalizedString": "鬼郎丸在<hot textstyle=\"TextEXPL\" param=\"nouns&SagiriEat\">「摄食模式」</>下，最多可吞噬并同时消化<NumGreen>3</>个目标，每个目标独立计算消化时间。"
+              "LocalizedString": "Allows Kiroumaru to devour and digest up to <NumGreen>3</> enemies at a time in <hot textstyle=\"TextEXPL\" param=\"nouns&SagiriEat\">Eating Mode</>, with the digestion time for each enemy calculated independently."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_starExtra1_name",
               "SourceString": "不穷食欲",
-              "LocalizedString": "不穷食欲"
+              "LocalizedString": "Insatiable Appetite"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_starExtra1_des",
               "SourceString": "「普通攻击：鬼郎丸头锤」、「变轨技能：一口吞食」、「极轨终结：千钧隆重的饕餮宴」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「普通攻击：鬼郎丸头锤」、「变轨技能：一口吞食」、「极轨终结：千钧隆重的饕餮宴」的技能等级提升<NumGreen>1</>级。"
+              "LocalizedString": "Increases the skill level of Kiroumaru Headbutt, Devour Whole, and Feast of Gluttony by <NumGreen>1</>."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_starExtra2_name",
               "SourceString": "薄雾通彻",
-              "LocalizedString": "薄雾通彻"
+              "LocalizedString": "Fog Penetration"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
               "Key": "GA_Sagiri_starExtra2_des",
               "SourceString": "目标每带有<NumGreen>1</>个负面效果，早雾对其造成的伤害提升<NumGreen>3%</>，累计最大提升<NumGreen>12%</>。",
-              "LocalizedString": "目标每带有<NumGreen>1</>个负面效果，早雾对其造成的伤害提升<NumGreen>3%</>，累计最大提升<NumGreen>12%</>。"
+              "LocalizedString": "For each negative effect on the target, Sakiri deals <NumGreen>3%</> increased damage to the target, up to <NumGreen>12%</>."
             },
             "GEIdArray": []
           }

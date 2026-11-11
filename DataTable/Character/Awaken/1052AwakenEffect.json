@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star1_name",
               "SourceString": "欣欣渐行",
-              "LocalizedString": "欣欣渐行"
+              "LocalizedString": "Flourish"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_1.1052_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star1_des",
               "SourceString": "每记录下一个「援护技」或「变轨技能」，浔在时停期间造成的伤害提升<NumGreen>12%</>。",
-              "LocalizedString": "每记录下一个「援护技」或「变轨技能」，浔在时停期间造成的伤害提升<NumGreen>12%</>。"
+              "LocalizedString": "Increases Hotori's damage during Time Stop by <NumGreen>12%</> for each recorded Support Skill or Redirect Skill."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star2_name",
               "SourceString": "忆昔告远",
-              "LocalizedString": "忆昔告远"
+              "LocalizedString": "Distant Memories"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_2.1052_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star2_des",
               "SourceString": "时停期间，浔造成的伤害提升<NumGreen>20%</>。",
-              "LocalizedString": "时停期间，浔造成的伤害提升<NumGreen>20%</>。"
+              "LocalizedString": "Increases Hotori's damage by <NumGreen>20%</> during Time Stop."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star3_name",
               "SourceString": "垂目须臾",
-              "LocalizedString": "垂目须臾"
+              "LocalizedString": "Momentary Gaze"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_3.1052_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star3_des",
               "SourceString": "使用「变轨技能：今景复映」并完成记录后，快速回复使用「变轨技能：今景复映」所消耗的能量，每<NumGreen>60</>秒最多触发一次。在回复能量的过程中进行消耗能量的行为会打断能量恢复。",
-              "LocalizedString": "使用「变轨技能：今景复映」并完成记录后，快速回复使用「变轨技能：今景复映」所消耗的能量，每<NumGreen>60</>秒最多触发一次。在回复能量的过程中进行消耗能量的行为会打断能量恢复。"
+              "LocalizedString": "Recovers the energy spent on Present Replay after using it and completing the recording. Triggers at most once every <NumGreen>60s</>. Interrupts energy restoration if energy is spent during the recovery process."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star4_name",
               "SourceString": "旧藏遗散",
-              "LocalizedString": "旧藏遗散"
+              "LocalizedString": "Scattered Relics"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_4.1052_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star4_des",
               "SourceString": "未回拨指针期间，全队每击败<NumGreen>1</>个目标，<hot textstyle=\"TextEXPL\" param=\"nouns&JinTime\">「非闭合时计」</>额外积蓄<NumGreen>10</>点能量，最多生效<NumGreen>3</>次。释放「极轨终结：浮世来潮」重置计数。",
-              "LocalizedString": "未回拨指针期间，全队每击败<NumGreen>1</>个目标，<hot textstyle=\"TextEXPL\" param=\"nouns&JinTime\">「非闭合时计」</>额外积蓄<NumGreen>10</>点能量，最多生效<NumGreen>3</>次。释放「极轨终结：浮世来潮」重置计数。"
+              "LocalizedString": "Grants an additional <NumGreen>10</> energy to the <hot textstyle=\"TextEXPL\" param=\"nouns&JinTime\">Non-Closed Timepiece</> for every <NumGreen>1</> target defeated by the Team while the pointer is not rewinding, up to <NumGreen>3</> times. Resets the count when casting World's Tide."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star5_name",
               "SourceString": "独窥全相",
-              "LocalizedString": "独窥全相"
+              "LocalizedString": "All-Seeing"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_5.1052_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star5_des",
               "SourceString": "浔上阵时，如果场上仅有<NumGreen>1</>个敌人，全队对该目标造成的伤害提升<NumGreen>15%</>。浔力竭时，失去该效果。",
-              "LocalizedString": "浔上阵时，如果场上仅有<NumGreen>1</>个敌人，全队对该目标造成的伤害提升<NumGreen>15%</>。浔力竭时，失去该效果。"
+              "LocalizedString": "When Hotori is deployed, if there is only <NumGreen>1</> enemy on the field, the entire team's damage against that target is increased by <NumGreen>15%</>. This effect is lost when Hotori is down."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star6_name",
               "SourceString": "时轮啮雪",
-              "LocalizedString": "时轮啮雪"
+              "LocalizedString": "Time Takes Away"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1052_6.1052_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_star6_des",
               "SourceString": "时停期间，浔造成伤害时无视目标<NumGreen>30%</>防御。",
-              "LocalizedString": "时停期间，浔造成伤害时无视目标<NumGreen>30%</>防御。"
+              "LocalizedString": "Hotori ignores <NumGreen>30%</> of the target's DEF during Time Stop."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_starExtra1_name",
               "SourceString": "东零西碎的永恒",
-              "LocalizedString": "东零西碎的永恒"
+              "LocalizedString": "Eternity Shattered"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_starExtra1_des",
               "SourceString": "「普通攻击：胧月流」、「变轨技能：今景复映」、「极轨终结：浮世来潮」的技能等级提升1级。",
-              "LocalizedString": "「普通攻击：胧月流」、「变轨技能：今景复映」、「极轨终结：浮世来潮」的技能等级提升1级。"
+              "LocalizedString": "Increases the skill level of Misty Moon Style, Present Replay, and World's Tide by 1."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_starExtra2_name",
               "SourceString": "了然于中的至珍",
-              "LocalizedString": "了然于中的至珍"
+              "LocalizedString": "The Ultimate Treasure of Clear Understanding"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
               "Key": "GA_Jin_starExtra2_des",
               "SourceString": "浔在编队内且存活时，全队攻击力提升30%。",
-              "LocalizedString": "浔在编队内且存活时，全队攻击力提升30%。"
+              "LocalizedString": "Grants all team members 20% ATK while Hotori is on the team and alive."
             },
             "GEIdArray": []
           }

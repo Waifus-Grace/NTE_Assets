@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_001_name",
           "SourceString": "极点",
-          "LocalizedString": "极点"
+          "LocalizedString": "Apex"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -27,7 +27,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0001",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -50,7 +50,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_002_name",
           "SourceString": "茶界T-Fusion",
-          "LocalizedString": "茶界T-Fusion"
+          "LocalizedString": "TeaRealm T-Fusion"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -60,7 +60,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0002",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -83,7 +83,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_003_name",
           "SourceString": "冰点冷萃",
-          "LocalizedString": "冰点冷萃"
+          "LocalizedString": "0-K Cold Brew"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -93,7 +93,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0003",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -116,7 +116,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_004_name",
           "SourceString": "魔法膨胀全麦面包",
-          "LocalizedString": "魔法膨胀全麦面包"
+          "LocalizedString": "Magi-Puff Whole Wheat Bread"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -126,7 +126,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0004",
           "SourceString": "为当前角色恢复生命值上限的12%，并额外恢复850点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的12%，并额外恢复850点生命值。"
+          "LocalizedString": "Heals the current character for 12% of their Max HP plus an additional 850 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -149,7 +149,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_005_name",
           "SourceString": "坂井蜜瓜包",
-          "LocalizedString": "坂井蜜瓜包"
+          "LocalizedString": "Sakai Melon Bread"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -159,7 +159,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0005",
           "SourceString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复260点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复260点生命值。"
+          "LocalizedString": "Heals the current character for 10% of their Max HP, then restores 260 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -182,7 +182,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_006_name",
           "SourceString": "酷辣辣辣条",
-          "LocalizedString": "酷辣辣辣条"
+          "LocalizedString": "Cool-lala Spicy Snack"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -192,7 +192,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0006",
           "SourceString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -215,7 +215,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_007_name",
           "SourceString": "炫动",
-          "LocalizedString": "炫动"
+          "LocalizedString": "DynamiK"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -225,7 +225,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0007",
           "SourceString": "队伍中所有角色攻击力增加50，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加50，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 50 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -248,7 +248,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_008_name",
           "SourceString": "炫动「零点」",
-          "LocalizedString": "炫动「零点」"
+          "LocalizedString": "DynamiK Zero"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -258,7 +258,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0008",
           "SourceString": "队伍中所有角色攻击力增加80，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加80，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 80 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -281,7 +281,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_009_name",
           "SourceString": "劲爽「果漾」",
-          "LocalizedString": "劲爽「果漾」"
+          "LocalizedString": "Refreshing Fruity"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -291,7 +291,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0009",
           "SourceString": "队伍中所有角色暴击率增加6.4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6.4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6.4% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -314,7 +314,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_010_name",
           "SourceString": "劲爽「冰川」",
-          "LocalizedString": "劲爽「冰川」"
+          "LocalizedString": "Refreshing Glacier"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -324,7 +324,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0010",
           "SourceString": "队伍中所有角色暴击伤害增加12.8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12.8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12.8% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -347,7 +347,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_011_name",
           "SourceString": "劲爽「谜」",
-          "LocalizedString": "劲爽「谜」"
+          "LocalizedString": "Refreshing Mystery"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -357,7 +357,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0011",
           "SourceString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 140 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -380,7 +380,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_012_name",
           "SourceString": "咕比奇原味薯片",
-          "LocalizedString": "咕比奇原味薯片"
+          "LocalizedString": "Gubichi Original Flavor Chips"
         },
         "icon": {
           "AssetPathName": "",
@@ -390,7 +390,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0012",
           "SourceString": "为当前角色恢复生命值上限的24%。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -413,7 +413,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_013_name",
           "SourceString": "咕比奇黄瓜薯片",
-          "LocalizedString": "咕比奇黄瓜薯片"
+          "LocalizedString": "Gubichi Cucumber Flavor Chips"
         },
         "icon": {
           "AssetPathName": "",
@@ -423,7 +423,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0013",
           "SourceString": "为当前角色恢复1750点生命值。",
-          "LocalizedString": "为当前角色恢复1750点生命值。"
+          "LocalizedString": "Heals the current character for 1,750 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -446,7 +446,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_014_name",
           "SourceString": "咕比奇黄油薯片",
-          "LocalizedString": "咕比奇黄油薯片"
+          "LocalizedString": "Gubichi Butter Flavor Chips"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -456,7 +456,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0014",
           "SourceString": "当前角色在之后的30秒内，每5秒回复455生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复455生命值"
+          "LocalizedString": "Restores 455 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -479,7 +479,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_015_name",
           "SourceString": "再来一口！「牛奶味」",
-          "LocalizedString": "再来一口！「牛奶味」"
+          "LocalizedString": "Crave Bites! Milk Flavor"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -489,7 +489,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0015",
           "SourceString": "队伍中所有角色暴击率增加4.8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4.8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4.8% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -512,7 +512,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_016_name",
           "SourceString": "再来一口！「巧克力味」",
-          "LocalizedString": "再来一口！「巧克力味」"
+          "LocalizedString": "Crave Bites! Chocolate Flavor"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -522,7 +522,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0016",
           "SourceString": "队伍中所有角色暴击伤害增加9.6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加9.6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 9.6% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -545,7 +545,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_017_name",
           "SourceString": "咕比脆",
-          "LocalizedString": "咕比脆"
+          "LocalizedString": "Gubicrisp"
         },
         "icon": {
           "AssetPathName": "",
@@ -555,7 +555,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0017",
           "SourceString": "为当前角色恢复生命值上限的20%。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -578,7 +578,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_018_name",
           "SourceString": "鲍勃茶园",
-          "LocalizedString": "鲍勃茶园"
+          "LocalizedString": "Bob's Tea Garden"
         },
         "icon": {
           "AssetPathName": "",
@@ -588,7 +588,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0018",
           "SourceString": "为当前角色恢复1450点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -611,7 +611,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_019_name",
           "SourceString": "鲍勃橙意满满",
-          "LocalizedString": "鲍勃橙意满满"
+          "LocalizedString": "Bob's Orange Delight"
         },
         "icon": {
           "AssetPathName": "",
@@ -621,7 +621,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0019",
           "SourceString": "为当前角色恢复2500点生命值。",
-          "LocalizedString": "为当前角色恢复2500点生命值。"
+          "LocalizedString": "Heals the current character for 2,500 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -644,7 +644,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_020_name",
           "SourceString": "鲍勃莓莓相遇",
-          "LocalizedString": "鲍勃莓莓相遇"
+          "LocalizedString": "Bob's Berry Encounter"
         },
         "icon": {
           "AssetPathName": "",
@@ -654,7 +654,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0020",
           "SourceString": "为当前角色恢复生命值上限的34%。",
-          "LocalizedString": "为当前角色恢复生命值上限的34%。"
+          "LocalizedString": "Heals the current character for 34% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -677,7 +677,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_021_name",
           "SourceString": "鲍勃惊喜果园",
-          "LocalizedString": "鲍勃惊喜果园"
+          "LocalizedString": "Bob's Surprise Orchard"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -687,7 +687,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0021",
           "SourceString": "当前角色在之后的30秒内，每5秒回复650生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复650生命值"
+          "LocalizedString": "Restores 650 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -710,7 +710,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_022_name",
           "SourceString": "鲍勃阳光牧场",
-          "LocalizedString": "鲍勃阳光牧场"
+          "LocalizedString": "Bob's Sunshine Ranch"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -720,7 +720,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0022",
           "SourceString": "为当前角色恢复生命值上限的16%，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的16%，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 16% of their Max HP, then restores 299 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -743,7 +743,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_023_name",
           "SourceString": "噗卡巧克力「经典系列」",
-          "LocalizedString": "噗卡巧克力「经典系列」"
+          "LocalizedString": "Puka Chocoa Classic Series"
         },
         "icon": {
           "AssetPathName": "",
@@ -753,7 +753,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0023",
           "SourceString": "为当前角色恢复生命值上限的40%。",
-          "LocalizedString": "为当前角色恢复生命值上限的40%。"
+          "LocalizedString": "Heals the current character for 40% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -776,7 +776,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_024_name",
           "SourceString": "噗卡巧克力「果仁风暴」",
-          "LocalizedString": "噗卡巧克力「果仁风暴」"
+          "LocalizedString": "Puka Chocoa Nutty Storm"
         },
         "icon": {
           "AssetPathName": "",
@@ -786,7 +786,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0024",
           "SourceString": "为当前角色恢复2950点生命值。",
-          "LocalizedString": "为当前角色恢复2950点生命值。"
+          "LocalizedString": "Heals the current character for 2,950 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -809,7 +809,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_025_name",
           "SourceString": "噗卡巧克力「热辣挑战」",
-          "LocalizedString": "噗卡巧克力「热辣挑战」"
+          "LocalizedString": "Puka Chocoa Spicy Challenge"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -819,7 +819,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0025",
           "SourceString": "当前角色在之后的30秒内，每5秒回复767生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复767生命值"
+          "LocalizedString": "Restores 767 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -842,7 +842,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_026_name",
           "SourceString": "噗卡巧克力「绘莉巡演纪念款」",
-          "LocalizedString": "噗卡巧克力「绘莉巡演纪念款」"
+          "LocalizedString": "Puka Chocoa Ellie Tour Special"
         },
         "icon": {
           "AssetPathName": "",
@@ -852,7 +852,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0026",
           "SourceString": "为当前角色恢复生命值上限的56%。",
-          "LocalizedString": "为当前角色恢复生命值上限的56%。"
+          "LocalizedString": "Heals the current character for 56% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -875,7 +875,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_027_name",
           "SourceString": "噗卡好梦棉花糖",
-          "LocalizedString": "噗卡好梦棉花糖"
+          "LocalizedString": "Puka Sweet Dreams Marshmallow"
         },
         "icon": {
           "AssetPathName": "",
@@ -885,7 +885,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0027",
           "SourceString": "复活选中角色，并额外恢复2200生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复2200生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 2,200 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -908,7 +908,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_028_name",
           "SourceString": "噗卡幸运星",
-          "LocalizedString": "噗卡幸运星"
+          "LocalizedString": "Puka Lucky Star"
         },
         "icon": {
           "AssetPathName": "",
@@ -918,7 +918,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0028",
           "SourceString": "为当前角色恢复生命值上限的30%。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -941,7 +941,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_029_name",
           "SourceString": "极品豆腐排",
-          "LocalizedString": "极品豆腐排"
+          "LocalizedString": "Premium Tofu Steak"
         },
         "icon": {
           "AssetPathName": "",
@@ -951,7 +951,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0029",
           "SourceString": "复活选中角色，并恢复生命值上限的30%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的30%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 30% of their max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -974,7 +974,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_030_name",
           "SourceString": "炸豆腐",
-          "LocalizedString": "炸豆腐"
+          "LocalizedString": "Fried Tofu"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -984,7 +984,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0030",
           "SourceString": "为当前角色恢复生命值上限的20%，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP, then restores 182 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1007,7 +1007,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_031_name",
           "SourceString": "手磨纯豆乳",
-          "LocalizedString": "手磨纯豆乳"
+          "LocalizedString": "Hand-ground Pure Soy Milk"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1017,7 +1017,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0031",
           "SourceString": "为当前角色恢复1450点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP, then restores 182 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1040,7 +1040,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_032_name",
           "SourceString": "白雪豆花",
-          "LocalizedString": "白雪豆花"
+          "LocalizedString": "Snowy Tofu Pudding"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1050,7 +1050,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0032",
           "SourceString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复377点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复377点生命值。"
+          "LocalizedString": "Heals the current character for 10% of their Max HP, then restores 377 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1073,7 +1073,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_033_name",
           "SourceString": "超级豚骨拉面",
-          "LocalizedString": "超级豚骨拉面"
+          "LocalizedString": "Super Tonkotsu Ramen"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -1083,7 +1083,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0033",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1106,7 +1106,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_034_name",
           "SourceString": "时令寿司船",
-          "LocalizedString": "时令寿司船"
+          "LocalizedString": "Seasonal Sushi Boat"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -1116,7 +1116,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0034",
           "SourceString": "队伍中所有角色暴击率增加8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 8% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1139,7 +1139,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_035_name",
           "SourceString": "酥酥酥天丼",
-          "LocalizedString": "酥酥酥天丼"
+          "LocalizedString": "Crunchy Tempura Rice Bowl"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -1149,7 +1149,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0035",
           "SourceString": "队伍中所有角色暴击伤害增加16%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加16%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 16% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1172,7 +1172,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_036_name",
           "SourceString": "蜜汁鸡肉串",
-          "LocalizedString": "蜜汁鸡肉串"
+          "LocalizedString": "Honey Chicken Skewers"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -1182,7 +1182,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0036",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1205,7 +1205,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_037_name",
           "SourceString": "炭烤青花鱼",
-          "LocalizedString": "炭烤青花鱼"
+          "LocalizedString": "Charcoal Grilled Mackerel"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -1215,7 +1215,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0037",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1238,7 +1238,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_038_name",
           "SourceString": "千代家自酿生啤",
-          "LocalizedString": "千代家自酿生啤"
+          "LocalizedString": "Chiyo Family Brew"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -1248,7 +1248,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0038",
           "SourceString": "队伍中所有角色防御力增加50，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加50，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 50 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1271,7 +1271,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_039_name",
           "SourceString": "番茄百分百",
-          "LocalizedString": "番茄百分百"
+          "LocalizedString": "Tomato 100"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1281,7 +1281,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0039",
           "SourceString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1304,7 +1304,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_040_name",
           "SourceString": "咔咔蔬菜三明治",
-          "LocalizedString": "咔咔蔬菜三明治"
+          "LocalizedString": "Kaka Veggie Sandwich"
         },
         "icon": {
           "AssetPathName": "",
@@ -1314,7 +1314,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0040",
           "SourceString": "复活选中角色，并额外恢复1150生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复1150生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 1,150 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1337,7 +1337,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_041_name",
           "SourceString": "热辣烤鸡菠萝丼",
-          "LocalizedString": "热辣烤鸡菠萝丼"
+          "LocalizedString": "Pineapple Yakitori Bowl"
         },
         "icon": {
           "AssetPathName": "",
@@ -1347,7 +1347,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0041",
           "SourceString": "复活选中角色，并恢复生命值上限的40%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的40%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 40% of their max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1370,7 +1370,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_044_name",
           "SourceString": "咔叽玛薯霸",
-          "LocalizedString": "咔叽玛薯霸"
+          "LocalizedString": "Clicky Fries"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -1380,7 +1380,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0044",
           "SourceString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1403,7 +1403,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_045_name",
           "SourceString": "咔叽玛熔岩瀑布堡",
-          "LocalizedString": "咔叽玛熔岩瀑布堡"
+          "LocalizedString": "Clicky Lavaburger"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -1413,7 +1413,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0045",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1436,7 +1436,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_046_name",
           "SourceString": "咔叽玛火山哞哞堡",
-          "LocalizedString": "咔叽玛火山哞哞堡"
+          "LocalizedString": "Clicky Fireburger"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -1446,7 +1446,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0046",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1469,7 +1469,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_047_name",
           "SourceString": "咔叽玛浓情蜜翼",
-          "LocalizedString": "咔叽玛浓情蜜翼"
+          "LocalizedString": "Clicky Honey Wings"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -1479,7 +1479,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0047",
           "SourceString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1502,7 +1502,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_048_name",
           "SourceString": "青酱培根司康",
-          "LocalizedString": "青酱培根司康"
+          "LocalizedString": "Pesto Bacon Scone"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1512,7 +1512,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0048",
           "SourceString": "为当前角色恢复生命值上限的20%，并额外回复1450点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并额外回复1450点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP plus an additional 1,450 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1535,7 +1535,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_049_name",
           "SourceString": "斑斓椰果子",
-          "LocalizedString": "斑斓椰果子"
+          "LocalizedString": "Coconut Delights"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1545,7 +1545,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0049",
           "SourceString": "为当前角色恢复850点生命值，并在之后的30秒内，每5秒恢复377点生命值。",
-          "LocalizedString": "为当前角色恢复850点生命值，并在之后的30秒内，每5秒恢复377点生命值。"
+          "LocalizedString": "Heals the current character for 850 HP, then restores 377 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1568,7 +1568,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_050_name",
           "SourceString": "莓果总汇奶油长棍面包",
-          "LocalizedString": "莓果总汇奶油长棍面包"
+          "LocalizedString": "Creamy Berry Baguette"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1578,7 +1578,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0050",
           "SourceString": "为当前角色恢复生命值上限的20%，并额外回复850点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并额外回复850点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP plus an additional 850 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1601,7 +1601,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_051_name",
           "SourceString": "玫瑰荔枝蛋糕",
-          "LocalizedString": "玫瑰荔枝蛋糕"
+          "LocalizedString": "Rose Lychee Cake"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1611,7 +1611,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0051",
           "SourceString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 1,600 HP, then restores 416 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1634,7 +1634,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_052_name",
           "SourceString": "奶油柿子千层",
-          "LocalizedString": "奶油柿子千层"
+          "LocalizedString": "Persimmon Butter Millefeuille"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1644,7 +1644,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0052",
           "SourceString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP plus an additional 1,600 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1667,7 +1667,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_053_name",
           "SourceString": "开心果榛子千层",
-          "LocalizedString": "开心果榛子千层"
+          "LocalizedString": "Pistachio Hazelnut Millefeuille"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -1677,7 +1677,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0053",
           "SourceString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP, then restores 416 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1700,7 +1700,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_054_name",
           "SourceString": "夏日冷萃",
-          "LocalizedString": "夏日冷萃"
+          "LocalizedString": "Cold Brew"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1710,7 +1710,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0054",
           "SourceString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1733,7 +1733,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_055_name",
           "SourceString": "沸腾炼金术",
-          "LocalizedString": "沸腾炼金术"
+          "LocalizedString": "Modern Alchemy"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1743,7 +1743,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0055",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1766,7 +1766,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_056_name",
           "SourceString": "热巧元气弹",
-          "LocalizedString": "热巧元气弹"
+          "LocalizedString": "Hot Chocolate Energy Bomb"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1776,7 +1776,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0056",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1799,7 +1799,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_057_name",
           "SourceString": "白胡子拍档",
-          "LocalizedString": "白胡子拍档"
+          "LocalizedString": "Whitebeard"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1809,7 +1809,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0057",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1832,7 +1832,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_058_name",
           "SourceString": "砂海白",
-          "LocalizedString": "砂海白"
+          "LocalizedString": "Seaside White"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -1842,7 +1842,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0058",
           "SourceString": "队伍中所有角色体力回复速度提升15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1865,7 +1865,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_059_name",
           "SourceString": "海特威",
-          "LocalizedString": "海特威"
+          "LocalizedString": "Heitwein"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -1875,7 +1875,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0059",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1898,7 +1898,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_name",
           "SourceString": "心迷宫",
-          "LocalizedString": "心迷宫"
+          "LocalizedString": "Deep in the Heart"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -1908,7 +1908,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0060",
           "SourceString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 12% for 600s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1931,7 +1931,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_01_name",
           "SourceString": "海盐心迷宫",
-          "LocalizedString": "海盐心迷宫"
+          "LocalizedString": "Sea Salt Deep in the Heart"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -1941,7 +1941,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0060",
           "SourceString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 12% for 600s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1964,7 +1964,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_061_name",
           "SourceString": "浪人的班卓琴",
-          "LocalizedString": "浪人的班卓琴"
+          "LocalizedString": "Wanderer's Banjo"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -1974,7 +1974,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0061",
           "SourceString": "队伍中所有角色暴击伤害增加24%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加24%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 24% for 600s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -1997,7 +1997,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_062_name",
           "SourceString": "角斗士之歌",
-          "LocalizedString": "角斗士之歌"
+          "LocalizedString": "Song of the Gladiator"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -2007,7 +2007,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0062",
           "SourceString": "队伍中所有角色攻击力增加150，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加150，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 150 for 600s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2030,7 +2030,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_063_name",
           "SourceString": "猫猫猛锤荔浦芋头布丁奶茶",
-          "LocalizedString": "猫猫猛锤荔浦芋头布丁奶茶"
+          "LocalizedString": "Nyanko Punch Taro Pudding Milktea"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -2040,7 +2040,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0063",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2063,7 +2063,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_064_name",
           "SourceString": "猫猫噗通噗通黑糖丸子脏脏茶",
-          "LocalizedString": "猫猫噗通噗通黑糖丸子脏脏茶"
+          "LocalizedString": "Nyanko Splash Black Sugar Boba Dirty Chai"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -2073,7 +2073,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0064",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2096,7 +2096,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_065_name",
           "SourceString": "猫猫讨厌柠檬冰茶",
-          "LocalizedString": "猫猫讨厌柠檬冰茶"
+          "LocalizedString": "Nyanko Enemy Iced Lemon Tea"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -2106,7 +2106,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0065",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2129,7 +2129,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_066_name",
           "SourceString": "猫猫惬意鱼治摸茶",
-          "LocalizedString": "猫猫惬意鱼治摸茶"
+          "LocalizedString": "Nyanko Cozy Uji Matcha"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_critdam.bufficon_common_critdam",
@@ -2139,7 +2139,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0066",
           "SourceString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2162,7 +2162,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_067_name",
           "SourceString": "经典提拉米苏",
-          "LocalizedString": "经典提拉米苏"
+          "LocalizedString": "Tiramisu"
         },
         "icon": {
           "AssetPathName": "",
@@ -2172,7 +2172,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0067",
           "SourceString": "为当前角色恢复生命值上限的32%。",
-          "LocalizedString": "为当前角色恢复生命值上限的32%。"
+          "LocalizedString": "Heals the current character for 32% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2195,7 +2195,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_068_name",
           "SourceString": "奶油香草梦",
-          "LocalizedString": "奶油香草梦"
+          "LocalizedString": "Creamy Vanilla"
         },
         "icon": {
           "AssetPathName": "",
@@ -2205,7 +2205,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0068",
           "SourceString": "为当前角色恢复2350点生命值。",
-          "LocalizedString": "为当前角色恢复2350点生命值。"
+          "LocalizedString": "Heals the current character for 2,350 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2228,7 +2228,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_069_name",
           "SourceString": "缤纷果香派对",
-          "LocalizedString": "缤纷果香派对"
+          "LocalizedString": "Fruity Rainbow Party"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2238,7 +2238,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0069",
           "SourceString": "当前角色在之后的30秒内，每5秒回复611生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复611生命值"
+          "LocalizedString": "Restores 611 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2261,7 +2261,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_070_name",
           "SourceString": "莓莓四重奏",
-          "LocalizedString": "莓莓四重奏"
+          "LocalizedString": "Berry Quartet"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2271,7 +2271,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0070",
           "SourceString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 1,150 HP, then restores 299 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2294,7 +2294,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_071_name",
           "SourceString": "坚果焦糖爆爆杯",
-          "LocalizedString": "坚果焦糖爆爆杯"
+          "LocalizedString": "Nut & Caramel Cupcake"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2304,7 +2304,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0071",
           "SourceString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。"
+          "LocalizedString": "Heals the current character for 16% of their Max HP plus an additional 1,150 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2327,7 +2327,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_072_name",
           "SourceString": "炭火脆皮烤肉",
-          "LocalizedString": "炭火脆皮烤肉"
+          "LocalizedString": "Charcoal Grilled Crispy BBQ"
         },
         "icon": {
           "AssetPathName": "",
@@ -2337,7 +2337,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0072",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2360,7 +2360,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_073_name",
           "SourceString": "蒜香筋道烤肉",
-          "LocalizedString": "蒜香筋道烤肉"
+          "LocalizedString": "Garlic Infused Tender BBQ"
         },
         "icon": {
           "AssetPathName": "",
@@ -2370,7 +2370,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0073",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2393,7 +2393,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_074_name",
           "SourceString": "孜然飘香烤肉",
-          "LocalizedString": "孜然飘香烤肉"
+          "LocalizedString": "Cumin Aromatic BBQ"
         },
         "icon": {
           "AssetPathName": "",
@@ -2403,7 +2403,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0074",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2426,7 +2426,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_075_name",
           "SourceString": "人间土豆",
-          "LocalizedString": "人间土豆"
+          "LocalizedString": "Once a Potato"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2436,7 +2436,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0075",
           "SourceString": "当前角色在之后的30秒内，每5秒回复338生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复338生命值"
+          "LocalizedString": "Restores 338 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2459,7 +2459,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_076_name",
           "SourceString": "烤玉米",
-          "LocalizedString": "烤玉米"
+          "LocalizedString": "Grilled Corn"
         },
         "icon": {
           "AssetPathName": "",
@@ -2469,7 +2469,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0076",
           "SourceString": "复活选中角色，并额外恢复100生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复100生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 100 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2492,7 +2492,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_077_name",
           "SourceString": "大肉包",
-          "LocalizedString": "大肉包"
+          "LocalizedString": "Meat Baozi"
         },
         "icon": {
           "AssetPathName": "",
@@ -2502,7 +2502,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0077",
           "SourceString": "为当前角色恢复生命值上限的20%。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2525,7 +2525,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_078_name",
           "SourceString": "巨嘴奶黄包",
-          "LocalizedString": "巨嘴奶黄包"
+          "LocalizedString": "Bigmouth Custard Baozi"
         },
         "icon": {
           "AssetPathName": "",
@@ -2535,7 +2535,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0078",
           "SourceString": "为当前角色恢复1450点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2558,7 +2558,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_079_name",
           "SourceString": "叉烧包",
-          "LocalizedString": "叉烧包"
+          "LocalizedString": "Char Siu Bao"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2568,7 +2568,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0079",
           "SourceString": "当前角色在之后的30秒内，每5秒回复377生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复377生命值"
+          "LocalizedString": "Restores 377 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2591,7 +2591,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_080_name",
           "SourceString": "蟹粉小笼",
-          "LocalizedString": "蟹粉小笼"
+          "LocalizedString": "Crab Roe Soup Dumpling"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2601,7 +2601,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0080",
           "SourceString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 700 HP, then restores 182 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2624,7 +2624,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_081_name",
           "SourceString": "猫丸秘制豚骨拉面",
-          "LocalizedString": "猫丸秘制豚骨拉面"
+          "LocalizedString": "Nekomaru Tonkotsu Ramen"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2634,7 +2634,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0081",
           "SourceString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP, then restores 143 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2657,7 +2657,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_082_name",
           "SourceString": "猫丸秘制鸡白汤拉面",
-          "LocalizedString": "猫丸秘制鸡白汤拉面"
+          "LocalizedString": "Nekomaru Tori Paitan Ramen"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2667,7 +2667,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0082",
           "SourceString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP, then restores 143 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2690,7 +2690,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_083_name",
           "SourceString": "猫丸秘制豆乳拉面",
-          "LocalizedString": "猫丸秘制豆乳拉面"
+          "LocalizedString": "Nekomaru Vegan Ramen"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2700,7 +2700,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0083",
           "SourceString": "为当前角色恢复2200点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复2200点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 2,200 HP, then restores 182 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2723,7 +2723,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_084_name",
           "SourceString": "猫丸秘制辛红拉面",
-          "LocalizedString": "猫丸秘制辛红拉面"
+          "LocalizedString": "Nekomaru Oni Ramen"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2733,7 +2733,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0084",
           "SourceString": "为当前角色恢复生命值上限的30%，并额外回复700点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%，并额外回复700点生命值。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP plus an additional 700 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2756,7 +2756,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_085_name",
           "SourceString": "经典三重奏",
-          "LocalizedString": "经典三重奏"
+          "LocalizedString": "Classic Trio"
         },
         "icon": {
           "AssetPathName": "",
@@ -2766,7 +2766,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0085",
           "SourceString": "为当前角色恢复3250点生命值。",
-          "LocalizedString": "为当前角色恢复3250点生命值。"
+          "LocalizedString": "Heals the current character for 3,250 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2789,7 +2789,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_086_name",
           "SourceString": "浓香火腿披萨",
-          "LocalizedString": "浓香火腿披萨"
+          "LocalizedString": "Rich and Savory Ham Pizza"
         },
         "icon": {
           "AssetPathName": "",
@@ -2799,7 +2799,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0086",
           "SourceString": "为当前角色恢复3250点生命值。",
-          "LocalizedString": "为当前角色恢复3250点生命值。"
+          "LocalizedString": "Heals the current character for 3,250 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2822,7 +2822,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_087_name",
           "SourceString": "番茄罗勒通心粉",
-          "LocalizedString": "番茄罗勒通心粉"
+          "LocalizedString": "Tomato Basil Macaroni"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2832,7 +2832,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0087",
           "SourceString": "当前角色在之后的30秒内，每5秒回复845生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复845生命值"
+          "LocalizedString": "Restores 845 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2855,7 +2855,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_088_name",
           "SourceString": "肉酱千层面",
-          "LocalizedString": "肉酱千层面"
+          "LocalizedString": "Lasagna alla Bolognese"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2865,7 +2865,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0088",
           "SourceString": "当前角色在之后的30秒内，每5秒回复845生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复845生命值"
+          "LocalizedString": "Restores 845 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2888,7 +2888,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_089_name",
           "SourceString": "柠檬气泡水",
-          "LocalizedString": "柠檬气泡水"
+          "LocalizedString": "Acqua Frizzante al Limone"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2898,7 +2898,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0089",
           "SourceString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP, then restores 416 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2921,7 +2921,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_090_name",
           "SourceString": "辣鸡扒咖喱饭",
-          "LocalizedString": "辣鸡扒咖喱饭"
+          "LocalizedString": "Spicy Chicken Cutlet Curry Rice"
         },
         "icon": {
           "AssetPathName": "",
@@ -2931,7 +2931,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0090",
           "SourceString": "复活选中角色，并恢复生命值上限的14%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的14%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 14% of their max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2954,7 +2954,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_091_name",
           "SourceString": "巨型汉堡肉",
-          "LocalizedString": "巨型汉堡肉"
+          "LocalizedString": "Hamburger Steak XL"
         },
         "icon": {
           "AssetPathName": "",
@@ -2964,7 +2964,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0091",
           "SourceString": "复活选中角色，并额外恢复1000生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复1000生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 1,000 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -2987,7 +2987,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_092_name",
           "SourceString": "缤纷轻食沙拉",
-          "LocalizedString": "缤纷轻食沙拉"
+          "LocalizedString": "Colorful Light Salad"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -2997,7 +2997,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0092",
           "SourceString": "当前角色在之后的30秒内，每5秒回复572生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复572生命值"
+          "LocalizedString": "Restores 572 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3020,7 +3020,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_093_name",
           "SourceString": "元气儿童套餐",
-          "LocalizedString": "元气儿童套餐"
+          "LocalizedString": "Kids Energy Meal"
         },
         "icon": {
           "AssetPathName": "",
@@ -3030,7 +3030,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0093",
           "SourceString": "为当前角色恢复生命值上限的30%。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3053,7 +3053,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_094_name",
           "SourceString": "清凉凉提神药",
-          "LocalizedString": "清凉凉提神药"
+          "LocalizedString": "Cooly Cool Refresher"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -3063,7 +3063,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0094",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3086,7 +3086,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_095_name",
           "SourceString": "净化守护含片",
-          "LocalizedString": "净化守护含片"
+          "LocalizedString": "Purification Guard Lozenges"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -3096,7 +3096,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0095",
           "SourceString": "为当前角色恢复1000点生命值，并在之后的30秒内，每5秒恢复260点生命值。",
-          "LocalizedString": "为当前角色恢复1000点生命值，并在之后的30秒内，每5秒恢复260点生命值。"
+          "LocalizedString": "Heals the current character for 1,000 HP, then restores 260 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3119,7 +3119,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_096_name",
           "SourceString": "明亮~wink大作战！",
-          "LocalizedString": "明亮~wink大作战！"
+          "LocalizedString": "Blink! Wink Battle!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -3129,7 +3129,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0096",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3152,7 +3152,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_097_name",
           "SourceString": "大防御家！",
-          "LocalizedString": "大防御家！"
+          "LocalizedString": "Great Defender!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -3162,7 +3162,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0097",
           "SourceString": "队伍中所有角色防御力增加175，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加175，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 175 for 600s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3185,7 +3185,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_098_name",
           "SourceString": "竹本！Vitamin！",
-          "LocalizedString": "竹本！Vitamin！"
+          "LocalizedString": "Zhu! Vitamin!"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3195,7 +3195,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0098",
           "SourceString": "队伍中所有角色暴击率增加10%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加10%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 10% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3218,7 +3218,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_100_name",
           "SourceString": "番茄百分百果冻",
-          "LocalizedString": "番茄百分百果冻"
+          "LocalizedString": "Tomato 100 Jelly"
         },
         "icon": {
           "AssetPathName": "",
@@ -3228,7 +3228,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0100",
           "SourceString": "为当前角色恢复2350点生命值。",
-          "LocalizedString": "为当前角色恢复2350点生命值。"
+          "LocalizedString": "Heals the current character for 2,350 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3251,7 +3251,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_101_name",
           "SourceString": "番茄百分百果汁",
-          "LocalizedString": "番茄百分百果汁"
+          "LocalizedString": "Tomato 100 Juice"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -3261,7 +3261,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0101",
           "SourceString": "当前角色在之后的30秒内，每5秒回复611生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复611生命值"
+          "LocalizedString": "Restores 611 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3284,7 +3284,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_102_name",
           "SourceString": "番茄百分百奶昔",
-          "LocalizedString": "番茄百分百奶昔"
+          "LocalizedString": "Tomato 100 Milkshake"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_healing.bufficon_common_healing",
@@ -3294,7 +3294,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0102",
           "SourceString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 1,150 HP, then restores 299 HP every 5s for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3317,7 +3317,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_103_name",
           "SourceString": "惠比寿宫廷小塔",
-          "LocalizedString": "惠比寿宫廷小塔"
+          "LocalizedString": "Ebisu Royal Tower"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3327,7 +3327,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0103",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3350,7 +3350,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_104_name",
           "SourceString": "大将军章鱼烧",
-          "LocalizedString": "大将军章鱼烧"
+          "LocalizedString": "Taishou Takoyaki"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3360,7 +3360,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0103",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3383,7 +3383,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_105_name",
           "SourceString": "绵软番茄",
-          "LocalizedString": "绵软番茄"
+          "LocalizedString": "Soft Tomato"
         },
         "icon": {
           "AssetPathName": "",
@@ -3393,7 +3393,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0105",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3416,7 +3416,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_106_name",
           "SourceString": "盐盐轻语",
-          "LocalizedString": "盐盐轻语"
+          "LocalizedString": "Salty Whisper"
         },
         "icon": {
           "AssetPathName": "",
@@ -3426,7 +3426,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0106",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3449,7 +3449,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_107_name",
           "SourceString": "霜云交响",
-          "LocalizedString": "霜云交响"
+          "LocalizedString": "Frost Cloud Symphony"
         },
         "icon": {
           "AssetPathName": "",
@@ -3459,7 +3459,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0107",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3482,7 +3482,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_108_name",
           "SourceString": "经典番茄",
-          "LocalizedString": "经典番茄"
+          "LocalizedString": "Classic Tomato"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3492,7 +3492,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0108",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3515,7 +3515,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_109_name",
           "SourceString": "盐盐王牌",
-          "LocalizedString": "盐盐王牌"
+          "LocalizedString": "Salty Ace"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3525,7 +3525,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0109",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3548,7 +3548,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_110_name",
           "SourceString": "冰霜交响",
-          "LocalizedString": "冰霜交响"
+          "LocalizedString": "Frost Ice Symphony"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3558,7 +3558,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0110",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3581,7 +3581,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_111_name",
           "SourceString": "硬核番茄",
-          "LocalizedString": "硬核番茄"
+          "LocalizedString": "Hardcore Tomato"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3591,7 +3591,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0111",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3614,7 +3614,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_112_name",
           "SourceString": "盐盐烈风",
-          "LocalizedString": "盐盐烈风"
+          "LocalizedString": "Salty Tornado"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3624,7 +3624,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0112",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3647,7 +3647,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_113_name",
           "SourceString": "霜铁交响",
-          "LocalizedString": "霜铁交响"
+          "LocalizedString": "Frost Iron Symphony"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3657,7 +3657,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0113",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3680,7 +3680,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_114_name",
           "SourceString": "「惬意猫猫鱼」",
-          "LocalizedString": "「惬意猫猫鱼」"
+          "LocalizedString": "\"Cozy Nyanko\""
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3690,7 +3690,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0114",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3720,7 +3720,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0115",
           "SourceString": "为当前角色恢复2500点生命值。",
-          "LocalizedString": "为当前角色恢复2500点生命值。"
+          "LocalizedString": "Heals the current character for 2,500 HP."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3743,7 +3743,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_119_name",
           "SourceString": "焰火海鲜饭",
-          "LocalizedString": "焰火海鲜饭"
+          "LocalizedString": "Firework Seafood Paella"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3753,7 +3753,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0119",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3776,7 +3776,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0121_name",
           "SourceString": "向阳一日",
-          "LocalizedString": "向阳一日"
+          "LocalizedString": "Sunward Day"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3786,7 +3786,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0121",
           "SourceString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 140 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3809,7 +3809,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0122_name",
           "SourceString": "包装完好的止痛药",
-          "LocalizedString": "包装完好的止痛药"
+          "LocalizedString": "Sealed Painkillers"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -3819,7 +3819,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0122",
           "SourceString": "队伍中所有角色消耗的体力降低10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3842,7 +3842,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0123_name",
           "SourceString": "过期的止痛药",
-          "LocalizedString": "过期的止痛药"
+          "LocalizedString": "Expired Painkillers"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -3852,7 +3852,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0123",
           "SourceString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3875,7 +3875,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0126_name",
           "SourceString": "风干的牛排",
-          "LocalizedString": "风干的牛排"
+          "LocalizedString": "Dried-Out Steak"
         },
         "icon": {
           "AssetPathName": "",
@@ -3885,7 +3885,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0126",
           "SourceString": "当前角色在之后的30秒内，每5秒回复515生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复515生命值"
+          "LocalizedString": "Restores 515 HP every 5s to the current character for the next 30s."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3908,7 +3908,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0128_name",
           "SourceString": "噗噗暖香纪念咖啡",
-          "LocalizedString": "噗噗暖香纪念咖啡"
+          "LocalizedString": "Puka Keepsake Coffee"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -3918,7 +3918,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0128_usedesc",
           "SourceString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3941,7 +3941,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0129_name",
           "SourceString": "云絮棉花糖奶茶",
-          "LocalizedString": "云絮棉花糖奶茶"
+          "LocalizedString": "Cloud Candy Milk Tea"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_crit.bufficon_common_crit",
@@ -3951,7 +3951,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0129_usedesc",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Crit Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -3974,7 +3974,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0130_name",
           "SourceString": "可可熔心巧克力奶茶",
-          "LocalizedString": "可可熔心巧克力奶茶"
+          "LocalizedString": "Molten Cocoa Milk Tea"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -3984,7 +3984,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0130_usedesc",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -4007,7 +4007,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0133_name",
           "SourceString": "脆筒布丁冒险船",
-          "LocalizedString": "脆筒布丁冒险船"
+          "LocalizedString": "Crispy Cone Pudding Boat"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -4017,7 +4017,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0133_usedesc",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -4040,7 +4040,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0134_name",
           "SourceString": "噗仔手套冰棒",
-          "LocalizedString": "噗仔手套冰棒"
+          "LocalizedString": "Pukaboo Glove Pop"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_def.bufficon_common_def",
@@ -4050,7 +4050,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0134_usedesc",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -4073,7 +4073,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0139_name",
           "SourceString": "烟火熏烤超大火鸡腿",
-          "LocalizedString": "烟火熏烤超大火鸡腿"
+          "LocalizedString": "Firecracker Jumbo Turkey Leg"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_atk.bufficon_common_atk",
@@ -4083,7 +4083,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0139_usedesc",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,
@@ -4106,7 +4106,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0143_name",
           "SourceString": "空想特饮",
-          "LocalizedString": "空想特饮"
+          "LocalizedString": "Daydream Tonic"
         },
         "icon": {
           "AssetPathName": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_hp.bufficon_common_hp",
@@ -4116,7 +4116,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0143_usedesc",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases allies' Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "BuffType": "BuffInfoType::StateBuff",
         "Hierarchy": -1,

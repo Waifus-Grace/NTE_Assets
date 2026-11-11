@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
           "Key": "S111300_QuestName",
           "SourceString": "展厅维护中",
-          "LocalizedString": "展厅维护中"
+          "LocalizedString": "Exhibition Hall Under Maintenance"
         },
         "ChapterID": "SU020_02",
         "ChapterProgress": -1.0,
@@ -53,7 +53,7 @@
               "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
               "Key": "S111300_ObjDes_1",
               "SourceString": "等待到<blue>第二天</>",
-              "LocalizedString": "等待到<blue>第二天</>"
+              "LocalizedString": "Wait until <blue>the Next Day</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -89,7 +89,7 @@
           "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
           "Key": "S111300_QuestPanel",
           "SourceString": "钨丝先生说故事是需要等待的，耐心点再等等吧。",
-          "LocalizedString": "钨丝先生说故事是需要等待的，耐心点再等等吧。"
+          "LocalizedString": "Tungsten said that stories require patience. I should wait a little longer."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -147,7 +147,7 @@
           "TableId": "/Game/Text/ST_Description.ST_Description",
           "Key": "TextMessage_002",
           "SourceString": "按下以调整时间",
-          "LocalizedString": "按下以调整时间"
+          "LocalizedString": "Press to Adjust Time"
         }
       },
       "S1130001": {
@@ -190,7 +190,7 @@
               "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
               "Key": "S1113001_ObjDes_1",
               "SourceString": "前往<blue>金苹果藏馆</>",
-              "LocalizedString": "前往<blue>金苹果藏馆</>"
+              "LocalizedString": "Go to <blue>Gold Apple Collection Hall</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -204,7 +204,7 @@
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "SU031_Player_001",
                   "SourceString": "（不知道钨丝先生准备的怎么样了，有时间过去看看吧。）",
-                  "LocalizedString": "（不知道钨丝先生准备的怎么样了，有时间过去看看吧。）"
+                  "LocalizedString": "(I wonder how Tungsten's preparations are going. I should take a look when I can.)"
                 }
               ]
             },
@@ -258,7 +258,7 @@
           "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
           "Key": "S1113001_QuestPanel",
           "SourceString": "不知道钨丝先生准备的怎么样了，去金苹果藏馆找他吧。",
-          "LocalizedString": "不知道钨丝先生准备的怎么样了，去金苹果藏馆找他吧。"
+          "LocalizedString": "I wonder how Tungsten's preparations are going. I should go find him at the Gold Apple Collection Hall."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,
@@ -347,7 +347,7 @@
               "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
               "Key": "S111301_ObjDes_1",
               "SourceString": "进入<blue>钨丝展厅</>",
-              "LocalizedString": "进入<blue>钨丝展厅</>"
+              "LocalizedString": "Enter the <blue>Tungsten Showroom</>"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -405,7 +405,7 @@
           "TableId": "/Game/Text/ST_SideQuest.ST_SideQuest",
           "Key": "S111301_QuestPanel",
           "SourceString": "一盏小小的灯里竟然有一个这么大的异象空间，就算是第二次进入也觉得很奇妙啊。",
-          "LocalizedString": "一盏小小的灯里竟然有一个这么大的异象空间，就算是第二次进入也觉得很奇妙啊。"
+          "LocalizedString": "It's incredible that such a huge Anomalous Realm exists inside a tiny lamp. Even visiting for the second time, it still feels so magical."
         },
         "UnlockTeleportID": "None",
         "BuffInfo": null,

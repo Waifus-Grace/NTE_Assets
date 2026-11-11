@@ -35,7 +35,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_1",
           "SourceString": "背包",
-          "LocalizedString": "背包"
+          "LocalizedString": "Inventory"
         },
         "KeyDisplay": {
           "CultureInvariantString": "B"
@@ -65,7 +65,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_2",
           "SourceString": "角色",
-          "LocalizedString": "角色"
+          "LocalizedString": "Character"
         },
         "KeyDisplay": {
           "CultureInvariantString": "C"
@@ -95,7 +95,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_10",
           "SourceString": "编队",
-          "LocalizedString": "编队"
+          "LocalizedString": "Formation"
         },
         "KeyDisplay": {
           "CultureInvariantString": "L"
@@ -125,7 +125,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_12",
           "SourceString": "地图",
-          "LocalizedString": "地图"
+          "LocalizedString": "Map"
         },
         "KeyDisplay": {
           "CultureInvariantString": "M"
@@ -155,7 +155,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_11",
           "SourceString": "任务",
-          "LocalizedString": "任务"
+          "LocalizedString": "Quests"
         },
         "KeyDisplay": {
           "CultureInvariantString": "J"
@@ -185,7 +185,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_16",
           "SourceString": "交互",
-          "LocalizedString": "交互"
+          "LocalizedString": "Interact"
         },
         "KeyDisplay": {
           "CultureInvariantString": "F"
@@ -215,7 +215,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_17",
           "SourceString": "任务追踪",
-          "LocalizedString": "任务追踪"
+          "LocalizedString": "Track Quest"
         },
         "KeyDisplay": {
           "CultureInvariantString": "V"
@@ -245,7 +245,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_18",
           "SourceString": "变轨技能",
-          "LocalizedString": "变轨技能"
+          "LocalizedString": "Redirect Skill"
         },
         "KeyDisplay": {
           "CultureInvariantString": "E"
@@ -275,7 +275,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_19",
           "SourceString": "极轨终结",
-          "LocalizedString": "极轨终结"
+          "LocalizedString": "Ultimate"
         },
         "KeyDisplay": {
           "CultureInvariantString": "Q"
@@ -305,7 +305,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_33",
           "SourceString": "弧盘技能",
-          "LocalizedString": "弧盘技能"
+          "LocalizedString": "Arc Skill"
         },
         "KeyDisplay": {
           "CultureInvariantString": "R"
@@ -335,7 +335,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_20",
           "SourceString": "瞄准",
-          "LocalizedString": "瞄准"
+          "LocalizedString": "Aim"
         },
         "KeyDisplay": {
           "CultureInvariantString": "G"
@@ -365,13 +365,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_31",
           "SourceString": "手动锁定/解除锁定",
-          "LocalizedString": "手动锁定/解除锁定"
+          "LocalizedString": "Manual Lock/Unlock"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_32",
           "SourceString": "鼠标中键",
-          "LocalizedString": "鼠标中键"
+          "LocalizedString": "MMB"
         },
         "IsPlayerAbilityKey": true
       },
@@ -398,7 +398,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_21",
           "SourceString": "使用道具",
-          "LocalizedString": "使用道具"
+          "LocalizedString": "Use Item"
         },
         "KeyDisplay": {
           "CultureInvariantString": "T"
@@ -428,7 +428,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_22",
           "SourceString": "走/跑切换",
-          "LocalizedString": "走/跑切换"
+          "LocalizedString": "Toggle Walk/Run"
         },
         "KeyDisplay": {
           "CultureInvariantString": "L Ctrl"
@@ -458,7 +458,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_23",
           "SourceString": "切换角色1",
-          "LocalizedString": "切换角色1"
+          "LocalizedString": "Switch to Character 1"
         },
         "KeyDisplay": {
           "CultureInvariantString": "1"
@@ -488,7 +488,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_24",
           "SourceString": "切换角色2",
-          "LocalizedString": "切换角色2"
+          "LocalizedString": "Switch to Character 2"
         },
         "KeyDisplay": {
           "CultureInvariantString": "2"
@@ -518,7 +518,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_25",
           "SourceString": "切换角色3",
-          "LocalizedString": "切换角色3"
+          "LocalizedString": "Switch to Character 3"
         },
         "KeyDisplay": {
           "CultureInvariantString": "3"
@@ -548,7 +548,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_26",
           "SourceString": "切换角色4",
-          "LocalizedString": "切换角色4"
+          "LocalizedString": "Switch to Character 4"
         },
         "KeyDisplay": {
           "CultureInvariantString": "4"
@@ -578,13 +578,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_28",
           "SourceString": "普通攻击",
-          "LocalizedString": "普通攻击"
+          "LocalizedString": "Basic Attack"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_Melee",
           "SourceString": "鼠标左击",
-          "LocalizedString": "鼠标左击"
+          "LocalizedString": "LMB"
         },
         "IsPlayerAbilityKey": true
       },
@@ -611,13 +611,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_29",
           "SourceString": "闪避",
-          "LocalizedString": "闪避"
+          "LocalizedString": "Dodge"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_Evade",
           "SourceString": "鼠标右键/L Shift",
-          "LocalizedString": "鼠标右键/L Shift"
+          "LocalizedString": "RMB / L Shift"
         },
         "IsPlayerAbilityKey": true
       },
@@ -644,13 +644,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_3",
           "SourceString": "跳跃",
-          "LocalizedString": "跳跃"
+          "LocalizedString": "Jump"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_Jump",
           "SourceString": "空格键",
-          "LocalizedString": "空格键"
+          "LocalizedString": "Spacebar"
         },
         "IsPlayerAbilityKey": true
       },
@@ -677,7 +677,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_FirstPersonView",
           "SourceString": "切换视角",
-          "LocalizedString": "切换视角"
+          "LocalizedString": "Switch View"
         },
         "KeyDisplay": {
           "CultureInvariantString": "Z"
@@ -707,13 +707,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_8",
           "SourceString": "呼出鼠标",
-          "LocalizedString": "呼出鼠标"
+          "LocalizedString": "Show Cursor"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_SwitchMose",
           "SourceString": "按住L Alt",
-          "LocalizedString": "按住L Alt"
+          "LocalizedString": "Hold LAlt"
         },
         "IsPlayerAbilityKey": true
       },
@@ -740,7 +740,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_4",
           "SourceString": "前进",
-          "LocalizedString": "前进"
+          "LocalizedString": "Forward"
         },
         "KeyDisplay": {
           "CultureInvariantString": "W"
@@ -770,7 +770,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_5",
           "SourceString": "后退",
-          "LocalizedString": "后退"
+          "LocalizedString": "Backward"
         },
         "KeyDisplay": {
           "CultureInvariantString": "S"
@@ -800,7 +800,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_6",
           "SourceString": "左移",
-          "LocalizedString": "左移"
+          "LocalizedString": "Left"
         },
         "KeyDisplay": {
           "CultureInvariantString": "A"
@@ -830,7 +830,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_7",
           "SourceString": "右移",
-          "LocalizedString": "右移"
+          "LocalizedString": "Right"
         },
         "KeyDisplay": {
           "CultureInvariantString": "D"
@@ -860,7 +860,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_9",
           "SourceString": "菜单/退出",
-          "LocalizedString": "菜单/退出"
+          "LocalizedString": "Menu/Exit"
         },
         "KeyDisplay": {
           "CultureInvariantString": "ESC"
@@ -890,13 +890,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Setting_3_30",
           "SourceString": "快捷轮盘",
-          "LocalizedString": "快捷轮盘"
+          "LocalizedString": "Quick Radial Menu"
         },
         "KeyDisplay": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_QuickMenu",
           "SourceString": "按住TAB",
-          "LocalizedString": "按住TAB"
+          "LocalizedString": "Hold TAB"
         },
         "IsPlayerAbilityKey": true
       },
@@ -920,7 +920,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Key_UIOpacity",
           "SourceString": "隐藏主界面",
-          "LocalizedString": "隐藏主界面"
+          "LocalizedString": "Hide Main UI"
         },
         "KeyDisplay": {
           "CultureInvariantString": "F7"
@@ -950,7 +950,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_090",
           "SourceString": "抓拍",
-          "LocalizedString": "抓拍"
+          "LocalizedString": "Snapshot"
         },
         "KeyDisplay": {
           "CultureInvariantString": "F8"
@@ -980,7 +980,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_001",
           "SourceString": "拍照",
-          "LocalizedString": "拍照"
+          "LocalizedString": "Photo"
         },
         "KeyDisplay": {
           "CultureInvariantString": "F9"

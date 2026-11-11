@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_01",
           "SourceString": "累计参加1场竞拍",
-          "LocalizedString": "累计参加1场竞拍"
+          "LocalizedString": "Join 1 Auction"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -110,7 +110,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_02",
           "SourceString": "累计参加2场竞拍",
-          "LocalizedString": "累计参加2场竞拍"
+          "LocalizedString": "Join 2 Auctions"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -202,7 +202,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_03",
           "SourceString": "累计参加3场竞拍",
-          "LocalizedString": "累计参加3场竞拍"
+          "LocalizedString": "Join 3 Auctions"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -294,7 +294,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_05",
           "SourceString": "使用1次仪器",
-          "LocalizedString": "使用1次仪器"
+          "LocalizedString": "Use the Device once"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -384,7 +384,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_06",
           "SourceString": "使用3次仪器",
-          "LocalizedString": "使用3次仪器"
+          "LocalizedString": "Use the Device 3 times"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -474,7 +474,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_JP_07",
           "SourceString": "使用5次仪器",
-          "LocalizedString": "使用5次仪器"
+          "LocalizedString": "Use the Device 5 times"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -564,7 +564,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_01",
           "SourceString": "成功拍下1件藏品",
-          "LocalizedString": "成功拍下1件藏品"
+          "LocalizedString": "Win 1 Collectible at Auction"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -655,7 +655,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_02",
           "SourceString": "成功拍下3件藏品",
-          "LocalizedString": "成功拍下3件藏品"
+          "LocalizedString": "Win 3 Collectibles at Auction"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -746,7 +746,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_03",
           "SourceString": "成功拍下5件藏品",
-          "LocalizedString": "成功拍下5件藏品"
+          "LocalizedString": "Win 5 Collectibles at Auction"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -837,7 +837,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_04",
           "SourceString": "成功拍下1件红色藏品",
-          "LocalizedString": "成功拍下1件红色藏品"
+          "LocalizedString": "Win 1 bid on Red Collectible"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -928,7 +928,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_05",
           "SourceString": "成功拍下3件红色藏品",
-          "LocalizedString": "成功拍下3件红色藏品"
+          "LocalizedString": "Win 3 bids on Red Collectibles"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1019,7 +1019,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_06",
           "SourceString": "成功拍下5件红色藏品",
-          "LocalizedString": "成功拍下5件红色藏品"
+          "LocalizedString": "Win 5 bids on Red Collectibles"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1110,7 +1110,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_01",
           "SourceString": "单次盈利超过50000金贝铢",
-          "LocalizedString": "单次盈利超过50000金贝铢"
+          "LocalizedString": "Earn over 50,000 Gold Shells in a single round"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1200,7 +1200,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_02",
           "SourceString": "单次盈利超过100000金贝铢",
-          "LocalizedString": "单次盈利超过100000金贝铢"
+          "LocalizedString": "Earn over 100,000 Gold Shells in a single round"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1290,7 +1290,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_03",
           "SourceString": "单次盈利超过500000金贝铢",
-          "LocalizedString": "单次盈利超过500000金贝铢"
+          "LocalizedString": "Earn over 500,000 Gold Shells in a single round"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1380,7 +1380,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_04",
           "SourceString": "累计盈利500000金贝铢",
-          "LocalizedString": "累计盈利500000金贝铢"
+          "LocalizedString": "Earn a total of 500,000 Gold Shells"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1470,7 +1470,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_05",
           "SourceString": "累计盈利1000000金贝铢",
-          "LocalizedString": "累计盈利1000000金贝铢"
+          "LocalizedString": "Earn a total of 1,000,000 Gold Shells"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1560,7 +1560,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_06",
           "SourceString": "累计盈利2000000金贝铢",
-          "LocalizedString": "累计盈利2000000金贝铢"
+          "LocalizedString": "Earn a total of 2,000,000 Gold Shells"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1650,7 +1650,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_01",
           "SourceString": "累计解锁10个藏品的图鉴",
-          "LocalizedString": "累计解锁10个藏品的图鉴"
+          "LocalizedString": "Unlock 10 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1739,7 +1739,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_02",
           "SourceString": "累计解锁20个藏品的图鉴",
-          "LocalizedString": "累计解锁20个藏品的图鉴"
+          "LocalizedString": "Unlock 20 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1828,7 +1828,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_03",
           "SourceString": "累计解锁30个藏品的图鉴",
-          "LocalizedString": "累计解锁30个藏品的图鉴"
+          "LocalizedString": "Unlock 30 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -1917,7 +1917,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_04",
           "SourceString": "累计解锁40个藏品的图鉴",
-          "LocalizedString": "累计解锁40个藏品的图鉴"
+          "LocalizedString": "Unlock 40 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2006,7 +2006,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_05",
           "SourceString": "累计解锁50个藏品的图鉴",
-          "LocalizedString": "累计解锁50个藏品的图鉴"
+          "LocalizedString": "Unlock 50 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2095,7 +2095,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_06",
           "SourceString": "累计解锁60个藏品的图鉴",
-          "LocalizedString": "累计解锁60个藏品的图鉴"
+          "LocalizedString": "Unlock 60 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2184,7 +2184,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_09",
           "SourceString": "累计解锁70个藏品的图鉴",
-          "LocalizedString": "累计解锁70个藏品的图鉴"
+          "LocalizedString": "Unlock 70 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2273,7 +2273,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_07",
           "SourceString": "累计解锁80个藏品的图鉴",
-          "LocalizedString": "累计解锁80个藏品的图鉴"
+          "LocalizedString": "Unlock 80 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -2362,7 +2362,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_CO_08",
           "SourceString": "累计解锁100个藏品的图鉴",
-          "LocalizedString": "累计解锁100个藏品的图鉴"
+          "LocalizedString": "Unlock 100 Collectible Index entries"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKing",
         "QuestRefreshType": "ESimpleQuestRefresh::None",

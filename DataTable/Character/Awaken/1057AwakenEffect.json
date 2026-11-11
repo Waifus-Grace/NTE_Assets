@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star1_name",
               "SourceString": "教室后的吉他谱",
-              "LocalizedString": "教室后的吉他谱"
+              "LocalizedString": "After-School Tabs"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_1.1057_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star1_des",
               "SourceString": "每次释放强化变轨技能「同调共振」时，立即回复一次相当于明音凛<NumGreen>1000%</>基础攻击力的生命值，并且明音凛的防御力提升<NumGreen>50%</>，抗打断能力提升<NumGreen>60%</>，持续<NumGreen>15</>秒。",
-              "LocalizedString": "每次释放强化变轨技能「同调共振」时，立即回复一次相当于明音凛<NumGreen>1000%</>基础攻击力的生命值，并且明音凛的防御力提升<NumGreen>50%</>，抗打断能力提升<NumGreen>60%</>，持续<NumGreen>15</>秒。"
+              "LocalizedString": "Restores HP equal to <NumGreen>1000%</> of Akane Rin's Base ATK each time Synced Resonance is cast. Increases her DEF by <NumGreen>50%</> and Resistance to Interruptions by <NumGreen>60%</> for <NumGreen>15</>s."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star2_name",
               "SourceString": "琴行中的变调夹",
-              "LocalizedString": "琴行中的变调夹"
+              "LocalizedString": "Capo On"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_2.1057_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star2_des",
               "SourceString": "被<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>附着，或者处于<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>内的敌人相属性抗性降低<NumGreen>12%</>。",
-              "LocalizedString": "被<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>附着，或者处于<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>内的敌人相属性抗性降低<NumGreen>12%</>。"
+              "LocalizedString": "Reduces enemies' Lakshana Resistance by <NumGreen>12%</> while affected by <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">Overtone</> or within <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">Reverb Field</>."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star3_name",
               "SourceString": "树荫下的胶囊罐",
-              "LocalizedString": "树荫下的胶囊罐"
+              "LocalizedString": "Shade Capsules"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_3.1057_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star3_des",
               "SourceString": "点按「变轨技能：律动音浪」释放<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>时，该技能增加<NumGreen>1000%</>的固定倍率；<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>的半径扩大<NumGreen>30%</>，且长按「变轨技能：律动音浪」释放<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>时，吸附范围内的敌人。",
-              "LocalizedString": "点按「变轨技能：律动音浪」释放<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>时，该技能增加<NumGreen>1000%</>的固定倍率；<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>的半径扩大<NumGreen>30%</>，且长按「变轨技能：律动音浪」释放<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>时，吸附范围内的敌人。"
+              "LocalizedString": "Adds a flat <NumGreen>1000%</> to Rhythm Wave's DMG Ratio when it's pressed to inflict <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">Overtone</>. Increases <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">Reverb Field</>'s radius by <NumGreen>30%</>. Pulls in enemies within range when <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">Reverb Field</> is deployed by holding down Rhythm Wave."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star4_name",
               "SourceString": "耳机里的底噪声",
-              "LocalizedString": "耳机里的底噪声"
+              "LocalizedString": "Headphone Static"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_4.1057_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star4_des",
               "SourceString": "释放强化变轨技能「同调共振」后，明音凛暴击伤害提升<NumGreen>30%</>，持续<NumGreen>15</>秒。",
-              "LocalizedString": "释放强化变轨技能「同调共振」后，明音凛暴击伤害提升<NumGreen>30%</>，持续<NumGreen>15</>秒。"
+              "LocalizedString": "Increases Akane Rin's Crit DMG by <NumGreen>30%</> for <NumGreen>15</>s after casting Synced Resonance."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star5_name",
               "SourceString": "乐队间的节拍器",
-              "LocalizedString": "乐队间的节拍器"
+              "LocalizedString": "Rehearsal Click"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_5.1057_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star5_des",
               "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>传导普通攻击的倍率提升效果提高至<NumGreen>64%</>；<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>传导普通攻击的伤害提升效果提高至<NumGreen>90%</>。",
-              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">「泛音列」</>传导普通攻击的倍率提升效果提高至<NumGreen>64%</>；<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">「音域」</>传导普通攻击的伤害提升效果提高至<NumGreen>90%</>。"
+              "LocalizedString": "Increases the DMG Ratio bonus for Basic Attacks relayed by <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneHarmonicMark\">Overtone</> to <NumGreen>64%</>. Increases the DMG bonus for Basic Attacks relayed by <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneSoundField\">Reverb Field</> to <NumGreen>90%</>."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star6_name",
               "SourceString": "舞台前的超新星",
-              "LocalizedString": "舞台前的超新星"
+              "LocalizedString": "Front-Row Supernova"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1057_6.1057_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_star6_des",
               "SourceString": "「烁星激昂」额外使明音凛获得<NumGreen>16%</>的无视防御。",
-              "LocalizedString": "「烁星激昂」额外使明音凛获得<NumGreen>16%</>的无视防御。"
+              "LocalizedString": "Starlit Anthem additionally grants Akane Rin <NumGreen>16%</> DEF ignore."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_starExtra1_name",
               "SourceString": "全音阶",
-              "LocalizedString": "全音阶"
+              "LocalizedString": "Diatonic"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -239,7 +239,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_starExtra1_des",
               "SourceString": "明音凛的普通攻击、变轨技能、极轨终结的技能等级提高<NumGreen>1</>级；进入战斗时立即充满<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">「弦能」</>。强化变轨技能「同调共振」增加<NumGreen>800%</>的固定倍率。「极轨终结：音障爆鸣」第二段增加<NumGreen>1000%</>的固定倍率。",
-              "LocalizedString": "明音凛的普通攻击、变轨技能、极轨终结的技能等级提高<NumGreen>1</>级；进入战斗时立即充满<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">「弦能」</>。强化变轨技能「同调共振」增加<NumGreen>800%</>的固定倍率。「极轨终结：音障爆鸣」第二段增加<NumGreen>1000%</>的固定倍率。"
+              "LocalizedString": "Increases the skill level of Akane Rin's Basic Attack, Redirect Skill, and Ultimate by <NumGreen>1</>. Fully restores <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">String Energy</> upon entering battle. Adds a flat <NumGreen>800%</> to Synced Resonance's DMG Ratio. Adds a flat <NumGreen>1000%</> to Sonic Boom's second-instance DMG Ratio."
             },
             "GEIdArray": []
           },
@@ -250,7 +250,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_starExtra2_name",
               "SourceString": "复调式",
-              "LocalizedString": "复调式"
+              "LocalizedString": "Polyphony"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -270,7 +270,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
               "Key": "GA_Akane_starExtra2_des",
               "SourceString": "每次释放强化变轨技能「同调共振」后返还<NumGreen>10</>点<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">「弦能」</>。释放强化变轨技能「同调共振」后，明音凛暴击伤害提升<NumGreen>64%</>，持续<NumGreen>25</>秒。",
-              "LocalizedString": "每次释放强化变轨技能「同调共振」后返还<NumGreen>10</>点<hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">「弦能」</>。释放强化变轨技能「同调共振」后，明音凛暴击伤害提升<NumGreen>64%</>，持续<NumGreen>25</>秒。"
+              "LocalizedString": "Refunds <NumGreen>10</> <hot textstyle=\"TextEXPL\" param=\"nouns&AkaneChordEnergy\">String Energy</> after Synced Resonance is cast. Increases Akane Rin's Crit DMG by <NumGreen>64%</> for <NumGreen>25</>s after she casts Synced Resonance."
             },
             "GEIdArray": []
           }

@@ -19,7 +19,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_14_Name",
           "SourceString": "分解者",
-          "LocalizedString": "分解者"
+          "LocalizedString": "Decomposer"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_14_black.mon_14_black",
@@ -41,13 +41,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_14_act05_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「垃圾桶」的样子吧。「分解者」喷射出桶内存储的垃圾，对前方扇形范围内目标造成至多<NumGreen>8</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「垃圾桶」的样子吧。「分解者」喷射出桶内存储的垃圾，对前方扇形范围内目标造成至多<NumGreen>8</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that trash can…! Decomposer sprays its trash from the can, dealing up to <NumGreen>8</> instances of damage to targets in a cone."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_14_act05_Steal_BP_Collection",
           "SourceString": "「分解者」喷射出桶内存储的垃圾，对前方扇形范围内目标造成至多8次伤害。",
-          "LocalizedString": "「分解者」喷射出桶内存储的垃圾，对前方扇形范围内目标造成至多8次伤害。"
+          "LocalizedString": "Decomposer sprays its trash from the can, dealing up to 8 instances of damage to targets in a cone."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -77,7 +77,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_03_Name",
           "SourceString": "岩壳种",
-          "LocalizedString": "岩壳种"
+          "LocalizedString": "Rock Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_03_black.mon_03_black",
@@ -99,13 +99,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_03_act03_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大钳子」的样子吧。「岩壳种」以强壮的手臂重砸前方地面，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大钳子」的样子吧。「岩壳种」以强壮的手臂重砸前方地面，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that big claw…! Rock Spawn smashes the ground ahead with its strong arms, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_03_act03_Steal_BP_Collection",
           "SourceString": "「岩壳种」以强壮的手臂重砸前方地面，对范围内目标造成1次伤害。",
-          "LocalizedString": "「岩壳种」以强壮的手臂重砸前方地面，对范围内目标造成1次伤害。"
+          "LocalizedString": "Rock Spawn smashes the ground ahead with its strong arms, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -133,7 +133,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_18_2_Name",
           "SourceString": "「肉改」棉绒绒",
-          "LocalizedString": "「肉改」棉绒绒"
+          "LocalizedString": "Gigafluff"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_18_2_black.mon_18_2_black",
@@ -155,13 +155,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_18_2_act03_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「生气的棉绒绒」的样子吧。「肌肉棉绒绒」潇洒挥拳，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「生气的棉绒绒」的样子吧。「肌肉棉绒绒」潇洒挥拳，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those angry Fluffies…! Gigafluff gracefully punches, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_18_2_act03_Steal_BP_Collection",
           "SourceString": "「肌肉棉绒绒」潇洒挥拳，对范围内目标造成1次伤害。",
-          "LocalizedString": "「肌肉棉绒绒」潇洒挥拳，对范围内目标造成1次伤害。"
+          "LocalizedString": "Gigafluff gracefully punches, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -189,7 +189,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_18_Name",
           "SourceString": "棉绒绒",
-          "LocalizedString": "棉绒绒"
+          "LocalizedString": "Fluffy"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_18__black.mon_18__black",
@@ -211,13 +211,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_018_Skill03_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「棉绒绒」的样子吧。「棉绒绒」向前跃起并重重落下，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「棉绒绒」的样子吧。「棉绒绒」向前跃起并重重落下，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like Fluffy…! Fluffy leaps forward and impacts the ground, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_018_Skill03_Steal_Collection",
           "SourceString": "「棉绒绒」向前跃起并重重落下，对范围内目标造成1次伤害。",
-          "LocalizedString": "「棉绒绒」向前跃起并重重落下，对范围内目标造成1次伤害。"
+          "LocalizedString": "Fluffy leaps forward and impacts the ground, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -245,7 +245,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_05_Name",
           "SourceString": "凭依种",
-          "LocalizedString": "凭依种"
+          "LocalizedString": "Leech Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_05_black.mon_05_black",
@@ -267,13 +267,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_05_act02_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大巴掌」的样子吧。「凭依种」用手掌大力拍击地面，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大巴掌」的样子吧。「凭依种」用手掌大力拍击地面，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like the big hand…! Leech Spawn slams the ground powerfully with its hand, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_05_act02_Steal_BP_Collection",
           "SourceString": "「凭依种」用手掌大力拍击地面，对范围内目标造成1次伤害。",
-          "LocalizedString": "「凭依种」用手掌大力拍击地面，对范围内目标造成1次伤害。"
+          "LocalizedString": "Leech Spawn slams the ground powerfully with its hand, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -301,7 +301,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_01_Name",
           "SourceString": "低语种",
-          "LocalizedString": "低语种"
+          "LocalizedString": "Whisper Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_01_black.mon_01_black",
@@ -323,13 +323,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_01_act01_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「爪子怪」的样子吧。「低语种」向前猛力爪击，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「爪子怪」的样子吧。「低语种」向前猛力爪击，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that claw monster…! Whisper Spawn fiercely claws forward, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_01_act01_Steal_BP_Collection",
           "SourceString": "「低语种」向前猛力爪击，对范围内目标造成1次伤害。",
-          "LocalizedString": "「低语种」向前猛力爪击，对范围内目标造成1次伤害。"
+          "LocalizedString": "Whisper Spawn fiercely claws forward, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -357,7 +357,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_02_Name",
           "SourceString": "风洞种",
-          "LocalizedString": "风洞种"
+          "LocalizedString": "Wind Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_02_black.mon_02_black",
@@ -379,13 +379,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_02_act02_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「会飞的水母」的样子吧。「风洞种」连续发射<NumGreen>四</>枚追踪风弹，对单体目标造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「会飞的水母」的样子吧。「风洞种」连续发射<NumGreen>四</>枚追踪风弹，对单体目标造成伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those flying jellyfishes…! Wind Spawn fires <NumGreen>4</> tracking wind bullets in a row, dealing damage to a single target."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_02_act02_Steal_Collection",
           "SourceString": "「风洞种」连续发射四枚追踪风弹，对单体目标造成伤害。",
-          "LocalizedString": "「风洞种」连续发射四枚追踪风弹，对单体目标造成伤害。"
+          "LocalizedString": "Wind Spawn fires 4 tracking wind bullets in a row, dealing damage to a single target."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -413,7 +413,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_04_Name",
           "SourceString": "迷失种",
-          "LocalizedString": "迷失种"
+          "LocalizedString": "Lost Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_04_black.mon_04_black",
@@ -435,13 +435,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_04_act01_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「尖刀怪」的样子吧。「迷失种」迅速挥舞臂刃，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「尖刀怪」的样子吧。「迷失种」迅速挥舞臂刃，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those pointy monsters…! Lost Spawn swings its arm blades, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_04_act01_Steal_Collection",
           "SourceString": "「迷失种」迅速挥舞臂刃，对范围内目标造成1次伤害。",
-          "LocalizedString": "「迷失种」迅速挥舞臂刃，对范围内目标造成1次伤害。"
+          "LocalizedString": "Lost Spawn swings its arm blades, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -469,7 +469,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_02_Ghost_Name",
           "SourceString": "轰洞种",
-          "LocalizedString": "轰洞种"
+          "LocalizedString": "Bomb Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_02_Ghost_BP_black.mon_02_Ghost_BP_black",
@@ -491,13 +491,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_02_Ghost_act04_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「葡萄炸弹」的样子吧。「轰洞种」向四周抛出大量飞弹，造成范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「葡萄炸弹」的样子吧。「轰洞种」向四周抛出大量飞弹，造成范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those grape bombs…! Bomb Spawn throws missiles around, dealing damage to areas."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_02_Ghost_act04_Steal_Collection",
           "SourceString": "「轰洞种」向四周抛出大量飞弹，造成范围伤害。",
-          "LocalizedString": "「轰洞种」向四周抛出大量飞弹，造成范围伤害。"
+          "LocalizedString": "Bomb Spawn throws missiles around, dealing damage to areas."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -527,7 +527,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_21_Name",
           "SourceString": "欧拉拳套",
-          "LocalizedString": "欧拉拳套"
+          "LocalizedString": "Ora Puncher"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_21_black.mon_21_black",
@@ -549,13 +549,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_021_Steal_Skill05",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的拳套」的样子吧。「欧拉拳套」积蓄力量，向前打出强力直拳，对路径上的目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的拳套」的样子吧。「欧拉拳套」积蓄力量，向前打出强力直拳，对路径上的目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those noisy gloves…! Ora Puncher charges and strikes forward with a straight punch, dealing <NumGreen>1</> instance of damage to targets on the path."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_021_Steal_Skill05_Collection",
           "SourceString": "「欧拉拳套」积蓄力量，向前打出强力直拳，对路径上的目标造成1次伤害。",
-          "LocalizedString": "「欧拉拳套」积蓄力量，向前打出强力直拳，对路径上的目标造成1次伤害。"
+          "LocalizedString": "Ora Puncher charges and strikes forward with a straight punch, dealing 1 instance of damage to targets on the path."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -588,7 +588,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_13_Name",
           "SourceString": "无首铁驭",
-          "LocalizedString": "无首铁驭"
+          "LocalizedString": "Headless Rider"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_13_black.Boss_13_black",
@@ -610,13 +610,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_13_act02_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的摩托车」的样子吧。「无首铁驭」高速回旋，以镰刀斩击周围敌人，造成伤害。若在旋转过程中发动攻击，「无首铁驭」将抬起车头并重击地面，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的摩托车」的样子吧。「无首铁驭」高速回旋，以镰刀斩击周围敌人，造成伤害。若在旋转过程中发动攻击，「无首铁驭」将抬起车头并重击地面，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that noisy motorcycle…! Headless Rider drifts in a circle, scything surrounding enemies, dealing damage. If an attack is launched during the spin, Headless Rider will perform a wheelie and slam the ground, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_13_act02_Steal_Collection",
           "SourceString": "「无首铁驭」高速回旋，以镰刀斩击周围敌人，造成伤害。若在旋转过程中发动攻击，「无首铁驭」将抬起车头并重击地面，对范围内目标造成1次伤害。",
-          "LocalizedString": "「无首铁驭」高速回旋，以镰刀斩击周围敌人，造成伤害。若在旋转过程中发动攻击，「无首铁驭」将抬起车头并重击地面，对范围内目标造成1次伤害。"
+          "LocalizedString": "Headless Rider drifts in a circle, scything surrounding enemies, dealing damage. If an attack is launched during the spin, Headless Rider will perform a wheelie and slam the ground, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -644,7 +644,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_07_Name",
           "SourceString": "塞润尼缇",
-          "LocalizedString": "塞润尼缇"
+          "LocalizedString": "Serenetti"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_07_black.Boss_07_black",
@@ -666,13 +666,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_07_Skill6_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「看上去很吵的花」的样子吧。「塞润尼缇」以拒斥的花语震荡空气，持续伤害周围敌人。若在震荡中发动攻击，「塞润尼缇」将以严苛的花语强烈震荡前方空气，造成范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「看上去很吵的花」的样子吧。「塞润尼缇」以拒斥的花语震荡空气，持续伤害周围敌人。若在震荡中发动攻击，「塞润尼缇」将以严苛的花语强烈震荡前方空气，造成范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that noisy flower…! Serenetti shakes the air with rejecting floral language, continuously damaging surrounding enemies. If an attack is launched during the effect, Serenetti will displace the air with even harsher floral language, dealing damage to the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_07_Skill6_Steal_Collection",
           "SourceString": "「塞润尼缇」以拒斥的花语震荡空气，持续伤害周围敌人。若在震荡中发动攻击，「塞润尼缇」将以严苛的花语强烈震荡前方空气，造成范围伤害。",
-          "LocalizedString": "「塞润尼缇」以拒斥的花语震荡空气，持续伤害周围敌人。若在震荡中发动攻击，「塞润尼缇」将以严苛的花语强烈震荡前方空气，造成范围伤害。"
+          "LocalizedString": "Serenetti shakes the air with rejecting floral language, continuously damaging surrounding enemies. If an attack is launched during the effect, Serenetti will displace the air with even harsher floral language, dealing damage to the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -700,7 +700,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_11_Name",
           "SourceString": "抱抱藤",
-          "LocalizedString": "抱抱藤"
+          "LocalizedString": "Huggy Vines"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_11_black.mon_11_black",
@@ -722,13 +722,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_011_Skill01_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「咬人草」的样子吧。「抱抱藤」撕咬前方敌人，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「咬人草」的样子吧。「抱抱藤」撕咬前方敌人，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that biting grass…! Huggy Vines tear at enemies in front, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_011_Skill01_Steal_Collection",
           "SourceString": "「抱抱藤」撕咬前方敌人，对范围内目标造成1次伤害。",
-          "LocalizedString": "「抱抱藤」撕咬前方敌人，对范围内目标造成1次伤害。"
+          "LocalizedString": "Huggy Vines tear at enemies in front, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -756,7 +756,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_12_Name",
           "SourceString": "波普",
-          "LocalizedString": "波普"
+          "LocalizedString": "Bopp"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_12_black.mon_12_black",
@@ -778,13 +778,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_12_act06_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「滑板怪」的样子吧。「波普」纵身跃上滑板，旋转起跳，灵活攻击周围敌人。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「滑板怪」的样子吧。「波普」纵身跃上滑板，旋转起跳，灵活攻击周围敌人。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like the skateboard guy…! Bopp leaps onto the skateboard, spins, and skillfully attacks nearby enemies."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_12_act06_Steal_BP_Collection",
           "SourceString": "「波普」纵身跃上滑板，旋转起跳，灵活攻击周围敌人。",
-          "LocalizedString": "「波普」纵身跃上滑板，旋转起跳，灵活攻击周围敌人。"
+          "LocalizedString": "Bopp leaps onto the skateboard, spins, and skillfully attacks nearby enemies."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -812,7 +812,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_13_Name",
           "SourceString": "妖刀",
-          "LocalizedString": "妖刀"
+          "LocalizedString": "Cursed Blade"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_13_2_black.mon_13_2_black",
@@ -834,13 +834,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_13_act02_1_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「水果刀」的样子吧。「血染妖刀」摆出防御架势，受到攻击时免疫伤害，并发动反击。反击时，「血染妖刀」利落斩击前方扇形范围内的敌人，期间免疫伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「水果刀」的样子吧。「血染妖刀」摆出防御架势，受到攻击时免疫伤害，并发动反击。反击时，「血染妖刀」利落斩击前方扇形范围内的敌人，期间免疫伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that butter knife…! Crimson Hexblade assumes a defensive stance, becoming immune to damage. When attacked, Crimson Hexblade will launch a counterattack, slashing enemies in a cone while remaining immune to damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_13_act02_1_Steal_BP_Collection",
           "SourceString": "「血染妖刀」摆出防御架势，受到攻击时免疫伤害，并发动反击。反击时，「血染妖刀」利落斩击前方扇形范围内的敌人，期间免疫伤害。",
-          "LocalizedString": "「血染妖刀」摆出防御架势，受到攻击时免疫伤害，并发动反击。反击时，「血染妖刀」利落斩击前方扇形范围内的敌人，期间免疫伤害。"
+          "LocalizedString": "Crimson Hexblade assumes a defensive stance, becoming immune to damage. When attacked, Crimson Hexblade will launch a counterattack, slashing enemies in a cone while remaining immune to damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -868,7 +868,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_17_Name",
           "SourceString": "雨人",
-          "LocalizedString": "雨人"
+          "LocalizedString": "Rainman"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_17_black.mon_17_black",
@@ -890,13 +890,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_17_act03_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「黑雨伞」的样子吧。「雨人」积蓄力量，在自身周围发动<NumGreen>1</>次爆炸，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「黑雨伞」的样子吧。「雨人」积蓄力量，在自身周围发动<NumGreen>1</>次爆炸，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that black umbrella…! Rainman charges and triggers <NumGreen>1</> explosion around itself, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_17_act03_Steal_BP_Collection",
           "SourceString": "「雨人」积蓄力量，在自身周围发动1次爆炸，对范围内目标造成1次伤害。",
-          "LocalizedString": "「雨人」积蓄力量，在自身周围发动1次爆炸，对范围内目标造成1次伤害。"
+          "LocalizedString": "Rainman charges and triggers 1 explosion around itself, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -924,7 +924,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_022_Name",
           "SourceString": "蜘识藏家",
-          "LocalizedString": "蜘识藏家"
+          "LocalizedString": "Spider Knowledge Collector"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_22_black.mon_22_black",
@@ -946,13 +946,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_022_Skill05_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「很多腿的书架」的样子吧。「蜘识藏家」积蓄力量，在前方引发<NumGreen>1</>次爆炸，对范围内全体目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「很多腿的书架」的样子吧。「蜘识藏家」积蓄力量，在前方引发<NumGreen>1</>次爆炸，对范围内全体目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that legged bookshelf…! Spider Knowledge Collector charges, triggering <NumGreen>1</> explosion in front, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_022_Skill05_Steal_Collection",
           "SourceString": "「蜘识藏家」积蓄力量，在前方引发1次爆炸，对范围内全体目标造成1次伤害。",
-          "LocalizedString": "「蜘识藏家」积蓄力量，在前方引发1次爆炸，对范围内全体目标造成1次伤害。"
+          "LocalizedString": "Spider Knowledge Collector charges, triggering 1 explosion in front, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -982,7 +982,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_25_Name",
           "SourceString": "洄天鱼幡",
-          "LocalizedString": "洄天鱼幡"
+          "LocalizedString": "Skyfish Banner"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_25_black.mon_25_black",
@@ -1004,13 +1004,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_25_act03_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「会飞的鱼」的样子吧。「洄天鱼幡」积蓄力量，向前方甩尾，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「会飞的鱼」的样子吧。「洄天鱼幡」积蓄力量，向前方甩尾，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those flying fishes…! Skyfish Banner charges and flicks its tail forward, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_25_act03_Steal_BP_Collection",
           "SourceString": "「洄天鱼幡」积蓄力量，向前方甩尾，对范围内目标造成1次伤害。",
-          "LocalizedString": "「洄天鱼幡」积蓄力量，向前方甩尾，对范围内目标造成1次伤害。"
+          "LocalizedString": "Skyfish Banner charges and flicks its tail forward, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1038,7 +1038,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_27_Name",
           "SourceString": "诺诺斯",
-          "LocalizedString": "诺诺斯"
+          "LocalizedString": "Noros"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_27_black.mon_27_black",
@@ -1060,13 +1060,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_27_act03_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「刺刺鹿」的样子吧。「诺诺斯」积蓄力量，高速前冲撞击，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「刺刺鹿」的样子吧。「诺诺斯」积蓄力量，高速前冲撞击，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that spiky deer…! Noros gathers power and charges forward at high speed, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_27_act03_Steal_BP_Collection",
           "SourceString": "「诺诺斯」积蓄力量，高速前冲撞击，对范围内目标造成1次伤害。",
-          "LocalizedString": "「诺诺斯」积蓄力量，高速前冲撞击，对范围内目标造成1次伤害。"
+          "LocalizedString": "Noros gathers power and charges forward at high speed, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1094,7 +1094,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_016_Name",
           "SourceString": "贩售机附电灵",
-          "LocalizedString": "贩售机附电灵"
+          "LocalizedString": "Haunted Vending Machine"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_16_black.mon_16_black",
@@ -1116,13 +1116,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_016_act03_2_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「会动的贩卖机」的样子吧。「售货附电灵」向前倒下并砸击地面，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「会动的贩卖机」的样子吧。「售货附电灵」向前倒下并砸击地面，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that moving vending machine…! Vendy falls forward and smashes the ground, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_016_act03_2_Steal_BP_Collection",
           "SourceString": "「售货附电灵」向前倒下并砸击地面，对范围内目标造成1次伤害。",
-          "LocalizedString": "「售货附电灵」向前倒下并砸击地面，对范围内目标造成1次伤害。"
+          "LocalizedString": "Haunted Vending Machine falls forward and smashes the ground, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1150,7 +1150,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_29_Name",
           "SourceString": "唱片机附电灵",
-          "LocalizedString": "唱片机附电灵"
+          "LocalizedString": "Haunted Record Player"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_29_black.mon_29_black",
@@ -1172,13 +1172,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_029_Skill01_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「螃蟹披萨盒」的样子吧。「唱片附电灵」向前掷出唱片，每张唱片对目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「螃蟹披萨盒」的样子吧。「唱片附电灵」向前掷出唱片，每张唱片对目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that crab pizza box…! Haunted Record throws records forward, with each record dealing <NumGreen>1</> instance of damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_029_Skill01_Steal_Collection",
           "SourceString": "「唱片附电灵」向前掷出唱片，每张唱片对目标造成1次伤害。",
-          "LocalizedString": "「唱片附电灵」向前掷出唱片，每张唱片对目标造成1次伤害。"
+          "LocalizedString": "Haunted Record throws records forward, with each record dealing 1 instance of damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1206,7 +1206,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_15_name",
           "SourceString": "拖车艄",
-          "LocalizedString": "拖车艄"
+          "LocalizedString": "Octowpus"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_15_black.mon_15_black",
@@ -1228,13 +1228,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_015_Skill01Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「章鱼卡车」的样子吧。「拖车艄」高高撑起车身并迅速下压，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「章鱼卡车」的样子吧。「拖车艄」高高撑起车身并迅速下压，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that octopus truck…! Octowpus raises its body high and slams down, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_015_Skill01Steal_Collection",
           "SourceString": "「拖车艄」高高撑起车身并迅速下压，对范围内目标造成1次伤害。",
-          "LocalizedString": "「拖车艄」高高撑起车身并迅速下压，对范围内目标造成1次伤害。"
+          "LocalizedString": "Octowpus raises its body high and slams down, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1262,7 +1262,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_23_Name",
           "SourceString": "长明灯",
-          "LocalizedString": "长明灯"
+          "LocalizedString": "Eternal Lamp"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_23_black.mon_23_black",
@@ -1284,13 +1284,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_023_Skill03Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「肌肉电灯」的样子吧。「长明灯」向前方抛掷多颗电浆弹，攻击范围内目标。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「肌肉电灯」的样子吧。「长明灯」向前方抛掷多颗电浆弹，攻击范围内目标。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that muscle lamp…! Eternal Lamp throws multiple plasma orbs forward, attacking targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_023_Skill03Steal_Collection",
           "SourceString": "「长明灯」向前方抛掷多颗电浆弹，攻击范围内目标。",
-          "LocalizedString": "「长明灯」向前方抛掷多颗电浆弹，攻击范围内目标。"
+          "LocalizedString": "Eternal Lamp throws multiple plasma orbs forward, attacking targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1318,7 +1318,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_24_Name",
           "SourceString": "诡面筝",
-          "LocalizedString": "诡面筝"
+          "LocalizedString": "Ghostly Kite"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_24_black.mon_24_black",
@@ -1340,13 +1340,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_24_act04_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「人脸风筝」的样子吧。「诡面筝」积蓄力量并向前跃起，甩动尾部用力扇击目标，造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「人脸风筝」的样子吧。「诡面筝」积蓄力量并向前跃起，甩动尾部用力扇击目标，造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that human face kite…! Ghostly Kite gathers power and leaps forward, swinging its tail to strike targets forcefully, dealing <NumGreen>1</> instance of damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_24_act04_Steal_BP_Collection",
           "SourceString": "「诡面筝」积蓄力量并向前跃起，甩动尾部用力扇击目标，造成1次伤害。",
-          "LocalizedString": "「诡面筝」积蓄力量并向前跃起，甩动尾部用力扇击目标，造成1次伤害。"
+          "LocalizedString": "Ghostly Kite gathers power and leaps forward, swinging its tail to strike targets forcefully, dealing 1 instance of damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1374,7 +1374,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_19_name",
           "SourceString": "伤心英熊",
-          "LocalizedString": "伤心英熊"
+          "LocalizedString": "Saddy Teddy"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_19_black.mon_19_black",
@@ -1396,13 +1396,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_019_Skill03_2_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「坏掉的熊熊」的样子吧。「伤心英熊」积蓄力量，向前用力挥砍，对范围内目标造成<NumGreen>1</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「坏掉的熊熊」的样子吧。「伤心英熊」积蓄力量，向前用力挥砍，对范围内目标造成<NumGreen>1</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that broken teddy bear…! Saddy Teddy gathers power and forcefully slashes forward, dealing <NumGreen>1</> instance of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_019_Skill03_2_Steal_Collection",
           "SourceString": "「伤心英熊」积蓄力量，向前用力挥砍，对范围内目标造成1次伤害。",
-          "LocalizedString": "「伤心英熊」积蓄力量，向前用力挥砍，对范围内目标造成1次伤害。"
+          "LocalizedString": "Saddy Teddy gathers power and forcefully slashes forward, dealing 1 instance of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1430,7 +1430,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_35_blue_Name",
           "SourceString": "罐头锡兵·蓝枪",
-          "LocalizedString": "罐头锡兵·蓝枪"
+          "LocalizedString": "Tin Soldier - Blue Rifle"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_35_black.mon_35_black",
@@ -1452,13 +1452,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_35_act03_Blue_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「蓝罐头小人」的样子吧。蓝色「罐头锡兵」快速向前方目标射击<NumGreen>2</>次，并在短暂蓄力后再射击<NumGreen>1</>次。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「蓝罐头小人」的样子吧。蓝色「罐头锡兵」快速向前方目标射击<NumGreen>2</>次，并在短暂蓄力后再射击<NumGreen>1</>次。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a blue tin little person…! The blue Tin Soldier rapidly fires at targets ahead <NumGreen>2</> times, then charges briefly before firing <NumGreen>1</> more time."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_35_act03_Blue_Steal_Collection",
           "SourceString": "蓝色「罐头锡兵」快速向前方目标射击2次，并在短暂蓄力后再射击1次。",
-          "LocalizedString": "蓝色「罐头锡兵」快速向前方目标射击2次，并在短暂蓄力后再射击1次。"
+          "LocalizedString": "The blue Tin Soldier rapidly fires at targets ahead 2 times, then charges briefly before firing 1 more time."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1486,7 +1486,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_35_red_Name",
           "SourceString": "罐头锡兵·红斧",
-          "LocalizedString": "罐头锡兵·红斧"
+          "LocalizedString": "Tin Soldier - Red Axe"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_35_red_black.mon_35_red_black",
@@ -1508,13 +1508,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_35_act02_Red_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「红罐头小人」的样子吧。红色「罐头锡兵」挥动长枪，高速旋转，向前方目标攻击<NumGreen>3</>次。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「红罐头小人」的样子吧。红色「罐头锡兵」挥动长枪，高速旋转，向前方目标攻击<NumGreen>3</>次。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a red tin little person…! The red Tin Soldier brandishes its spear and spins at high speed, attacking targets ahead <NumGreen>3</> times."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_35_act02_Red_Steal_Collection",
           "SourceString": "红色「罐头锡兵」挥动长枪，高速旋转，向前方目标攻击3次。",
-          "LocalizedString": "红色「罐头锡兵」挥动长枪，高速旋转，向前方目标攻击3次。"
+          "LocalizedString": "The red Tin Soldier brandishes its spear and spins at high speed, attacking targets ahead 3 times."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1542,7 +1542,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_31_Name",
           "SourceString": "增殖的C",
-          "LocalizedString": "增殖的C"
+          "LocalizedString": "Proliferative C"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/YH_UI_guaiwuzhuizhong_touxiangkuang_07_black.YH_UI_guaiwuzhuizhong_touxiangkuang_07_black",
@@ -1564,13 +1564,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_31_01_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「空空的纸盒」的样子吧。「增殖的C」积蓄力量，向前方发射一串大小不一的盒子，对前方目标造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「空空的纸盒」的样子吧。「增殖的C」积蓄力量，向前方发射一串大小不一的盒子，对前方目标造成伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that empty cardboard box…! Proliferative C gathers power and fires a string of boxes of varying sizes forward, dealing damage to targets in front."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_31_01_Steal_BP_Collection",
           "SourceString": "「增殖的C」积蓄力量，向前方发射一串大小不一的盒子，对前方目标造成伤害。",
-          "LocalizedString": "「增殖的C」积蓄力量，向前方发射一串大小不一的盒子，对前方目标造成伤害。"
+          "LocalizedString": "Proliferative C gathers power and fires a string of boxes of varying sizes forward, dealing damage to targets in front."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1601,7 +1601,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_15_Name",
           "SourceString": "音霸魔王",
-          "LocalizedString": "音霸魔王"
+          "LocalizedString": "Beat King"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_15_black.Boss_15_black",
@@ -1623,13 +1623,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_15_act11_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的乐队」的样子吧。「音霸魔王」升空后积蓄力量，接连两次用力下砸，对范围内全体目标造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「很吵的乐队」的样子吧。「音霸魔王」升空后积蓄力量，接连两次用力下砸，对范围内全体目标造成伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that noisy band…! Beat King rises into the air and gathers power, then slams down forcefully twice in succession, dealing damage to all targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_15_act11_Steal_Collection",
           "SourceString": "「音霸魔王」升空后积蓄力量，接连两次用力下砸，对范围内全体目标造成伤害。",
-          "LocalizedString": "「音霸魔王」升空后积蓄力量，接连两次用力下砸，对范围内全体目标造成伤害。"
+          "LocalizedString": "Beat King rises into the air and gathers power, then slams down forcefully twice in succession, dealing damage to all targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1657,7 +1657,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_26_Name",
           "SourceString": "纸翼战队",
-          "LocalizedString": "纸翼战队"
+          "LocalizedString": "Paper Squadron"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_26_black.mon_26_black",
@@ -1679,13 +1679,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_26_act02_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「纸飞机」的样子吧。「纸翼战队」高速盘旋飞行，形成龙卷涡旋，对范围内目标造成<NumGreen>4</>次伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「纸飞机」的样子吧。「纸翼战队」高速盘旋飞行，形成龙卷涡旋，对范围内目标造成<NumGreen>4</>次伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like paper planes…! Paper Squadron flies in high-speed spirals, forming a tornado vortex, dealing <NumGreen>4</> instances of damage to targets within the area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_26_act02_Steal_BP_Collection",
           "SourceString": "「纸翼战队」高速盘旋飞行，形成龙卷涡旋，对范围内目标造成4次伤害。",
-          "LocalizedString": "「纸翼战队」高速盘旋飞行，形成龙卷涡旋，对范围内目标造成4次伤害。"
+          "LocalizedString": "Paper Squadron flies in high-speed spirals, forming a tornado vortex, dealing 4 instances of damage to targets within the area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1713,7 +1713,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_10_Name",
           "SourceString": "永不谢幕的阿拉克涅",
-          "LocalizedString": "永不谢幕的阿拉克涅"
+          "LocalizedString": "The Never-ending Arachne"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_10_black.Boss_10_black",
@@ -1735,13 +1735,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_10_act06_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「红裙子」的样子吧。「永不谢幕的阿拉克涅」蓄力后旋转飞舞，向前方目标发动<NumGreen>1</>次爪击。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「红裙子」的样子吧。「永不谢幕的阿拉克涅」蓄力后旋转飞舞，向前方目标发动<NumGreen>1</>次爪击。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that red dress…! The Never-ending Arachne charges up, then spins and dances through the air, launching <NumGreen>1</> claw strike at targets ahead."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_10_act06_Steal_BP_Collection",
           "SourceString": "「永不谢幕的阿拉克涅」蓄力后旋转飞舞，向前方目标发动1次爪击。",
-          "LocalizedString": "「永不谢幕的阿拉克涅」蓄力后旋转飞舞，向前方目标发动1次爪击。"
+          "LocalizedString": "The Never-ending Arachne charges up, then spins and dances through the air, launching 1 claw strike at targets ahead."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1769,7 +1769,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_09_Name",
           "SourceString": "黑之书",
-          "LocalizedString": "黑之书"
+          "LocalizedString": "Black Tome"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_09_black.Boss_09_black",
@@ -1791,13 +1791,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss09_act08_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「书脑袋」的样子吧。「黑之书」召唤出一条锁链，向前方连续挥舞横扫<NumGreen>2</>次，造成大范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「书脑袋」的样子吧。「黑之书」召唤出一条锁链，向前方连续挥舞横扫<NumGreen>2</>次，造成大范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a book head…! Black Tome summons a chain and continuously swings it forward in sweeping motions <NumGreen>2</> times, dealing wide-area damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss09_act08_Steal_BP_Collection",
           "SourceString": "「黑之书」召唤出一条锁链，向前方连续挥舞横扫2次，造成大范围伤害。",
-          "LocalizedString": "「黑之书」召唤出一条锁链，向前方连续挥舞横扫2次，造成大范围伤害。"
+          "LocalizedString": "Black Tome summons a chain and continuously swings it forward in sweeping motions 2 times, dealing wide-area damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1825,7 +1825,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_17_Name",
           "SourceString": "玛门",
-          "LocalizedString": "玛门"
+          "LocalizedString": "Mammon"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_17_black.Boss_17_black",
@@ -1847,13 +1847,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_017_Steal_Skill05",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大黑猫」的样子吧。「玛门」积蓄力量，向斜上方发动<NumGreen>1</>次爪击，随后用身体猛砸地面，造成<NumGreen>1</>次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大黑猫」的样子吧。「玛门」积蓄力量，向斜上方发动<NumGreen>1</>次爪击，随后用身体猛砸地面，造成<NumGreen>1</>次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that big black cat…! Mammon gathers power and launches <NumGreen>1</> claw strike diagonally upward, then slams its body into the ground, dealing <NumGreen>1</> instance of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_017_Steal_Skill05_Collection",
           "SourceString": "「玛门」积蓄力量，向斜上方发动1次爪击，随后用身体猛砸地面，造成1次范围伤害。",
-          "LocalizedString": "「玛门」积蓄力量，向斜上方发动1次爪击，随后用身体猛砸地面，造成1次范围伤害。"
+          "LocalizedString": "Mammon gathers power and launches 1 claw strike diagonally upward, then slams its body into the ground, dealing 1 instance of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1881,7 +1881,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_18_Name",
           "SourceString": "番茄酱恶魔",
-          "LocalizedString": "番茄酱恶魔"
+          "LocalizedString": "Tomato Devil"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_18_black.Boss_18_black",
@@ -1903,13 +1903,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_18_Steal_Skill19",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「番茄酱恶魔」的样子吧。「番茄酱恶魔」飞向高空，向目标发射若干番茄酱飞弹，追踪目标并造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「番茄酱恶魔」的样子吧。「番茄酱恶魔」飞向高空，向目标发射若干番茄酱飞弹，追踪目标并造成伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that tomato jelly devil…! Tomato Devil flies into the sky and fires several tomato jelly missiles, tracking targets and dealing damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_Boss_18_Steal_Skill19_Collection",
           "SourceString": "「番茄酱恶魔」飞向高空，向目标发射若干番茄酱飞弹，追踪目标并造成伤害。",
-          "LocalizedString": "「番茄酱恶魔」飞向高空，向目标发射若干番茄酱飞弹，追踪目标并造成伤害。"
+          "LocalizedString": "Tomato Devil flies into the sky and fires several tomato jelly missiles, tracking targets and dealing damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1937,7 +1937,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_37_Name",
           "SourceString": "ReroRero电话亭",
-          "LocalizedString": "ReroRero电话亭"
+          "LocalizedString": "ReroRero Phone Booth"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_37_black.mon_37_black",
@@ -1959,13 +1959,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_037_Steal_Skill03",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大舌头电话亭」的样子吧。「ReroRero电话亭」积蓄力量砸击地面，造成<NumGreen>1</>次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大舌头电话亭」的样子吧。「ReroRero电话亭」积蓄力量砸击地面，造成<NumGreen>1</>次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that big tongue phone booth…! ReroRero Phone Booth gathers power and slams the ground, dealing <NumGreen>1</> instance of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_037_Steal_Skill03_Collection",
           "SourceString": "「ReroRero电话亭」积蓄力量砸击地面，造成1次范围伤害。",
-          "LocalizedString": "「ReroRero电话亭」积蓄力量砸击地面，造成1次范围伤害。"
+          "LocalizedString": "ReroRero Phone Booth gathers power and slams the ground, dealing 1 instance of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -1993,7 +1993,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_33_Name",
           "SourceString": "流梦种",
-          "LocalizedString": "流梦种"
+          "LocalizedString": "Dream Spawn"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_33_black.mon_33_black",
@@ -2015,13 +2015,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_33_act02_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「幽灵」的样子吧。「流梦种」引导水流，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「幽灵」的样子吧。「流梦种」引导水流，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a ghost…! Dream Spawn channels the water current, swinging forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_33_act02_Steal_BP_Collection",
           "SourceString": "「流梦种」引导水流，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "「流梦种」引导水流，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Dream Spawn channels the water current, swinging forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2049,7 +2049,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_41_Name",
           "SourceString": "羽偶",
-          "LocalizedString": "羽偶"
+          "LocalizedString": "Feather Puppet"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_41_black.mon_41_black",
@@ -2071,13 +2071,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_41_act02_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「黑色小鸟」的样子吧。「羽偶」旋转攻击，向前突进并造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「黑色小鸟」的样子吧。「羽偶」旋转攻击，向前突进并造成伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a little black bird…! Plumette spins to attack, thrusting forward and dealing damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_41_act02_Steal_Collection",
           "SourceString": "「羽偶」旋转攻击，向前突进并造成伤害。",
-          "LocalizedString": "「羽偶」旋转攻击，向前突进并造成伤害。"
+          "LocalizedString": "Plumette spins to attack, thrusting forward and dealing damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2105,7 +2105,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_38_Name",
           "SourceString": "无明众",
-          "LocalizedString": "无明众"
+          "LocalizedString": "The Vishnus"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_39_black.mon_39_black",
@@ -2127,13 +2127,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_39_act03_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「坏蛋大姐姐」的样子吧。「迦楼罗」向前打出轰拳，造成1次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「坏蛋大姐姐」的样子吧。「迦楼罗」向前打出轰拳，造成1次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those bad big sisters…! Garuda throws a powerful punch forward, dealing 1 instance of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_39_act03_Steal_Collection",
           "SourceString": "「迦楼罗」向前打出轰拳，造成1次范围伤害。",
-          "LocalizedString": "「迦楼罗」向前打出轰拳，造成1次范围伤害。"
+          "LocalizedString": "Garuda throws a powerful punch forward, dealing 1 instance of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2161,7 +2161,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_38_Name",
           "SourceString": "无明众",
-          "LocalizedString": "无明众"
+          "LocalizedString": "The Vishnus"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_39_2_black.mon_39_2_black",
@@ -2183,13 +2183,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_39_2_act02_01_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「厉害的坏蛋大姐姐」的样子吧。「迦楼罗」向前冲刺，挥舞双刀发动斩击。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「厉害的坏蛋大姐姐」的样子吧。「迦楼罗」向前冲刺，挥舞双刀发动斩击。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those super bad big sisters…! Garuda dashes forward, swinging dual blades in a slashing attack."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_39_2_act02_01_Steal_BP_Collection",
           "SourceString": "「迦楼罗」向前冲刺，挥舞双刀发动斩击。",
-          "LocalizedString": "「迦楼罗」向前冲刺，挥舞双刀发动斩击。"
+          "LocalizedString": "Garuda dashes forward, swinging dual blades in a slashing attack."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2217,7 +2217,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_48_Name",
           "SourceString": "瓦楞城堡",
-          "LocalizedString": "瓦楞城堡"
+          "LocalizedString": "Cardboard Castle"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_48_black.mon_48_black",
@@ -2239,13 +2239,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_14_act04_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「纸箱城堡」的样子吧。「瓦楞城堡」挥舞双臂，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「纸箱城堡」的样子吧。「瓦楞城堡」挥舞双臂，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a cardboard castle…! Cardboard Castle swings both arms forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_14_act04_Steal_Collection",
           "SourceString": "「瓦楞城堡」挥舞双臂，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "「瓦楞城堡」挥舞双臂，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Cardboard Castle swings both arms forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2273,7 +2273,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_08_Name",
           "SourceString": "斑蝶",
-          "LocalizedString": "斑蝶"
+          "LocalizedString": "Swallowtail"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_08_black.Boss_08_black",
@@ -2295,13 +2295,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_08_act11_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大蝴蝶」的样子吧。「斑蝶」挥舞利爪，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大蝴蝶」的样子吧。「斑蝶」挥舞利爪，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a big butterfly…! Swallowtail swings its sharp claws forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_08_act11_Steal_BP_Collection",
           "SourceString": "「斑蝶」挥舞利爪，向前方进行挥击，造成2次范围伤害。",
-          "LocalizedString": "「斑蝶」挥舞利爪，向前方进行挥击，造成2次范围伤害。"
+          "LocalizedString": "Swallowtail swings its sharp claws forward in slashing motions, dealing 2 instances of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2329,7 +2329,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_30_Name",
           "SourceString": "扫晴娘",
-          "LocalizedString": "扫晴娘"
+          "LocalizedString": "Rain-sweeping Maid"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_30_black.mon_30_black",
@@ -2351,13 +2351,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_030_act02_Steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「吸尘器娃娃」的样子吧。「扫晴娘」向前挥舞手臂，造成1次范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「吸尘器娃娃」的样子吧。「扫晴娘」向前挥舞手臂，造成1次范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like a vacuum cleaner doll…! Rain-sweeping Maid swings its arm forward, dealing 1 instance of damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_030_act02_Steal_Collection",
           "SourceString": "「扫晴娘」向前挥舞手臂，造成1次范围伤害。",
-          "LocalizedString": "「扫晴娘」向前挥舞手臂，造成1次范围伤害。"
+          "LocalizedString": "Rain-Sweeping Maid swings its arm forward, dealing 1 instance of damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2385,7 +2385,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_38_Name",
           "SourceString": "无明众",
-          "LocalizedString": "无明众"
+          "LocalizedString": "The Vishnus"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_38_2_black.mon_38_2_black",
@@ -2407,13 +2407,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_38_2_act01_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「厉害坏蛋的大哥哥」的样子吧。「迦楼罗」蓄力猛击地面，生成一道向前延伸的冲击波。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「厉害坏蛋的大哥哥」的样子吧。「迦楼罗」蓄力猛击地面，生成一道向前延伸的冲击波。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like those super bad big brothers…! Garuda charges up and slams the ground, generating a shockwave that extends forward."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_38_2_act01_Steal_BP_Collection",
           "SourceString": "「迦楼罗」蓄力猛击地面，生成一道向前延伸的冲击波。",
-          "LocalizedString": "「迦楼罗」蓄力猛击地面，生成一道向前延伸的冲击波。"
+          "LocalizedString": "Garuda charges up and slams the ground, generating a shockwave that extends forward."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2441,7 +2441,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_33_name",
           "SourceString": "囿巢鸟",
-          "LocalizedString": "囿巢鸟"
+          "LocalizedString": "Nestbound Bird"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/boss_33_black.boss_33_black",
@@ -2463,13 +2463,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_33_act10_1_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「白面具大鸟」的样子吧。「囿巢鸟」发出凄厉的喊叫，对周围的敌人造成范围伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「白面具大鸟」的样子吧。「囿巢鸟」发出凄厉的喊叫，对周围的敌人造成范围伤害。"
+          "LocalizedString": "Lacrimosa… Arcs…! This time, let's shape it like that big bird with the white mask…! Nestbound Bird lets out a piercing shriek, dealing damage to an area."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_33_act10_1_Steal_BP_Collection",
           "SourceString": "「囿巢鸟」发出凄厉的喊叫，对周围的敌人造成范围伤害。",
-          "LocalizedString": "「囿巢鸟」发出凄厉的喊叫，对周围的敌人造成范围伤害。"
+          "LocalizedString": "Nestbound Bird lets out a piercing shriek, dealing damage to an area."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2497,7 +2497,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "NPC_074_A_Name",
           "SourceString": "桀桀熊",
-          "LocalizedString": "桀桀熊"
+          "LocalizedString": "Teehee Bear"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/mon_51_black.mon_51_black",
@@ -2519,13 +2519,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_51_act05_steal",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「暴力熊」的样子吧。「桀桀熊」挥舞利爪，向前旋转攻击，造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「暴力熊」的样子吧。「桀桀熊」挥舞利爪，向前旋转攻击，造成伤害。"
+          "LocalizedString": "Lacrimosa, with the power of the Arc… This time, let's shape it after brute bear. Teehee Bear swings claws and spins forward to attack, dealing damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_mon_51_act05_steal_Collection",
           "SourceString": "「桀桀熊」挥舞利爪，向前旋转攻击，造成伤害。",
-          "LocalizedString": "「桀桀熊」挥舞利爪，向前旋转攻击，造成伤害。"
+          "LocalizedString": "Teehee Bear swings claws and spins forward to attack, dealing damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {
@@ -2553,7 +2553,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_26_Name",
           "SourceString": "讨债人",
-          "LocalizedString": "讨债人"
+          "LocalizedString": "Debt Collector"
         },
         "MonsterTextureSmallLocked": {
           "AssetPathName": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/200/Boss_26_black.Boss_26_black",
@@ -2575,13 +2575,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_26_act01_Steal_BP",
           "SourceString": "安魂曲，有「弧盘」的力量……这次，捏成「大时钟」的样子吧。「讨债人」积蓄力量向前挥砍，并发射1道刀光，造成伤害。",
-          "LocalizedString": "安魂曲，有「弧盘」的力量……这次，捏成「大时钟」的样子吧。「讨债人」积蓄力量向前挥砍，并发射1道刀光，造成伤害。"
+          "LocalizedString": "Lacrimosa, with the power of the Arc… This time, let's shape it after the grand clock. Debt Collector gathers power and forcefully slashes forward, firing 1 blade beam that deals damage."
         },
         "CollectionDescription": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes_Mon.Lacrimosa_SkillDes_Mon",
           "Key": "GA_boss_26_act01_Steal_BP_Collection",
           "SourceString": "「讨债人」积蓄力量向前挥砍，并发射1道刀光，造成伤害。",
-          "LocalizedString": "「讨债人」积蓄力量向前挥砍，并发射1道刀光，造成伤害。"
+          "LocalizedString": "Debt Collector gathers power and forcefully slashes forward, firing 1 blade beam that deals damage."
         },
         "StolenAbilityCollection": {
           "AbilityCfg": {

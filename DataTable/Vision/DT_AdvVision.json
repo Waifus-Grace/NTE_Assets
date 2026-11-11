@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "RainLiyuuQi_NickName",
           "SourceString": "「天弃之子」",
-          "LocalizedString": "「天弃之子」"
+          "LocalizedString": "Heaven's Forsaken"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -78,7 +78,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -87,7 +87,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -96,7 +96,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -105,7 +105,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -123,7 +123,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -230,7 +230,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -239,7 +239,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -248,7 +248,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -257,7 +257,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -266,7 +266,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           },
           {
@@ -275,7 +275,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           }
         ],
@@ -286,7 +286,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi1",
               "SourceString": "击败「洄天鱼幡」·难度1",
-              "LocalizedString": "击败「洄天鱼幡」·难度1"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 1"
             }
           },
           {
@@ -295,7 +295,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi2",
               "SourceString": "击败「洄天鱼幡」·难度2",
-              "LocalizedString": "击败「洄天鱼幡」·难度2"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 2"
             }
           },
           {
@@ -304,7 +304,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi3",
               "SourceString": "击败「洄天鱼幡」·难度3",
-              "LocalizedString": "击败「洄天鱼幡」·难度3"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 3"
             }
           },
           {
@@ -313,7 +313,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi4",
               "SourceString": "击败「洄天鱼幡」·难度4",
-              "LocalizedString": "击败「洄天鱼幡」·难度4"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 4"
             }
           },
           {
@@ -322,7 +322,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi5",
               "SourceString": "击败「洄天鱼幡」·难度5",
-              "LocalizedString": "击败「洄天鱼幡」·难度5"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 5"
             }
           },
           {
@@ -331,7 +331,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tianqizhizi6",
               "SourceString": "击败「洄天鱼幡」·难度6",
-              "LocalizedString": "击败「洄天鱼幡」·难度6"
+              "LocalizedString": "Defeat Skyfish Banner - Difficulty 6"
             }
           }
         ],
@@ -401,7 +401,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "PObⅡS-39_NickName",
           "SourceString": "「超音速涂鸦」",
-          "LocalizedString": "「超音速涂鸦」"
+          "LocalizedString": "Lightspeed Tagger"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -468,7 +468,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -477,7 +477,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -486,7 +486,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -495,7 +495,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -504,7 +504,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -513,7 +513,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -620,7 +620,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -629,7 +629,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -638,7 +638,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -647,7 +647,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -656,7 +656,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           },
           {
@@ -665,7 +665,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           }
         ],
@@ -676,7 +676,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya1",
               "SourceString": "击败「波普Pop」·难度1",
-              "LocalizedString": "击败「波普Pop」·难度1"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 1"
             }
           },
           {
@@ -685,7 +685,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya2",
               "SourceString": "击败「波普Pop」·难度2",
-              "LocalizedString": "击败「波普Pop」·难度2"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 2"
             }
           },
           {
@@ -694,7 +694,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya3",
               "SourceString": "击败「波普Pop」·难度3",
-              "LocalizedString": "击败「波普Pop」·难度3"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 3"
             }
           },
           {
@@ -703,7 +703,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya4",
               "SourceString": "击败「波普Pop」·难度4",
-              "LocalizedString": "击败「波普Pop」·难度4"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 4"
             }
           },
           {
@@ -712,7 +712,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya5",
               "SourceString": "击败「波普Pop」·难度5",
-              "LocalizedString": "击败「波普Pop」·难度5"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 5"
             }
           },
           {
@@ -721,7 +721,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_chaoyinsutuya6",
               "SourceString": "击败「波普Pop」·难度6",
-              "LocalizedString": "击败「波普Pop」·难度6"
+              "LocalizedString": "Defeat Bopp Pop - Difficulty 6"
             }
           }
         ],
@@ -791,7 +791,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "PObⅡS-1113_NickName",
           "SourceString": "「何处是归乡」",
-          "LocalizedString": "「何处是归乡」"
+          "LocalizedString": "Where Is Home"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -852,7 +852,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -861,7 +861,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -870,7 +870,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -879,7 +879,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -888,7 +888,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -897,7 +897,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -1004,7 +1004,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1013,7 +1013,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1022,7 +1022,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1031,7 +1031,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1040,7 +1040,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           },
           {
@@ -1049,7 +1049,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           }
         ],
@@ -1060,7 +1060,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang1",
               "SourceString": "击败「血染妖刀」·难度1",
-              "LocalizedString": "击败「血染妖刀」·难度1"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 1"
             }
           },
           {
@@ -1069,7 +1069,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang2",
               "SourceString": "击败「血染妖刀」·难度2",
-              "LocalizedString": "击败「血染妖刀」·难度2"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 2"
             }
           },
           {
@@ -1078,7 +1078,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang3",
               "SourceString": "击败「血染妖刀」·难度3",
-              "LocalizedString": "击败「血染妖刀」·难度3"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 3"
             }
           },
           {
@@ -1087,7 +1087,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang4",
               "SourceString": "击败「血染妖刀」·难度4",
-              "LocalizedString": "击败「血染妖刀」·难度4"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 4"
             }
           },
           {
@@ -1096,7 +1096,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang5",
               "SourceString": "击败「血染妖刀」·难度5",
-              "LocalizedString": "击败「血染妖刀」·难度5"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 5"
             }
           },
           {
@@ -1105,7 +1105,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_hechushiguixiang6",
               "SourceString": "击败「血染妖刀」·难度6",
-              "LocalizedString": "击败「血染妖刀」·难度6"
+              "LocalizedString": "Defeat Crimson Hexblade - Difficulty 6"
             }
           }
         ],
@@ -1175,13 +1175,13 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "PaperCastle_NickName",
           "SourceString": "「盛情难却」",
-          "LocalizedString": "「盛情难却」"
+          "LocalizedString": "Kindness Hard to Refuse"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "PaperCastle_VisionCode",
           "SourceString": "C-1704[Ob]",
-          "LocalizedString": "C-1704[Ob]"
+          "LocalizedString": "C-1704(Ob)"
         },
         "VisionItemSortNum": 4,
         "BelongsLevel": "XL_map_bigworld_test",
@@ -1241,7 +1241,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -1250,7 +1250,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1259,7 +1259,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1268,7 +1268,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1277,7 +1277,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1286,7 +1286,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -1393,7 +1393,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1402,7 +1402,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1411,7 +1411,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1420,7 +1420,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1429,7 +1429,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           },
           {
@@ -1438,7 +1438,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           }
         ],
@@ -1449,7 +1449,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle01",
               "SourceString": "击败「过期请柬」·难度1",
-              "LocalizedString": "击败「过期请柬」·难度1"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 1"
             }
           },
           {
@@ -1458,7 +1458,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle02",
               "SourceString": "击败「过期请柬」·难度2",
-              "LocalizedString": "击败「过期请柬」·难度2"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 2"
             }
           },
           {
@@ -1467,7 +1467,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle03",
               "SourceString": "击败「过期请柬」·难度3",
-              "LocalizedString": "击败「过期请柬」·难度3"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 3"
             }
           },
           {
@@ -1476,7 +1476,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle04",
               "SourceString": "击败「过期请柬」·难度4",
-              "LocalizedString": "击败「过期请柬」·难度4"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 4"
             }
           },
           {
@@ -1485,7 +1485,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle05",
               "SourceString": "击败「过期请柬」·难度5",
-              "LocalizedString": "击败「过期请柬」·难度5"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 5"
             }
           },
           {
@@ -1494,7 +1494,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_PaperCastle06",
               "SourceString": "击败「过期请柬」·难度6",
-              "LocalizedString": "击败「过期请柬」·难度6"
+              "LocalizedString": "Defeat Expired Invitation - Difficulty 6"
             }
           }
         ],
@@ -1564,7 +1564,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "HeheBear_NickName",
           "SourceString": "「迷雾追踪」",
-          "LocalizedString": "「迷雾追踪」"
+          "LocalizedString": "Mist Pursuit"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -1592,7 +1592,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_AdvVision_JieJiexiongDianjitishi",
           "SourceString": "完成主线任务<Orange>「红字的研究」</>后解锁主线任务「游梦洄廊」",
-          "LocalizedString": "完成主线任务<Orange>「红字的研究」</>后解锁主线任务「游梦洄廊」"
+          "LocalizedString": "Complete the main quest <Orange>A Research in Scarlet</> to unlock the main quest \"Dreamwalk Corridor\""
         },
         "ItemShowDiffLvl": 3,
         "CharacterMinLvls": [
@@ -1628,7 +1628,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jiejiexiong",
               "SourceString": "主线任务「游梦洄廊」后解锁",
-              "LocalizedString": "主线任务「游梦洄廊」后解锁"
+              "LocalizedString": "Unlocked after completing the main quest Dreamwalk Corridor."
             }
           },
           {
@@ -1637,7 +1637,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1646,7 +1646,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1655,7 +1655,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1664,7 +1664,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -1673,7 +1673,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -1780,7 +1780,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1789,7 +1789,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1798,7 +1798,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1807,7 +1807,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -1816,7 +1816,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           },
           {
@@ -1825,7 +1825,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Mon",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>."
             }
           }
         ],
@@ -1836,7 +1836,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong1",
               "SourceString": "击败「桀桀熊」·难度1",
-              "LocalizedString": "击败「桀桀熊」·难度1"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 1"
             }
           },
           {
@@ -1845,7 +1845,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong2",
               "SourceString": "击败「桀桀熊」·难度2",
-              "LocalizedString": "击败「桀桀熊」·难度2"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 2"
             }
           },
           {
@@ -1854,7 +1854,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong3",
               "SourceString": "击败「桀桀熊」·难度3",
-              "LocalizedString": "击败「桀桀熊」·难度3"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 3"
             }
           },
           {
@@ -1863,7 +1863,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong4",
               "SourceString": "击败「桀桀熊」·难度4",
-              "LocalizedString": "击败「桀桀熊」·难度4"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 4"
             }
           },
           {
@@ -1872,7 +1872,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong5",
               "SourceString": "击败「桀桀熊」·难度5",
-              "LocalizedString": "击败「桀桀熊」·难度5"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 5"
             }
           },
           {
@@ -1881,7 +1881,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_miwuzuizong6",
               "SourceString": "击败「桀桀熊」·难度6",
-              "LocalizedString": "击败「桀桀熊」·难度6"
+              "LocalizedString": "Defeat Teehee Bear - Difficulty 6"
             }
           }
         ],
@@ -1951,7 +1951,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Boombox_NickName",
           "SourceString": "「律动大师」",
-          "LocalizedString": "「律动大师」"
+          "LocalizedString": "Rhythm Master"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -2017,7 +2017,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -2026,7 +2026,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2035,7 +2035,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2044,7 +2044,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2053,7 +2053,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2062,7 +2062,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -2189,7 +2189,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2198,7 +2198,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2207,7 +2207,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2216,7 +2216,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2225,7 +2225,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss_BoomBox",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，减少1层「追猎」并增加3层<RedforNotfit>「COMBO」</>。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，减少1层「追猎」并增加3层<RedforNotfit>「COMBO」</>。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits, adding 3 stacks of <RedforNotfit>COMBO</>"
             }
           },
           {
@@ -2234,7 +2234,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss_BoomBox",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，减少1层「追猎」并增加3层<RedforNotfit>「COMBO」</>。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，减少1层「追猎」并增加3层<RedforNotfit>「COMBO」</>。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits, adding 3 stacks of <RedforNotfit>COMBO</>"
             }
           }
         ],
@@ -2245,7 +2245,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi1",
               "SourceString": "击败「音霸魔王」·难度1",
-              "LocalizedString": "击败「音霸魔王」·难度1"
+              "LocalizedString": "Defeat Beat King - Difficulty 1"
             }
           },
           {
@@ -2254,7 +2254,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi2",
               "SourceString": "击败「音霸魔王」·难度2",
-              "LocalizedString": "击败「音霸魔王」·难度2"
+              "LocalizedString": "Defeat Beat King - Difficulty 2"
             }
           },
           {
@@ -2263,7 +2263,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi3",
               "SourceString": "击败「音霸魔王」·难度3",
-              "LocalizedString": "击败「音霸魔王」·难度3"
+              "LocalizedString": "Defeat Beat King - Difficulty 3"
             }
           },
           {
@@ -2272,7 +2272,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi4",
               "SourceString": "击败「音霸魔王」·难度4",
-              "LocalizedString": "击败「音霸魔王」·难度4"
+              "LocalizedString": "Defeat Beat King - Difficulty 4"
             }
           },
           {
@@ -2281,7 +2281,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi5",
               "SourceString": "击败「音霸魔王」·难度5",
-              "LocalizedString": "击败「音霸魔王」·难度5"
+              "LocalizedString": "Defeat Beat King - Difficulty 5"
             }
           },
           {
@@ -2290,7 +2290,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_lvdongdashi6",
               "SourceString": "击败「音霸魔王」·难度6",
-              "LocalizedString": "击败「音霸魔王」·难度6"
+              "LocalizedString": "Defeat Beat King - Difficulty 6"
             }
           }
         ],
@@ -2360,7 +2360,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "FlowerBoss_NickName",
           "SourceString": "「静默庭园」",
-          "LocalizedString": "「静默庭园」"
+          "LocalizedString": "Silent Garden"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -2393,7 +2393,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_AdvVision_TingyuanDianjitishi",
           "SourceString": "猎人等级达到<Orange>15</>级且完成番外任务<Orange>「憩息时间」</>后解锁番外任务「言毒庭花之家主」",
-          "LocalizedString": "猎人等级达到<Orange>15</>级且完成番外任务<Orange>「憩息时间」</>后解锁番外任务「言毒庭花之家主」"
+          "LocalizedString": "Reach Hunter Lvl <Orange>15</> and complete Spinoff <Orange>Relax Time</> to unlock Spinoff Master of Poisonous Courtyard"
         },
         "ItemShowDiffLvl": 5,
         "CharacterMinLvls": [
@@ -2429,7 +2429,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Huafang",
               "SourceString": "完成番外任务「言毒庭花之家主」后解锁",
-              "LocalizedString": "完成番外任务「言毒庭花之家主」后解锁"
+              "LocalizedString": "Complete Spinoff Master of Poisonous Courtyard to unlock"
             }
           },
           {
@@ -2438,7 +2438,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2447,7 +2447,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2456,7 +2456,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2465,7 +2465,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2474,7 +2474,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -2601,7 +2601,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2610,7 +2610,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2619,7 +2619,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2628,7 +2628,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -2637,7 +2637,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -2646,7 +2646,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -2657,7 +2657,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan1",
               "SourceString": "击败「塞润尼缇」·难度1",
-              "LocalizedString": "击败「塞润尼缇」·难度1"
+              "LocalizedString": "Defeat Serenetti - Difficulty 1"
             }
           },
           {
@@ -2666,7 +2666,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan2",
               "SourceString": "击败「塞润尼缇」·难度2",
-              "LocalizedString": "击败「塞润尼缇」·难度2"
+              "LocalizedString": "Defeat Serenetti - Difficulty 2"
             }
           },
           {
@@ -2675,7 +2675,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan3",
               "SourceString": "击败「塞润尼缇」·难度3",
-              "LocalizedString": "击败「塞润尼缇」·难度3"
+              "LocalizedString": "Defeat Serenetti - Difficulty 3"
             }
           },
           {
@@ -2684,7 +2684,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan4",
               "SourceString": "击败「塞润尼缇」·难度4",
-              "LocalizedString": "击败「塞润尼缇」·难度4"
+              "LocalizedString": "Defeat Serenetti - Difficulty 4"
             }
           },
           {
@@ -2693,7 +2693,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan5",
               "SourceString": "击败「塞润尼缇」·难度5",
-              "LocalizedString": "击败「塞润尼缇」·难度5"
+              "LocalizedString": "Defeat Serenetti - Difficulty 5"
             }
           },
           {
@@ -2702,7 +2702,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_jingmotingyuan6",
               "SourceString": "击败「塞润尼缇」·难度6",
-              "LocalizedString": "击败「塞润尼缇」·难度6"
+              "LocalizedString": "Defeat Serenetti - Difficulty 6"
             }
           }
         ],
@@ -2772,7 +2772,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "BObⅡM-3412_NickName",
           "SourceString": "「品牌纪念日」",
-          "LocalizedString": "「品牌纪念日」"
+          "LocalizedString": "Brand Anniversary"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -2838,7 +2838,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -2847,7 +2847,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2856,7 +2856,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2865,7 +2865,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2874,7 +2874,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -2883,7 +2883,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -3010,7 +3010,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3019,7 +3019,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3028,7 +3028,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3037,7 +3037,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3046,7 +3046,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -3055,7 +3055,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -3066,7 +3066,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri1",
               "SourceString": "击败「胶卷-MANISH」·难度1",
-              "LocalizedString": "击败「胶卷-MANISH」·难度1"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 1"
             }
           },
           {
@@ -3075,7 +3075,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri2",
               "SourceString": "击败「胶卷-MANISH」·难度2",
-              "LocalizedString": "击败「胶卷-MANISH」·难度2"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 2"
             }
           },
           {
@@ -3084,7 +3084,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri3",
               "SourceString": "击败「胶卷-MANISH」·难度3",
-              "LocalizedString": "击败「胶卷-MANISH」·难度3"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 3"
             }
           },
           {
@@ -3093,7 +3093,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri4",
               "SourceString": "击败「胶卷-MANISH」·难度4",
-              "LocalizedString": "击败「胶卷-MANISH」·难度4"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 4"
             }
           },
           {
@@ -3102,7 +3102,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri5",
               "SourceString": "击败「胶卷-MANISH」·难度5",
-              "LocalizedString": "击败「胶卷-MANISH」·难度5"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 5"
             }
           },
           {
@@ -3111,7 +3111,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_pinpaijinianri6",
               "SourceString": "击败「胶卷-MANISH」·难度6",
-              "LocalizedString": "击败「胶卷-MANISH」·难度6"
+              "LocalizedString": "Defeat Film - MANISH - Difficulty 6"
             }
           }
         ],
@@ -3181,7 +3181,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "C-7111Ob_NickName",
           "SourceString": "「后青春期的书」",
-          "LocalizedString": "「后青春期的书」"
+          "LocalizedString": "The Book of Post-Adolescence"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -3247,7 +3247,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wanchengrenwu",
               "SourceString": "完成任务后解锁",
-              "LocalizedString": "完成任务后解锁"
+              "LocalizedString": "Unlocked after completing the quest"
             }
           },
           {
@@ -3256,7 +3256,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3265,7 +3265,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3274,7 +3274,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3283,7 +3283,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3292,7 +3292,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -3419,7 +3419,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3428,7 +3428,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3437,7 +3437,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3446,7 +3446,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3455,7 +3455,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -3464,7 +3464,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -3475,7 +3475,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu1",
               "SourceString": "击败「黑之书」·难度1",
-              "LocalizedString": "击败「黑之书」·难度1"
+              "LocalizedString": "Defeat Black Tome - Difficulty 1"
             }
           },
           {
@@ -3484,7 +3484,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu2",
               "SourceString": "击败「黑之书」·难度2",
-              "LocalizedString": "击败「黑之书」·难度2"
+              "LocalizedString": "Defeat Black Tome - Difficulty 2"
             }
           },
           {
@@ -3493,7 +3493,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu3",
               "SourceString": "击败「黑之书」·难度3",
-              "LocalizedString": "击败「黑之书」·难度3"
+              "LocalizedString": "Defeat Black Tome - Difficulty 3"
             }
           },
           {
@@ -3502,7 +3502,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu4",
               "SourceString": "击败「黑之书」·难度4",
-              "LocalizedString": "击败「黑之书」·难度4"
+              "LocalizedString": "Defeat Black Tome - Difficulty 4"
             }
           },
           {
@@ -3511,7 +3511,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu5",
               "SourceString": "击败「黑之书」·难度5",
-              "LocalizedString": "击败「黑之书」·难度5"
+              "LocalizedString": "Defeat Black Tome - Difficulty 5"
             }
           },
           {
@@ -3520,7 +3520,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_heizhishu6",
               "SourceString": "击败「黑之书」·难度6",
-              "LocalizedString": "击败「黑之书」·难度6"
+              "LocalizedString": "Defeat Black Tome - Difficulty 6"
             }
           }
         ],
@@ -3590,7 +3590,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Anomaly0118_NickName",
           "SourceString": "「铁驭强袭」",
-          "LocalizedString": "「铁驭强袭」"
+          "LocalizedString": "Ride Assault"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -3656,7 +3656,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -3665,7 +3665,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3674,7 +3674,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3683,7 +3683,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3692,7 +3692,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -3701,7 +3701,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -3828,7 +3828,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3837,7 +3837,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3846,7 +3846,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3855,7 +3855,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -3864,7 +3864,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -3873,7 +3873,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -3884,7 +3884,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi1",
               "SourceString": "击败「无首铁驭」·难度1",
-              "LocalizedString": "击败「无首铁驭」·难度1"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 1"
             }
           },
           {
@@ -3893,7 +3893,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi2",
               "SourceString": "击败「无首铁驭」·难度2",
-              "LocalizedString": "击败「无首铁驭」·难度2"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 2"
             }
           },
           {
@@ -3902,7 +3902,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi3",
               "SourceString": "击败「无首铁驭」·难度3",
-              "LocalizedString": "击败「无首铁驭」·难度3"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 3"
             }
           },
           {
@@ -3911,7 +3911,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi4",
               "SourceString": "击败「无首铁驭」·难度4",
-              "LocalizedString": "击败「无首铁驭」·难度4"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 4"
             }
           },
           {
@@ -3920,7 +3920,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi5",
               "SourceString": "击败「无首铁驭」·难度5",
-              "LocalizedString": "击败「无首铁驭」·难度5"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 5"
             }
           },
           {
@@ -3929,7 +3929,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_tieyuqiangxi6",
               "SourceString": "击败「无首铁驭」·难度6",
-              "LocalizedString": "击败「无首铁驭」·难度6"
+              "LocalizedString": "Defeat Headless Rider - Difficulty 6"
             }
           }
         ],
@@ -3999,7 +3999,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Mammon_NickName",
           "SourceString": "「毛线球还是方斯？」",
-          "LocalizedString": "「毛线球还是方斯？」"
+          "LocalizedString": "Yarn Ball or Fons?"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -4065,7 +4065,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -4074,7 +4074,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4083,7 +4083,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4092,7 +4092,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4101,7 +4101,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4110,7 +4110,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -4237,7 +4237,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4246,7 +4246,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4255,7 +4255,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4264,7 +4264,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4273,7 +4273,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -4282,7 +4282,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -4293,7 +4293,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen1",
               "SourceString": "击败「玛门」·难度1",
-              "LocalizedString": "击败「玛门」·难度1"
+              "LocalizedString": "Defeat Mammon - Difficulty 1"
             }
           },
           {
@@ -4302,7 +4302,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen2",
               "SourceString": "击败「玛门」·难度2",
-              "LocalizedString": "击败「玛门」·难度2"
+              "LocalizedString": "Defeat Mammon - Difficulty 2"
             }
           },
           {
@@ -4311,7 +4311,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen3",
               "SourceString": "击败「玛门」·难度3",
-              "LocalizedString": "击败「玛门」·难度3"
+              "LocalizedString": "Defeat Mammon - Difficulty 3"
             }
           },
           {
@@ -4320,7 +4320,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen4",
               "SourceString": "击败「玛门」·难度4",
-              "LocalizedString": "击败「玛门」·难度4"
+              "LocalizedString": "Defeat Mammon - Difficulty 4"
             }
           },
           {
@@ -4329,7 +4329,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen5",
               "SourceString": "击败「玛门」·难度5",
-              "LocalizedString": "击败「玛门」·难度5"
+              "LocalizedString": "Defeat Mammon - Difficulty 5"
             }
           },
           {
@@ -4338,7 +4338,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_mamen6",
               "SourceString": "击败「玛门」·难度6",
-              "LocalizedString": "击败「玛门」·难度6"
+              "LocalizedString": "Defeat Mammon - Difficulty 6"
             }
           }
         ],
@@ -4408,13 +4408,13 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Boss33_NickName",
           "SourceString": "「唤孤归」",
-          "LocalizedString": "「唤孤归」"
+          "LocalizedString": "Call of the Lost"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Boss33_VisionCode",
           "SourceString": "R-7799[Or]",
-          "LocalizedString": "R-7799[Or]"
+          "LocalizedString": "R-7799(Or)"
         },
         "VisionItemSortNum": 13,
         "BelongsLevel": "XL_map_bigworld_test",
@@ -4474,7 +4474,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -4483,7 +4483,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4492,7 +4492,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4501,7 +4501,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4510,7 +4510,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4519,7 +4519,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -4646,7 +4646,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4655,7 +4655,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4664,7 +4664,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4673,7 +4673,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -4682,7 +4682,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -4691,7 +4691,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -4702,7 +4702,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao1",
               "SourceString": "击败「囿巢鸟」·难度1",
-              "LocalizedString": "击败「囿巢鸟」·难度1"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 1"
             }
           },
           {
@@ -4711,7 +4711,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao2",
               "SourceString": "击败「囿巢鸟」·难度2",
-              "LocalizedString": "击败「囿巢鸟」·难度2"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 2"
             }
           },
           {
@@ -4720,7 +4720,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao3",
               "SourceString": "击败「囿巢鸟」·难度3",
-              "LocalizedString": "击败「囿巢鸟」·难度3"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 3"
             }
           },
           {
@@ -4729,7 +4729,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao4",
               "SourceString": "击败「囿巢鸟」·难度4",
-              "LocalizedString": "击败「囿巢鸟」·难度4"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 4"
             }
           },
           {
@@ -4738,7 +4738,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao5",
               "SourceString": "击败「囿巢鸟」·难度5",
-              "LocalizedString": "击败「囿巢鸟」·难度5"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 5"
             }
           },
           {
@@ -4747,7 +4747,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_youchaoniao6",
               "SourceString": "击败「囿巢鸟」·难度6",
-              "LocalizedString": "击败「囿巢鸟」·难度6"
+              "LocalizedString": "Defeat Nestbound Bird - Difficulty 6"
             }
           }
         ],
@@ -4788,7 +4788,7 @@
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
           "Key": "Boss08_NickName",
           "SourceString": "「去看电影吧」",
-          "LocalizedString": "「去看电影吧」"
+          "LocalizedString": "Let's Go See a Movie"
         },
         "VisionCode": {
           "TableId": "/Game/Text/ST_VisionArchives.ST_VisionArchives",
@@ -4854,7 +4854,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_Wanchengyixiang",
               "SourceString": "完成该异象普通委托后解锁",
-              "LocalizedString": "完成该异象普通委托后解锁"
+              "LocalizedString": "Unlocked after completing this Anomaly's Common Commission"
             }
           },
           {
@@ -4863,7 +4863,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4872,7 +4872,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4881,7 +4881,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4890,7 +4890,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           },
           {
@@ -4899,7 +4899,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_shangyinandu",
               "SourceString": "完成上一难度后解锁",
-              "LocalizedString": "完成上一难度后解锁"
+              "LocalizedString": "Prerequisite Required"
             }
           }
         ],
@@ -5026,7 +5026,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -5035,7 +5035,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -5044,7 +5044,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -5053,7 +5053,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_wuyixiangjizhi",
               "SourceString": "无异象机制",
-              "LocalizedString": "无异象机制"
+              "LocalizedString": "No Anomaly Mechanic"
             }
           },
           {
@@ -5062,7 +5062,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           },
           {
@@ -5071,7 +5071,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "AdvVisionDesc_Boss",
               "SourceString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。",
-              "LocalizedString": "「超限」：战斗开始3分钟后：敌方攻击力每10秒提升10%；全队角色攻击力每10秒提升10%，最多100%；全队每2秒损失5%最大生命值，最低降至最大生命值的20%。\r\n「瞬华」：每次触发<RedforNotfit>极限闪避</>后当前角色攻击力提升20%，持续10秒。\r\n「猎眸」：敌方每次攻击命中后获得1层「追猎」，每层「追猎」提高敌方10%攻击力。\r\n「完美律动」：<RedforNotfit>承轨反击</>成功时全队回复20%生命值，并减少1层「追猎」。"
+              "LocalizedString": "Overload: 3 minutes after battle starts: Increases Enemy ATK by 10% every 10s. Increases Team ATK by 10% every 10s, up to 100%. Reduces Team HP by 5% of Max HP every 2s, to a minimum of 20% Max HP.\r\nFlash Moment: Increases current character's ATK by 20% for 10s after triggering <RedforNotfit>Critical Dodge</>\r\nHunter's Gaze: Enemy gains 1 stack of Hunt after each successful attack hit, each stack of Hunt increases enemy ATK by 10%.\r\nPerfect Rhythm: Recovers 20% HP for the Team and reduces 1 stack of Hunt when <RedforNotfit>Parry Attack</> hits."
             }
           }
         ],
@@ -5082,7 +5082,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie1",
               "SourceString": "击败「斑蝶」·难度1",
-              "LocalizedString": "击败「斑蝶」·难度1"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 1"
             }
           },
           {
@@ -5091,7 +5091,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie2",
               "SourceString": "击败「斑蝶」·难度2",
-              "LocalizedString": "击败「斑蝶」·难度2"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 2"
             }
           },
           {
@@ -5100,7 +5100,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie3",
               "SourceString": "击败「斑蝶」·难度3",
-              "LocalizedString": "击败「斑蝶」·难度3"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 3"
             }
           },
           {
@@ -5109,7 +5109,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie4",
               "SourceString": "击败「斑蝶」·难度4",
-              "LocalizedString": "击败「斑蝶」·难度4"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 4"
             }
           },
           {
@@ -5118,7 +5118,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie5",
               "SourceString": "击败「斑蝶」·难度5",
-              "LocalizedString": "击败「斑蝶」·难度5"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 5"
             }
           },
           {
@@ -5127,7 +5127,7 @@
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_AdvVision_bandie6",
               "SourceString": "击败「斑蝶」·难度6",
-              "LocalizedString": "击败「斑蝶」·难度6"
+              "LocalizedString": "Defeat Swallowtail - Difficulty 6"
             }
           }
         ],

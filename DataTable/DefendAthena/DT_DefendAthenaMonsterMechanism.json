@@ -17,13 +17,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_Common_1_name",
           "SourceString": "怪物的怒火",
-          "LocalizedString": "怪物的怒火"
+          "LocalizedString": "Monstrous Fury"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_Common_1_desc",
           "SourceString": "攻击怪物时会短暂增加怪物对你的仇恨",
-          "LocalizedString": "攻击怪物时会短暂增加怪物对你的仇恨"
+          "LocalizedString": "Attacking an enemy briefly increases its aggro toward you."
         },
         "BelongsWaves": [
           0,
@@ -73,13 +73,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_1_name",
           "SourceString": "移动速度提升",
-          "LocalizedString": "移动速度提升"
+          "LocalizedString": "Movement Speed Up"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_1_desc",
           "SourceString": "部分怪物的移动速度提升<Red>10%</>",
-          "LocalizedString": "部分怪物的移动速度提升<Red>10%</>"
+          "LocalizedString": "Increases certain enemies' Movement Speed by <Red>10%</>."
         },
         "BelongsWaves": [
           0,
@@ -129,13 +129,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_2_name",
           "SourceString": "生命回复",
-          "LocalizedString": "生命回复"
+          "LocalizedString": "HP Recovery"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_2_desc",
           "SourceString": "部分怪物在最大生命值低于<Red>30%</>时回复最大生命的<Red>20%</>",
-          "LocalizedString": "部分怪物在最大生命值低于<Red>30%</>时回复最大生命的<Red>20%</>"
+          "LocalizedString": "Restores <Red>20%</> of Max HP to certain enemies when their HP falls below <Red>30%</> of Max HP."
         },
         "BelongsWaves": [
           0,
@@ -185,13 +185,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_3_name",
           "SourceString": "抗性提升",
-          "LocalizedString": "抗性提升"
+          "LocalizedString": "Resistance Up"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbilityUp_3_desc",
           "SourceString": "部分怪物的全属性抗性增加<Red>10%</>",
-          "LocalizedString": "部分怪物的全属性抗性增加<Red>10%</>"
+          "LocalizedString": "Increases certain enemies' All Resistances by <Red>10%</>."
         },
         "BelongsWaves": [
           0,
@@ -241,13 +241,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_1_name",
           "SourceString": "精英·坚固护盾",
-          "LocalizedString": "精英·坚固护盾"
+          "LocalizedString": "Elite: Ironclad Barrier"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_1_desc",
           "SourceString": "部分怪物带有被击打15次才会被摧毁的护盾，护盾存在时怪物不会受到伤害。",
-          "LocalizedString": "部分怪物带有被击打15次才会被摧毁的护盾，护盾存在时怪物不会受到伤害。"
+          "LocalizedString": "Some enemies are protected by a shield that breaks after 15 hits. They take no DMG while shielded."
         },
         "BelongsWaves": [
           7,
@@ -262,13 +262,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_2_name",
           "SourceString": "精英·伤害光环",
-          "LocalizedString": "精英·伤害光环"
+          "LocalizedString": "Elite: Withering Aura"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_2_desc",
           "SourceString": "部分怪物带有对角色持续造成伤害的光环。",
-          "LocalizedString": "部分怪物带有对角色持续造成伤害的光环。"
+          "LocalizedString": "Some enemies have an aura that continuously deals DMG to characters."
         },
         "BelongsWaves": [
           2,
@@ -283,13 +283,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_3_name",
           "SourceString": "首领·减速光环",
-          "LocalizedString": "首领·减速光环"
+          "LocalizedString": "Boss: Crippling Aura"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "EliteAbilityUp_3_desc",
           "SourceString": "首领带有对角色持续造成减速的光环。",
-          "LocalizedString": "首领带有对角色持续造成减速的光环。"
+          "LocalizedString": "Bosses have an aura that continuously slows characters."
         },
         "BelongsWaves": [
           7,
@@ -307,13 +307,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_1_name",
           "SourceString": "首领·红蓝双影",
-          "LocalizedString": "首领·红蓝双影"
+          "LocalizedString": "Boss: Twinbound"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_1_desc",
           "SourceString": "2个首领拥有共生效果，1个倒下后，如果没有在一定时间内击败另1个首领，则倒下的首领会复活并回复一定的血量",
-          "LocalizedString": "2个首领拥有共生效果，1个倒下后，如果没有在一定时间内击败另1个首领，则倒下的首领会复活并回复一定的血量"
+          "LocalizedString": "The two Bosses are linked by Symbiosis. If one is defeated and the other remains alive within a certain time, the fallen Boss revives and restores some HP."
         },
         "BelongsWaves": [
           14,
@@ -326,13 +326,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_2_name",
           "SourceString": "首领·漆黑的噩梦",
-          "LocalizedString": "首领·漆黑的噩梦"
+          "LocalizedString": "Boss: Nightmare Horde"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_2_desc",
           "SourceString": "首领将会定期在身边召唤出怪物（不计入积分）。",
-          "LocalizedString": "首领将会定期在身边召唤出怪物（不计入积分）。"
+          "LocalizedString": "The Boss periodically summons enemies nearby (Summoned enemies do not count toward your score.)."
         },
         "BelongsWaves": [
           4,
@@ -345,13 +345,13 @@
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_3_name",
           "SourceString": "首领·纸房子",
-          "LocalizedString": "首领·纸房子"
+          "LocalizedString": "Boss: Packed House"
         },
         "Effect": {
           "TableId": "/Game/UI/UI/DefendNS/DefendNS.DefendNS",
           "Key": "MonAbility_BOSS_3_desc",
           "SourceString": "首领将会定期召唤出怪物（不计入积分），并且会有精英怪物出没。",
-          "LocalizedString": "首领将会定期召唤出怪物（不计入积分），并且会有精英怪物出没。"
+          "LocalizedString": "The Boss periodically summons enemies (Summoned enemies do not count toward your score). Elite enemies will also appear."
         },
         "BelongsWaves": [
           19,

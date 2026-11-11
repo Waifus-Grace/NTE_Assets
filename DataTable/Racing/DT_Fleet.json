@@ -44,13 +44,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_Name",
           "SourceString": "星期日车队",
-          "LocalizedString": "星期日车队"
+          "LocalizedString": "Sunday"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_02_Name",
           "SourceString": "未闻浦·星期日",
-          "LocalizedString": "未闻浦·星期日"
+          "LocalizedString": "Unheard Shores - Sunday"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_01.UI_YH_Racing_Level_Bkg_Images_01",
@@ -64,7 +64,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_Desc",
           "SourceString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。",
-          "LocalizedString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。"
+          "LocalizedString": "A loosely organized racing team whose members are mostly office workers who come together based on their shared interest in racing. They don't particularly care about rankings—what matters is enjoying the fun of driving."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_ReplaceCar_Meetup_001.UI_YH_Racing_ReplaceCar_Meetup_001",
@@ -74,13 +74,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_01",
           "SourceString": "未闻浦环线",
-          "LocalizedString": "未闻浦环线"
+          "LocalizedString": "Unheard Shores Circuit"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_DD",
           "SourceString": "暴走改车店",
-          "LocalizedString": "暴走改车店"
+          "LocalizedString": "Rampage Players"
         },
         "AssemblingBeginTime": 20,
         "AssemblingEndTime": 8,
@@ -152,13 +152,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_Name",
           "SourceString": "月光海岸车队",
-          "LocalizedString": "月光海岸车队"
+          "LocalizedString": "Coastal Drift"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_02_Name",
           "SourceString": "桥间地·月光海岸",
-          "LocalizedString": "桥间地·月光海岸"
+          "LocalizedString": "Bridge Crossings - Coastal Drift"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_02.UI_YH_Racing_Level_Bkg_Images_02",
@@ -172,7 +172,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_Desc",
           "SourceString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。",
-          "LocalizedString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。"
+          "LocalizedString": "A racing team formed by Captain Elle during her college years, who have all grown up to be office workers. The team was kept to this day as a social circle. The sisters regularly stay connected through racing, seeing it as part of their lives rather than caring about winning or losing."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -182,13 +182,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_02",
           "SourceString": "桥间地观光线",
-          "LocalizedString": "桥间地观光线"
+          "LocalizedString": "Bridge Crossings Sightseers"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_DD",
           "SourceString": "Z42环海公路",
-          "LocalizedString": "Z42环海公路"
+          "LocalizedString": "Coastal Highway Z42"
         },
         "AssemblingBeginTime": 18,
         "AssemblingEndTime": 6,
@@ -203,7 +203,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_1",
           "SourceString": "需要达到猎人等级8级后解锁",
-          "LocalizedString": "需要达到猎人等级8级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 8"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -265,13 +265,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_03_01_Name",
           "SourceString": "全速前进！车队",
-          "LocalizedString": "全速前进！车队"
+          "LocalizedString": "Full Throttle"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_03_02_Name",
           "SourceString": "环海特洛·全速前进！",
-          "LocalizedString": "环海特洛·全速前进！"
+          "LocalizedString": "Hethereau - Full Throttle"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_03.UI_YH_Racing_Level_Bkg_Images_03",
@@ -285,7 +285,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_03_01_Desc",
           "SourceString": "车队活跃在海特洛各处，成员大多没有固定工作，因此有时间练习长距离赛道。队伍经济状况拮据，常常需要东拼西凑才能勉强组织起一场集会。",
-          "LocalizedString": "车队活跃在海特洛各处，成员大多没有固定工作，因此有时间练习长距离赛道。队伍经济状况拮据，常常需要东拼西凑才能勉强组织起一场集会。"
+          "LocalizedString": "This racing team is active throughout Hethereau, with most members being free of employment, allowing them time to practice on long-distance tracks. The team's finances are tight, often requiring them to scrape together resources just to barely organize a gathering."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -295,13 +295,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_03",
           "SourceString": "跨区长线1号",
-          "LocalizedString": "跨区长线1号"
+          "LocalizedString": "Hethereau Track 1"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_03_01_DD",
           "SourceString": "卷叶榕大道",
-          "LocalizedString": "卷叶榕大道"
+          "LocalizedString": "Fiscus Avenue"
         },
         "AssemblingBeginTime": 12,
         "AssemblingEndTime": 0,
@@ -316,7 +316,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_2",
           "SourceString": "需要达到猎人等级12级后解锁",
-          "LocalizedString": "需要达到猎人等级12级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 12"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -378,13 +378,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Name",
           "SourceString": "子午线车队",
-          "LocalizedString": "子午线车队"
+          "LocalizedString": "Meridian"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_02_Name",
           "SourceString": "米格尔·子午线",
-          "LocalizedString": "米格尔·子午线"
+          "LocalizedString": "Miguel District - Meridian"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_04.UI_YH_Racing_Level_Bkg_Images_04",
@@ -398,7 +398,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Desc",
           "SourceString": "仰慕「海特洛车神」的白杨组建的新生代车队。车队以问鼎「兰斯巡回大奖赛」为目标努力训练。成员平均年龄尚轻，但已屡创佳绩。",
-          "LocalizedString": "仰慕「海特洛车神」的白杨组建的新生代车队。车队以问鼎「兰斯巡回大奖赛」为目标努力训练。成员平均年龄尚轻，但已屡创佳绩。"
+          "LocalizedString": "A new generation racing team formed by Bai Yang, who admires the God Racer of Hethereau. The team trains hard with the goal of conquering the Reims Grand Prix. Though the members are still young on average, they've already achieved numerous victories."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -408,13 +408,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04B",
           "SourceString": "白尾树盘山公路",
-          "LocalizedString": "白尾树盘山公路"
+          "LocalizedString": "Whitetail Ridge Road"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_DD",
           "SourceString": "水菱湖",
-          "LocalizedString": "水菱湖"
+          "LocalizedString": "Caltrop Lake"
         },
         "AssemblingBeginTime": 22,
         "AssemblingEndTime": 10,
@@ -429,7 +429,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_3",
           "SourceString": "需要达到猎人等级16级后解锁",
-          "LocalizedString": "需要达到猎人等级16级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 16"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -491,13 +491,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_05_01_Name",
           "SourceString": "追风车队",
-          "LocalizedString": "追风车队"
+          "LocalizedString": "Tempestas"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_05_02_Name",
           "SourceString": "新赫兰德·追风",
-          "LocalizedString": "新赫兰德·追风"
+          "LocalizedString": "New Herland - Tempestas"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_05.UI_YH_Racing_Level_Bkg_Images_05",
@@ -511,7 +511,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_05_01_Desc",
           "SourceString": "由用飙车消磨时光的富家子弟组成的车队。车是社交名片，因此成员都非常在意车的外观，并不特别在意对功能性模块的改装。",
-          "LocalizedString": "由用飙车消磨时光的富家子弟组成的车队。车是社交名片，因此成员都非常在意车的外观，并不特别在意对功能性模块的改装。"
+          "LocalizedString": "A racing team composed of wealthy young people who treat street racing as a pastime. Cars serve as social calling cards, so members care greatly about their vehicles' appearance but don't particularly focus on functional modifications."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -521,13 +521,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_05",
           "SourceString": "新赫兰德城间线",
-          "LocalizedString": "新赫兰德城间线"
+          "LocalizedString": "New Herland City Track"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_05_01_DD",
           "SourceString": "胡桃夹公路",
-          "LocalizedString": "胡桃夹公路"
+          "LocalizedString": "Nutcracker Road"
         },
         "AssemblingBeginTime": 16,
         "AssemblingEndTime": 4,
@@ -542,7 +542,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_4",
           "SourceString": "需要达到猎人等级20级后解锁",
-          "LocalizedString": "需要达到猎人等级20级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 20"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -604,13 +604,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_06_01_Name",
           "SourceString": "无冕车队",
-          "LocalizedString": "无冕车队"
+          "LocalizedString": "Uncrowned King"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_06_02_Name",
           "SourceString": "新赫兰德·无冕",
-          "LocalizedString": "新赫兰德·无冕"
+          "LocalizedString": "New Herland - Uncrowned King"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_06.UI_YH_Racing_Level_Bkg_Images_06",
@@ -624,7 +624,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_06_01_Desc",
           "SourceString": "退役车手米夏组建的车队，队员都是受米夏认可的退役职业车手。车队组建的初衷是为了给更多有赛车梦想的年轻人提供帮助与支持。",
-          "LocalizedString": "退役车手米夏组建的车队，队员都是受米夏认可的退役职业车手。车队组建的初衷是为了给更多有赛车梦想的年轻人提供帮助与支持。"
+          "LocalizedString": "A racing team formed by retired racer Misha, with members who are all retired professional racers recognized by Misha. The team's original purpose was to provide help and support to more young people with racing dreams."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -634,13 +634,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_06",
           "SourceString": "新赫兰德高架线",
-          "LocalizedString": "新赫兰德高架线"
+          "LocalizedString": "New Herland Highway Track"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_06_01_DD",
           "SourceString": "海角广场",
-          "LocalizedString": "海角广场"
+          "LocalizedString": "Cape Square"
         },
         "AssemblingBeginTime": 19,
         "AssemblingEndTime": 7,
@@ -655,7 +655,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
           "SourceString": "需要达到猎人等级24级后解锁",
-          "LocalizedString": "需要达到猎人等级24级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 24"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -717,13 +717,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_07_01_Name",
           "SourceString": "夜鸮车队",
-          "LocalizedString": "夜鸮车队"
+          "LocalizedString": "Night Raptor"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_07_02_Name",
           "SourceString": "泊暮·夜鸮",
-          "LocalizedString": "泊暮·夜鸮"
+          "LocalizedString": "Duskmoor - Night Raptor"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_07.UI_YH_Racing_Level_Bkg_Images_07",
@@ -737,7 +737,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_07_01_Desc",
           "SourceString": "由一群看上去完全不会有交集的人组成的车队，成员有退役地下偶像、乐队鼓手、公司职员、家庭主妇、科研人员、房地产商，他们皆因对赛车纯粹的爱好而结缘，虽然算不上专业，却会尽力在每一次赛事活动中享受恣意的快乐。",
-          "LocalizedString": "由一群看上去完全不会有交集的人组成的车队，成员有退役地下偶像、乐队鼓手、公司职员、家庭主妇、科研人员、房地产商，他们皆因对赛车纯粹的爱好而结缘，虽然算不上专业，却会尽力在每一次赛事活动中享受恣意的快乐。"
+          "LocalizedString": "A racing team made up of people who couldn't be further apart in personality: a retired underground idol, a band drummer, an office worker, a homemaker, a researcher, and a real estate developer. Brought together by their genuine love of racing, they give their all in every event they participate in."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -747,13 +747,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_07",
           "SourceString": "纪行地平线",
-          "LocalizedString": "纪行地平线"
+          "LocalizedString": "Horizon Tour"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_07_01_DD",
           "SourceString": "泊暮区",
-          "LocalizedString": "泊暮区"
+          "LocalizedString": "Duskmoor"
         },
         "AssemblingBeginTime": 12,
         "AssemblingEndTime": 0,
@@ -768,7 +768,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
           "SourceString": "需要达到猎人等级24级后解锁",
-          "LocalizedString": "需要达到猎人等级24级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 24"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -830,13 +830,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_08_01_Name",
           "SourceString": "新章车队",
-          "LocalizedString": "新章车队"
+          "LocalizedString": "Chapter Nova"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_08_02_Name",
           "SourceString": "泊暮·新章",
-          "LocalizedString": "泊暮·新章"
+          "LocalizedString": "Duskmoor - Chapter Nova"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_08.UI_YH_Racing_Level_Bkg_Images_08",
@@ -850,7 +850,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_08_01_Desc",
           "SourceString": "队长桐生原本是职业的摩托车赛车手，因为退役后仍然对竞技保持热爱组建了这只车队。只是当他第一次开始尝试赛车而不是摩托车时，就一发不可收拾地爱上了。其他队员也大多如此。",
-          "LocalizedString": "队长桐生原本是职业的摩托车赛车手，因为退役后仍然对竞技保持热爱组建了这只车队。只是当他第一次开始尝试赛车而不是摩托车时，就一发不可收拾地爱上了。其他队员也大多如此。"
+          "LocalizedString": "Captain Kiryu was once a professional motorcyclist. Even after retiring, his love of competition never faded, so he decided to form a racing team. The first time he tried car racing instead of motorcycles, he fell in love completely. Most of the other team members share similar sentiments."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -860,13 +860,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_08",
           "SourceString": "山野线",
-          "LocalizedString": "山野线"
+          "LocalizedString": "Wildlands Track"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_08_01_DD",
           "SourceString": "泊暮区",
-          "LocalizedString": "泊暮区"
+          "LocalizedString": "Duskmoor"
         },
         "AssemblingBeginTime": 8,
         "AssemblingEndTime": 15,
@@ -881,7 +881,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
           "SourceString": "需要达到猎人等级24级后解锁",
-          "LocalizedString": "需要达到猎人等级24级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 24"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -943,13 +943,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_09_01_Name",
           "SourceString": "第一感车队",
-          "LocalizedString": "第一感车队"
+          "LocalizedString": "First Sense"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_09_02_Name",
           "SourceString": "泊暮·第一感",
-          "LocalizedString": "泊暮·第一感"
+          "LocalizedString": "Duskmoor - First Sense"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_09.UI_YH_Racing_Level_Bkg_Images_09",
@@ -963,7 +963,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_09_01_Desc",
           "SourceString": "据说第一感车队的队长黑川少年时天赋极高，人人都期待他能成为未来的「海特洛车神」，只是黑川其人太过于完美主义，总会因为队友或赛事而苛责自己，因此成绩也并不理想。失意的黑川坐在自家的稻田里，童年的风随着禾香吹来，黑川才发现自己走入了误区。后来他组建了这只业余车队，试图寻找赛车最原初最动人的那些瞬间。",
-          "LocalizedString": "据说第一感车队的队长黑川少年时天赋极高，人人都期待他能成为未来的「海特洛车神」，只是黑川其人太过于完美主义，总会因为队友或赛事而苛责自己，因此成绩也并不理想。失意的黑川坐在自家的稻田里，童年的风随着禾香吹来，黑川才发现自己走入了误区。后来他组建了这只业余车队，试图寻找赛车最原初最动人的那些瞬间。"
+          "LocalizedString": "They say Kurokawa, captain of First Sense, was exceptionally gifted in his youth. Everyone expected him to become the future \"God Racer of Hethereau.\" But Kurokawa was such a perfectionist that he consistently blamed himself for his teammates' performance or the races themselves. He found that these results never quite matched what was expected of him. Disheartened, he sat in his family's rice fields, basking in the aroma of rice grains, and finally realized he had gone down the wrong path. Later, he formed an amateur racing team in search of those who also sought genuine fun from racing."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -973,13 +973,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_09",
           "SourceString": "稻香乡道线",
-          "LocalizedString": "稻香乡道线"
+          "LocalizedString": "Harvest Track"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_09_01_DD",
           "SourceString": "泊暮区",
-          "LocalizedString": "泊暮区"
+          "LocalizedString": "Duskmoor"
         },
         "AssemblingBeginTime": 12,
         "AssemblingEndTime": 0,
@@ -994,7 +994,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
           "SourceString": "需要达到猎人等级24级后解锁",
-          "LocalizedString": "需要达到猎人等级24级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 24"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -1056,13 +1056,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_10_01_Name",
           "SourceString": "银冠车队",
-          "LocalizedString": "银冠车队"
+          "LocalizedString": "Silver Crown"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_10_02_Name",
           "SourceString": "泊暮·银冠",
-          "LocalizedString": "泊暮·银冠"
+          "LocalizedString": "Duskmoor - Silver Crown"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_10.UI_YH_Racing_Level_Bkg_Images_10",
@@ -1076,7 +1076,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_10_01_Desc",
           "SourceString": "三浦其实是差一点就能成为职业车手的，他家境富裕，从小受训，只是不知为何在赛事上总是少一些气运。后来他按部就班地继承了家族企业，也渐渐遗忘了赛车的梦想。直到……他遇到了几个和他有着类似经历的人，组建了这支车队。",
-          "LocalizedString": "三浦其实是差一点就能成为职业车手的，他家境富裕，从小受训，只是不知为何在赛事上总是少一些气运。后来他按部就班地继承了家族企业，也渐渐遗忘了赛车的梦想。直到……他遇到了几个和他有着类似经历的人，组建了这支车队。"
+          "LocalizedString": "Miura came close to becoming a professional driver. Born into a wealthy family, he trained from a young age, yet luck never seemed to be on his side in competitions. He eventually inherited the family business and gradually let go of his racing dream. Later… he met several people with stories much like his own, and together they formed a racing team."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -1086,13 +1086,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_10",
           "SourceString": "都市街道线",
-          "LocalizedString": "都市街道线"
+          "LocalizedString": "Urban Track"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_10_01_DD",
           "SourceString": "星沉湾",
-          "LocalizedString": "星沉湾"
+          "LocalizedString": "Starfall Bay"
         },
         "AssemblingBeginTime": 16,
         "AssemblingEndTime": 4,
@@ -1107,7 +1107,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
           "SourceString": "需要达到猎人等级24级后解锁",
-          "LocalizedString": "需要达到猎人等级24级后解锁"
+          "LocalizedString": "Requires Hunter Lvl 24"
         },
         "FleetShowInListCondition": {},
         "StarAwardsData": [
@@ -1169,13 +1169,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Name",
           "SourceString": "子午线车队",
-          "LocalizedString": "子午线车队"
+          "LocalizedString": "Meridian"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_02_Name",
           "SourceString": "米格尔·子午线",
-          "LocalizedString": "米格尔·子午线"
+          "LocalizedString": "Miguel District - Meridian"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_999_1.UI_YH_Racing_Level_Bkg_Images_999_1",
@@ -1189,7 +1189,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Desc",
           "SourceString": "仰慕「海特洛车神」的白杨组建的新生代车队。车队以问鼎「兰斯巡回大奖赛」为目标努力训练。成员平均年龄尚轻，但已屡创佳绩。",
-          "LocalizedString": "仰慕「海特洛车神」的白杨组建的新生代车队。车队以问鼎「兰斯巡回大奖赛」为目标努力训练。成员平均年龄尚轻，但已屡创佳绩。"
+          "LocalizedString": "A new generation racing team formed by Bai Yang, who admires the God Racer of Hethereau. The team trains hard with the goal of conquering the Reims Grand Prix. Though the members are still young on average, they've already achieved numerous victories."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -1199,13 +1199,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04B",
           "SourceString": "白尾树盘山公路",
-          "LocalizedString": "白尾树盘山公路"
+          "LocalizedString": "Whitetail Ridge Road"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_DD",
           "SourceString": "水菱湖",
-          "LocalizedString": "水菱湖"
+          "LocalizedString": "Caltrop Lake"
         },
         "AssemblingBeginTime": 0,
         "AssemblingEndTime": 23,
@@ -1252,13 +1252,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_Quest_01_Name",
           "SourceString": "午夜幽灵",
-          "LocalizedString": "午夜幽灵"
+          "LocalizedString": "Midnight Ghost"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_Quest_01_Name",
           "SourceString": "午夜幽灵",
-          "LocalizedString": "午夜幽灵"
+          "LocalizedString": "Midnight Ghost"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_999_2.UI_YH_Racing_Level_Bkg_Images_999_2",
@@ -1272,7 +1272,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_Quest_01_Desc",
           "SourceString": "异象「别让我停下！」，在坊间有着「午夜的海特洛幽灵车神」之称。它总是独自在夜晚的盘山公路驰骋，向过往车辆发起挑战，仿佛在渴求着能够真正与它一较高下的对手。",
-          "LocalizedString": "异象「别让我停下！」，在坊间有着「午夜的海特洛幽灵车神」之称。它总是独自在夜晚的盘山公路驰骋，向过往车辆发起挑战，仿佛在渴求着能够真正与它一较高下的对手。"
+          "LocalizedString": "The Anomaly \"Don't Let Me Stop!\" is known among locals as \"The Midnight Ghost Racer of Hethereau.\" It always races alone on winding mountain roads at night, challenging passing vehicles as if yearning for an opponent who can truly match its skill."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -1282,13 +1282,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04B",
           "SourceString": "白尾树盘山公路",
-          "LocalizedString": "白尾树盘山公路"
+          "LocalizedString": "Whitetail Ridge Road"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_DD",
           "SourceString": "水菱湖",
-          "LocalizedString": "水菱湖"
+          "LocalizedString": "Caltrop Lake"
         },
         "AssemblingBeginTime": 0,
         "AssemblingEndTime": 23,
@@ -1335,13 +1335,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_01_Name",
           "SourceString": "幽灵残像",
-          "LocalizedString": "幽灵残像"
+          "LocalizedString": "Ghost Remnant"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_01_Name",
           "SourceString": "幽灵残像",
-          "LocalizedString": "幽灵残像"
+          "LocalizedString": "Ghost Remnant"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_999_2.UI_YH_Racing_Level_Bkg_Images_999_2",
@@ -1355,7 +1355,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_999_01_Desc",
           "SourceString": "战胜异象「别让我停下！」后，它心满意足地泯除了。现在，每当看到它遗留的残像，总会回想起那时与它并驾齐驱的热情。在记忆深处，「午夜的幽灵车神」似乎仍徘徊在赛道上，等待着命中注定的挑战者。",
-          "LocalizedString": "战胜异象「别让我停下！」后，它心满意足地泯除了。现在，每当看到它遗留的残像，总会回想起那时与它并驾齐驱的热情。在记忆深处，「午夜的幽灵车神」似乎仍徘徊在赛道上，等待着命中注定的挑战者。"
+          "LocalizedString": "After defeating the Anomaly \"Don't Let Me Stop!\", it was satisfied and underwent nullification. Now, whenever I see the remnants it left behind, I'm reminded of the passion we shared racing side by side back then. Deep in my memory, \"The Midnight Ghost Racer\" still seems to linger on the track, waiting for its destined challenger."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -1365,13 +1365,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04B",
           "SourceString": "白尾树盘山公路",
-          "LocalizedString": "白尾树盘山公路"
+          "LocalizedString": "Whitetail Ridge Road"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_DD",
           "SourceString": "水菱湖",
-          "LocalizedString": "水菱湖"
+          "LocalizedString": "Caltrop Lake"
         },
         "AssemblingBeginTime": 19,
         "AssemblingEndTime": 6,
@@ -1443,13 +1443,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_Name",
           "SourceString": "月光海岸车队",
-          "LocalizedString": "月光海岸车队"
+          "LocalizedString": "Coastal Drift"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_02_Name",
           "SourceString": "桥间地·月光海岸",
-          "LocalizedString": "桥间地·月光海岸"
+          "LocalizedString": "Bridge Crossings - Coastal Drift"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_02.UI_YH_Racing_Level_Bkg_Images_02",
@@ -1463,7 +1463,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_Desc",
           "SourceString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。",
-          "LocalizedString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。"
+          "LocalizedString": "A racing team formed by Captain Elle during her college years, who have all grown up to be office workers. The team was kept to this day as a social circle. The sisters regularly stay connected through racing, seeing it as part of their lives rather than caring about winning or losing."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
@@ -1473,13 +1473,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_02",
           "SourceString": "桥间地观光线",
-          "LocalizedString": "桥间地观光线"
+          "LocalizedString": "Bridge Crossings Sightseers"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_DD",
           "SourceString": "Z42环海公路",
-          "LocalizedString": "Z42环海公路"
+          "LocalizedString": "Coastal Highway Z42"
         },
         "AssemblingBeginTime": 18,
         "AssemblingEndTime": 6,
@@ -1526,13 +1526,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_Name",
           "SourceString": "星期日车队",
-          "LocalizedString": "星期日车队"
+          "LocalizedString": "Sunday"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_02_Name",
           "SourceString": "未闻浦·星期日",
-          "LocalizedString": "未闻浦·星期日"
+          "LocalizedString": "Unheard Shores - Sunday"
         },
         "FleetBG": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_01.UI_YH_Racing_Level_Bkg_Images_01",
@@ -1546,7 +1546,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_Desc",
           "SourceString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。",
-          "LocalizedString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。"
+          "LocalizedString": "A loosely organized racing team whose members are mostly office workers who come together based on their shared interest in racing. They don't particularly care about rankings—what matters is enjoying the fun of driving."
         },
         "FleetRaceTrackIcon": {
           "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_ReplaceCar_Meetup_001.UI_YH_Racing_ReplaceCar_Meetup_001",
@@ -1556,13 +1556,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_01",
           "SourceString": "未闻浦环线",
-          "LocalizedString": "未闻浦环线"
+          "LocalizedString": "Unheard Shores Circuit"
         },
         "AssemblingPlace": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_DD",
           "SourceString": "暴走改车店",
-          "LocalizedString": "暴走改车店"
+          "LocalizedString": "Rampage Players"
         },
         "AssemblingBeginTime": 20,
         "AssemblingEndTime": 8,

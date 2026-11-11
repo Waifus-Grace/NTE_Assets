@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_01",
           "SourceString": "热身时间01",
-          "LocalizedString": "热身时间01"
+          "LocalizedString": "Warm-Up 01"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -31,7 +31,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -43,7 +43,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -55,7 +55,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -75,7 +75,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_02",
           "SourceString": "热身时间02",
-          "LocalizedString": "热身时间02"
+          "LocalizedString": "Warm-Up 02"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -88,7 +88,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -100,7 +100,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -112,7 +112,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -132,7 +132,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_03",
           "SourceString": "热身时间03",
-          "LocalizedString": "热身时间03"
+          "LocalizedString": "Warm-Up 03"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -157,7 +157,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -169,7 +169,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -189,7 +189,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_04",
           "SourceString": "热身时间04",
-          "LocalizedString": "热身时间04"
+          "LocalizedString": "Warm-Up 04"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -202,7 +202,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -214,7 +214,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -226,7 +226,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -246,7 +246,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_05",
           "SourceString": "热身时间05",
-          "LocalizedString": "热身时间05"
+          "LocalizedString": "Warm-Up 05"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -259,7 +259,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -271,7 +271,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -283,7 +283,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -303,7 +303,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_06",
           "SourceString": "热身时间06",
-          "LocalizedString": "热身时间06"
+          "LocalizedString": "Warm-Up 06"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -316,7 +316,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -328,7 +328,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -340,7 +340,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -360,7 +360,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_07",
           "SourceString": "热身时间07",
-          "LocalizedString": "热身时间07"
+          "LocalizedString": "Warm-Up 07"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -373,7 +373,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -385,7 +385,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -397,7 +397,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -417,7 +417,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_08",
           "SourceString": "热身时间08",
-          "LocalizedString": "热身时间08"
+          "LocalizedString": "Warm-Up 08"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -430,7 +430,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -442,7 +442,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -454,7 +454,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -474,7 +474,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_09",
           "SourceString": "热身时间09",
-          "LocalizedString": "热身时间09"
+          "LocalizedString": "Warm-Up 09"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -487,7 +487,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -499,7 +499,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -511,7 +511,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -531,7 +531,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1_10",
           "SourceString": "热身时间10",
-          "LocalizedString": "热身时间10"
+          "LocalizedString": "Warm-Up 10"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level1.YH_UI_Volleyball_Btn_Level1",
@@ -544,7 +544,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -556,7 +556,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -568,7 +568,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -588,7 +588,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_01",
           "SourceString": "小展身手01",
-          "LocalizedString": "小展身手01"
+          "LocalizedString": "First Serve 01"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -601,7 +601,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -613,7 +613,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -625,7 +625,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -645,7 +645,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_02",
           "SourceString": "小展身手02",
-          "LocalizedString": "小展身手02"
+          "LocalizedString": "First Serve 02"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -658,7 +658,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -670,7 +670,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -682,7 +682,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -702,7 +702,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_03",
           "SourceString": "小展身手03",
-          "LocalizedString": "小展身手03"
+          "LocalizedString": "First Serve 03"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -715,7 +715,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -727,7 +727,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -739,7 +739,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -759,7 +759,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_04",
           "SourceString": "小展身手04",
-          "LocalizedString": "小展身手04"
+          "LocalizedString": "First Serve 04"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -772,7 +772,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -784,7 +784,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -796,7 +796,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -816,7 +816,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_05",
           "SourceString": "小展身手05",
-          "LocalizedString": "小展身手05"
+          "LocalizedString": "First Serve 05"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -829,7 +829,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -841,7 +841,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -853,7 +853,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -873,7 +873,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_06",
           "SourceString": "小展身手06",
-          "LocalizedString": "小展身手06"
+          "LocalizedString": "First Serve 06"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -886,7 +886,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -898,7 +898,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -910,7 +910,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -930,7 +930,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_07",
           "SourceString": "小展身手07",
-          "LocalizedString": "小展身手07"
+          "LocalizedString": "First Serve 07"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -943,7 +943,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -955,7 +955,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -967,7 +967,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -987,7 +987,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_08",
           "SourceString": "小展身手08",
-          "LocalizedString": "小展身手08"
+          "LocalizedString": "First Serve 08"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1000,7 +1000,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1012,7 +1012,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1024,7 +1024,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1044,7 +1044,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_09",
           "SourceString": "小展身手09",
-          "LocalizedString": "小展身手09"
+          "LocalizedString": "First Serve 09"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1057,7 +1057,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1069,7 +1069,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1081,7 +1081,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1101,7 +1101,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_10",
           "SourceString": "小展身手10",
-          "LocalizedString": "小展身手10"
+          "LocalizedString": "First Serve 10"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1114,7 +1114,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1126,7 +1126,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1138,7 +1138,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1158,7 +1158,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_11",
           "SourceString": "小展身手11",
-          "LocalizedString": "小展身手11"
+          "LocalizedString": "First Serve 11"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1171,7 +1171,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1183,7 +1183,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1195,7 +1195,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1215,7 +1215,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_12",
           "SourceString": "小展身手12",
-          "LocalizedString": "小展身手12"
+          "LocalizedString": "First Serve 12"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1228,7 +1228,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1240,7 +1240,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1252,7 +1252,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1272,7 +1272,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_13",
           "SourceString": "小展身手13",
-          "LocalizedString": "小展身手13"
+          "LocalizedString": "First Serve 13"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1285,7 +1285,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1297,7 +1297,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1309,7 +1309,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1329,7 +1329,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_14",
           "SourceString": "小展身手14",
-          "LocalizedString": "小展身手14"
+          "LocalizedString": "First Serve 14"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1342,7 +1342,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1354,7 +1354,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1366,7 +1366,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1386,7 +1386,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2_15",
           "SourceString": "小展身手15",
-          "LocalizedString": "小展身手15"
+          "LocalizedString": "First Serve 15"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level2.YH_UI_Volleyball_Btn_Level2",
@@ -1399,7 +1399,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1411,7 +1411,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1423,7 +1423,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1443,7 +1443,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_01",
           "SourceString": "渐入佳境01",
-          "LocalizedString": "渐入佳境01"
+          "LocalizedString": "Finding Form 01"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1456,7 +1456,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1468,7 +1468,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1480,7 +1480,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1500,7 +1500,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_02",
           "SourceString": "渐入佳境02",
-          "LocalizedString": "渐入佳境02"
+          "LocalizedString": "Finding Form 02"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1513,7 +1513,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1525,7 +1525,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1537,7 +1537,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1557,7 +1557,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_03",
           "SourceString": "渐入佳境03",
-          "LocalizedString": "渐入佳境03"
+          "LocalizedString": "Finding Form 03"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1570,7 +1570,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1582,7 +1582,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1594,7 +1594,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1614,7 +1614,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_04",
           "SourceString": "渐入佳境04",
-          "LocalizedString": "渐入佳境04"
+          "LocalizedString": "Finding Form 04"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1627,7 +1627,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1639,7 +1639,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1651,7 +1651,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1671,7 +1671,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_05",
           "SourceString": "渐入佳境05",
-          "LocalizedString": "渐入佳境05"
+          "LocalizedString": "Finding Form 05"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1684,7 +1684,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1696,7 +1696,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1708,7 +1708,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1728,7 +1728,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_06",
           "SourceString": "渐入佳境06",
-          "LocalizedString": "渐入佳境06"
+          "LocalizedString": "Finding Form 06"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1741,7 +1741,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1753,7 +1753,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1765,7 +1765,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1785,7 +1785,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_07",
           "SourceString": "渐入佳境07",
-          "LocalizedString": "渐入佳境07"
+          "LocalizedString": "Finding Form 07"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1798,7 +1798,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1810,7 +1810,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1822,7 +1822,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1842,7 +1842,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_08",
           "SourceString": "渐入佳境08",
-          "LocalizedString": "渐入佳境08"
+          "LocalizedString": "Finding Form 08"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1855,7 +1855,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1867,7 +1867,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1879,7 +1879,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1899,7 +1899,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_09",
           "SourceString": "渐入佳境09",
-          "LocalizedString": "渐入佳境09"
+          "LocalizedString": "Finding Form 09"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1912,7 +1912,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1924,7 +1924,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1936,7 +1936,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1956,7 +1956,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_10",
           "SourceString": "渐入佳境10",
-          "LocalizedString": "渐入佳境10"
+          "LocalizedString": "Finding Form 10"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -1969,7 +1969,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -1981,7 +1981,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -1993,7 +1993,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2013,7 +2013,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_11",
           "SourceString": "渐入佳境11",
-          "LocalizedString": "渐入佳境11"
+          "LocalizedString": "Finding Form 11"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -2026,7 +2026,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2038,7 +2038,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2050,7 +2050,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2070,7 +2070,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_12",
           "SourceString": "渐入佳境12",
-          "LocalizedString": "渐入佳境12"
+          "LocalizedString": "Finding Form 12"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -2083,7 +2083,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2095,7 +2095,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2107,7 +2107,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2127,7 +2127,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_13",
           "SourceString": "渐入佳境13",
-          "LocalizedString": "渐入佳境13"
+          "LocalizedString": "Finding Form 13"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -2140,7 +2140,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2152,7 +2152,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2164,7 +2164,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2184,7 +2184,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_14",
           "SourceString": "渐入佳境14",
-          "LocalizedString": "渐入佳境14"
+          "LocalizedString": "Finding Form 14"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -2197,7 +2197,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2209,7 +2209,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2221,7 +2221,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2241,7 +2241,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3_15",
           "SourceString": "渐入佳境15",
-          "LocalizedString": "渐入佳境15"
+          "LocalizedString": "Finding Form 15"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level3.YH_UI_Volleyball_Btn_Level3",
@@ -2254,7 +2254,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2266,7 +2266,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2278,7 +2278,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2298,7 +2298,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_01",
           "SourceString": "职业赛场01",
-          "LocalizedString": "职业赛场01"
+          "LocalizedString": "Pro Arena 01"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2311,7 +2311,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2323,7 +2323,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2335,7 +2335,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2355,7 +2355,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_02",
           "SourceString": "职业赛场02",
-          "LocalizedString": "职业赛场02"
+          "LocalizedString": "Pro Arena 02"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2368,7 +2368,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2380,7 +2380,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2392,7 +2392,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2412,7 +2412,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_03",
           "SourceString": "职业赛场03",
-          "LocalizedString": "职业赛场03"
+          "LocalizedString": "Pro Arena 03"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2425,7 +2425,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2437,7 +2437,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2449,7 +2449,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2469,7 +2469,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_04",
           "SourceString": "职业赛场04",
-          "LocalizedString": "职业赛场04"
+          "LocalizedString": "Pro Arena 04"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2482,7 +2482,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2494,7 +2494,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2506,7 +2506,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2526,7 +2526,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_05",
           "SourceString": "职业赛场05",
-          "LocalizedString": "职业赛场05"
+          "LocalizedString": "Pro Arena 05"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2539,7 +2539,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2551,7 +2551,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2563,7 +2563,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2583,7 +2583,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_06",
           "SourceString": "职业赛场06",
-          "LocalizedString": "职业赛场06"
+          "LocalizedString": "Pro Arena 06"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2596,7 +2596,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2608,7 +2608,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2620,7 +2620,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2640,7 +2640,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_07",
           "SourceString": "职业赛场07",
-          "LocalizedString": "职业赛场07"
+          "LocalizedString": "Pro Arena 07"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2653,7 +2653,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2665,7 +2665,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2677,7 +2677,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2697,7 +2697,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_08",
           "SourceString": "职业赛场08",
-          "LocalizedString": "职业赛场08"
+          "LocalizedString": "Pro Arena 08"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2710,7 +2710,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2722,7 +2722,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2734,7 +2734,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2754,7 +2754,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_09",
           "SourceString": "职业赛场09",
-          "LocalizedString": "职业赛场09"
+          "LocalizedString": "Pro Arena 09"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2767,7 +2767,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2779,7 +2779,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2791,7 +2791,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2811,7 +2811,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4_10",
           "SourceString": "职业赛场10",
-          "LocalizedString": "职业赛场10"
+          "LocalizedString": "Pro Arena 10"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Btn_Level4.YH_UI_Volleyball_Btn_Level4",
@@ -2824,7 +2824,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_1",
               "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
+              "LocalizedString": "Win the Match"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 6
@@ -2836,7 +2836,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_2",
               "SourceString": "起跳扣球{0}次（轻扣不计）",
-              "LocalizedString": "起跳扣球{0}次（轻扣不计）"
+              "LocalizedString": "Jump spikes performed: {0} (tips excluded)"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4
@@ -2848,7 +2848,7 @@
               "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
               "Key": "UI_VolleyBall_PVE_TJ_4",
               "SourceString": "比分领先{0}分赢得比赛",
-              "LocalizedString": "比分领先{0}分赢得比赛"
+              "LocalizedString": "Win the match by {0} points"
             },
             "CostStaminaID": "CityStamina",
             "CostStaminaAmountBase": 4

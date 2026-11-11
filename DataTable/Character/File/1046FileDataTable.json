@@ -43,31 +43,31 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_birthday",
           "SourceString": "未知",
-          "LocalizedString": "未知"
+          "LocalizedString": "Unknown"
         },
         "BirthdaySkillName": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "skillname_001",
           "SourceString": "异能：",
-          "LocalizedString": "异能："
+          "LocalizedString": "Esper Ability: "
         },
         "HomePlace": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_homeplace",
           "SourceString": "伊波恩古董店",
-          "LocalizedString": "伊波恩古董店"
+          "LocalizedString": "Eibon Antique Shop"
         },
         "AbilityName": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_abilityname",
           "SourceString": "「第零感」",
-          "LocalizedString": "「第零感」"
+          "LocalizedString": "Zeroth Sense"
         },
         "Introduction": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_introduction",
           "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
-          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
+          "LocalizedString": "The only esper in history without a detectable Wertheimer Index."
         },
         "DetailContent": [
           {
@@ -76,13 +76,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "file_Zero_M_001",
               "SourceString": "当前角色档案未解锁",
-              "LocalizedString": "当前角色档案未解锁"
+              "LocalizedString": "Profile locked"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "file_Zero_M_001",
               "SourceString": "当前角色档案未解锁",
-              "LocalizedString": "当前角色档案未解锁"
+              "LocalizedString": "Profile locked"
             },
             "AudioEvent": {
               "AssetPathName": "",
@@ -98,13 +98,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_001",
               "SourceString": "角色突破·Ⅰ",
-              "LocalizedString": "角色突破·Ⅰ"
+              "LocalizedString": "Character Ascension I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_ug_001",
               "SourceString": "感觉很好。",
-              "LocalizedString": "感觉很好。"
+              "LocalizedString": "Feeling good."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_ug_001.Play_Vo_Char_ZERO_M_ug_001",
@@ -124,13 +124,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_002",
               "SourceString": "角色突破·Ⅱ",
-              "LocalizedString": "角色突破·Ⅱ"
+              "LocalizedString": "Character Ascension II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_ug_002",
               "SourceString": "收获很多。",
-              "LocalizedString": "收获很多。"
+              "LocalizedString": "Learned a lot."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_ug_002.Play_Vo_Char_ZERO_M_ug_002",
@@ -150,13 +150,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_003",
               "SourceString": "角色突破·Ⅲ",
-              "LocalizedString": "角色突破·Ⅲ"
+              "LocalizedString": "Character Ascension III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_ug_003",
               "SourceString": "这个世界还有更多值得去见证。",
-              "LocalizedString": "这个世界还有更多值得去见证。"
+              "LocalizedString": "There's still more to see in this world."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_ug_003.Play_Vo_Char_ZERO_M_ug_003",
@@ -178,13 +178,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill001",
               "SourceString": "变轨技能·Ⅰ",
-              "LocalizedString": "变轨技能·Ⅰ"
+              "LocalizedString": "Skill I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_skill_001",
               "SourceString": "鉴刻！",
-              "LocalizedString": "鉴刻！"
+              "LocalizedString": "Engrave!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_skill_001.Play_Vo_Char_ZERO_M_skill_001",
@@ -198,13 +198,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill002",
               "SourceString": "变轨技能·Ⅱ",
-              "LocalizedString": "变轨技能·Ⅱ"
+              "LocalizedString": "Skill II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_skill_002",
               "SourceString": "接招！",
-              "LocalizedString": "接招！"
+              "LocalizedString": "Strike!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_skill_002.Play_Vo_Char_ZERO_M_skill_002",
@@ -218,13 +218,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill003",
               "SourceString": "变轨技能·Ⅲ",
-              "LocalizedString": "变轨技能·Ⅲ"
+              "LocalizedString": "Skill III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_skill_003",
               "SourceString": "痕印！",
-              "LocalizedString": "痕印！"
+              "LocalizedString": "Mark!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_skill_003.Play_Vo_Char_ZERO_M_skill_003",
@@ -238,13 +238,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe001",
               "SourceString": "极轨终结·Ⅰ",
-              "LocalizedString": "极轨终结·Ⅰ"
+              "LocalizedString": "Ultimate I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_aoe_001",
               "SourceString": "至此，定胜负吧。",
-              "LocalizedString": "至此，定胜负吧。"
+              "LocalizedString": "Let's finish this!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_aoe_UI_001.Play_Vo_Char_ZERO_M_aoe_UI_001",
@@ -258,13 +258,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe002",
               "SourceString": "极轨终结·Ⅱ",
-              "LocalizedString": "极轨终结·Ⅱ"
+              "LocalizedString": "Ultimate II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_aoe_002",
               "SourceString": "此瞬，万数皆断。",
-              "LocalizedString": "此瞬，万数皆断。"
+              "LocalizedString": "Fate splinter, and fracture."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_aoe_UI_002.Play_Vo_Char_ZERO_M_aoe_UI_002",
@@ -278,13 +278,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe003",
               "SourceString": "极轨终结·Ⅲ",
-              "LocalizedString": "极轨终结·Ⅲ"
+              "LocalizedString": "Ultimate III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_aoe_003",
               "SourceString": "框定，奇零尽除。",
-              "LocalizedString": "框定，奇零尽除。"
+              "LocalizedString": "Divided by zero."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_aoe_UI_003.Play_Vo_Char_ZERO_M_aoe_UI_003",
@@ -298,13 +298,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_001",
               "SourceString": "收容异象·Ⅰ",
-              "LocalizedString": "收容异象·Ⅰ"
+              "LocalizedString": "Containment I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_containment_001",
               "SourceString": "搞定了。",
-              "LocalizedString": "搞定了。"
+              "LocalizedString": "All set."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_containment_001.Play_Vo_Char_ZERO_M_containment_001",
@@ -318,13 +318,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_002",
               "SourceString": "收容异象·Ⅱ",
-              "LocalizedString": "收容异象·Ⅱ"
+              "LocalizedString": "Containment II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_containment_002",
               "SourceString": "收容完成。",
-              "LocalizedString": "收容完成。"
+              "LocalizedString": "Containment complete."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_containment_002.Play_Vo_Char_ZERO_M_containment_002",
@@ -338,13 +338,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_003",
               "SourceString": "泯除异象·Ⅰ ",
-              "LocalizedString": "泯除异象·Ⅰ "
+              "LocalizedString": "Nullification I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_anomaly_002",
               "SourceString": "委托完成。",
-              "LocalizedString": "委托完成。"
+              "LocalizedString": "Commission complete."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_anomaly_002.Play_Vo_Char_ZERO_M_anomaly_002",
@@ -358,13 +358,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_004",
               "SourceString": "泯除异象·Ⅱ",
-              "LocalizedString": "泯除异象·Ⅱ"
+              "LocalizedString": "Nullification II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_anomaly_003",
               "SourceString": "顺利解决。",
-              "LocalizedString": "顺利解决。"
+              "LocalizedString": "Nicely done."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_anomaly_003.Play_Vo_Char_ZERO_M_anomaly_003",
@@ -378,13 +378,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_001",
               "SourceString": "意外收获·Ⅰ",
-              "LocalizedString": "意外收获·Ⅰ"
+              "LocalizedString": "Unexpected Gains I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windMall_001",
               "SourceString": "好好收起来吧。",
-              "LocalizedString": "好好收起来吧。"
+              "LocalizedString": "Keep it well."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_001.Play_Vo_Char_ZERO_M_windfall_001",
@@ -398,13 +398,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_002",
               "SourceString": "意外收获·Ⅱ",
-              "LocalizedString": "意外收获·Ⅱ"
+              "LocalizedString": "Unexpected Gains II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windMall_002",
               "SourceString": "今天似乎运气不错。",
-              "LocalizedString": "今天似乎运气不错。"
+              "LocalizedString": "Seems like luck is on my side today."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_002.Play_Vo_Char_ZERO_M_windfall_002",
@@ -418,13 +418,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_003",
               "SourceString": "意外收获·Ⅲ",
-              "LocalizedString": "意外收获·Ⅲ"
+              "LocalizedString": "Unexpected Gains III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windMall_003",
               "SourceString": "多多益善。",
-              "LocalizedString": "多多益善。"
+              "LocalizedString": "The more, the merrier."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_003.Play_Vo_Char_ZERO_M_windfall_003",
@@ -438,13 +438,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_004",
               "SourceString": "意外收获·Ⅳ",
-              "LocalizedString": "意外收获·Ⅳ"
+              "LocalizedString": "Unexpected Gains IV"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windfall_004",
               "SourceString": "努力的回报。",
-              "LocalizedString": "努力的回报。"
+              "LocalizedString": "Hard work pays off."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_004.Play_Vo_Char_ZERO_M_windfall_004",
@@ -458,13 +458,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_005",
               "SourceString": "意外收获·Ⅴ",
-              "LocalizedString": "意外收获·Ⅴ"
+              "LocalizedString": "Unexpected Gains V"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windfall_005",
               "SourceString": "应该不用上交治安所吧。",
-              "LocalizedString": "应该不用上交治安所吧。"
+              "LocalizedString": "I don't have to report to the Security Office, do I?"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_005.Play_Vo_Char_ZERO_M_windfall_005",
@@ -478,13 +478,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_006",
               "SourceString": "意外收获·Ⅵ",
-              "LocalizedString": "意外收获·Ⅵ"
+              "LocalizedString": "Unexpected Gains VI"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_windfall_006",
               "SourceString": "意外之喜。",
-              "LocalizedString": "意外之喜。"
+              "LocalizedString": "A pleasant surprise."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_windfall_006.Play_Vo_Char_ZERO_M_windfall_006",
@@ -498,13 +498,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_001",
               "SourceString": "生命值低·Ⅰ",
-              "LocalizedString": "生命值低·Ⅰ"
+              "LocalizedString": "Low Health I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_hp_001",
               "SourceString": "再坚持一下。",
-              "LocalizedString": "再坚持一下。"
+              "LocalizedString": "Hang in there."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_hp_001.Play_Vo_Char_ZERO_M_hp_001",
@@ -518,13 +518,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_002",
               "SourceString": "生命值低·Ⅱ",
-              "LocalizedString": "生命值低·Ⅱ"
+              "LocalizedString": "Low Health II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_hp_002",
               "SourceString": "还没结束。",
-              "LocalizedString": "还没结束。"
+              "LocalizedString": "It's not over yet."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_hp_002.Play_Vo_Char_ZERO_M_hp_002",
@@ -538,13 +538,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_003",
               "SourceString": "生命值低·Ⅲ",
-              "LocalizedString": "生命值低·Ⅲ"
+              "LocalizedString": "Low Health III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_hp_003",
               "SourceString": "集中精神，还没到放弃的时候。",
-              "LocalizedString": "集中精神，还没到放弃的时候。"
+              "LocalizedString": "Focus! It's not time to give up yet."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_hp_003.Play_Vo_Char_ZERO_M_hp_003",
@@ -558,13 +558,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_001",
               "SourceString": "恢复生命·Ⅰ",
-              "LocalizedString": "恢复生命·Ⅰ"
+              "LocalizedString": "Heal I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Mh_001",
               "SourceString": "多谢支援。",
-              "LocalizedString": "多谢支援。"
+              "LocalizedString": "Thanks for the support."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Mh_001.Play_Vo_Char_ZERO_M_Mh_001",
@@ -578,13 +578,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_002",
               "SourceString": "恢复生命·Ⅱ",
-              "LocalizedString": "恢复生命·Ⅱ"
+              "LocalizedString": "Heal II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Mh_002",
               "SourceString": "感觉好多了。",
-              "LocalizedString": "感觉好多了。"
+              "LocalizedString": "Feeling much better."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Mh_002.Play_Vo_Char_ZERO_M_Mh_002",
@@ -598,13 +598,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_001",
               "SourceString": "力竭·Ⅰ",
-              "LocalizedString": "力竭·Ⅰ"
+              "LocalizedString": "Down I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_dead_001",
               "SourceString": "奇点，没能看清……",
-              "LocalizedString": "奇点，没能看清……"
+              "LocalizedString": "The Nexus… I couldn't see it…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_dead_001.Play_Vo_Char_ZERO_M_dead_001",
@@ -618,13 +618,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_002",
               "SourceString": "力竭·Ⅱ",
-              "LocalizedString": "力竭·Ⅱ"
+              "LocalizedString": "Down II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_dead_002",
               "SourceString": "抱歉，没能……",
-              "LocalizedString": "抱歉，没能……"
+              "LocalizedString": "Sorry, I couldn't…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_dead_002.Play_Vo_Char_ZERO_M_dead_002",
@@ -638,13 +638,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_003",
               "SourceString": "力竭·Ⅲ",
-              "LocalizedString": "力竭·Ⅲ"
+              "LocalizedString": "Down III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_dead_003",
               "SourceString": "真相……还未……",
-              "LocalizedString": "真相……还未……"
+              "LocalizedString": "The truth… is not yet…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_dead_003.Play_Vo_Char_ZERO_M_dead_003",
@@ -658,13 +658,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_001",
               "SourceString": "击败怪物·Ⅰ",
-              "LocalizedString": "击败怪物·Ⅰ"
+              "LocalizedString": "Takedown I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_kill_001",
               "SourceString": "小事。",
-              "LocalizedString": "小事。"
+              "LocalizedString": "No big deal."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_kill_001.Play_Vo_Char_ZERO_M_kill_001",
@@ -678,13 +678,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_002",
               "SourceString": "击败怪物·Ⅱ",
-              "LocalizedString": "击败怪物·Ⅱ"
+              "LocalizedString": "Takedown II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_kill_002",
               "SourceString": "奇点，在这。",
-              "LocalizedString": "奇点，在这。"
+              "LocalizedString": "The Nexus, it's here."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_kill_002.Play_Vo_Char_ZERO_M_kill_002",
@@ -698,13 +698,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_001",
               "SourceString": "普通受击·Ⅰ",
-              "LocalizedString": "普通受击·Ⅰ"
+              "LocalizedString": "Damaged I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_struck_001",
               "SourceString": "没事。",
-              "LocalizedString": "没事。"
+              "LocalizedString": "It's fine."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_struck_001.Play_Vo_Char_ZERO_M_struck_001",
@@ -718,13 +718,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_002",
               "SourceString": "普通受击·Ⅱ",
-              "LocalizedString": "普通受击·Ⅱ"
+              "LocalizedString": "Damaged II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_struck_002",
               "SourceString": "小心。",
-              "LocalizedString": "小心。"
+              "LocalizedString": "Be careful."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_struck_002.Play_Vo_Char_ZERO_M_struck_002",
@@ -738,13 +738,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_001",
               "SourceString": "重受击·Ⅰ",
-              "LocalizedString": "重受击·Ⅰ"
+              "LocalizedString": "Heavily Damaged I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_hstruck_001",
               "SourceString": "注意时机。",
-              "LocalizedString": "注意时机。"
+              "LocalizedString": "Watch the timing."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_hstruck_001.Play_Vo_Char_ZERO_M_hstruck_001",
@@ -758,13 +758,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_002",
               "SourceString": "重受击·Ⅱ",
-              "LocalizedString": "重受击·Ⅱ"
+              "LocalizedString": "Heavily Damaged II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_hstruck_002",
               "SourceString": "疏忽了。",
-              "LocalizedString": "疏忽了。"
+              "LocalizedString": "My mistake."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_hstruck_002.Play_Vo_Char_ZERO_M_hstruck_002",
@@ -778,13 +778,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_001",
               "SourceString": "上阵·Ⅰ",
-              "LocalizedString": "上阵·Ⅰ"
+              "LocalizedString": "Deploy I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_deploy_002",
               "SourceString": "嗯，交给我吧。",
-              "LocalizedString": "嗯，交给我吧。"
+              "LocalizedString": "Got it, leave it to me."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_deploy_002.Play_Vo_Char_ZERO_M_deploy_002",
@@ -798,13 +798,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_002",
               "SourceString": "上阵·Ⅱ",
-              "LocalizedString": "上阵·Ⅱ"
+              "LocalizedString": "Deploy II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_deploy_001",
               "SourceString": "这次要做点什么？",
-              "LocalizedString": "这次要做点什么？"
+              "LocalizedString": "What is it this time?"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_deploy_001.Play_Vo_Char_ZERO_M_deploy_001",
@@ -818,13 +818,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_001",
               "SourceString": "协同技·Ⅰ",
-              "LocalizedString": "协同技·Ⅰ"
+              "LocalizedString": "Entry Attack I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_QTE_001",
               "SourceString": "鉴痕，破！",
-              "LocalizedString": "鉴痕，破！"
+              "LocalizedString": "Appraise… then break!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_QTE_001.Play_Vo_Char_ZERO_M_QTE_001",
@@ -838,13 +838,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_002",
               "SourceString": "协同技·Ⅱ",
-              "LocalizedString": "协同技·Ⅱ"
+              "LocalizedString": "Entry Attack II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_QTE_002",
               "SourceString": "弧光！",
-              "LocalizedString": "弧光！"
+              "LocalizedString": "Arc-light!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_QTE_002.Play_Vo_Char_ZERO_M_QTE_002",
@@ -858,13 +858,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_003",
               "SourceString": "协同技·Ⅲ",
-              "LocalizedString": "协同技·Ⅲ"
+              "LocalizedString": "Entry Attack III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_QTE_003",
               "SourceString": "消失吧！",
-              "LocalizedString": "消失吧！"
+              "LocalizedString": "Begone!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_QTE_003.Play_Vo_Char_ZERO_M_QTE_003",
@@ -878,13 +878,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Fly_001",
               "SourceString": "滑翔·Ⅰ",
-              "LocalizedString": "滑翔·Ⅰ"
+              "LocalizedString": "Glide I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Fly_001",
               "SourceString": "合适的角度。",
-              "LocalizedString": "合适的角度。"
+              "LocalizedString": "Perfect angle."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Fly_001.Play_Vo_Char_ZERO_M_Fly_001",
@@ -898,13 +898,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Fly_002",
               "SourceString": "滑翔·Ⅱ",
-              "LocalizedString": "滑翔·Ⅱ"
+              "LocalizedString": "Glide II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Fly_002",
               "SourceString": "风向正好。",
-              "LocalizedString": "风向正好。"
+              "LocalizedString": "The wind's just right."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Fly_002.Play_Vo_Char_ZERO_M_Fly_002",
@@ -918,13 +918,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_001",
               "SourceString": "切换·Ⅰ",
-              "LocalizedString": "切换·Ⅰ"
+              "LocalizedString": "Switch I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Switch_001",
               "SourceString": "换我来吧。",
-              "LocalizedString": "换我来吧。"
+              "LocalizedString": "Let me take over."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Switch_001.Play_Vo_Char_ZERO_M_Switch_001",
@@ -938,13 +938,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_002",
               "SourceString": "切换·Ⅱ",
-              "LocalizedString": "切换·Ⅱ"
+              "LocalizedString": "Switch II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Switch_002",
               "SourceString": "相信我。",
-              "LocalizedString": "相信我。"
+              "LocalizedString": "Trust me."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Switch_002.Play_Vo_Char_ZERO_M_Switch_002",
@@ -958,13 +958,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Switch_003",
               "SourceString": "切换·Ⅲ",
-              "LocalizedString": "切换·Ⅲ"
+              "LocalizedString": "Switch III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Switch_003",
               "SourceString": "奇点，我会看清。",
-              "LocalizedString": "奇点，我会看清。"
+              "LocalizedString": "I will see through the Nexus."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Switch_003.Play_Vo_Char_ZERO_M_Switch_003",
@@ -978,13 +978,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_BH",
               "SourceString": "特殊切换·薄荷",
-              "LocalizedString": "特殊切换·薄荷"
+              "LocalizedString": "Special Switch - Mint"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_SSC_001",
               "SourceString": "交给我吧，薄荷。",
-              "LocalizedString": "交给我吧，薄荷。"
+              "LocalizedString": "Leave it to me, Mint."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_001.Play_Vo_Char_ZERO_M_SSC_001",
@@ -998,13 +998,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_ADL",
               "SourceString": "特殊切换·阿德勒",
-              "LocalizedString": "特殊切换·阿德勒"
+              "LocalizedString": "Special Switch - Adler"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_ADL_001",
               "SourceString": "麻烦了，阿德勒先生。",
-              "LocalizedString": "麻烦了，阿德勒先生。"
+              "LocalizedString": "Adler, I'll let you handle this."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_ADL_001.Play_Vo_Char_ZERO_M_SSC_ADL_001",
@@ -1018,13 +1018,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_DFDE",
               "SourceString": "特殊切换·达芙蒂尔",
-              "LocalizedString": "特殊切换·达芙蒂尔"
+              "LocalizedString": "Special Switch - Daffodill"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_DFDE_001",
               "SourceString": "换班。",
-              "LocalizedString": "换班。"
+              "LocalizedString": "Shift change."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_DFDE_001.Play_Vo_Char_ZERO_M_SSC_DFDE_001",
@@ -1038,13 +1038,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_X",
               "SourceString": "特殊切换·浔",
-              "LocalizedString": "特殊切换·浔"
+              "LocalizedString": "Special Switch - Hotori"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_XUN_001",
               "SourceString": "店长，来活了。",
-              "LocalizedString": "店长，来活了。"
+              "LocalizedString": "Shopkeeper, you have a customer."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_XUN_001.Play_Vo_Char_ZERO_M_SSC_XUN_001",
@@ -1058,13 +1058,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_NNL",
               "SourceString": "特殊切换·娜娜莉",
-              "LocalizedString": "特殊切换·娜娜莉"
+              "LocalizedString": "Special Switch - Nanally"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_NNL_001",
               "SourceString": "老大，该你上了。",
-              "LocalizedString": "老大，该你上了。"
+              "LocalizedString": "Boss, it's your turn."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_NNL_001.Play_Vo_Char_ZERO_M_SSC_NNL_001",
@@ -1078,13 +1078,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_ADJ",
               "SourceString": "特殊切换·埃德嘉",
-              "LocalizedString": "特殊切换·埃德嘉"
+              "LocalizedString": "Special Switch - Edgar"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_ADJ_001",
               "SourceString": "小心一点。",
-              "LocalizedString": "小心一点。"
+              "LocalizedString": "Take care."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_ADJ_001.Play_Vo_Char_ZERO_M_SSC_ADJ_001",
@@ -1098,13 +1098,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "SSC_ZW",
               "SourceString": "特殊切换·早雾",
-              "LocalizedString": "特殊切换·早雾"
+              "LocalizedString": "Special Switch - Sakiri"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_F_SSC_ZW_001",
               "SourceString": "别饿坏鬼郎丸了。",
-              "LocalizedString": "别饿坏鬼郎丸了。"
+              "LocalizedString": "Make sure Kiroumaru doesn't starve."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_SSC_ZW_001.Play_Vo_Char_ZERO_M_SSC_ZW_001",
@@ -1118,13 +1118,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_X",
               "SourceString": "队友倒下·浔",
-              "LocalizedString": "队友倒下·浔"
+              "LocalizedString": "Teammate Down - Hotori"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_001",
               "SourceString": "这杯酒……一会儿再喝吧。",
-              "LocalizedString": "这杯酒……一会儿再喝吧。"
+              "LocalizedString": "Your wine… Drink it later."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_001.Play_Vo_Char_ZERO_M_TeammateDown_001",
@@ -1138,13 +1138,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_DFDE",
               "SourceString": "队友倒下·达芙蒂尔",
-              "LocalizedString": "队友倒下·达芙蒂尔"
+              "LocalizedString": "Teammate Down - Daffodill"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_002",
               "SourceString": "绝不辜负。",
-              "LocalizedString": "绝不辜负。"
+              "LocalizedString": "I won't let you down."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_002.Play_Vo_Char_ZERO_M_TeammateDown_002",
@@ -1158,13 +1158,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_ADL",
               "SourceString": "队友倒下·阿德勒",
-              "LocalizedString": "队友倒下·阿德勒"
+              "LocalizedString": "Teammate Down - Adler"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_003",
               "SourceString": "伊波恩不会轻易认输。",
-              "LocalizedString": "伊波恩不会轻易认输。"
+              "LocalizedString": "Eibon will never give up."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_003.Play_Vo_Char_ZERO_M_TeammateDown_003",
@@ -1178,13 +1178,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_ZW",
               "SourceString": "队友倒下·早雾",
-              "LocalizedString": "队友倒下·早雾"
+              "LocalizedString": "Teammate Down - Sakiri"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_004",
               "SourceString": "结束后一起回家。",
-              "LocalizedString": "结束后一起回家。"
+              "LocalizedString": "Let's go home after this."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_004.Play_Vo_Char_ZERO_M_TeammateDown_004",
@@ -1198,13 +1198,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_NNL",
               "SourceString": "队友倒下·娜娜莉",
-              "LocalizedString": "队友倒下·娜娜莉"
+              "LocalizedString": "Teammate Down - Nanally"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_005",
               "SourceString": "柯林斯有我在！",
-              "LocalizedString": "柯林斯有我在！"
+              "LocalizedString": "The Coluccis still have me!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_005.Play_Vo_Char_ZERO_M_TeammateDown_005",
@@ -1218,13 +1218,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_ADJ",
               "SourceString": "队友倒下·埃德嘉",
-              "LocalizedString": "队友倒下·埃德嘉"
+              "LocalizedString": "Teammate Down - Edgar"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_006",
               "SourceString": "别担心，我来处理。",
-              "LocalizedString": "别担心，我来处理。"
+              "LocalizedString": "Don't worry. I'll take over."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_006.Play_Vo_Char_ZERO_M_TeammateDown_006",
@@ -1238,13 +1238,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "TeammateDown_BH",
               "SourceString": "队友倒下·薄荷",
-              "LocalizedString": "队友倒下·薄荷"
+              "LocalizedString": "Teammate Down - Mint"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_TeammateDown_007",
               "SourceString": "别逞强，薄荷。",
-              "LocalizedString": "别逞强，薄荷。"
+              "LocalizedString": "Mint, take a break."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_TeammateDown_007.Play_Vo_Char_ZERO_M_TeammateDown_007",
@@ -1258,13 +1258,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Parry_001",
               "SourceString": "弹反·Ⅰ",
-              "LocalizedString": "弹反·Ⅰ"
+              "LocalizedString": "Parry I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Parry_001",
               "SourceString": "时机正好。",
-              "LocalizedString": "时机正好。"
+              "LocalizedString": "Perfect timing."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Parry_001.Play_Vo_Char_ZERO_M_Parry_001",
@@ -1278,13 +1278,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "Parry_002",
               "SourceString": "弹反·Ⅱ",
-              "LocalizedString": "弹反·Ⅱ"
+              "LocalizedString": "Parry II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_Parry_002",
               "SourceString": "抓住机会。",
-              "LocalizedString": "抓住机会。"
+              "LocalizedString": "Now is the time."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_Parry_002.Play_Vo_Char_ZERO_M_Parry_002",
@@ -1298,13 +1298,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "DodgeCombo_001",
               "SourceString": "连续极限闪避成功·Ⅰ",
-              "LocalizedString": "连续极限闪避成功·Ⅰ"
+              "LocalizedString": "Consecutive Critical Dodge Success I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_DodgeCombo_001",
               "SourceString": "状态很好。",
-              "LocalizedString": "状态很好。"
+              "LocalizedString": "Feeling good."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_DodgeCombo_001.Play_Vo_Char_ZERO_M_DodgeCombo_001",
@@ -1318,13 +1318,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "DodgeCombo_002",
               "SourceString": "连续极限闪避成功·Ⅱ",
-              "LocalizedString": "连续极限闪避成功·Ⅱ"
+              "LocalizedString": "Consecutive Critical Dodge Success II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ZERO_M_DodgeCombo_002",
               "SourceString": "嗯，不算困难。",
-              "LocalizedString": "嗯，不算困难。"
+              "LocalizedString": "Hmm, not too difficult."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/ZERO_M/Play_Vo_Char_ZERO_M_DodgeCombo_002.Play_Vo_Char_ZERO_M_DodgeCombo_002",

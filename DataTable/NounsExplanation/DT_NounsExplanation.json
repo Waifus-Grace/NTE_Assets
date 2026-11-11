@@ -17,13 +17,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiamelee1_name",
           "SourceString": "兽牙影刺",
-          "LocalizedString": "兽牙影刺"
+          "LocalizedString": "Fang Thrust"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiamelee1_des",
           "SourceString": "命中目标给目标添加的状态，最多叠加3个；对目标造成伤害后消失。",
-          "LocalizedString": "命中目标给目标添加的状态，最多叠加3个；对目标造成伤害后消失。"
+          "LocalizedString": "A state applied to targets on hit, up to 3 stacks. Disappears after dealing damage to the target."
         }
       },
       "skiaskill1": {
@@ -31,13 +31,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiaskill1_name",
           "SourceString": "尾追",
-          "LocalizedString": "尾追"
+          "LocalizedString": "Tailed"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiaskill1_des",
           "SourceString": "释放变轨技能可进入该状态；状态期间，<TextEXPL>「兽牙影刺」</>对目标造成伤害后不会消失。",
-          "LocalizedString": "释放变轨技能可进入该状态；状态期间，<TextEXPL>「兽牙影刺」</>对目标造成伤害后不会消失。"
+          "LocalizedString": "Enters this state when casting a Skill. Prevents <TextEXPL>Fang Thrust</> from disappearing after dealing damage to targets during the state."
         }
       },
       "skiaskill2": {
@@ -45,13 +45,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiaskill2_name",
           "SourceString": "啮逐潜影",
-          "LocalizedString": "啮逐潜影"
+          "LocalizedString": "Shadow Hound Gnaw"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "skiaskill2_des",
           "SourceString": "触碰被<TextEXPL>「兽牙影刺」</>锁定的目标造成额外的<Xiang>相属性异能伤害</>；退出时对命中的目标造成<Xiang>相属性异能伤害</>。",
-          "LocalizedString": "触碰被<TextEXPL>「兽牙影刺」</>锁定的目标造成额外的<Xiang>相属性异能伤害</>；退出时对命中的目标造成<Xiang>相属性异能伤害</>。"
+          "LocalizedString": "Deals additional <Xiang>Lakshana DMG</> when touching targets marked by <TextEXPL>Fang Thrust</>. Deals <Xiang>Lakshana DMG</> to hit targets upon exiting."
         }
       },
       "HathorAnger": {
@@ -59,13 +59,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
           "Key": "HathorAnger_name",
           "SourceString": "闪送之力",
-          "LocalizedString": "闪送之力"
+          "LocalizedString": "Express Delivery Power"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
           "Key": "HathorAnger_des",
           "SourceString": "哈索尔释放「变轨技能：轮转打击」所需要消耗的能量，有多种获得方式，每获得一层可为哈索尔提供5点终结能量",
-          "LocalizedString": "哈索尔释放「变轨技能：轮转打击」所需要消耗的能量，有多种获得方式，每获得一层可为哈索尔提供5点终结能量"
+          "LocalizedString": "The energy required for Hathor to cast Cyclone Strike can be obtained through various methods. Grants Hathor 5 Ultimate Energy for each stack gained."
         }
       },
       "EdgarKey": {
@@ -73,13 +73,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Edgar_SkillDes.Edgar_SkillDes",
           "Key": "EdgarKey_name",
           "SourceString": "真理之匙",
-          "LocalizedString": "真理之匙"
+          "LocalizedString": "Key of Truth"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Edgar_SkillDes.Edgar_SkillDes",
           "Key": "EdgarKey_des",
           "SourceString": "解锁被动「不变的暖意」后释放「变轨技能：狂流」或「援护技：知识的重量」后获得；\r\n每把「真理之匙」可延长1秒「极轨终结：芬尼根守灵夜」持续时间。",
-          "LocalizedString": "解锁被动「不变的暖意」后释放「变轨技能：狂流」或「援护技：知识的重量」后获得；\r\n每把「真理之匙」可延长1秒「极轨终结：芬尼根守灵夜」持续时间。"
+          "LocalizedString": "Obtained by casting Redirect Skill Wild Current or Support Skill Weight of Knowledge after unlocking Passive Unchanging Warmth.\r\nEach Key of Truth extends the duration of Ultimate: Finnegan's Vigil by 1s."
         }
       },
       "AdlerYe": {
@@ -87,13 +87,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
           "Key": "AdlerYe_name",
           "SourceString": "业",
-          "LocalizedString": "业"
+          "LocalizedString": "Karma"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
           "Key": "AdlerYe_des",
           "SourceString": "普通攻击：「度恶」、「无明」、「灭苦」命中敌人时，阿德勒会为自身添加「业」，至多可获得20层；\r\n释放变轨技能「诛恶护持」时消耗全部「业」，最多可使「诛恶护持」伤害提升40%。",
-          "LocalizedString": "普通攻击：「度恶」、「无明」、「灭苦」命中敌人时，阿德勒会为自身添加「业」，至多可获得20层；\r\n释放变轨技能「诛恶护持」时消耗全部「业」，最多可使「诛恶护持」伤害提升40%。"
+          "LocalizedString": "Grants Karma when Deliverance, Ignorance, and Liberation hit enemies, up to 20 stacks.\r\nConsumes all Karma on cast to increase Evil's Bane's damage by up to 40%."
         }
       },
       "CangZhu": {
@@ -101,13 +101,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangZhu_name",
           "SourceString": "祝",
-          "LocalizedString": "祝"
+          "LocalizedString": "Bless"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangZhu_des",
           "SourceString": "普通攻击命中3次生成。\r\n极轨终结：「判予秋」内触发后对目标造成伤害并回复白藏生命值。",
-          "LocalizedString": "普通攻击命中3次生成。\r\n极轨终结：「判予秋」内触发后对目标造成伤害并回复白藏生命值。"
+          "LocalizedString": "Triggers after 3 Basic Attack hits.\r\nDeals damage and restores Baicang's HP when activated during Judgment of Autumn."
         }
       },
       "CangLi": {
@@ -115,13 +115,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangLi_name",
           "SourceString": "詈",
-          "LocalizedString": "詈"
+          "LocalizedString": "Objurgate"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangLi_des",
           "SourceString": "变轨技能：「如此罪状」命中后生成。\r\n极轨终结：「判予秋」内触发后可造成群体伤害。",
-          "LocalizedString": "变轨技能：「如此罪状」命中后生成。\r\n极轨终结：「判予秋」内触发后可造成群体伤害。"
+          "LocalizedString": "Triggers after Such Crime hits.\r\nDeals AoE DMG when activated during Judgment of Autumn."
         }
       },
       "CangJin": {
@@ -129,13 +129,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangJin_name",
           "SourceString": "噤",
-          "LocalizedString": "噤"
+          "LocalizedString": "Silence"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
           "Key": "CangJin_des",
           "SourceString": "变轨技能：「噤念」命中后生成。\r\n极轨终结：「判予秋」内触发可造成单体高伤害",
-          "LocalizedString": "变轨技能：「噤念」命中后生成。\r\n极轨终结：「判予秋」内触发可造成单体高伤害"
+          "LocalizedString": "Triggers after Silenced Thought hits.\r\nDeals high single-target damage when activated during Judgment of Autumn."
         }
       },
       "NanallyWalkOnWall": {
@@ -143,13 +143,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Nanally_SkillDes.Nanally_SkillDes",
           "Key": "GA_Nanally_WalkOnWall_name",
           "SourceString": "一代目的权柄",
-          "LocalizedString": "一代目的权柄"
+          "LocalizedString": "Ichi-daime's Authority"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Nanally_SkillDes.Nanally_SkillDes",
           "Key": "GA_Nanally_WalkOnWall_des",
           "SourceString": "提高娜娜莉自身30%的暴击伤害。\r\n娜娜莉可无视重力限制，行走于一切物体表面。",
-          "LocalizedString": "提高娜娜莉自身30%的暴击伤害。\r\n娜娜莉可无视重力限制，行走于一切物体表面。"
+          "LocalizedString": "Increases Nanally's CRIT DMG by 30%.\r\nNanally can ignore gravity and walk on any surface."
         }
       },
       "JinTime": {
@@ -157,13 +157,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
           "Key": "GA_Jin_Time_name",
           "SourceString": "非闭合时计",
-          "LocalizedString": "非闭合时计"
+          "LocalizedString": "Non-Closed Timepiece"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Jin_SkillDes.Jin_SkillDes",
           "Key": "GA_Jin_Time_des",
           "SourceString": "浔特殊的能量条，用于释放时间技能。",
-          "LocalizedString": "浔特殊的能量条，用于释放时间技能。"
+          "LocalizedString": "Hotori's special energy bar for casting Time Skills."
         }
       },
       "FadiaSkill": {
@@ -171,13 +171,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
           "Key": "Fadia_Skill_name",
           "SourceString": "破灭体验",
-          "LocalizedString": "破灭体验"
+          "LocalizedString": "Destructive Experience"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
           "Key": "Fadia_Skill_des",
           "SourceString": "法帝娅附着在目标上的特殊效果。持续时间内，当法帝娅自身受到伤害时，目标将会以一定比例共享法帝娅所受伤害量。",
-          "LocalizedString": "法帝娅附着在目标上的特殊效果。持续时间内，当法帝娅自身受到伤害时，目标将会以一定比例共享法帝娅所受伤害量。"
+          "LocalizedString": "A special effect that Fadia attaches to the target. Causes the target to share a percentage of the damage Fadia takes during the duration."
         }
       },
       "FadiaState": {
@@ -185,13 +185,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
           "Key": "Fadia_State_name",
           "SourceString": "敌神者",
-          "LocalizedString": "敌神者"
+          "LocalizedString": "Lilith"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
           "Key": "Fadia_State_des",
           "SourceString": "法帝娅替换攻击形式，可释放5段追击造成心灵伤害。",
-          "LocalizedString": "法帝娅替换攻击形式，可释放5段追击造成心灵伤害。"
+          "LocalizedString": "Changes her Attack form and unleashes 5 hits that deal Mental DMG."
         }
       },
       "SagiriEat": {
@@ -199,13 +199,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
           "Key": "Sagiri_Eat_name",
           "SourceString": "摄食模式",
-          "LocalizedString": "摄食模式"
+          "LocalizedString": "Eating Mode"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Sagiri_SkillDes.Sagiri_SkillDes",
           "Key": "Sagiri_Eat_des",
           "SourceString": "早雾可坐在鬼郎丸上持续移动，期间弱小的敌人会被吸至身前并吞噬，每次吞噬有消化时间。",
-          "LocalizedString": "早雾可坐在鬼郎丸上持续移动，期间弱小的敌人会被吸至身前并吞噬，每次吞噬有消化时间。"
+          "LocalizedString": "Moves continuously while riding Kiroumaru. Pulls in and devours weak enemies during this time. Takes time to digest each devoured enemy."
         }
       },
       "Lacrimosa_dot": {
@@ -213,13 +213,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes.Lacrimosa_SkillDes",
           "Key": "GA_Lacrimosa_dot_name",
           "SourceString": "噩梦",
-          "LocalizedString": "噩梦"
+          "LocalizedString": "Nightmare"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Lacrimosa_SkillDes.Lacrimosa_SkillDes",
           "Key": "GA_Lacrimosa_dot_des",
           "SourceString": "每秒对目标造成1次<An>暗属性异能伤害</>，持续3秒。\r\n当目标受到治疗时，移除1层「噩梦」。",
-          "LocalizedString": "每秒对目标造成1次<An>暗属性异能伤害</>，持续3秒。\r\n当目标受到治疗时，移除1层「噩梦」。"
+          "LocalizedString": "Deals 1 instance of <An>Chaos DMG</> to the target per second for 3s.\r\nRemoves 1 stack of Nightmare when the target receives healing."
         }
       },
       "DaffodillInsight": {
@@ -227,13 +227,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
           "Key": "Daffodill_DongCha_name",
           "SourceString": "洞察",
-          "LocalizedString": "洞察"
+          "LocalizedString": "Insight"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
           "Key": "Daffodill_DongCha_des",
           "SourceString": "如果目标在「洞察」效果期间进入倾陷，将额外受到一次达芙蒂尔造成的倾陷伤害，并被移除「洞察」效果。",
-          "LocalizedString": "如果目标在「洞察」效果期间进入倾陷，将额外受到一次达芙蒂尔造成的倾陷伤害，并被移除「洞察」效果。"
+          "LocalizedString": "Deals additional Break Damage and removes the Insight effect if the target enters Break while affected by Insight."
         }
       },
       "DaffodillQTE": {
@@ -241,13 +241,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
           "Key": "Daffodill_ZhiYuan_name",
           "SourceString": "幻影移行",
-          "LocalizedString": "幻影移行"
+          "LocalizedString": "Phantom Step"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Daffodill_SkillDes.Daffodill_SkillDes",
           "Key": "Daffodill_ZhiYuan_des",
           "SourceString": "战斗中且存在目标时，从其他角色切换至达芙蒂尔时，达芙蒂尔先行释放「幻影移行」。如果「幻影移行」成功承轨反击目标，可造成高额伤害和倾陷值并立刻为「极轨终结：见此终幕」蓄满充能。如果切换至达芙蒂尔时存在「援护技：交仞」，会先行释放「援护技：交仞」，后自动释放「幻影移行」，此时「援护技：交仞」承轨反击成功视为「幻影移行」承轨反击成功。",
-          "LocalizedString": "战斗中且存在目标时，从其他角色切换至达芙蒂尔时，达芙蒂尔先行释放「幻影移行」。如果「幻影移行」成功承轨反击目标，可造成高额伤害和倾陷值并立刻为「极轨终结：见此终幕」蓄满充能。如果切换至达芙蒂尔时存在「援护技：交仞」，会先行释放「援护技：交仞」，后自动释放「幻影移行」，此时「援护技：交仞」承轨反击成功视为「幻影移行」承轨反击成功。"
+          "LocalizedString": "Automatically casts Phantom Step when switching to Daffodill from another character during battle while targets are present. Deals high damage and Break and instantly charges Finale to full if Phantom Step successfully performs a Parry Attack on a target. Casts Crossed Blades first when it is present upon switching to Daffodill, then automatically casts Phantom Step. Treats a successful Parry Attack from Crossed Blades as a successful Phantom Step Parry Attack in this case."
         }
       },
       "KuharaAttachment": {
@@ -255,13 +255,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaAttachment_name",
           "SourceString": "致命玫约",
-          "LocalizedString": "致命玫约"
+          "LocalizedString": "Lethal Rose Pact"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaAttachment_des",
           "SourceString": "属于附着物。存在期间，会持续吞噬目标生命力，经过 <NumGreen>5</> 秒后，强制目标步入可发起「致约清算」的阶段，该阶段持续<NumGreen>25</>秒。",
-          "LocalizedString": "属于附着物。存在期间，会持续吞噬目标生命力，经过 <NumGreen>5</> 秒后，强制目标步入可发起「致约清算」的阶段，该阶段持续<NumGreen>25</>秒。"
+          "LocalizedString": "A type of attachment. Devours the target's HP continuously while active. Forces the target into the stage where Pact Settlement can be triggered after <NumGreen>5</>s. Lasts for <NumGreen>25</>s."
         }
       },
       "KuharaPowerBullet": {
@@ -269,13 +269,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaPowerBullet_name",
           "SourceString": "玫约子弹",
-          "LocalizedString": "玫约子弹"
+          "LocalizedString": "Rose Pact Bullet"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaPowerBullet_des",
           "SourceString": "九原释放「普通攻击：秘密成型时」、「变轨技能：情报猎手」、「极限反击：局势逆转」和「援护技：秘闻锁定」可获得，通过触发「普通攻击：信息导向型」发射使用，对缔结「致命玫约」的目标发起「致约清算」；\r\n若目标当前不可清算，则使「致命玫约」加快进入可清算阶段。",
-          "LocalizedString": "九原释放「普通攻击：秘密成型时」、「变轨技能：情报猎手」、「极限反击：局势逆转」和「援护技：秘闻锁定」可获得，通过触发「普通攻击：信息导向型」发射使用，对缔结「致命玫约」的目标发起「致约清算」；\r\n若目标当前不可清算，则使「致命玫约」加快进入可清算阶段。"
+          "LocalizedString": "Available when Jiuyuan uses When Secrets Take Shape, Intel Hunter, Turning the Tide, or Intel Lock-On. Fires via Info-Guided Arts to trigger Pact Settlement on Lethal Rose Pact targets.\r\nAccelerates Lethal Rose Pact into the settlement stage if the target cannot be settled."
         }
       },
       "KuharaBudBoom": {
@@ -283,13 +283,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaBudBoom_name",
           "SourceString": "致约清算",
-          "LocalizedString": "致约清算"
+          "LocalizedString": "Pact Settlement"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Kuhara_SkillDes.Kuhara_SkillDes",
           "Key": "KuharaBudBoom_des",
           "SourceString": "「致命玫约」进入可清算阶段后，被「玫约子弹」或「极轨终结：终局清账」最后一段伤害命中后触发，造成高额附着类<Ling>灵属性异能伤害</>，由「极轨终结：终局清账」触发造成的清算伤害将大幅提升且使九原获得大量终结能量；\r\n若「致命玫约」持续时间内未被触发，「致约清算」会在超时后自动清算，对目标造成伤害附着类<Ling>灵属性异能伤害</>。",
-          "LocalizedString": "「致命玫约」进入可清算阶段后，被「玫约子弹」或「极轨终结：终局清账」最后一段伤害命中后触发，造成高额附着类<Ling>灵属性异能伤害</>，由「极轨终结：终局清账」触发造成的清算伤害将大幅提升且使九原获得大量终结能量；\r\n若「致命玫约」持续时间内未被触发，「致约清算」会在超时后自动清算，对目标造成伤害附着类<Ling>灵属性异能伤害</>。"
+          "LocalizedString": "Triggers Lethal Rose Pact Settlement stage when hit by Rose Pact Bullets or the last instance of Final Reckoning, dealing high attachment-type <Ling>Anima DMG</> and greatly increasing Settlement DMG from Final Reckoning, and granting Jiuyuan massive Ultimate Energy.\r\nAutomatically triggers Pact Settlement after timeout if Lethal Rose Pact is not activated, dealing attachment-type <Ling>Anima DMG</> to the target."
         }
       },
       "HanielSkill": {
@@ -297,13 +297,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_Skill_name",
           "SourceString": "四部和声",
-          "LocalizedString": "四部和声"
+          "LocalizedString": "Four-Part Harmony"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_Skill_des",
           "SourceString": "「咕咕子」在场时，场上角色攻击时会为「咕咕子」累积<NumGreen>1</>层，每<NumGreen>0.5</>秒至多累积<NumGreen>1</>层，至多可累计<NumGreen>4</>层。",
-          "LocalizedString": "「咕咕子」在场时，场上角色攻击时会为「咕咕子」累积<NumGreen>1</>层，每<NumGreen>0.5</>秒至多累积<NumGreen>1</>层，至多可累计<NumGreen>4</>层。"
+          "LocalizedString": "While Hootie is active, grants Hootie <NumGreen>1</> stack when the current character attacks, with a maximum of <NumGreen>1</> stack gained every <NumGreen>0.5s</>, up to <NumGreen>4</> stacks."
         }
       },
       "HanielUltraSkill": {
@@ -311,13 +311,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_UltraSkill_name",
           "SourceString": "合奏",
-          "LocalizedString": "合奏"
+          "LocalizedString": "Ensemble"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_Ultraskill_nounsexplanation",
           "SourceString": "累积<NumGreen>4</>层<TextEXPL>「四部和声」</>后可触发，对范围内敌人造成范围性<Hun>魂属性异能伤害</>。",
-          "LocalizedString": "累积<NumGreen>4</>层<TextEXPL>「四部和声」</>后可触发，对范围内敌人造成范围性<Hun>魂属性异能伤害</>。"
+          "LocalizedString": "Triggers after accumulating <NumGreen>4</> stacks of <TextEXPL>Four-Part Harmony</>, dealing AoE <Hun>Psyche DMG</> to enemies within range."
         }
       },
       "HanielPassive2": {
@@ -325,13 +325,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_Passive_2_name",
           "SourceString": "主角光环",
-          "LocalizedString": "主角光环"
+          "LocalizedString": "Plot Armor"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Haniel_SkillDes.Haniel_SkillDes",
           "Key": "Haniel_Passive_2_des",
           "SourceString": "当在场角色触发<TextEXPL>「合奏」</>时，可以为哈尼娅累积<NumGreen>1</>层<TextEXPL>「主角光环」</>，用以提高「超异科魔法炮」的弹射次数。每触发<NumGreen>1</>次<TextEXPL>「合奏」</>使得哈尼娅获得<NumGreen>1</>层<TextEXPL>「主角光环」</>。当哈尼娅处于「超异科王牌」状态时，每触发<NumGreen>1</>次<TextEXPL>「合奏」</>使得哈尼娅获得<NumGreen>2</>层<TextEXPL>「主角光环」</>。通过这种方式至多累积<NumGreen>4</>层<TextEXPL>「主角光环」</>。",
-          "LocalizedString": "当在场角色触发<TextEXPL>「合奏」</>时，可以为哈尼娅累积<NumGreen>1</>层<TextEXPL>「主角光环」</>，用以提高「超异科魔法炮」的弹射次数。每触发<NumGreen>1</>次<TextEXPL>「合奏」</>使得哈尼娅获得<NumGreen>1</>层<TextEXPL>「主角光环」</>。当哈尼娅处于「超异科王牌」状态时，每触发<NumGreen>1</>次<TextEXPL>「合奏」</>使得哈尼娅获得<NumGreen>2</>层<TextEXPL>「主角光环」</>。通过这种方式至多累积<NumGreen>4</>层<TextEXPL>「主角光环」</>。"
+          "LocalizedString": "Grants Haniel <NumGreen>1</> stack of <TextEXPL>Plot Armor</> when the current character triggers <TextEXPL>Ensemble</>, increasing the ricochet cap of Paranormal Cannon. Grants <NumGreen>1</> stack of <TextEXPL>Plot Armor</> <NumGreen>per</> <TextEXPL>Ensemble</> trigger.Grants <NumGreen>2</> stacks of <TextEXPL>Plot Armor</> <NumGreen>per</> <TextEXPL>Ensemble</> trigger while Haniel is in Paranormal Ace state. Can accumulate up to <NumGreen>4</> stacks of <TextEXPL>Plot Armor</>."
         }
       },
       "ChiichanRes1": {
@@ -339,13 +339,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes1_name",
           "SourceString": "金谷",
-          "LocalizedString": "金谷"
+          "LocalizedString": "Grain"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes1_des",
           "SourceString": "小吱入队后自身持有的特殊战斗资源，通过释放「普通攻击：失乡剑术」、「普通攻击：荒谷」、「普通攻击：丰玉」、「极限闪避：明斯基时刻」、利息均可获得「金谷」。",
-          "LocalizedString": "小吱入队后自身持有的特殊战斗资源，通过释放「普通攻击：失乡剑术」、「普通攻击：荒谷」、「普通攻击：丰玉」、「极限闪避：明斯基时刻」、利息均可获得「金谷」。"
+          "LocalizedString": "A special combat resource possessed by Chiz after joining the team. Generates Grain when using Exiled Swordplay, Blighted Vale, Bountiful Grain, Minsky Moment, or through interest."
         }
       },
       "ChiichanRes2": {
@@ -353,13 +353,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes2_name",
           "SourceString": "盈余",
-          "LocalizedString": "盈余"
+          "LocalizedString": "Surplus"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes2_des",
           "SourceString": "小吱持有「金谷」时，即处于该状态。",
-          "LocalizedString": "小吱持有「金谷」时，即处于该状态。"
+          "LocalizedString": "Chiz enters this state when Grain is available."
         }
       },
       "ChiichanRes3": {
@@ -367,13 +367,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes3_name",
           "SourceString": "负债",
-          "LocalizedString": "负债"
+          "LocalizedString": "Debt"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes3_des",
           "SourceString": "小吱不持有「金谷」时，进入该状态。",
-          "LocalizedString": "小吱不持有「金谷」时，进入该状态。"
+          "LocalizedString": "Chiz enters this state when Grain is not available."
         }
       },
       "ChiichanRes4": {
@@ -381,13 +381,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes4_name",
           "SourceString": "金谷贷款",
-          "LocalizedString": "金谷贷款"
+          "LocalizedString": "Grain Loan"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes4_des",
           "SourceString": "小吱消耗完全部「金谷」后持有的特殊战斗资源，可通过消耗「金谷贷款」造成伤害。",
-          "LocalizedString": "小吱消耗完全部「金谷」后持有的特殊战斗资源，可通过消耗「金谷贷款」造成伤害。"
+          "LocalizedString": "A special combat resource possessed by Chiz after consuming all Grains. Deals DMG by consuming Grain Loan."
         }
       },
       "ChiichanRes5": {
@@ -395,13 +395,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes5_name",
           "SourceString": "金谷K线",
-          "LocalizedString": "金谷K线"
+          "LocalizedString": "Grain Price"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes5_des",
           "SourceString": "进入「金谷市场」后，界面上将出现波动的「金谷」K线图，显示当前「金谷」价格，可预见3.5秒内的「金谷」价格走势，每0.5秒生成一次。\r\nK线图存在期间，生成的「金谷」价格将基于上次的价格在[﹣50%,﹢50%]范围内随机波动。",
-          "LocalizedString": "进入「金谷市场」后，界面上将出现波动的「金谷」K线图，显示当前「金谷」价格，可预见3.5秒内的「金谷」价格走势，每0.5秒生成一次。\r\nK线图存在期间，生成的「金谷」价格将基于上次的价格在[﹣50%,﹢50%]范围内随机波动。"
+          "LocalizedString": "Displays a fluctuating price chart upon entering the Grain Market, showing the current Grain price. The chart forecasts price trends every 0.5s for the next 3.5s.\r\nWhile the chart is active, the Grain price randomly fluctuates within a range of −50% to +50% based on the previous price."
         }
       },
       "ChiichanRes6": {
@@ -409,7 +409,7 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
           "Key": "ChiichanRes6_name",
           "SourceString": "谷价结算",
-          "LocalizedString": "谷价结算"
+          "LocalizedString": "Grain Settlement"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
@@ -423,13 +423,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "attach_name",
           "SourceString": "附着",
-          "LocalizedString": "附着"
+          "LocalizedString": "Attach"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
           "Key": "attach_des",
           "SourceString": "部分技能可以对目标施加「附着物」，附着物对目标造成1次伤害后自动脱落。",
-          "LocalizedString": "部分技能可以对目标施加「附着物」，附着物对目标造成1次伤害后自动脱落。"
+          "LocalizedString": "Certain skills can apply Attachments to targets. Attachments automatically detach after dealing 1 instance of DMG to the target."
         }
       },
       "MitsukiSkill": {
@@ -437,13 +437,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
           "Key": "MitsukiSkill_name",
           "SourceString": "华彩",
-          "LocalizedString": "华彩"
+          "LocalizedString": "Cadenza"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
           "Key": "MitsukiSkill_des",
           "SourceString": "海月发射的水母弹造成额外<NumGreen>70%</>伤害，并对目标周围的敌人造成范围伤害。",
-          "LocalizedString": "海月发射的水母弹造成额外<NumGreen>70%</>伤害，并对目标周围的敌人造成范围伤害。"
+          "LocalizedString": "Deals an additional <NumGreen>70%</> damage with jellyfish blasts and inflicts AoE DMG to enemies around the target."
         }
       },
       "ChaosGuilt": {
@@ -451,13 +451,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosGuilt_name",
           "SourceString": "罪状",
-          "LocalizedString": "罪状"
+          "LocalizedString": "Crime"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosGuilt_des",
           "SourceString": "卡厄斯可以通过部分战斗行为来积攒<TextEXPL>「罪状」</>。",
-          "LocalizedString": "卡厄斯可以通过部分战斗行为来积攒<TextEXPL>「罪状」</>。"
+          "LocalizedString": "Chaos builds up <TextEXPL>Crime</> by performing certain combat actions."
         }
       },
       "ChaosHuntPermit": {
@@ -465,13 +465,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosHuntPermit_name",
           "SourceString": "追缉许可",
-          "LocalizedString": "追缉许可"
+          "LocalizedString": "Warrant"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosHuntPermit_des",
           "SourceString": "被标记目标受到卡厄斯攻击时，卡厄斯对其造成的伤害增加。",
-          "LocalizedString": "被标记目标受到卡厄斯攻击时，卡厄斯对其造成的伤害增加。"
+          "LocalizedString": "Deals increased damage to marked targets."
         }
       },
       "ChaosInfamyCycle": {
@@ -479,13 +479,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosInfamyCycle_name",
           "SourceString": "恶名往复",
-          "LocalizedString": "恶名往复"
+          "LocalizedString": "Dread Echo"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Chaos_SkillDes.Chaos_SkillDes",
           "Key": "ChaosInfamyCycle_des",
           "SourceString": "卡厄斯释放「极轨终结：罪业清偿」后进入的强化状态。期间<TextEXPL>「罪状」</>持续快速增长。",
-          "LocalizedString": "卡厄斯释放「极轨终结：罪业清偿」后进入的强化状态。期间<TextEXPL>「罪状」</>持续快速增长。"
+          "LocalizedString": "Enters an enhanced state after casting Retribution. While active, <TextEXPL>Crime</> stacks rapidly over time."
         }
       },
       "OneiroiRes1": {
@@ -493,13 +493,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Oneiror_SkillDes.Oneiror_SkillDes",
           "Key": "OneiroiRes1_name",
           "SourceString": "臆想",
-          "LocalizedString": "臆想"
+          "LocalizedString": "Imagination"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Oneiror_SkillDes.Oneiror_SkillDes",
           "Key": "OneiroiRes1_des",
           "SourceString": "可通过多种方式积攒「臆想」：「普通攻击：分工合作」、「普通攻击：起床时间」、「无意识响应」、「变轨技能:未来自我连续性假设」、「援护技：砰！」、任意队友死亡进入「退行」。\r\n消耗「臆想」进行蓄力，发动「普通攻击：白日梦」、「普通攻击：清明梦」。\r\n「极轨终结：三十八亿年的海市蜃楼」根据积攒「臆想」程度影响释放效果，期间持续消耗「臆想」。",
-          "LocalizedString": "可通过多种方式积攒「臆想」：「普通攻击：分工合作」、「普通攻击：起床时间」、「无意识响应」、「变轨技能:未来自我连续性假设」、「援护技：砰！」、任意队友死亡进入「退行」。\r\n消耗「臆想」进行蓄力，发动「普通攻击：白日梦」、「普通攻击：清明梦」。\r\n「极轨终结：三十八亿年的海市蜃楼」根据积攒「臆想」程度影响释放效果，期间持续消耗「臆想」。"
+          "LocalizedString": "How to build up Imagination: Collaboration, Wakey-Wakey, Reflexive Response, Future Self Continuity, Bang!, and any ally entering Regression after falling.\r\nConsumes Imagination to charge up, unleashing Daydream and Lucid Dream.\r\nChanges the effects of 3.8-Billion-Year Mirage based on Imagination accumulated. Continuously consumes Imagination during the skill."
         }
       },
       "OneiroiRes2": {
@@ -507,13 +507,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Oneiror_SkillDes.Oneiror_SkillDes",
           "Key": "OneiroiRes2_name",
           "SourceString": "退行",
-          "LocalizedString": "退行"
+          "LocalizedString": "Regression"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Oneiror_SkillDes.Oneiror_SkillDes",
           "Key": "OneiroiRes2_des",
           "SourceString": "退行：队友角色由小羊莫尔甫斯/伊刻洛斯/方塔苏斯代为战斗的状态。该状态下的角色无敌，继承伊洛伊的属性，并自动进行攻击。处于此状态下的角色无法使用复活道具。\r\n每只小羊具备3种攻击方式：\r\n莫尔甫斯\r\n再睡会儿：向目标发射一枚麻醉针，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n多睡会儿：向目标发射多枚麻醉针，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标发射一枚强力麻醉爆弹，命中造成大范围伤害并触发对应角色属性的环合效果（点击莫尔甫斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。\r\n\r\n伊刻洛斯\r\n打一针吧：向目标发动针筒斩击，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n多打几针：向目标发动针筒圆舞斩，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标发动筒气攻击，命中造成大范围伤害并触发对应角色属性的环合效果（点击伊刻洛斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。\r\n\r\n方塔苏斯\r\n来听首歌：向目标奏一段音波，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n不好听吗：向目标奏一段美妙旋律，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标奏一段群羊演唱会，命中造成大范围伤害并触发对应角色属性的环合效果（点击方塔苏斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。",
-          "LocalizedString": "退行：队友角色由小羊莫尔甫斯/伊刻洛斯/方塔苏斯代为战斗的状态。该状态下的角色无敌，继承伊洛伊的属性，并自动进行攻击。处于此状态下的角色无法使用复活道具。\r\n每只小羊具备3种攻击方式：\r\n莫尔甫斯\r\n再睡会儿：向目标发射一枚麻醉针，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n多睡会儿：向目标发射多枚麻醉针，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标发射一枚强力麻醉爆弹，命中造成大范围伤害并触发对应角色属性的环合效果（点击莫尔甫斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。\r\n\r\n伊刻洛斯\r\n打一针吧：向目标发动针筒斩击，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n多打几针：向目标发动针筒圆舞斩，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标发动筒气攻击，命中造成大范围伤害并触发对应角色属性的环合效果（点击伊刻洛斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。\r\n\r\n方塔苏斯\r\n来听首歌：向目标奏一段音波，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n不好听吗：向目标奏一段美妙旋律，命中造成伤害，有冷却。该伤害视为「变轨技能」伤害。\r\n援护技：向目标奏一段群羊演唱会，命中造成大范围伤害并触发对应角色属性的环合效果（点击方塔苏斯头像释放，消耗伊洛伊环合值），该伤害视为「援护技」伤害。"
+          "LocalizedString": "Regression: A state where allied characters are replaced in battle by the lambs Morpheus, Icelos, or Phantasos. Characters in this state are invincible, inherit Iroi's stats, and attack automatically. Characters in this state cannot use Revive Items.\r\nEach lamb has 3 attack methods:\r\nMorpheus\r\nSweet Dreams: Fires an anesthetic needle at the target, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nDeep Slumber: Fires multiple anesthetic needles at the target, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nSupport Skill: Fires a powerful anesthetic bomb at the target, dealing AoE DMG on hit and triggering the Esper Cycle effect of the corresponding character's attribute. Press Morpheus's avatar to cast. Consumes Iroi's Cycle Energy. Counts as Support Skill DMG.\r\n\r\nIcelos\r\nLittle Prick: Strikes the target with a syringe slash, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nDouble Dose: Strikes the target with a whirling syringe dance, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nSupport Skill: Launches a syringe-blast attack at the target, dealing AoE DMG on hit and triggering the Esper Cycle effect of the corresponding character's attribute. Press Icelos's avatar to cast. Consumes Iroi's Cycle Energy. Counts as Support Skill DMG.\r\n\r\nPhantasos\r\nLullaby Time: Plays a burst of sound waves at the target, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nOff-Key: Plays a beautiful melody at the target, dealing DMG on hit. Cooldown applies. Counts as Redirect Skill DMG.\r\nSupport Skill: Performs a flock concert at the target, dealing AoE DMG on hit and triggering the Esper Cycle effect of the corresponding character's attribute. Press Phantasos's avatar to cast. Consumes Iroi's Cycle Energy. Counts as Support Skill DMG."
         }
       },
       "ShinkuQEnergy": {
@@ -521,13 +521,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuQEnergy_name",
           "SourceString": "桀骜斗志",
-          "LocalizedString": "桀骜斗志"
+          "LocalizedString": "Defiant Spirit"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuQEnergy_des",
           "SourceString": "释放「极轨终结：沸血赤红」所需的特殊充能，仅可真红攻击命中获得",
-          "LocalizedString": "释放「极轨终结：沸血赤红」所需的特殊充能，仅可真红攻击命中获得"
+          "LocalizedString": "Special Energy required to cast Crimson Fury. Gained only when Shinku's attacks hit."
         }
       },
       "ShinkuRage": {
@@ -535,13 +535,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuRage_name",
           "SourceString": "升腾之赤",
-          "LocalizedString": "升腾之赤"
+          "LocalizedString": "Surging Crimson"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuRage_des",
           "SourceString": "真红消耗所有「桀骜斗志」进入的特殊状态，期间「普通攻击：特种格斗术」替换为「普通攻击：惊骇急袭」，「变轨技能：高速突破」替换为「变轨技能：天降赤锋」，造成的伤害和抗打断能力提升，移动能力大幅提升，持续<NumGreen>13</>秒，切换角色后退出。",
-          "LocalizedString": "真红消耗所有「桀骜斗志」进入的特殊状态，期间「普通攻击：特种格斗术」替换为「普通攻击：惊骇急袭」，「变轨技能：高速突破」替换为「变轨技能：天降赤锋」，造成的伤害和抗打断能力提升，移动能力大幅提升，持续<NumGreen>13</>秒，切换角色后退出。"
+          "LocalizedString": "Consumes all Defiant Spirit to enter this special state. Replaces Special Combat Arts with Tidal Assault and High-Speed Breach with Scarlet Descent while in Surging Crimson. Increases DMG dealt and Resistance to Interruptions, boosts Movement, and lasts for <NumGreen>13</>s. The state ends when switching characters."
         }
       },
       "ShinkuRageEEnergy": {
@@ -549,13 +549,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuRageEEnergy_name",
           "SourceString": "清醒边缘",
-          "LocalizedString": "清醒边缘"
+          "LocalizedString": "Fading Reason"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuRageEEnergy_des",
           "SourceString": "释放「变轨技能：天降赤锋」所需的能量，「升腾之赤」期间真红攻击命中获得",
-          "LocalizedString": "释放「变轨技能：天降赤锋」所需的能量，「升腾之赤」期间真红攻击命中获得"
+          "LocalizedString": "Energy required to cast Scarlet Descent. Gained when Shinku's attacks hit during Surging Crimson."
         }
       },
       "ShinkuWatch": {
@@ -563,13 +563,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuWatch_name",
           "SourceString": "威慑凝视",
-          "LocalizedString": "威慑凝视"
+          "LocalizedString": "Menacing Gaze"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Shinku_SkillDes.Shinku_SkillDes",
           "Key": "ShinkuWatch_des",
           "SourceString": "当真红在场上超过2秒未主动发动攻击时可进入，每秒叠加层数。当处于「威慑凝视」状态下时，真红每次成功发动极限闪避额外获得<NumGreen>1</>层「威慑凝视」。\r\n真红主动发动攻击命中时解除「威慑凝视」状态，进行「即瞬猛袭」，在原本的攻击之外附带额外伤害。每有一层「威慑凝视」，额外伤害增加<NumGreen>100%</>（倍率跟随普通攻击技能等级成长，11级成长至<NumGreen>215.9%</>），伴随获得「桀骜斗志」、「清醒边缘」及环合值。",
-          "LocalizedString": "当真红在场上超过2秒未主动发动攻击时可进入，每秒叠加层数。当处于「威慑凝视」状态下时，真红每次成功发动极限闪避额外获得<NumGreen>1</>层「威慑凝视」。\r\n真红主动发动攻击命中时解除「威慑凝视」状态，进行「即瞬猛袭」，在原本的攻击之外附带额外伤害。每有一层「威慑凝视」，额外伤害增加<NumGreen>100%</>（倍率跟随普通攻击技能等级成长，11级成长至<NumGreen>215.9%</>），伴随获得「桀骜斗志」、「清醒边缘」及环合值。"
+          "LocalizedString": "Enters the Menacing Gaze state when Shinku is active in battle for more than 2s without actively initiating an attack, gaining stacks every second. Grants her <NumGreen>1</> additional stack of Menacing Gaze whenever Shinku successfully performs a Critical Dodge while this state is active.\r\nEnds Menacing Gaze when Shinku initiates an attack and hits, causing her to perform Instant Strike and deal bonus DMG in addition to the original attack. Each stack of Menacing Gaze increases this bonus DMG by <NumGreen>100%</> (scales with Basic Attack level, reaching <NumGreen>215.9%</> at level 11) and grants Defiant Spirit, Fading Reason, and Cycle Energy."
         }
       },
       "ZankouDot": {
@@ -577,13 +577,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouDot_name",
           "SourceString": "蚀心",
-          "LocalizedString": "蚀心"
+          "LocalizedString": "Heartwrench"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouDot_des",
           "SourceString": "每秒对目标造成1次<Zhou>咒属性异能伤害</>，持续30秒，上限可叠10层。",
-          "LocalizedString": "每秒对目标造成1次<Zhou>咒属性异能伤害</>，持续30秒，上限可叠10层。"
+          "LocalizedString": "Deals 1 instance of <Zhou>Incantation DMG</> to the target per second for 30s, up to 10 stacks."
         }
       },
       "ZankouStack": {
@@ -591,13 +591,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouStack_name",
           "SourceString": "蓄焰",
-          "LocalizedString": "蓄焰"
+          "LocalizedString": "Kindling"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouStack_des",
           "SourceString": "只要残虹是本次「浊燃」或「覆纹」环合的参与者，均可积累「蓄焰」，比如由残虹切换至其他角色并释放其援护技，或者由其他角色切换至残虹并释放「饲火」。\r\n在直接释放「极轨终结：焚天烬灭舞」时，将消耗积累的「蓄焰」；在释放「极轨终结：血宴入梦时」后，释放限时强化的「极轨终结：焚天烬灭舞」时，也将消耗积累的「蓄焰」，但如果未在限时强化的时间内释放「极轨终结：焚天烬灭舞」，或者残虹脱离战斗、阵亡，将会清空「蓄焰」。",
-          "LocalizedString": "只要残虹是本次「浊燃」或「覆纹」环合的参与者，均可积累「蓄焰」，比如由残虹切换至其他角色并释放其援护技，或者由其他角色切换至残虹并释放「饲火」。\r\n在直接释放「极轨终结：焚天烬灭舞」时，将消耗积累的「蓄焰」；在释放「极轨终结：血宴入梦时」后，释放限时强化的「极轨终结：焚天烬灭舞」时，也将消耗积累的「蓄焰」，但如果未在限时强化的时间内释放「极轨终结：焚天烬灭舞」，或者残虹脱离战斗、阵亡，将会清空「蓄焰」。"
+          "LocalizedString": "Grants Kindling whenever Zankou participates in a Scorch or Hexed Cycle, such as by switching from Zankou to another character and casting their Support Skill, or by switching to Zankou and casting Stoked Flame.\r\nConsumes all accumulated Kindling when casting Inferno Flamenco directly or its time-limited enhanced version after Bloodfeast Reverie. If the enhanced Inferno Flamenco is not cast within the time limit, or if Zankou leaves combat or is defeated, all Kindling is lost."
         }
       },
       "ZankouShou": {
@@ -605,13 +605,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouRealBuff_name",
           "SourceString": "狩",
-          "LocalizedString": "狩"
+          "LocalizedString": "Hunt"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouRealBuff_des",
           "SourceString": "现实形态的强化效果，残虹自身造成的伤害提升。",
-          "LocalizedString": "现实形态的强化效果，残虹自身造成的伤害提升。"
+          "LocalizedString": "A Reality Form enhancement that increases the DMG dealt by Zankou."
         }
       },
       "ZankouHuo": {
@@ -619,13 +619,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouPhantomBuff_name",
           "SourceString": "惑",
-          "LocalizedString": "惑"
+          "LocalizedString": "Delusion"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouPhantomBuff_des",
           "SourceString": "幻境形态的强化效果，全队造成的持续伤害的暴击伤害提升。",
-          "LocalizedString": "幻境形态的强化效果，全队造成的持续伤害的暴击伤害提升。"
+          "LocalizedString": "An Illusion Form enhancement that increases the Crit DMG of DoTs dealt by the team."
         }
       },
       "ZankouUltraDot": {
@@ -633,13 +633,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouUltraDot_name",
           "SourceString": "鸩火",
-          "LocalizedString": "鸩火"
+          "LocalizedString": "Vile Ash"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Zankou_SkillDes.Zankou_SkillDes",
           "Key": "ZankouUltraDot_des",
           "SourceString": "每秒对目标造成1次<Zhou>咒属性异能伤害</>，持续30秒，上限可叠10层。",
-          "LocalizedString": "每秒对目标造成1次<Zhou>咒属性异能伤害</>，持续30秒，上限可叠10层。"
+          "LocalizedString": "Deals 1 instance of <Zhou>Incantation DMG</> to the target per second for 30s, up to 10 stacks."
         }
       },
       "LinkoLTE": {
@@ -647,13 +647,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
           "Key": "GA_Linko_LinkoLTE_name",
           "SourceString": "「同频合击」",
-          "LocalizedString": "「同频合击」"
+          "LocalizedString": "Synced Strike"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
           "Key": "GA_Linko_LinkoLTE_des",
           "SourceString": "「同频合击」是一种特殊的援护技，造成的伤害视为追加攻击伤害，伤害属性为发起「同频合击」角色的属性，如果由小贞发起「同频合击」，则伤害为灵属性。\r\n通常情况下，「同频合击」不会触发异能环合，且伤害受灵可面板和援护技技能等级影响。",
-          "LocalizedString": "「同频合击」是一种特殊的援护技，造成的伤害视为追加攻击伤害，伤害属性为发起「同频合击」角色的属性，如果由小贞发起「同频合击」，则伤害为灵属性。\r\n通常情况下，「同频合击」不会触发异能环合，且伤害受灵可面板和援护技技能等级影响。"
+          "LocalizedString": "Synced Strike is a special Support Skill. Its DMG is considered Follow-up Attack DMG and matches the attribute of the character who initiates it. If Xiaozhen initiates Synced Strike, it deals Anima DMG.\r\nNormally, Synced Strike does not trigger Esper Cycle. Its DMG is based on Linko's stats and Support Skill Level."
         }
       },
       "LinkoXiaozhenMark": {
@@ -661,13 +661,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
           "Key": "GA_Linko_xiaozhenMark_name",
           "SourceString": "「小鬼打这里！」",
-          "LocalizedString": "「小鬼打这里！」"
+          "LocalizedString": "Hit 'Em Here!"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Linko_Skilldes.Linko_Skilldes",
           "Key": "GA_Linko_xiaozhenMark_des",
           "SourceString": "「小鬼打这里！」是一种施加给敌方目标的标记，队伍角色使用变轨技能对目标造成伤害时，将消耗该标记，并触发灵可的「同频合击」攻击目标，同时积攒「谐频」点数与环合值。场上同时最多存在1个「小鬼打这里！」标记，标记可持续10秒。",
-          "LocalizedString": "「小鬼打这里！」是一种施加给敌方目标的标记，队伍角色使用变轨技能对目标造成伤害时，将消耗该标记，并触发灵可的「同频合击」攻击目标，同时积攒「谐频」点数与环合值。场上同时最多存在1个「小鬼打这里！」标记，标记可持续10秒。"
+          "LocalizedString": "Hit 'Em Here! is a mark inflicted on an enemy. When an ally deals damage to the marked target with a Redirect Skill, the mark is consumed, causing Linko to perform a Synced Strike against the target and build up Modulation Points and Cycle Energy. Only 1 Hit 'Em Here! mark can exist on the field at a time. Each mark lasts for 10s."
         }
       },
       "BlackbirdSaviorWitch": {
@@ -675,13 +675,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun1_name",
           "SourceString": "救世的魔女",
-          "LocalizedString": "救世的魔女"
+          "LocalizedString": "Witch of Deliverance"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun1_des",
           "SourceString": "黑羽被火焰吞没后，魔女即从火中降临。此状态下黑羽的所有技能均会发生变化。",
-          "LocalizedString": "黑羽被火焰吞没后，魔女即从火中降临。此状态下黑羽的所有技能均会发生变化。"
+          "LocalizedString": "Blackbird is engulfed in flames then transformed into the Witch of Deliverance. Changes all of Blackbird's skills while in this state."
         }
       },
       "BlackbirdwoePlume": {
@@ -689,13 +689,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun2_name",
           "SourceString": "失乐羽",
-          "LocalizedString": "失乐羽"
+          "LocalizedString": "Forsaken Feather"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun2_des",
           "SourceString": "黑羽对攻击目标施加的印记。队伍中其他角色驻场时，对具有「失乐羽」印记的目标进行攻击时，可短暂召唤「失乐鸟」与队伍角色协同作战，造成伤害。",
-          "LocalizedString": "黑羽对攻击目标施加的印记。队伍中其他角色驻场时，对具有「失乐羽」印记的目标进行攻击时，可短暂召唤「失乐鸟」与队伍角色协同作战，造成伤害。"
+          "LocalizedString": "Inflicts Forsaken Feather on targets Blackbird attacks. Summons Forsaken Bird briefly to fight alongside the active ally and deal DMG when the ally attacks a target bearing Forsaken Feather."
         }
       },
       "BlackbirdwoeBird": {
@@ -703,13 +703,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun3_name",
           "SourceString": "失乐鸟",
-          "LocalizedString": "失乐鸟"
+          "LocalizedString": "Forsaken Bird"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun3_des",
           "SourceString": "造成1次大范围魂属性异能伤害，最短间隔2秒触发一次，至多可触发5次。",
-          "LocalizedString": "造成1次大范围魂属性异能伤害，最短间隔2秒触发一次，至多可触发5次。"
+          "LocalizedString": "Deals 1 instance of Psyche DMG to enemies in a large area. Triggers at intervals of at least 2s, up to 5 times."
         }
       },
       "BlackbirdlornBird": {
@@ -717,13 +717,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun4_name",
           "SourceString": "伶仃鸟",
-          "LocalizedString": "伶仃鸟"
+          "LocalizedString": "Lonesome Bird"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun4_des",
           "SourceString": "似乎是黑羽最原初的形态。处于该状态下的黑羽可进行高速飞行。",
-          "LocalizedString": "似乎是黑羽最原初的形态。处于该状态下的黑羽可进行高速飞行。"
+          "LocalizedString": "Appears to be Blackbird's original form. Allows Blackbird to fly at high speed while in this state."
         }
       },
       "Blackbirdmalice": {
@@ -731,13 +731,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun5_name",
           "SourceString": "恶意",
-          "LocalizedString": "恶意"
+          "LocalizedString": "Malice"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
           "Key": "BlackBird_propNoun5_des",
           "SourceString": "黑羽发动「普通攻击：掠影」、「普通攻击：归巢」、「普通攻击：顽疾」、「极限反击：鸟类本能」、「承轨反击：裁灭」、「变轨技能：葬羽冥」后，分别获得不同点数的「恶意」。\r\n入战立即获得「恶意」。\r\n黑羽处于「救世的魔女」状态下时，无法获得「恶意」，发动「普通攻击：祭火」、「普通攻击：灼痕」、「普通攻击：予尔等之恩泽」、「普通攻击：赐众生之福音」、「极限反击：生于灾厄」、「变轨技能：渡世死焰」、「援护技：唯余慈悲」后，可消耗「恶意」，造成额外「恶意」伤害。",
-          "LocalizedString": "黑羽发动「普通攻击：掠影」、「普通攻击：归巢」、「普通攻击：顽疾」、「极限反击：鸟类本能」、「承轨反击：裁灭」、「变轨技能：葬羽冥」后，分别获得不同点数的「恶意」。\r\n入战立即获得「恶意」。\r\n黑羽处于「救世的魔女」状态下时，无法获得「恶意」，发动「普通攻击：祭火」、「普通攻击：灼痕」、「普通攻击：予尔等之恩泽」、「普通攻击：赐众生之福音」、「极限反击：生于灾厄」、「变轨技能：渡世死焰」、「援护技：唯余慈悲」后，可消耗「恶意」，造成额外「恶意」伤害。"
+          "LocalizedString": "Generates varying amounts of Malice upon casting Fleeting Shadow, Roostcall, Lingering Affliction, Avian Instinct, Last Word, or Netherplume Rite.\r\nGrants Malice immediately upon entering battle.\r\nPrevents Malice from being gained while in the Witch of Deliverance state. Allows Malice to be consumed after casting Pyreflame, Searing Scar, Bestowed Grace, Tidings Unto All, Born of Calamity, Flames of Deliverance, or Naught but Mercy to deal additional Malice DMG."
         }
       },
       "AkaneChordEnergy": {
@@ -745,13 +745,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneChordEnergy_name",
           "SourceString": "弦能",
-          "LocalizedString": "弦能"
+          "LocalizedString": "String Energy"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneChordEnergy_des",
           "SourceString": "明音凛专属资源，范围<NumGreen>0</>～<NumGreen>30</>；明音凛的各类伤害命中目标时获得，强化变轨技能「同调共振」命中后消耗<NumGreen>30</>点。",
-          "LocalizedString": "明音凛专属资源，范围<NumGreen>0</>～<NumGreen>30</>；明音凛的各类伤害命中目标时获得，强化变轨技能「同调共振」命中后消耗<NumGreen>30</>点。"
+          "LocalizedString": "Akane Rin's exclusive energy. Ranges from <NumGreen>0</> to <NumGreen>30</>. Generated whenever she deals DMG to a target. Synced Resonance consumes <NumGreen>30</> energy when it hits a target."
         }
       },
       "AkaneHarmonicMark": {
@@ -759,13 +759,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneHarmonicMark_name",
           "SourceString": "泛音列",
-          "LocalizedString": "泛音列"
+          "LocalizedString": "Overtone"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneHarmonicMark_des",
           "SourceString": "附着于单个敌人的标记，普通攻击可远距离传导至该目标。",
-          "LocalizedString": "附着于单个敌人的标记，普通攻击可远距离传导至该目标。"
+          "LocalizedString": "Attaches to a single enemy. Relays Basic Attack DMG to the marked target over long range."
         }
       },
       "AkaneSoundField": {
@@ -773,13 +773,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneSoundField_name",
           "SourceString": "音域",
-          "LocalizedString": "音域"
+          "LocalizedString": "Reverb Field"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneSoundField_des",
           "SourceString": "部署在场地中的领域，可将普通攻击传导给范围内敌人。",
-          "LocalizedString": "部署在场地中的领域，可将普通攻击传导给范围内敌人。"
+          "LocalizedString": "A field deployed on the battlefield that relays Basic Attack DMG to enemies within range."
         }
       },
       "AkaneCadenza": {
@@ -787,13 +787,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneCadenza_name",
           "SourceString": "华彩连段",
-          "LocalizedString": "华彩连段"
+          "LocalizedString": "Solo Cadenza"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Akane_SkillDes.Akane_SkillDes",
           "Key": "AkaneCadenza_des",
           "SourceString": "释放「极轨终结：音障爆鸣」第一段后，进入持续<NumGreen>20</>秒的<TextEXPL>「华彩连段」</>状态。状态持续期间，抗打断能力提升<NumGreen>75%</>。状态持续4秒后，可随时再次点按极轨终结释放第二段并提前结束<TextEXPL>「华彩连段」</>状态。第二段需手动释放，不会在状态结束时自动触发。状态结束时仍未释放，第二段将失效。\r\n该状态独立于<TextEXPL>「泛音列」</>和<TextEXPL>「音域」</>，不会移除或替代当前生效的效果。",
-          "LocalizedString": "释放「极轨终结：音障爆鸣」第一段后，进入持续<NumGreen>20</>秒的<TextEXPL>「华彩连段」</>状态。状态持续期间，抗打断能力提升<NumGreen>75%</>。状态持续4秒后，可随时再次点按极轨终结释放第二段并提前结束<TextEXPL>「华彩连段」</>状态。第二段需手动释放，不会在状态结束时自动触发。状态结束时仍未释放，第二段将失效。\r\n该状态独立于<TextEXPL>「泛音列」</>和<TextEXPL>「音域」</>，不会移除或替代当前生效的效果。"
+          "LocalizedString": "Casts the first instance of Sonic Boom and enters <TextEXPL>Solo Cadenza</> for <NumGreen>20</>s. Increases Resistance to Interruptions by <NumGreen>75%</> while the state is active. Allows the second instance to be cast by pressing Sonic Boom again at any time after Solo Cadenza has been active for 4s, ending <TextEXPL>Solo Cadenza</> early. Requires the second instance to be cast manually. Does not cast the second instance automatically when Solo Cadenza ends. The second instance becomes unavailable if not cast before Solo Cadenza ends.\r\nSolo Cadenza functions independently of <TextEXPL>Overtone</> and <TextEXPL>Reverb Field</> and does not remove or replace either effect."
         }
       },
       "Elyms_propNoun1": {
@@ -801,13 +801,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
           "Key": "Elyms_propNoun1_name",
           "SourceString": "信号强度",
-          "LocalizedString": "信号强度"
+          "LocalizedString": "Connection Strength"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
           "Key": "Elyms_propNoun1_des",
           "SourceString": "作为电子世界的存在，曳尔沐与现实的连接存在<TextHLT>「信号强度」</>的区别，分为<TextHLT>「弱信号」</>、<TextHLT>「中等信号」</>、<TextHLT>「强信号」</>三个级别。\r\n释放「援护技：我在」或「变轨技能：不连续的存在」后，若处于<TextHLT>「弱信号」</>状态，则增强至<TextHLT>「中等信号」</>状态。\r\n释放「变轨技能：对你说再见」后，若处于<TextHLT>「中等信号」</>状态，则增强至<TextHLT>「强信号」</>状态。\r\n释放「极轨终结：一如昨日光景」或脱战后，<TextHLT>「信号强度」</>重置为<TextHLT>「弱信号」</>。\r\n曳尔沐处于后台时，不可增强<TextHLT>「信号强度」</>。\r\n\r\n<TextHLT>「弱信号」</>状态下释放「普通攻击：即时故障」最后一段或「变轨技能：离去的人们」后，可在一定时间内直接激活「变轨技能：不连续的存在」；释放该技能或不再处于<TextHLT>「弱信号」</>状态时，取消该激活状态。\r\n<TextHLT>「中等信号」</>或<TextHLT>「强信号」</>状态下释放「普通攻击：错频故障」最后一段后，可在一定时间内直接激活「变轨技能：对你说再见」；释放该技能或信号强度降为<TextHLT>「弱信号」</>时，取消该激活状态。",
-          "LocalizedString": "作为电子世界的存在，曳尔沐与现实的连接存在<TextHLT>「信号强度」</>的区别，分为<TextHLT>「弱信号」</>、<TextHLT>「中等信号」</>、<TextHLT>「强信号」</>三个级别。\r\n释放「援护技：我在」或「变轨技能：不连续的存在」后，若处于<TextHLT>「弱信号」</>状态，则增强至<TextHLT>「中等信号」</>状态。\r\n释放「变轨技能：对你说再见」后，若处于<TextHLT>「中等信号」</>状态，则增强至<TextHLT>「强信号」</>状态。\r\n释放「极轨终结：一如昨日光景」或脱战后，<TextHLT>「信号强度」</>重置为<TextHLT>「弱信号」</>。\r\n曳尔沐处于后台时，不可增强<TextHLT>「信号强度」</>。\r\n\r\n<TextHLT>「弱信号」</>状态下释放「普通攻击：即时故障」最后一段或「变轨技能：离去的人们」后，可在一定时间内直接激活「变轨技能：不连续的存在」；释放该技能或不再处于<TextHLT>「弱信号」</>状态时，取消该激活状态。\r\n<TextHLT>「中等信号」</>或<TextHLT>「强信号」</>状态下释放「普通攻击：错频故障」最后一段后，可在一定时间内直接激活「变轨技能：对你说再见」；释放该技能或信号强度降为<TextHLT>「弱信号」</>时，取消该激活状态。"
+          "LocalizedString": "As a being from the electronic world, Elyms's connection to reality is measured by <TextHLT>Connection Strength</>, which has three levels: <TextHLT>Weak Connection</>, <TextHLT>Medium Connection</>, and <TextHLT>Strong Connection</>.\r\nIncreases Connection Strength to <TextHLT>Medium Connection</> after casting I'm Here or Intermittent Existence while at <TextHLT>Weak Connection</>.\r\nIncreases Connection Strength to <TextHLT>Strong Connection</> after casting Goodbye to You while at <TextHLT>Medium Connection</>.\r\nResets <TextHLT>Connection Strength</> to <TextHLT>Weak Connection</> after casting Do You Get Deja Vu or leaving combat.\r\nElyms cannot increase <TextHLT>Connection Strength</> while off-field.\r\n\r\nAt <TextHLT>Weak Connection</>, performing the final instance of Instant Glitch or casting The Ones Who Left allows Elyms to cast Intermittent Existence directly within a limited time. This opportunity ends when she casts Intermittent Existence or leaves <TextHLT>Weak Connection</>.\r\nAt <TextHLT>Medium Connection</> or <TextHLT>Strong Connection</>, performing the final hit of Crosstalk allows Elyms to cast Goodbye to You directly within a limited time. This opportunity ends when she casts Goodbye to You or Connection Strength drops to <TextHLT>Weak Connection</>."
         }
       },
       "Elyms_propNoun2": {
@@ -815,13 +815,13 @@
           "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
           "Key": "Elyms_propNoun2_name",
           "SourceString": "错视幻觉",
-          "LocalizedString": "错视幻觉"
+          "LocalizedString": "Optical Illusion"
         },
         "Explanation": {
           "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
           "Key": "Elyms_propNoun2_des",
           "SourceString": "<Italic>哪怕希望只是重叠的错觉……</>\r\n信号强度从<TextHLT>「弱信号」</>增强至<TextHLT>「中等信号」</>后，获得增益效果<TextHLT>「错视幻觉」</>，持续一定时间。\r\n释放「变轨技能：对你说再见」时，消耗所有<TextHLT>「错视幻觉」</>，并依据消耗层数提高本次技能的伤害倍率。",
-          "LocalizedString": "<Italic>哪怕希望只是重叠的错觉……</>\r\n信号强度从<TextHLT>「弱信号」</>增强至<TextHLT>「中等信号」</>后，获得增益效果<TextHLT>「错视幻觉」</>，持续一定时间。\r\n释放「变轨技能：对你说再见」时，消耗所有<TextHLT>「错视幻觉」</>，并依据消耗层数提高本次技能的伤害倍率。"
+          "LocalizedString": "<Italic>Even if hope is only an illusion layered upon another…</>\r\nGrants the time-limited <TextHLT>Optical Illusion</> buff when Connection Strength increases from <TextHLT>Weak Connection</> to <TextHLT>Medium Connection</>.\r\nConsumes all <TextHLT>Optical Illusions</> to increase the skill's DMG Ratio based on the number of stacks when casting Goodbye to You."
         }
       }
     }

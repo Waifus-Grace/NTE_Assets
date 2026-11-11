@@ -19,19 +19,19 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_map_icon_name_01",
           "SourceString": "ReroRero电话亭",
-          "LocalizedString": "ReroRero电话亭"
+          "LocalizedString": "ReroRero Phone Booth"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_map_icon_desc_01",
           "SourceString": "遍布世界各地的传送装置，由「环」的直属机关「尤克阿什庭」负责管理。在海特洛市的街头传说中，废弃的红色电话亭里有时会传出诡异的铃声，无辜的过路人就这样消失在茫茫黑雾中……当然，都市传说总是存在一些美好的艺术加工，不过体验过的异能者们多次向「环」提议改良传送方式，毕竟被吞食，消化，然后再排……咳咳，反刍，总之是很糟糕的体验。「尤克阿什庭」暂未回复。",
-          "LocalizedString": "遍布世界各地的传送装置，由「环」的直属机关「尤克阿什庭」负责管理。在海特洛市的街头传说中，废弃的红色电话亭里有时会传出诡异的铃声，无辜的过路人就这样消失在茫茫黑雾中……当然，都市传说总是存在一些美好的艺术加工，不过体验过的异能者们多次向「环」提议改良传送方式，毕竟被吞食，消化，然后再排……咳咳，反刍，总之是很糟糕的体验。「尤克阿什庭」暂未回复。"
+          "LocalizedString": "Teleportation devices, scattered across the globe and managed by the Circle's direct agency, the Yggash Court. There is an urban legend in the streets of Hethereau about an abandoned red Phone Booth that sometimes emits a spooky ringtone, and just like that, innocent passersby vanish into the vast black fog… Of course, urban legends always have a bit of artistic flair to them. However, those who have experienced teleportation have repeatedly suggested to the Circle that they improve the method. After all, being swallowed, digested, and then… ahem, regurgitated, is quite an unpleasant experience. The Yggash Court has yet to respond."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_009",
           "SourceString": "激活该区域的ReroRero电话亭",
-          "LocalizedString": "激活该区域的ReroRero电话亭"
+          "LocalizedString": "Activate the ReroRero Phone Booth in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_004.YH_UI_TSD_Icon_004",
@@ -49,19 +49,19 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_map_icon_type_04",
           "SourceString": "维特海默塔",
-          "LocalizedString": "维特海默塔"
+          "LocalizedString": "Wertheimer Tower"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_map_icon_desc_28",
           "SourceString": "由「环」各大部门共同建立的巨大建筑，可监测当地的维特海默值波动，并在数值异常时立刻发出警示，以便各部门及时采取应对措施。因其绚丽的外观和地标性，现已成为各大城市的热门打卡点。",
-          "LocalizedString": "由「环」各大部门共同建立的巨大建筑，可监测当地的维特海默值波动，并在数值异常时立刻发出警示，以便各部门及时采取应对措施。因其绚丽的外观和地标性，现已成为各大城市的热门打卡点。"
+          "LocalizedString": "The Circle’s many departments built massive structures like this. They monitor local Wertheimer Index fluctuations and issue timely Anomaly warnings. Their striking design has made them landmarks and popular attractions in major cities."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_010",
           "SourceString": "激活该区域的维特海默塔",
-          "LocalizedString": "激活该区域的维特海默塔"
+          "LocalizedString": "Activate the Wertheimer Tower in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_012.YH_UI_TSD_Icon_012",
@@ -79,19 +79,19 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "zhanbu_item_oraclestone",
           "SourceString": "谕石",
-          "LocalizedString": "谕石"
+          "LocalizedString": "Oracle Stone"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "zhanbu_oraclestone_desc",
           "SourceString": "不知前路、难以落地的盲目乌鸦衔着的宝石，无人知晓它们来自何方。有传言说捡到「谕石」的人会被厄运缠身，倘若不小心捡到也不用在意，位于各地的魔女之家中的「魔女」小姐能够消弭这份厄运。",
-          "LocalizedString": "不知前路、难以落地的盲目乌鸦衔着的宝石，无人知晓它们来自何方。有传言说捡到「谕石」的人会被厄运缠身，倘若不小心捡到也不用在意，位于各地的魔女之家中的「魔女」小姐能够消弭这份厄运。"
+          "LocalizedString": "Gems, carried by blind, lost ravens that are unable to land, their origins unknown to all.\r\nRumors say that those who pick up Oracle Stones will be struck by misfortune… Though, don't worry if you happen to find one; the mysterious lady from the Witch's House can dispel your misfortune."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_011",
           "SourceString": "收集该区域散落的谕石",
-          "LocalizedString": "收集该区域散落的谕石"
+          "LocalizedString": "Collect the scattered Oracle Stones in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_015.YH_UI_TSD_Icon_015",
@@ -109,19 +109,19 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "QuestTitle_2",
           "SourceString": "支线",
-          "LocalizedString": "支线"
+          "LocalizedString": "Side"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_012",
           "SourceString": "区域内还有支线故事等待被发现。",
-          "LocalizedString": "区域内还有支线故事等待被发现。"
+          "LocalizedString": "There are still side stories waiting to be discovered in this area."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_013",
           "SourceString": "完成该区域的支线",
-          "LocalizedString": "完成该区域的支线"
+          "LocalizedString": "Complete the side quests in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_008.YH_UI_TSD_Icon_008",
@@ -139,19 +139,19 @@
           "TableId": "/Game/Text/ST_TeachAndIllustrate.ST_TeachAndIllustrate",
           "Key": "TreasureBox_Name",
           "SourceString": "「21的赠礼」",
-          "LocalizedString": "「21的赠礼」"
+          "LocalizedString": "Gift from \"21\""
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_008",
           "SourceString": "赌徒「21」将赢来的筹码丢在城市各处，毕竟对于数字生命来说它并不需要这些。不过有时候想要得到奖励，需要先解决一些麻烦……",
-          "LocalizedString": "赌徒「21」将赢来的筹码丢在城市各处，毕竟对于数字生命来说它并不需要这些。不过有时候想要得到奖励，需要先解决一些麻烦……"
+          "LocalizedString": "The gambler 21 has scattered winning chips throughout the city, since as a digital life form, it doesn't need them. However, sometimes getting the reward requires dealing with some trouble first…"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_014",
           "SourceString": "开启该区域「21的赠礼」",
-          "LocalizedString": "开启该区域「21的赠礼」"
+          "LocalizedString": "Open the Gift from \"21\" in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_003.YH_UI_TSD_Icon_003",
@@ -169,19 +169,19 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_VisionList_Title",
           "SourceString": "异象委托",
-          "LocalizedString": "异象委托"
+          "LocalizedString": "Anomaly Commission"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "TeachGuideDataTable_YixiangleidaDes",
           "SourceString": "靠近「待收容异象」至一定距离后，小地图会自动开启雷达标识。\r\n当距离不断缩短，雷达的颜色也会发生改变，由远即近分别为：蓝色→绿色→橙色→红色。",
-          "LocalizedString": "靠近「待收容异象」至一定距离后，小地图会自动开启雷达标识。\r\n当距离不断缩短，雷达的颜色也会发生改变，由远即近分别为：蓝色→绿色→橙色→红色。"
+          "LocalizedString": "When approaching an Anomaly Awaiting Containment, the radar marker on the mini-map will activate automatically .\r\nThe radar's indicator will change from blue to green, then to orange, and ultimately to red as the distance decreases."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_015",
           "SourceString": "完成该区域的异象委托",
-          "LocalizedString": "完成该区域的异象委托"
+          "LocalizedString": "Complete the Anomaly Commissions in this area"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_013.YH_UI_TSD_Icon_013",
@@ -199,19 +199,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "Anomaly_002_Name",
           "SourceString": "黑之书",
-          "LocalizedString": "黑之书"
+          "LocalizedString": "Black Tome"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_BlackBook",
           "SourceString": "掩藏黑渊中的罪孽终将得到彼岸的审判，成为吾主吧，只需要写下……你的名字。你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？\r\n「你的名字是？」",
-          "LocalizedString": "掩藏黑渊中的罪孽终将得到彼岸的审判，成为吾主吧，只需要写下……你的名字。你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？\r\n「你的名字是？」"
+          "LocalizedString": "The sins hidden in the dark abyss will finally face judgment from the other shore. To become my master, you need only write… your… name. What is your name? What is your name? What is your name? What is your name? What is your name? What is your name? What is your name?\r\n\"What is your name?\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_016",
           "SourceString": "击败黑之书",
-          "LocalizedString": "击败黑之书"
+          "LocalizedString": "Defeat Black Tome"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_011.YH_UI_TSD_Icon_011",
@@ -229,19 +229,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_13_Name",
           "SourceString": "无首铁驭",
-          "LocalizedString": "无首铁驭"
+          "LocalizedString": "Headless Rider"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_MotoBKGdes",
           "SourceString": "只有深夜才会出现，骑着一台黑色摩托机车游荡于都市街头的无头骑士。据说会盯上时速超高的飙车族，与其进行竞速比赛并在胜利后用可怖的镰刀收割他们的暴走之魂。\r\n「刺骨的蓝火会燃尽一切热血。」",
-          "LocalizedString": "只有深夜才会出现，骑着一台黑色摩托机车游荡于都市街头的无头骑士。据说会盯上时速超高的飙车族，与其进行竞速比赛并在胜利后用可怖的镰刀收割他们的暴走之魂。\r\n「刺骨的蓝火会燃尽一切热血。」"
+          "LocalizedString": "A headless rider that appears only in the dead of night, roaming the city streets on a black motorcycle. Legend says it targets high-speed street racers, challenging them to races and harvesting their reckless psyches with a terrifying scythe after victory.\r\n\"Bone-chilling blue flames will burn away all passion.\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_017",
           "SourceString": "击败无首铁驭",
-          "LocalizedString": "击败无首铁驭"
+          "LocalizedString": "Defeat Headless Rider"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_007.YH_UI_TSD_Icon_007",
@@ -259,19 +259,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_07_Name",
           "SourceString": "塞润尼缇",
-          "LocalizedString": "塞润尼缇"
+          "LocalizedString": "Serenetti"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_MonsterDropBoxMapDetails_FlowerBGKDes",
           "SourceString": "封闭内心的失声少年误入了被言语的恶意侵染的花房，花藤扎根与少年的血肉，汲取着养料，结成花茧。由此从未说出口的言语，尽数化为万物之形。\r\n「叱骂反调，为寂然无声，一言之庭。」",
-          "LocalizedString": "封闭内心的失声少年误入了被言语的恶意侵染的花房，花藤扎根与少年的血肉，汲取着养料，结成花茧。由此从未说出口的言语，尽数化为万物之形。\r\n「叱骂反调，为寂然无声，一言之庭。」"
+          "LocalizedString": "A silent boy, who had shut his heart, wandered into a greenhouse poisoned by the malice of words. Vines took root in his flesh and blood, drawing sustenance and weaving cocoons of flowers. From this, his unspoken words transformed into the shapes of all things.\r\n\"Scolding and discord become silent stillness, a garden of words.\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_018",
           "SourceString": "击败塞润尼缇",
-          "LocalizedString": "击败塞润尼缇"
+          "LocalizedString": "Defeat Serenetti"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_006.YH_UI_TSD_Icon_006",
@@ -289,19 +289,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_15_Name",
           "SourceString": "音霸魔王",
-          "LocalizedString": "音霸魔王"
+          "LocalizedString": "Beat King"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_BeatGame",
           "SourceString": "跟随着音乐的节奏，只需要在恰当的时机，轻轻按下，恭喜您，您已经学会如何玩音游了。\r\n「恭喜，你在本次挑战中获得了99个完美以及1个很好。」",
-          "LocalizedString": "跟随着音乐的节奏，只需要在恰当的时机，轻轻按下，恭喜您，您已经学会如何玩音游了。\r\n「恭喜，你在本次挑战中获得了99个完美以及1个很好。」"
+          "LocalizedString": "Follow the beat, press buttons when the time is right… And there you have it! You are now a rhythm gamer!\r\n\"Congratulations, you achieved 99 Perfects and 1 Great in this challenge.\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_019",
           "SourceString": "击败音霸魔王",
-          "LocalizedString": "击败音霸魔王"
+          "LocalizedString": "Defeat Beat King"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_010.YH_UI_TSD_Icon_010",
@@ -319,19 +319,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_19_Name",
           "SourceString": "海囚",
-          "LocalizedString": "海囚"
+          "LocalizedString": "Sea Prisoner"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_HaiQiu",
           "SourceString": "在此异象空间中，巨大的鲸鱼被捕鲸船的锁链困住，不断遭到折磨，鲸鱼在寻找能帮助它毁掉锁链的强大之人。\r\n「歌声是它的呼救。」",
-          "LocalizedString": "在此异象空间中，巨大的鲸鱼被捕鲸船的锁链困住，不断遭到折磨，鲸鱼在寻找能帮助它毁掉锁链的强大之人。\r\n「歌声是它的呼救。」"
+          "LocalizedString": "Within this Anomalous Realm, a massive whale is bound by chains from a whaling ship. Suffering, the whale searches for someone powerful enough to help destroy its bindings.\r\n\"Its song is a cry for help.\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_020",
           "SourceString": "击败海囚",
-          "LocalizedString": "击败海囚"
+          "LocalizedString": "Defeat Sea Prisoner"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_001.YH_UI_TSD_Icon_001",
@@ -349,19 +349,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_33_name",
           "SourceString": "囿巢鸟",
-          "LocalizedString": "囿巢鸟"
+          "LocalizedString": "Nestbound Bird"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_YouChaoNiao",
           "SourceString": "暗中结巢的鸟母，会以温柔慈爱的女性声音呼唤迷路的儿童，询问他们是否想成为自己的孩子，倘若答应，那孩子就会永远留在鸟母的巢中。\r\n「不要夺走我的孩子……」",
-          "LocalizedString": "暗中结巢的鸟母，会以温柔慈爱的女性声音呼唤迷路的儿童，询问他们是否想成为自己的孩子，倘若答应，那孩子就会永远留在鸟母的巢中。\r\n「不要夺走我的孩子……」"
+          "LocalizedString": "The mother bird that nests in the shadows calls out to lost hatchlings with a gentle, loving female chirp, asking if they would like to become her hatchlings. Should they agree, they will remain in the bird's nest forever.\r\n\"Don't take my hatchlings away from me…\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_021",
           "SourceString": "击败囿巢鸟",
-          "LocalizedString": "击败囿巢鸟"
+          "LocalizedString": "Defeat Nestbound Bird"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_014.YH_UI_TSD_Icon_014",
@@ -379,19 +379,19 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_08_Name",
           "SourceString": "斑蝶",
-          "LocalizedString": "斑蝶"
+          "LocalizedString": "Swallowtail"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MonsterDropBox_BanDie",
           "SourceString": "笨重而庞大的蝴蝶拖着身上的电影票根，一直试图向高空飞行，却只能终日在此徘徊。\r\n「逃走吧，能逃走吗？」",
-          "LocalizedString": "笨重而庞大的蝴蝶拖着身上的电影票根，一直试图向高空飞行，却只能终日在此徘徊。\r\n「逃走吧，能逃走吗？」"
+          "LocalizedString": "A clumsy, massive butterfly, clinging to movie ticket stubs plastered across its body. Forever trying to soar into the sky, yet wandering endlessly in this wretched place, day after day.\r\n\"Must escape… Can I?\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_022",
           "SourceString": "击败斑蝶",
-          "LocalizedString": "击败斑蝶"
+          "LocalizedString": "Defeat Swallowtail"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_002.YH_UI_TSD_Icon_002",
@@ -409,19 +409,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00101_Name",
           "SourceString": "伊波恩古董店",
-          "LocalizedString": "伊波恩古董店"
+          "LocalizedString": "Eibon Antique Shop"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00101_Title",
           "SourceString": "总有一天你会渴望回到这里。",
-          "LocalizedString": "总有一天你会渴望回到这里。"
+          "LocalizedString": "Someday you'll find yourself longing to return here."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -439,19 +439,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00102_Name",
           "SourceString": "桥间地商业区",
-          "LocalizedString": "桥间地商业区"
+          "LocalizedString": "Bridge Crossings Commercial District"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00102_Title",
           "SourceString": "桥间地最繁华的街口，闲逛的好去处。",
-          "LocalizedString": "桥间地最繁华的街口，闲逛的好去处。"
+          "LocalizedString": "The busiest intersection in Bridge Crossings, and the perfect spot for a leisurely stroll."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -469,19 +469,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00103_Name",
           "SourceString": "斯特利速递",
-          "LocalizedString": "斯特利速递"
+          "LocalizedString": "Sterry Express"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00103_Title",
           "SourceString": "「只要钱到位，什么都能送！」",
-          "LocalizedString": "「只要钱到位，什么都能送！」"
+          "LocalizedString": "\"As long as the money's right, we'll deliver anything!\""
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -499,19 +499,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00104_Name",
           "SourceString": "绿墙坡观景台",
-          "LocalizedString": "绿墙坡观景台"
+          "LocalizedString": "Green Wall Slope Observatory"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00104_Title",
           "SourceString": "将桥间地收入眼中。",
-          "LocalizedString": "将桥间地收入眼中。"
+          "LocalizedString": "Take in all of Bridge Crossings at a glance."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -529,19 +529,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00105_Name",
           "SourceString": "魔女之家",
-          "LocalizedString": "魔女之家"
+          "LocalizedString": "The Witch's House"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00105_Title",
           "SourceString": "笼中鸟透过水晶，窥视你的命运。",
-          "LocalizedString": "笼中鸟透过水晶，窥视你的命运。"
+          "LocalizedString": "A caged bird peers through crystal, glimpsing your destiny."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -559,19 +559,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00106_Name",
           "SourceString": "新越车行",
-          "LocalizedString": "新越车行"
+          "LocalizedString": "New Way"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00106_Title",
           "SourceString": "年轻人的第一辆代步车，就选新越。",
-          "LocalizedString": "年轻人的第一辆代步车，就选新越。"
+          "LocalizedString": "For your first ride, choose Novus."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -589,19 +589,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00201_Name",
           "SourceString": "汽车影院",
-          "LocalizedString": "汽车影院"
+          "LocalizedString": "Drive-in Theater"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00201_Title",
           "SourceString": "没有座位的露天影院，记得开车或自备板凳。",
-          "LocalizedString": "没有座位的露天影院，记得开车或自备板凳。"
+          "LocalizedString": "An outdoor theater with no seats. Remember to bring your car or a folding chair."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -619,19 +619,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00202_Name",
           "SourceString": "湛望露营地",
-          "LocalizedString": "湛望露营地"
+          "LocalizedString": "Bluegaze Campground"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00202_Title",
           "SourceString": "山的终点，海的起点。",
-          "LocalizedString": "山的终点，海的起点。"
+          "LocalizedString": "Where the mountains end, the ocean begins."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -649,19 +649,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00203_Name",
           "SourceString": "未闻浦站台",
-          "LocalizedString": "未闻浦站台"
+          "LocalizedString": "Unheard Shores Platform"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00203_Title",
           "SourceString": "骗你的，我们不去世界尽头。",
-          "LocalizedString": "骗你的，我们不去世界尽头。"
+          "LocalizedString": "Just kidding! You'll definitely be able to hear these waters."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -679,19 +679,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00204_Name",
           "SourceString": "奥利哈刚「理想馆」",
-          "LocalizedString": "奥利哈刚「理想馆」"
+          "LocalizedString": "Orichalcos Imaginist"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00204_Title",
           "SourceString": "穹顶以下，海平面以上，在此之间是众人的欢呼。",
-          "LocalizedString": "穹顶以下，海平面以上，在此之间是众人的欢呼。"
+          "LocalizedString": "Echoes of a cheering crowd linger beneath the sky and above the sea."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -709,19 +709,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00205_Name",
           "SourceString": "塞润尼缇庄园",
-          "LocalizedString": "塞润尼缇庄园"
+          "LocalizedString": "Serenetti Manor"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00205_Title",
           "SourceString": "如今，丛生的草木才是这里的主人。",
-          "LocalizedString": "如今，丛生的草木才是这里的主人。"
+          "LocalizedString": "Now, the overgrown vegetation has become the true ruler of this place."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -739,19 +739,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00301_Name",
           "SourceString": "纳库佩达许愿池",
-          "LocalizedString": "纳库佩达许愿池"
+          "LocalizedString": "Nacupeda Wishing Pool"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00301_Title",
           "SourceString": "你的愿望，纳库佩达已经听到了。至于能不能实现……就看你自己的「期望」有多强了！",
-          "LocalizedString": "你的愿望，纳库佩达已经听到了。至于能不能实现……就看你自己的「期望」有多强了！"
+          "LocalizedString": "Nacupeda has heard your wish. As for whether it can come true… that depends on how strong your own aspirations are!"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -769,19 +769,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00302_Name",
           "SourceString": "玉饼街街口",
-          "LocalizedString": "玉饼街街口"
+          "LocalizedString": "Tamamochi Street Entrance"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00302_Title",
           "SourceString": "平凡的街道上洋溢着简单的幸福。",
-          "LocalizedString": "平凡的街道上洋溢着简单的幸福。"
+          "LocalizedString": "Simple happiness fills this ordinary street."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -799,19 +799,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00303_Name",
           "SourceString": "克莱门学园大门",
-          "LocalizedString": "克莱门学园大门"
+          "LocalizedString": "Clement Academy Main Gate"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00303_Title",
           "SourceString": "无关人员禁止入内；学生不得擅自外出。",
-          "LocalizedString": "无关人员禁止入内；学生不得擅自外出。"
+          "LocalizedString": "NO UNAUTHORIZED ENTRY. STUDENTS MAY NOT LEAVE WITHOUT PERMISSION"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -829,19 +829,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00304_Name",
           "SourceString": "折千市场入口",
-          "LocalizedString": "折千市场入口"
+          "LocalizedString": "Origami Market Entrance"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00304_Title",
           "SourceString": "全海特洛最实惠的市场，希望你省下的钱能比来这儿的路费多。",
-          "LocalizedString": "全海特洛最实惠的市场，希望你省下的钱能比来这儿的路费多。"
+          "LocalizedString": "Hethereau's best prices. We hope you save more money than you spend getting here."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -859,19 +859,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00305_Name",
           "SourceString": "落雨庭",
-          "LocalizedString": "落雨庭"
+          "LocalizedString": "Raindrop Court"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00305_Title",
           "SourceString": "雨从亭檐落下的时候，你在想什么？",
-          "LocalizedString": "雨从亭檐落下的时候，你在想什么？"
+          "LocalizedString": "What's on your mind when the rain falls from the pavilion's eaves?"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -889,19 +889,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00306_Name",
           "SourceString": "海特洛市立医院",
-          "LocalizedString": "海特洛市立医院"
+          "LocalizedString": "Hethereau Municipal Hospital"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00306_Title",
           "SourceString": "海特洛规模最大的医院，市民健康的坚固防线。",
-          "LocalizedString": "海特洛规模最大的医院，市民健康的坚固防线。"
+          "LocalizedString": "Hethereau's largest hospital, a safeguard for citizen health."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -919,19 +919,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00401_Name",
           "SourceString": "银杏街街头",
-          "LocalizedString": "银杏街街头"
+          "LocalizedString": "Ginkgo Street"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00401_Title",
           "SourceString": "踏入银杏街，逃离世界。记得回家吃饭。",
-          "LocalizedString": "踏入银杏街，逃离世界。记得回家吃饭。"
+          "LocalizedString": "Step into Ginkgo Street, escape the world. Just don't forget to go home for dinner."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -949,19 +949,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00402_Name",
           "SourceString": "诺提克桥畔",
-          "LocalizedString": "诺提克桥畔"
+          "LocalizedString": "Noetic Bridge Waterfront"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00402_Title",
           "SourceString": "当你看向对面的桥，那儿的人也在对面看你。",
-          "LocalizedString": "当你看向对面的桥，那儿的人也在对面看你。"
+          "LocalizedString": "The bridge on the other side is a scenic view. You can even imagine that you're the one who those on the other bridge are gazing at."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -979,19 +979,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00403_Name",
           "SourceString": "上晴塔顶",
-          "LocalizedString": "上晴塔顶"
+          "LocalizedString": "Hethereau Skytower Top"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00403_Title",
           "SourceString": "穿过云层，就会发现永远都是晴天。",
-          "LocalizedString": "穿过云层，就会发现永远都是晴天。"
+          "LocalizedString": "Rise above the clouds, and you'll find it's always sunny."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1009,19 +1009,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00404_Name",
           "SourceString": "谷仓街边",
-          "LocalizedString": "谷仓街边"
+          "LocalizedString": "Barn Street"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00404_Title",
           "SourceString": "有些熟悉的氛围，令人安心的宁静。",
-          "LocalizedString": "有些熟悉的氛围，令人安心的宁静。"
+          "LocalizedString": "A familiar atmosphere, reassuring in its quiet peacefulness."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1039,19 +1039,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00405_Name",
           "SourceString": "粉玉",
-          "LocalizedString": "粉玉"
+          "LocalizedString": "Pink Pearl"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00405_Title",
           "SourceString": "永恒的春天。",
-          "LocalizedString": "永恒的春天。"
+          "LocalizedString": "Eternal spring."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1069,19 +1069,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00406_Name",
           "SourceString": "水菱湖畔",
-          "LocalizedString": "水菱湖畔"
+          "LocalizedString": "Caltrop Lake Waterfront"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00406_Title",
           "SourceString": "在内陆城市中，湖经常被视为海的替代品。幸好这里是海特洛，水菱湖就是它自己。",
-          "LocalizedString": "在内陆城市中，湖经常被视为海的替代品。幸好这里是海特洛，水菱湖就是它自己。"
+          "LocalizedString": "In inland cities, lakes are often seen as substitutes for the sea. Fortunately, this is Hethereau, so Caltrop Lake stands on its own merits."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1099,19 +1099,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00407_Name",
           "SourceString": "北角镇街头",
-          "LocalizedString": "北角镇街头"
+          "LocalizedString": "Northridge Town Streets"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00407_Title",
           "SourceString": "依山傍水的两座小镇当中，住户更多的一座。",
-          "LocalizedString": "依山傍水的两座小镇当中，住户更多的一座。"
+          "LocalizedString": "Of the two towns nestled between mountains and water, this is the one with more residents."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1129,19 +1129,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00408_Name",
           "SourceString": "摇曳镇街头",
-          "LocalizedString": "摇曳镇街头"
+          "LocalizedString": "Yurutown Streets"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00408_Title",
           "SourceString": "依山傍水的两座小镇当中，店铺更多的一座。",
-          "LocalizedString": "依山傍水的两座小镇当中，店铺更多的一座。"
+          "LocalizedString": "Of the two towns nestled between mountains and water, this is the one with more shops."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1159,19 +1159,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00409_Name",
           "SourceString": "TerraX车行",
-          "LocalizedString": "TerraX车行"
+          "LocalizedString": "TerraX"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00409_Title",
           "SourceString": "神秘探险家「铁骑士」建立的汽车品牌，深受硬核玩家青睐。",
-          "LocalizedString": "神秘探险家「铁骑士」建立的汽车品牌，深受硬核玩家青睐。"
+          "LocalizedString": "An automotive brand founded by the mysterious adventurer Iron Knight, beloved by hardcore car enthusiasts."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1189,19 +1189,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00501_Name",
           "SourceString": "星渚游艇码头",
-          "LocalizedString": "星渚游艇码头"
+          "LocalizedString": "Stellar Marina"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00501_Title",
           "SourceString": "一片没有风浪的海，船只和游人的寝床。",
-          "LocalizedString": "一片没有风浪的海，船只和游人的寝床。"
+          "LocalizedString": "A calm sea without waves. The perfect haven for boats and visitors alike."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1219,19 +1219,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00502_Name",
           "SourceString": "新赫兰德中心",
-          "LocalizedString": "新赫兰德中心"
+          "LocalizedString": "New Herland Center"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00502_Title",
           "SourceString": "条条大路通此处。",
-          "LocalizedString": "条条大路通此处。"
+          "LocalizedString": "All roads lead here."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1249,19 +1249,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00503_Name",
           "SourceString": "迈达斯科技大厦",
-          "LocalizedString": "迈达斯科技大厦"
+          "LocalizedString": "Midas Tower"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00503_Title",
           "SourceString": "请传授给我——不用咻啪也能从顶楼下来的方法。",
-          "LocalizedString": "请传授给我——不用咻啪也能从顶楼下来的方法。"
+          "LocalizedString": "Please teach me how to get down without Chuppa."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1279,19 +1279,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00504_Name",
           "SourceString": "海角广场",
-          "LocalizedString": "海角广场"
+          "LocalizedString": "Cape Square"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00504_Title",
           "SourceString": "一颗巨蛋；然而其中是已孵化的梦想。",
-          "LocalizedString": "一颗巨蛋；然而其中是已孵化的梦想。"
+          "LocalizedString": "A giant egg; yet within lie hatched dreams."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1309,19 +1309,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00505_Name",
           "SourceString": "金苹果藏馆",
-          "LocalizedString": "金苹果藏馆"
+          "LocalizedString": "Gold Apple Collection Hall"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00505_Title",
           "SourceString": "在这里，传说中的金苹果也算不上罕见的物什。",
-          "LocalizedString": "在这里，传说中的金苹果也算不上罕见的物什。"
+          "LocalizedString": "Here, even legendary golden apples are hardly considered rare treasures."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1339,19 +1339,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00506_Name",
           "SourceString": "愿木坡许愿树",
-          "LocalizedString": "愿木坡许愿树"
+          "LocalizedString": "Yuanmu Hill Wishing Tree"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00506_Title",
           "SourceString": "你登高时的愿望是能看到这棵树；现在你看到它了。",
-          "LocalizedString": "你登高时的愿望是能看到这棵树；现在你看到它了。"
+          "LocalizedString": "You rose higher, wishing to see the tree. Now you have seen it."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1369,19 +1369,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00507_Name",
           "SourceString": "华彩街入口",
-          "LocalizedString": "华彩街入口"
+          "LocalizedString": "Cadenza Street Entrance"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00507_Title",
           "SourceString": "经检测，新赫兰德的烟火气中不含任何油烟成分。",
-          "LocalizedString": "经检测，新赫兰德的烟火气中不含任何油烟成分。"
+          "LocalizedString": "Testing confirms that New Herland's air contains no cooking oil fumes whatsoever."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1399,19 +1399,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00508_Name",
           "SourceString": "雷加利亚车行",
-          "LocalizedString": "雷加利亚车行"
+          "LocalizedString": "Regalia"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00508_Title",
           "SourceString": "拥有一辆雷加利亚，就拥有了一切你想去的地方。",
-          "LocalizedString": "拥有一辆雷加利亚，就拥有了一切你想去的地方。"
+          "LocalizedString": "Own a Regalia, and you'll own every destination you could ever want to reach."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1429,19 +1429,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00509_Name",
           "SourceString": "鹦鹉螺隧道",
-          "LocalizedString": "鹦鹉螺隧道"
+          "LocalizedString": "Nautili Tunnel"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00509_Title",
           "SourceString": "怀念几亿年前，那时我们不需要修建通路，就能在海底穿梭自如。",
-          "LocalizedString": "怀念几亿年前，那时我们不需要修建通路，就能在海底穿梭自如。"
+          "LocalizedString": "How we long for those days hundreds of millions of years ago, when we could glide freely through the ocean depths without the need of these passages…"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1459,19 +1459,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00901_Name",
           "SourceString": "游船码头",
-          "LocalizedString": "游船码头"
+          "LocalizedString": "Cruise Pier"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00901_Title",
           "SourceString": "游船停靠的地方，来岛的第一站。栈桥不长，但视野开阔，船靠岸时正好看见一整片海。",
-          "LocalizedString": "游船停靠的地方，来岛的第一站。栈桥不长，但视野开阔，船靠岸时正好看见一整片海。"
+          "LocalizedString": "A docking point for cruise ships, and the first stop for visitors to the island. The pier may be short, but the view opens wide. As the boat comes ashore, the whole stretch of sea comes into sight."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1489,19 +1489,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00902_Name",
           "SourceString": "一意向阳",
-          "LocalizedString": "一意向阳"
+          "LocalizedString": "Sunward"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00902_Title",
           "SourceString": "异象福利院，人们来这里观光了解异象，或是担保异象。环境优雅，设施齐全。周末常有父母带孩子来参观。",
-          "LocalizedString": "异象福利院，人们来这里观光了解异象，或是担保异象。环境优雅，设施齐全。周末常有父母带孩子来参观。"
+          "LocalizedString": "An Anomaly Charity House where visitors can tour the grounds, learn about Anomalies, or serve as guarantors. With elegant grounds and well-equipped facilities, it often welcomes parents and children on weekends."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1519,19 +1519,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00903_Name",
           "SourceString": "月见塔",
-          "LocalizedString": "月见塔"
+          "LocalizedString": "Moonview Tower"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00903_Title",
           "SourceString": "这里是岛的最高处。月见塔历史悠久，坍塌废弃多年，于近年重新修葺。过去的岛民爱在这里观星赏月，说是离天近，许愿灵。",
-          "LocalizedString": "这里是岛的最高处。月见塔历史悠久，坍塌废弃多年，于近年重新修葺。过去的岛民爱在这里观星赏月，说是离天近，许愿灵。"
+          "LocalizedString": "The highest point on the island. Moonview Tower has a long history. Once collapsed and abandoned for years, it was recently restored. Islanders used to gather here to watch the stars and moon, saying it stood close to the heavens and was the perfect place to make a wish."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1549,19 +1549,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00904_Name",
           "SourceString": "拱门湾",
-          "LocalizedString": "拱门湾"
+          "LocalizedString": "Archway Bay"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00904_Title",
           "SourceString": "一座天然石拱门立在湾口，里头搁着一艘旧船。船已破旧不堪，没人知道它在那里多久了。",
-          "LocalizedString": "一座天然石拱门立在湾口，里头搁着一艘旧船。船已破旧不堪，没人知道它在那里多久了。"
+          "LocalizedString": "A natural stone arch rises at the mouth of the bay, with an old boat resting beneath it. The boat is badly worn, and no one knows how long it has waited there."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_006",
           "SourceString": "前往打卡点完成拍照打卡",
-          "LocalizedString": "前往打卡点完成拍照打卡"
+          "LocalizedString": "Go to check-in points and take photos to complete check-ins"
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1579,19 +1579,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "MapExploreCustom_Name",
           "SourceString": "异闻录",
-          "LocalizedString": "异闻录"
+          "LocalizedString": "Strange Tales"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "MapExploreCustom_Dec",
           "SourceString": "这世间异象林林总总——\r\n有些已被记录，有些尚待发掘。\r\n有些是真相的全貌，有些只是管中窥豹。\r\n\r\n人们再怎么努力收集，档案永远缺几页。\r\n不是疏忽，是有些东西还没来得及被归类，就已经在不起眼的角落里自行长出了枝叶。\r\n\r\n你若在途中抬头，偶然瞥见那枝叶，不妨采撷一枝。\r\n也不枉这场相逢的奇妙。",
-          "LocalizedString": "这世间异象林林总总——\r\n有些已被记录，有些尚待发掘。\r\n有些是真相的全貌，有些只是管中窥豹。\r\n\r\n人们再怎么努力收集，档案永远缺几页。\r\n不是疏忽，是有些东西还没来得及被归类，就已经在不起眼的角落里自行长出了枝叶。\r\n\r\n你若在途中抬头，偶然瞥见那枝叶，不妨采撷一枝。\r\n也不枉这场相逢的奇妙。"
+          "LocalizedString": "The world is full of Anomalies of every kind—\r\nsome have been recorded, while others still wait to be found.\r\nSome reveal the whole truth; others offer only a narrow glimpse.\r\n\r\nNo matter how hard people try to collect them all, the archive is always missing a few pages.\r\nNot out of negligence. Some things take root in forgotten corners before anyone has time to classify them.\r\n\r\nIf, on your journey, you happen to look up and catch sight of such a branch, pluck it.\r\nThen this curious encounter will not have been in vain."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_024",
           "SourceString": "完成该区域的异闻录",
-          "LocalizedString": "完成该区域的异闻录"
+          "LocalizedString": "Complete the Strange Tales in this area."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_016.YH_UI_TSD_Icon_016",
@@ -1609,19 +1609,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00601_Title",
           "SourceString": "星沉湾沙滩",
-          "LocalizedString": "星沉湾沙滩"
+          "LocalizedString": "Starfall Beach"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00601_Name",
           "SourceString": "海的那边是什么？沙滩，白浪，以及闪闪发光的你。",
-          "LocalizedString": "海的那边是什么？沙滩，白浪，以及闪闪发光的你。"
+          "LocalizedString": "What lies beyond the sea? A beach, seafoam, and you—shimmering in the sunlight."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1639,19 +1639,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00602_Title",
           "SourceString": "巨石之门",
-          "LocalizedString": "巨石之门"
+          "LocalizedString": "Stonegate"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00602_Name",
           "SourceString": "在另一条未知的世界线中，我只存在于某个人的记忆。",
-          "LocalizedString": "在另一条未知的世界线中，我只存在于某个人的记忆。"
+          "LocalizedString": "In another unknown realm, I exist only in memory."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1669,19 +1669,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00603_Title",
           "SourceString": "长风谷",
-          "LocalizedString": "长风谷"
+          "LocalizedString": "Windvale"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00603_Name",
           "SourceString": "风今天吹过山谷， 明天还会继续吹过。",
-          "LocalizedString": "风今天吹过山谷， 明天还会继续吹过。"
+          "LocalizedString": "The valley wind soars indiscriminately, today and forever."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1699,19 +1699,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00604_Title",
           "SourceString": "獾爪螺旋高速",
-          "LocalizedString": "獾爪螺旋高速"
+          "LocalizedString": "Badgerclaw Expressway"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00604_Name",
           "SourceString": "一圈圈攀升的不仅是载具，还有心情。",
-          "LocalizedString": "一圈圈攀升的不仅是载具，还有心情。"
+          "LocalizedString": "With every cycle, the vehicle isn't the only thing soaring—your spirits are, too."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1729,19 +1729,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00605_Title",
           "SourceString": "金花路瞭望台",
-          "LocalizedString": "金花路瞭望台"
+          "LocalizedString": "Goldbloom Overlook"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00605_Name",
           "SourceString": "远处还有更高的山。",
-          "LocalizedString": "远处还有更高的山。"
+          "LocalizedString": "There are even higher mountains to climb on the horizon."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1759,19 +1759,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00606_Title",
           "SourceString": "湖边便利店",
-          "LocalizedString": "湖边便利店"
+          "LocalizedString": "Lakeside Mart"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00606_Name",
           "SourceString": "来或不来，便利店就在那里。",
-          "LocalizedString": "来或不来，便利店就在那里。"
+          "LocalizedString": "Rain or shine, Lakeside Mart's doors are always open!"
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1789,19 +1789,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00607_Title",
           "SourceString": "清坪水田",
-          "LocalizedString": "清坪水田"
+          "LocalizedString": "Clearfield Paddies"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00607_Name",
           "SourceString": "每株秧苗都会做收获的梦。",
-          "LocalizedString": "每株秧苗都会做收获的梦。"
+          "LocalizedString": "Every grain of rice dreams of serving the people."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1819,19 +1819,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00608_Title",
           "SourceString": "浅水溪",
-          "LocalizedString": "浅水溪"
+          "LocalizedString": "Shallow Creek"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00608_Name",
           "SourceString": "耳饱溪声，目览秀色。",
-          "LocalizedString": "耳饱溪声，目览秀色。"
+          "LocalizedString": "Let your ears drink in the creek's melody, and your eyes feast on its glimmering beauty."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1849,19 +1849,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00609_Title",
           "SourceString": "夏阳花田",
-          "LocalizedString": "夏阳花田"
+          "LocalizedString": "Sunbright Fields"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00609_Name",
           "SourceString": "愿你的幸福像花一样怒放，灿烂如同夏日金阳。",
-          "LocalizedString": "愿你的幸福像花一样怒放，灿烂如同夏日金阳。"
+          "LocalizedString": "May your happiness blossom like fields of blooms, radiant as the golden summer sun."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",
@@ -1879,19 +1879,19 @@
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00610_Title",
           "SourceString": "白尾树九连弯",
-          "LocalizedString": "白尾树九连弯"
+          "LocalizedString": "Whitetail Switchbacks"
         },
         "ExploreDesc": {
           "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
           "Key": "WP_00610_Name",
           "SourceString": "弯道过后，前路尽是坦途。",
-          "LocalizedString": "弯道过后，前路尽是坦途。"
+          "LocalizedString": "Beyond the bends, the road ahead is well-traveled."
         },
         "ExploreGoal": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "MapexploreInfo_025",
           "SourceString": "前往打卡点完成飞车打卡",
-          "LocalizedString": "前往打卡点完成飞车打卡"
+          "LocalizedString": "Go to check-in points to complete Checkpoint Rush."
         },
         "SmallIcon": {
           "AssetPathName": "/Game/UI/UI/minimap/MapExplore/SmallExploreIcon/YH_UI_TSD_Icon_005.YH_UI_TSD_Icon_005",

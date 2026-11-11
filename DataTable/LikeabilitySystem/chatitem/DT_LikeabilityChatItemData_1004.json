@@ -36,7 +36,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_1",
           "SourceString": "鉴定师",
-          "LocalizedString": "鉴定师"
+          "LocalizedString": "Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -81,7 +81,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_2",
           "SourceString": "安魂曲 绊到棺材 盖子坏掉了",
-          "LocalizedString": "安魂曲 绊到棺材 盖子坏掉了"
+          "LocalizedString": "lacrimosa tripped on coffin lid broke"
         },
         "ParaContent": "",
         "IconSource": {
@@ -97,7 +97,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_2_1",
               "SourceString": "棺材？",
-              "LocalizedString": "棺材？"
+              "LocalizedString": "A coffin?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -140,7 +140,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_3",
           "SourceString": "棺材？",
-          "LocalizedString": "棺材？"
+          "LocalizedString": "A coffin?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -185,7 +185,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_4",
           "SourceString": "嗯 安魂曲 在里面睡觉",
-          "LocalizedString": "嗯 安魂曲 在里面睡觉"
+          "LocalizedString": "mhm lacrimosa sleep inside it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -201,7 +201,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_4_1",
               "SourceString": "说起来，为什么……",
-              "LocalizedString": "说起来，为什么……"
+              "LocalizedString": "Come to think of it, why…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -244,7 +244,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_5",
           "SourceString": "说起来，安魂曲为什么总是在棺材里睡觉呢？",
-          "LocalizedString": "说起来，安魂曲为什么总是在棺材里睡觉呢？"
+          "LocalizedString": "Come to think of it, why does Lacrimosa always sleep in a coffin?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -289,7 +289,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_6",
           "SourceString": "很黑 很软",
-          "LocalizedString": "很黑 很软"
+          "LocalizedString": "very dark very soft"
         },
         "ParaContent": "",
         "IconSource": {
@@ -334,7 +334,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_7",
           "SourceString": "睡得很香",
-          "LocalizedString": "睡得很香"
+          "LocalizedString": "sleep very good"
         },
         "ParaContent": "",
         "IconSource": {
@@ -379,7 +379,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_8",
           "SourceString": "还有 很少人来叫",
-          "LocalizedString": "还有 很少人来叫"
+          "LocalizedString": "and very few people come to wake"
         },
         "ParaContent": "",
         "IconSource": {
@@ -395,7 +395,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_8_1",
               "SourceString": "因为是棺材？",
-              "LocalizedString": "因为是棺材？"
+              "LocalizedString": "Because it's a coffin?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -408,7 +408,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_8_2",
               "SourceString": "因为太小了？",
-              "LocalizedString": "因为太小了？"
+              "LocalizedString": "Because it's too small?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -451,7 +451,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_9_1",
           "SourceString": "或许是因为做成棺材的形状，让人害怕？",
-          "LocalizedString": "或许是因为做成棺材的形状，让人害怕？"
+          "LocalizedString": "Maybe it's because the coffin scares people away?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -496,7 +496,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_9_2",
           "SourceString": "或许是因为这个棺材太小了，不太好找？",
-          "LocalizedString": "或许是因为这个棺材太小了，不太好找？"
+          "LocalizedString": "Maybe it's because the coffin is too small and hard to find?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -541,7 +541,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_10",
           "SourceString": "唔 不知道",
-          "LocalizedString": "唔 不知道"
+          "LocalizedString": "hmm dunno"
         },
         "ParaContent": "",
         "IconSource": {
@@ -586,7 +586,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_11",
           "SourceString": "但是 喜欢",
-          "LocalizedString": "但是 喜欢"
+          "LocalizedString": "but i like it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -631,7 +631,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_12",
           "SourceString": "坏掉了 很难过",
-          "LocalizedString": "坏掉了 很难过"
+          "LocalizedString": "broke it im sad"
         },
         "ParaContent": "",
         "IconSource": {
@@ -647,7 +647,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_12_1",
               "SourceString": "凑合用用的话……",
-              "LocalizedString": "凑合用用的话……"
+              "LocalizedString": "If it works for now…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -660,7 +660,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_12_2",
               "SourceString": "再买一个",
-              "LocalizedString": "再买一个"
+              "LocalizedString": "Buy another one"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -673,7 +673,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_12_3",
               "SourceString": "试着修好的话……",
-              "LocalizedString": "试着修好的话……"
+              "LocalizedString": "What if we try to fix it…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -716,7 +716,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_13_1",
           "SourceString": "如果只是盖子坏了，应该还可以继续用。",
-          "LocalizedString": "如果只是盖子坏了，应该还可以继续用。"
+          "LocalizedString": "If it's just the lid that's broken, you should still be able to use it."
         },
         "ParaContent": "",
         "IconSource": {
@@ -761,7 +761,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_13_2",
           "SourceString": "再买一个",
-          "LocalizedString": "再买一个"
+          "LocalizedString": "Buy another one"
         },
         "ParaContent": "",
         "IconSource": {
@@ -806,7 +806,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_13_3",
           "SourceString": "可以试着修理一下。",
-          "LocalizedString": "可以试着修理一下。"
+          "LocalizedString": "We could try to fix it."
         },
         "ParaContent": "",
         "IconSource": {
@@ -851,7 +851,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_14_1",
           "SourceString": "没有盖子 很吵 很亮",
-          "LocalizedString": "没有盖子 很吵 很亮"
+          "LocalizedString": "no lid too noisy too bright"
         },
         "ParaContent": "",
         "IconSource": {
@@ -896,7 +896,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_14_2",
           "SourceString": "买一个 要很久",
-          "LocalizedString": "买一个 要很久"
+          "LocalizedString": "buy one takes too long"
         },
         "ParaContent": "",
         "IconSource": {
@@ -941,7 +941,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_14_3",
           "SourceString": "咦",
-          "LocalizedString": "咦"
+          "LocalizedString": "huh"
         },
         "ParaContent": "",
         "IconSource": {
@@ -986,7 +986,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_15_1",
           "SourceString": "安魂曲 讨厌",
-          "LocalizedString": "安魂曲 讨厌"
+          "LocalizedString": "lacrimosa hate this"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1031,7 +1031,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_15_2",
           "SourceString": "安魂曲 等好多好多天",
-          "LocalizedString": "安魂曲 等好多好多天"
+          "LocalizedString": "lacrimosa wait many many days"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1076,7 +1076,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_15_3",
           "SourceString": "鉴定师 会修吗？",
-          "LocalizedString": "鉴定师 会修吗？"
+          "LocalizedString": "appraiser can u fix it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1092,7 +1092,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_15_3_1",
               "SourceString": "可以试试。",
-              "LocalizedString": "可以试试。"
+              "LocalizedString": "We can give it a try."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1105,7 +1105,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_15_3_2",
               "SourceString": "不会……",
-              "LocalizedString": "不会……"
+              "LocalizedString": "I'm not sure…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1118,7 +1118,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_15_3_3",
               "SourceString": "塔吉多会。",
-              "LocalizedString": "塔吉多会。"
+              "LocalizedString": "Taygedo can do it."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1161,7 +1161,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_16_2",
           "SourceString": "发呆.jpg",
-          "LocalizedString": "发呆.jpg"
+          "LocalizedString": "dazed.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1206,7 +1206,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_16_3_1",
           "SourceString": "可以试试。",
-          "LocalizedString": "可以试试。"
+          "LocalizedString": "We can give it a try."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1251,7 +1251,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_16_3_2",
           "SourceString": "不会……",
-          "LocalizedString": "不会……"
+          "LocalizedString": "I'm not sure…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1296,7 +1296,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_16_3_3",
           "SourceString": "塔吉多说不定可以……？",
-          "LocalizedString": "塔吉多说不定可以……？"
+          "LocalizedString": "Maybe Taygedo can help with this…?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1341,7 +1341,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_17_3_1",
           "SourceString": "鉴定师 真厉害",
-          "LocalizedString": "鉴定师 真厉害"
+          "LocalizedString": "appraiser so amazing"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1386,7 +1386,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_17_3_2",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1431,7 +1431,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_17_3_3",
           "SourceString": "唔 对 海獭电视机 是维修员",
-          "LocalizedString": "唔 对 海獭电视机 是维修员"
+          "LocalizedString": "mmm right otter tv is repairman"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1476,7 +1476,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_18_3_1",
           "SourceString": "期待.jpg",
-          "LocalizedString": "期待.jpg"
+          "LocalizedString": "excited.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1521,7 +1521,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_18_3_3",
           "SourceString": "安魂曲 问问",
-          "LocalizedString": "安魂曲 问问"
+          "LocalizedString": "lacrimosa will ask"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1566,7 +1566,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_19_3",
           "SourceString": "谢谢鉴定师",
-          "LocalizedString": "谢谢鉴定师"
+          "LocalizedString": "thank u appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1611,7 +1611,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_20",
           "SourceString": "（安魂曲已下线）",
-          "LocalizedString": "（安魂曲已下线）"
+          "LocalizedString": "(Lacrimosa is offline)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1627,7 +1627,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_20_1",
               "SourceString": "？",
-              "LocalizedString": "？"
+              "LocalizedString": "?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1670,7 +1670,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_21",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1715,7 +1715,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_22",
           "SourceString": "（半小时后）",
-          "LocalizedString": "（半小时后）"
+          "LocalizedString": "(Half an hour later)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1760,7 +1760,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_23",
           "SourceString": "在沙发上 睡着了",
-          "LocalizedString": "在沙发上 睡着了"
+          "LocalizedString": "fell asleep on the couch"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1776,7 +1776,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_23_1",
               "SourceString": "棺材的意义是……",
-              "LocalizedString": "棺材的意义是……"
+              "LocalizedString": "The meaning of a coffin is…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -1819,7 +1819,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_24",
           "SourceString": "……感觉棺材好像也没什么存在的必要啊。",
-          "LocalizedString": "……感觉棺材好像也没什么存在的必要啊。"
+          "LocalizedString": "…I'm not really seeing why we need a coffin at all."
         },
         "ParaContent": "",
         "IconSource": {
@@ -1864,7 +1864,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_25",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1909,7 +1909,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_26",
           "SourceString": "滴滴，安魂曲在吗？",
-          "LocalizedString": "滴滴，安魂曲在吗？"
+          "LocalizedString": "Beep beep, Lacrimosa, you there?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -1970,7 +1970,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_27_1",
               "SourceString": "买了冰淇淋……",
-              "LocalizedString": "买了冰淇淋……"
+              "LocalizedString": "Buy some ice cream…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2013,7 +2013,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_28",
           "SourceString": "店长今天买了许多临期折扣的冰淇淋，伊波恩的大家实在是吃不完……",
-          "LocalizedString": "店长今天买了许多临期折扣的冰淇淋，伊波恩的大家实在是吃不完……"
+          "LocalizedString": "The shop owner bought a bunch of discounted ice cream that's about to expire, and we at Eibon definitely can't finish it all…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2058,7 +2058,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_29",
           "SourceString": "记得安魂曲好像很喜欢冰淇淋，要不要也来吃？",
-          "LocalizedString": "记得安魂曲好像很喜欢冰淇淋，要不要也来吃？"
+          "LocalizedString": "I remember Lacrimosa really likes ice cream. Want to come have some?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2103,7 +2103,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_30",
           "SourceString": "要",
-          "LocalizedString": "要"
+          "LocalizedString": "want"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2148,7 +2148,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_31",
           "SourceString": "冰淇淋 好",
-          "LocalizedString": "冰淇淋 好"
+          "LocalizedString": "ice cream good"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2193,7 +2193,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_32",
           "SourceString": "期待.jpg",
-          "LocalizedString": "期待.jpg"
+          "LocalizedString": "excited.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2209,7 +2209,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_32_1",
               "SourceString": "喜欢的口味是……",
-              "LocalizedString": "喜欢的口味是……"
+              "LocalizedString": "What's your favorite flavor?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2252,7 +2252,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_33",
           "SourceString": "安魂曲喜欢的口味是什么？",
-          "LocalizedString": "安魂曲喜欢的口味是什么？"
+          "LocalizedString": "What's your favorite flavor, Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2297,7 +2297,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_34",
           "SourceString": "番茄",
-          "LocalizedString": "番茄"
+          "LocalizedString": "Tomato"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2313,7 +2313,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_34_1",
               "SourceString": "就知道。",
-              "LocalizedString": "就知道。"
+              "LocalizedString": "I knew it."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2326,7 +2326,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_34_2",
               "SourceString": "好像没有……",
-              "LocalizedString": "好像没有……"
+              "LocalizedString": "Nothing here…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2369,7 +2369,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_35_1",
           "SourceString": "就知道。",
-          "LocalizedString": "就知道。"
+          "LocalizedString": "I knew it."
         },
         "ParaContent": "",
         "IconSource": {
@@ -2414,7 +2414,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_35_2",
           "SourceString": "好像没有这个口味的冰淇淋……",
-          "LocalizedString": "好像没有这个口味的冰淇淋……"
+          "LocalizedString": "I don't think we have that flavor of ice cream…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2459,7 +2459,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_36_1",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2475,7 +2475,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_36_a",
               "SourceString": "还有其他的吗？",
-              "LocalizedString": "还有其他的吗？"
+              "LocalizedString": "Any other flavors?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2518,7 +2518,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_36_2",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2534,7 +2534,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_36_a",
               "SourceString": "还有其他的吗？",
-              "LocalizedString": "还有其他的吗？"
+              "LocalizedString": "Any other flavors?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2577,7 +2577,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_37",
           "SourceString": "还有其他的吗？",
-          "LocalizedString": "还有其他的吗？"
+          "LocalizedString": "Any other flavors?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2622,7 +2622,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_38",
           "SourceString": "唔 没有",
-          "LocalizedString": "唔 没有"
+          "LocalizedString": "hmm nope"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2667,7 +2667,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_39",
           "SourceString": "只有番茄 有味道",
-          "LocalizedString": "只有番茄 有味道"
+          "LocalizedString": "only tomato has taste"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2712,7 +2712,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_40",
           "SourceString": "其他的 都一样",
-          "LocalizedString": "其他的 都一样"
+          "LocalizedString": "everything else tastes the same"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2728,7 +2728,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_40_1",
               "SourceString": "「都一样」？",
-              "LocalizedString": "「都一样」？"
+              "LocalizedString": "\"All the same?\""
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2771,7 +2771,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_41",
           "SourceString": "「都一样」？",
-          "LocalizedString": "「都一样」？"
+          "LocalizedString": "\"All the same?\""
         },
         "ParaContent": "",
         "IconSource": {
@@ -2816,7 +2816,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_42",
           "SourceString": "嗯 安魂曲 吃东西 没有味道",
-          "LocalizedString": "嗯 安魂曲 吃东西 没有味道"
+          "LocalizedString": "mhm lacrimosa eats food no taste"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2861,7 +2861,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_43",
           "SourceString": "好像是 嗯 代价？",
-          "LocalizedString": "好像是 嗯 代价？"
+          "LocalizedString": "think it's umm price to lacrimosas esper?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2906,7 +2906,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_44",
           "SourceString": "安魂曲 不知道",
-          "LocalizedString": "安魂曲 不知道"
+          "LocalizedString": "lacrimosa dont know"
         },
         "ParaContent": "",
         "IconSource": {
@@ -2922,7 +2922,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_44_1",
               "SourceString": "抱歉……",
-              "LocalizedString": "抱歉……"
+              "LocalizedString": "Sorry…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -2965,7 +2965,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_45",
           "SourceString": "抱歉……",
-          "LocalizedString": "抱歉……"
+          "LocalizedString": "Sorry…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3010,7 +3010,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_46",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3055,7 +3055,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_47",
           "SourceString": "鉴定师 为什么道歉？",
-          "LocalizedString": "鉴定师 为什么道歉？"
+          "LocalizedString": "appraiser why sorry"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3100,7 +3100,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_48",
           "SourceString": "安魂曲 喜欢冷的",
-          "LocalizedString": "安魂曲 喜欢冷的"
+          "LocalizedString": "lacrimosa like cold things"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3145,7 +3145,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_49",
           "SourceString": "吃冰淇淋 很开心",
-          "LocalizedString": "吃冰淇淋 很开心"
+          "LocalizedString": "eating ice cream makes happy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3161,7 +3161,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_49_1",
               "SourceString": "总之……",
-              "LocalizedString": "总之……"
+              "LocalizedString": "Anyway…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -3204,7 +3204,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_50",
           "SourceString": "总之，我之后多拿一些过去吧。",
-          "LocalizedString": "总之，我之后多拿一些过去吧。"
+          "LocalizedString": "Anyway, I'll bring more over for you next time."
         },
         "ParaContent": "",
         "IconSource": {
@@ -3249,7 +3249,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_51",
           "SourceString": "安魂曲也可以和队里的大家分享着吃。",
-          "LocalizedString": "安魂曲也可以和队里的大家分享着吃。"
+          "LocalizedString": "Lacrimosa can share the ice cream with everyone in the team too."
         },
         "ParaContent": "",
         "IconSource": {
@@ -3294,7 +3294,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_52",
           "SourceString": "唔 不要",
-          "LocalizedString": "唔 不要"
+          "LocalizedString": "hmm no"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3310,7 +3310,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_52_1",
               "SourceString": "疑惑",
-              "LocalizedString": "疑惑"
+              "LocalizedString": "Confused"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -3353,7 +3353,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_53",
           "SourceString": "疑惑.jpg",
-          "LocalizedString": "疑惑.jpg"
+          "LocalizedString": "confused.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3398,7 +3398,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_54",
           "SourceString": "不可以 被知道",
-          "LocalizedString": "不可以 被知道"
+          "LocalizedString": "cant be found out"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3443,7 +3443,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_55",
           "SourceString": "狗狗人 不让安魂曲吃很多冷的",
-          "LocalizedString": "狗狗人 不让安魂曲吃很多冷的"
+          "LocalizedString": "doggo doesnt let lacrimosa eat too many cold things"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3488,7 +3488,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_56",
           "SourceString": "坏",
-          "LocalizedString": "坏"
+          "LocalizedString": "bad"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3504,7 +3504,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_56_1",
               "SourceString": "发呆",
-              "LocalizedString": "发呆"
+              "LocalizedString": "Space out"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -3547,7 +3547,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_57",
           "SourceString": "发呆.jpg",
-          "LocalizedString": "发呆.jpg"
+          "LocalizedString": "dazed.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3592,7 +3592,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_58",
           "SourceString": "生气.jpg",
-          "LocalizedString": "生气.jpg"
+          "LocalizedString": "angry.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3637,7 +3637,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_59",
           "SourceString": "鉴定师",
-          "LocalizedString": "鉴定师"
+          "LocalizedString": "Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3682,7 +3682,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_60",
           "SourceString": "安魂曲在哪里",
-          "LocalizedString": "安魂曲在哪里"
+          "LocalizedString": "where is lacrimosa"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3727,7 +3727,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_61",
           "SourceString": "<Blue>照片.jpg</>",
-          "LocalizedString": "<Blue>照片.jpg</>"
+          "LocalizedString": "<Blue>image.jpg</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3743,7 +3743,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_61_1",
               "SourceString": "什么情况？",
-              "LocalizedString": "什么情况？"
+              "LocalizedString": "What's going on?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -3756,7 +3756,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_61_2",
               "SourceString": "迷路了吗？",
-              "LocalizedString": "迷路了吗？"
+              "LocalizedString": "Are you lost?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -3799,7 +3799,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_62_1",
           "SourceString": "什么情况？",
-          "LocalizedString": "什么情况？"
+          "LocalizedString": "What's going on?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3844,7 +3844,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_62_2",
           "SourceString": "迷路了吗？",
-          "LocalizedString": "迷路了吗？"
+          "LocalizedString": "Are you lost?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3889,7 +3889,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_63",
           "SourceString": "车 方向反了",
-          "LocalizedString": "车 方向反了"
+          "LocalizedString": "car wrong direction"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3934,7 +3934,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_64",
           "SourceString": "迷路了",
-          "LocalizedString": "迷路了"
+          "LocalizedString": "got lost"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3979,7 +3979,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_65",
           "SourceString": "要出任务",
-          "LocalizedString": "要出任务"
+          "LocalizedString": "gotta go on quest"
         },
         "ParaContent": "",
         "IconSource": {
@@ -3995,7 +3995,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_65_1",
               "SourceString": "安魂曲一个人？",
-              "LocalizedString": "安魂曲一个人？"
+              "LocalizedString": "Are you by yourself, Lacrimosa?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4038,7 +4038,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_66",
           "SourceString": "安魂曲是自己一个人去吗？",
-          "LocalizedString": "安魂曲是自己一个人去吗？"
+          "LocalizedString": "Is Lacrimosa going alone?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4083,7 +4083,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_67",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -4099,7 +4099,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_67_1",
               "SourceString": "队里其他人呢？",
-              "LocalizedString": "队里其他人呢？"
+              "LocalizedString": "What about the rest of the team?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4112,7 +4112,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_67_2",
               "SourceString": "委托人呢？",
-              "LocalizedString": "委托人呢？"
+              "LocalizedString": "What about the client?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4155,7 +4155,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_68_1",
           "SourceString": "队里其他人呢？",
-          "LocalizedString": "队里其他人呢？"
+          "LocalizedString": "What about the rest of the team?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4200,7 +4200,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_68_2",
           "SourceString": "委托人呢？",
-          "LocalizedString": "委托人呢？"
+          "LocalizedString": "What about the client?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4245,7 +4245,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_69_1",
           "SourceString": "都有事",
-          "LocalizedString": "都有事"
+          "LocalizedString": "all busy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4290,7 +4290,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_69_2",
           "SourceString": "不见了",
-          "LocalizedString": "不见了"
+          "LocalizedString": "gone"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4335,7 +4335,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_70_1",
           "SourceString": "安魂曲 被抓到了",
-          "LocalizedString": "安魂曲 被抓到了"
+          "LocalizedString": "lacrimosa got caught"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4351,7 +4351,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_a",
               "SourceString": "震惊",
-              "LocalizedString": "震惊"
+              "LocalizedString": "Shocked"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4364,7 +4364,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_b",
               "SourceString": "害怕",
-              "LocalizedString": "害怕"
+              "LocalizedString": "Scared"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4377,7 +4377,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_c",
               "SourceString": "疑惑",
-              "LocalizedString": "疑惑"
+              "LocalizedString": "Confused"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4420,7 +4420,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_70_2",
           "SourceString": "被吃掉了……？",
-          "LocalizedString": "被吃掉了……？"
+          "LocalizedString": "got eaten…?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4436,7 +4436,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_a",
               "SourceString": "震惊",
-              "LocalizedString": "震惊"
+              "LocalizedString": "Shocked"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4449,7 +4449,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_b",
               "SourceString": "害怕",
-              "LocalizedString": "害怕"
+              "LocalizedString": "Scared"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4462,7 +4462,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_70_c",
               "SourceString": "疑惑",
-              "LocalizedString": "疑惑"
+              "LocalizedString": "Confused"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4505,7 +4505,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_71_1",
           "SourceString": "震惊.jpg",
-          "LocalizedString": "震惊.jpg"
+          "LocalizedString": "shocked.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4550,7 +4550,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_71_2",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4595,7 +4595,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_71_3",
           "SourceString": "疑惑.jpg",
-          "LocalizedString": "疑惑.jpg"
+          "LocalizedString": "confused.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4640,7 +4640,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_72",
           "SourceString": "啊",
-          "LocalizedString": "啊"
+          "LocalizedString": "Ah!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4656,7 +4656,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_72_1",
               "SourceString": "怎么了？",
-              "LocalizedString": "怎么了？"
+              "LocalizedString": "What's wrong?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4699,7 +4699,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_73",
           "SourceString": "怎么了？",
-          "LocalizedString": "怎么了？"
+          "LocalizedString": "What's wrong?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4744,7 +4744,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_74",
           "SourceString": "薄荷",
-          "LocalizedString": "薄荷"
+          "LocalizedString": "Mint"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4789,7 +4789,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_75",
           "SourceString": "被抱住了",
-          "LocalizedString": "被抱住了"
+          "LocalizedString": "got hugged"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4834,7 +4834,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_76",
           "SourceString": "好热",
-          "LocalizedString": "好热"
+          "LocalizedString": "so hot"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4879,7 +4879,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_77",
           "SourceString": "鉴定师 救ming",
-          "LocalizedString": "鉴定师 救ming"
+          "LocalizedString": "appraiser help"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4895,7 +4895,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_77_1",
               "SourceString": "迷路危机解除！",
-              "LocalizedString": "迷路危机解除！"
+              "LocalizedString": "Lost Crisis Averted!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4908,7 +4908,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_77_2",
               "SourceString": "加油活下去啊……",
-              "LocalizedString": "加油活下去啊……"
+              "LocalizedString": "Stay alive out there!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -4951,7 +4951,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_78_1",
           "SourceString": "迷路危机解除！",
-          "LocalizedString": "迷路危机解除！"
+          "LocalizedString": "Lost Crisis Averted!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -4996,7 +4996,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_78_2",
           "SourceString": "加油活下去啊……",
-          "LocalizedString": "加油活下去啊……"
+          "LocalizedString": "Stay alive out there!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5041,7 +5041,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_79",
           "SourceString": "安魂曲，现在有空吗？",
-          "LocalizedString": "安魂曲，现在有空吗？"
+          "LocalizedString": "Lacrimosa, you free right now?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5102,7 +5102,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_80_1",
               "SourceString": "听娜娜莉说……",
-              "LocalizedString": "听娜娜莉说……"
+              "LocalizedString": "I heard from Nanally that…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5145,7 +5145,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_81",
           "SourceString": "听娜娜莉说，今天他们处理委托时，和路人产生了一些纠纷……",
-          "LocalizedString": "听娜娜莉说，今天他们处理委托时，和路人产生了一些纠纷……"
+          "LocalizedString": "I heard from Nanally that they ran into some trouble with a bystander while handling a commission today…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5190,7 +5190,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_82",
           "SourceString": "幸好四队正巧路过，帮助他们解了围。",
-          "LocalizedString": "幸好四队正巧路过，帮助他们解了围。"
+          "LocalizedString": "Luckily, Squad 4 happened to be passing by and helped them out of the tight spot."
         },
         "ParaContent": "",
         "IconSource": {
@@ -5235,7 +5235,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_83",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5280,7 +5280,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_84",
           "SourceString": "！",
-          "LocalizedString": "！"
+          "LocalizedString": "!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5325,7 +5325,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_85",
           "SourceString": "<Blue>图片.jpg</>",
-          "LocalizedString": "<Blue>图片.jpg</>"
+          "LocalizedString": "<Blue>image.jpg</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5341,7 +5341,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_85_1",
               "SourceString": "原来如此",
-              "LocalizedString": "原来如此"
+              "LocalizedString": "I see."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5384,7 +5384,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_86",
           "SourceString": "原来是这样……",
-          "LocalizedString": "原来是这样……"
+          "LocalizedString": "I see…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5429,7 +5429,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_87",
           "SourceString": "阿德勒先生希望给四队的大家送一些谢礼。安魂曲想要什么？",
-          "LocalizedString": "阿德勒先生希望给四队的大家送一些谢礼。安魂曲想要什么？"
+          "LocalizedString": "Adler would like to send some thank-you gifts to everyone in Squad 4. What would you like, Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5445,7 +5445,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_87_1",
               "SourceString": "《周刊Fantasy》？",
-              "LocalizedString": "《周刊Fantasy》？"
+              "LocalizedString": "\"Weekly Fantasy\"?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5458,7 +5458,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_87_2",
               "SourceString": "助眠香薰？",
-              "LocalizedString": "助眠香薰？"
+              "LocalizedString": "Sleep-aid scents?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5471,7 +5471,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_87_3",
               "SourceString": "番茄酱？",
-              "LocalizedString": "番茄酱？"
+              "LocalizedString": "Tomato Jelly?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5514,7 +5514,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_88_1",
           "SourceString": "比如最新一期的《周刊Fantasy》？",
-          "LocalizedString": "比如最新一期的《周刊Fantasy》？"
+          "LocalizedString": "How about the latest issue of \"Weekly Fantasy\"?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5559,7 +5559,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_88_2",
           "SourceString": "比如兰德里柯新推出的助眠香薰？",
-          "LocalizedString": "比如兰德里柯新推出的助眠香薰？"
+          "LocalizedString": "How about some sleep-aid scents from Landric?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5604,7 +5604,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_88_3",
           "SourceString": "番茄酱？",
-          "LocalizedString": "番茄酱？"
+          "LocalizedString": "Tomato Jelly?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5649,7 +5649,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_89_1",
           "SourceString": "安魂曲 已经买了",
-          "LocalizedString": "安魂曲 已经买了"
+          "LocalizedString": "lacrimosa already bought it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5694,7 +5694,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_89_2",
           "SourceString": "安魂曲 睡得很快",
-          "LocalizedString": "安魂曲 睡得很快"
+          "LocalizedString": "lacrimosa fall asleep fast"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5739,7 +5739,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_89_3",
           "SourceString": "安魂曲 喜欢番茄酱",
-          "LocalizedString": "安魂曲 喜欢番茄酱"
+          "LocalizedString": "lacrimosa like tomato jelly"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5784,7 +5784,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_90_1",
           "SourceString": "发呆.jpg",
-          "LocalizedString": "发呆.jpg"
+          "LocalizedString": "dazed.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5829,7 +5829,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_90_2",
           "SourceString": "用不到",
-          "LocalizedString": "用不到"
+          "LocalizedString": "dont need it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5874,7 +5874,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_90_3",
           "SourceString": "谢谢鉴定师",
-          "LocalizedString": "谢谢鉴定师"
+          "LocalizedString": "thank u appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5919,7 +5919,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_91_1",
           "SourceString": "番茄酱 比较好",
-          "LocalizedString": "番茄酱 比较好"
+          "LocalizedString": "tomato jelly better"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5935,7 +5935,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_91_a",
               "SourceString": "明白了",
-              "LocalizedString": "明白了"
+              "LocalizedString": "I see"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -5978,7 +5978,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_91_2",
           "SourceString": "番茄酱 比较好",
-          "LocalizedString": "番茄酱 比较好"
+          "LocalizedString": "tomato jelly better"
         },
         "ParaContent": "",
         "IconSource": {
@@ -5994,7 +5994,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_91_a",
               "SourceString": "明白了",
-              "LocalizedString": "明白了"
+              "LocalizedString": "I see"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6037,7 +6037,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_91_3",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6053,7 +6053,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_91_a",
               "SourceString": "明白了",
-              "LocalizedString": "明白了"
+              "LocalizedString": "I see"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6096,7 +6096,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_92",
           "SourceString": "明白了.jpg",
-          "LocalizedString": "明白了.jpg"
+          "LocalizedString": "I understand.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6141,7 +6141,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_93",
           "SourceString": "至于其他人的礼物，安魂曲觉得呢？",
-          "LocalizedString": "至于其他人的礼物，安魂曲觉得呢？"
+          "LocalizedString": "What do you think about gifts for the others, Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6157,7 +6157,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_93_1",
               "SourceString": "法帝娅……",
-              "LocalizedString": "法帝娅……"
+              "LocalizedString": "Fadia…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6170,7 +6170,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_93_2",
               "SourceString": "翳……",
-              "LocalizedString": "翳……"
+              "LocalizedString": "Skia…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6183,7 +6183,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_93_3",
               "SourceString": "白藏……",
-              "LocalizedString": "白藏……"
+              "LocalizedString": "Baicang…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6226,7 +6226,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_94_1",
           "SourceString": "比如法帝娅……",
-          "LocalizedString": "比如法帝娅……"
+          "LocalizedString": "Like Fadia…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6271,7 +6271,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_94_2",
           "SourceString": "比如翳……",
-          "LocalizedString": "比如翳……"
+          "LocalizedString": "Like Skia…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6316,7 +6316,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_94_3",
           "SourceString": "比如白藏……",
-          "LocalizedString": "比如白藏……"
+          "LocalizedString": "Like Baicang…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6361,7 +6361,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_95_1",
           "SourceString": "法帝娅 喜欢和朋友玩",
-          "LocalizedString": "法帝娅 喜欢和朋友玩"
+          "LocalizedString": "fadia likes playing with friends"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6406,7 +6406,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_96_1",
           "SourceString": "鉴定师 去和她玩？",
-          "LocalizedString": "鉴定师 去和她玩？"
+          "LocalizedString": "appraiser go play with her"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6422,7 +6422,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_96_1_1",
               "SourceString": "明白了",
-              "LocalizedString": "明白了"
+              "LocalizedString": "I see"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6435,7 +6435,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_96_1_2",
               "SourceString": "换一个",
-              "LocalizedString": "换一个"
+              "LocalizedString": "Try another one"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6478,7 +6478,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_97_1_1",
           "SourceString": "那我之后去联系她。",
-          "LocalizedString": "那我之后去联系她。"
+          "LocalizedString": "I see, I'll contact her later then."
         },
         "ParaContent": "",
         "IconSource": {
@@ -6523,7 +6523,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_97_1_2",
           "SourceString": "……还是算了，换一个别的礼物吧。",
-          "LocalizedString": "……还是算了，换一个别的礼物吧。"
+          "LocalizedString": "On second thought, let's find a different gift."
         },
         "ParaContent": "",
         "IconSource": {
@@ -6568,7 +6568,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_98_1_1",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -6613,7 +6613,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_98_1_2",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6658,7 +6658,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_99_1_1",
           "SourceString": "法帝娅的朋友 总是哭着走掉",
-          "LocalizedString": "法帝娅的朋友 总是哭着走掉"
+          "LocalizedString": "fadias friends always leave crying"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6703,7 +6703,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_99_1_2",
           "SourceString": "疑惑.jpg",
-          "LocalizedString": "疑惑.jpg"
+          "LocalizedString": "confused.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6748,7 +6748,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_100_1_1",
           "SourceString": "有新朋友 会开心",
-          "LocalizedString": "有新朋友 会开心"
+          "LocalizedString": "new friends will be happy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6793,7 +6793,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_101_1_1",
           "SourceString": "鉴定师 加油",
-          "LocalizedString": "鉴定师 加油"
+          "LocalizedString": "appraiser keep going"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6838,7 +6838,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_95_2",
           "SourceString": "狗狗人 喜欢上班",
-          "LocalizedString": "狗狗人 喜欢上班"
+          "LocalizedString": "doggo likes going to work"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6854,7 +6854,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_95_2_1",
               "SourceString": "上班？",
-              "LocalizedString": "上班？"
+              "LocalizedString": "Work?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -6897,7 +6897,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_96_2",
           "SourceString": "上班？",
-          "LocalizedString": "上班？"
+          "LocalizedString": "Work?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6942,7 +6942,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_97_2",
           "SourceString": "嗯 总是在上班",
-          "LocalizedString": "嗯 总是在上班"
+          "LocalizedString": "mhm always at work"
         },
         "ParaContent": "",
         "IconSource": {
@@ -6987,7 +6987,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_98_2",
           "SourceString": "下班了 还在上班",
-          "LocalizedString": "下班了 还在上班"
+          "LocalizedString": "work day over still working"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7003,7 +7003,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_98_2_1",
               "SourceString": "……",
-              "LocalizedString": "……"
+              "LocalizedString": "…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7046,7 +7046,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_99_2",
           "SourceString": "……",
-          "LocalizedString": "……"
+          "LocalizedString": "…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7091,7 +7091,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_100_2",
           "SourceString": "鉴定师？",
-          "LocalizedString": "鉴定师？"
+          "LocalizedString": "Appraiser?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7107,7 +7107,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_100_2_1",
               "SourceString": "好可怜……",
-              "LocalizedString": "好可怜……"
+              "LocalizedString": "I'm feeling sad now…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7120,7 +7120,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_100_2_2",
               "SourceString": "我没事……",
-              "LocalizedString": "我没事……"
+              "LocalizedString": "I'm fine…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7163,7 +7163,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_101_2_1",
           "SourceString": "好可怜……",
-          "LocalizedString": "好可怜……"
+          "LocalizedString": "I'm feeling sad now…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7208,7 +7208,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_101_2_2",
           "SourceString": "我没事，只是想起悲伤的事……",
-          "LocalizedString": "我没事，只是想起悲伤的事……"
+          "LocalizedString": "I'm fine, just remembered something sad…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7253,7 +7253,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_102_2",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7298,7 +7298,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_95_3",
           "SourceString": "不要送白藏礼物",
-          "LocalizedString": "不要送白藏礼物"
+          "LocalizedString": "dont give baicang gift"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7343,7 +7343,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_96_3",
           "SourceString": "生气.jpg",
-          "LocalizedString": "生气.jpg"
+          "LocalizedString": "angry.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7359,7 +7359,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_96_3_1",
               "SourceString": "？",
-              "LocalizedString": "？"
+              "LocalizedString": "?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7402,7 +7402,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_97_3",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7447,7 +7447,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_98_3",
           "SourceString": "白藏 喜欢恶作剧 捉弄人",
-          "LocalizedString": "白藏 喜欢恶作剧 捉弄人"
+          "LocalizedString": "baicang likes pranks teasing people"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7492,7 +7492,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_99_3",
           "SourceString": "麻烦精 很坏",
-          "LocalizedString": "麻烦精 很坏"
+          "LocalizedString": "troublemaker very bad"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7537,7 +7537,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_100_3",
           "SourceString": "安魂曲 讨厌",
-          "LocalizedString": "安魂曲 讨厌"
+          "LocalizedString": "lacrimosa hate this"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7582,7 +7582,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_101_3",
           "SourceString": "生气.jpg",
-          "LocalizedString": "生气.jpg"
+          "LocalizedString": "angry.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7627,7 +7627,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_102_3",
           "SourceString": "拳击.jpg",
-          "LocalizedString": "拳击.jpg"
+          "LocalizedString": "boxing.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7672,7 +7672,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_103_3",
           "SourceString": "拳击.jpg",
-          "LocalizedString": "拳击.jpg"
+          "LocalizedString": "boxing.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7688,7 +7688,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_103_3_1",
               "SourceString": "害怕",
-              "LocalizedString": "害怕"
+              "LocalizedString": "Scared"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7731,7 +7731,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_104_3",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7776,7 +7776,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_105",
           "SourceString": "好饿",
-          "LocalizedString": "好饿"
+          "LocalizedString": "so hungry"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7821,7 +7821,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_106",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7837,7 +7837,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_106_1",
               "SourceString": "怎么了？",
-              "LocalizedString": "怎么了？"
+              "LocalizedString": "What's wrong?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7850,7 +7850,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_106_2",
               "SourceString": "别饿。",
-              "LocalizedString": "别饿。"
+              "LocalizedString": "Don't be hungry."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -7893,7 +7893,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_107_1",
           "SourceString": "怎么了？",
-          "LocalizedString": "怎么了？"
+          "LocalizedString": "What's wrong?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -7938,7 +7938,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_107_2",
           "SourceString": "别饿。",
-          "LocalizedString": "别饿。"
+          "LocalizedString": "Don't be hungry."
         },
         "ParaContent": "",
         "IconSource": {
@@ -7983,7 +7983,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_108_2",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8028,7 +8028,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_109",
           "SourceString": "工资 没有了",
-          "LocalizedString": "工资 没有了"
+          "LocalizedString": "salary gone"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8073,7 +8073,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_110",
           "SourceString": "买不到番茄酱",
-          "LocalizedString": "买不到番茄酱"
+          "LocalizedString": "cant buy tomato jelly"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8118,7 +8118,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_111",
           "SourceString": "饿",
-          "LocalizedString": "饿"
+          "LocalizedString": "hungry"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8134,7 +8134,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_111_1",
               "SourceString": "被扣工资了吗？",
-              "LocalizedString": "被扣工资了吗？"
+              "LocalizedString": "Did they dock your pay?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8147,7 +8147,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_111_2",
               "SourceString": "被谁欺负了吗？",
-              "LocalizedString": "被谁欺负了吗？"
+              "LocalizedString": "Is someone bullying you?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8190,7 +8190,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_112_1",
           "SourceString": "被扣工资了吗？",
-          "LocalizedString": "被扣工资了吗？"
+          "LocalizedString": "Did they dock your pay?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8235,7 +8235,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_112_2",
           "SourceString": "被谁欺负了吗？",
-          "LocalizedString": "被谁欺负了吗？"
+          "LocalizedString": "Is someone bullying you?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8280,7 +8280,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_113",
           "SourceString": "蜥蜴维修员",
-          "LocalizedString": "蜥蜴维修员"
+          "LocalizedString": "lizard guy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8325,7 +8325,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_114",
           "SourceString": "来修玻璃 要好多方斯",
-          "LocalizedString": "来修玻璃 要好多方斯"
+          "LocalizedString": "fixing the glass costs lots of fons"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8341,7 +8341,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_114_1",
               "SourceString": "「蜥蜴维修员」？",
-              "LocalizedString": "「蜥蜴维修员」？"
+              "LocalizedString": "\"Lizard guy\"?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8384,7 +8384,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_115",
           "SourceString": "「蜥蜴维修员」是……",
-          "LocalizedString": "「蜥蜴维修员」是……"
+          "LocalizedString": "The \"lizard guy\" is…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8429,7 +8429,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_116",
           "SourceString": "就是 唔",
-          "LocalizedString": "就是 唔"
+          "LocalizedString": "yea um"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8474,7 +8474,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_117",
           "SourceString": "粉色的蜥蜴",
-          "LocalizedString": "粉色的蜥蜴"
+          "LocalizedString": "pink lizard"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8519,7 +8519,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_118",
           "SourceString": "维修员",
-          "LocalizedString": "维修员"
+          "LocalizedString": "repair guy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8535,7 +8535,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_118_1",
               "SourceString": "呃……",
-              "LocalizedString": "呃……"
+              "LocalizedString": "Uh…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8578,7 +8578,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_119",
           "SourceString": "呃……很抽象的形容。",
-          "LocalizedString": "呃……很抽象的形容。"
+          "LocalizedString": "That's… quite an abstract description."
         },
         "ParaContent": "",
         "IconSource": {
@@ -8623,7 +8623,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_120",
           "SourceString": "不过我大概明白了。安魂曲说的是异象管理局的维修员吧……就像对于伊波恩而言的塔吉多一样。",
-          "LocalizedString": "不过我大概明白了。安魂曲说的是异象管理局的维修员吧……就像对于伊波恩而言的塔吉多一样。"
+          "LocalizedString": "But I think I get it now. Lacrimosa must be talking about the Bureau of Anomaly Control maintenance staff… kind of like who Taygedo is to Eibon."
         },
         "ParaContent": "",
         "IconSource": {
@@ -8668,7 +8668,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_121",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8713,7 +8713,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_122",
           "SourceString": "海獭电视机 也很坏？",
-          "LocalizedString": "海獭电视机 也很坏？"
+          "LocalizedString": "otter tv bad?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8729,7 +8729,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_122_1",
               "SourceString": "坏？",
-              "LocalizedString": "坏？"
+              "LocalizedString": "Bad?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8742,7 +8742,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_122_2",
               "SourceString": "不坏",
-              "LocalizedString": "不坏"
+              "LocalizedString": "Not bad"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8755,7 +8755,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_122_3",
               "SourceString": "超级坏",
-              "LocalizedString": "超级坏"
+              "LocalizedString": "Super bad"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -8798,7 +8798,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_123_1",
           "SourceString": "坏？",
-          "LocalizedString": "坏？"
+          "LocalizedString": "Bad?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8843,7 +8843,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_123_2",
           "SourceString": "塔吉多是很可靠的伙伴。",
-          "LocalizedString": "塔吉多是很可靠的伙伴。"
+          "LocalizedString": "Taygedo is a reliable friend."
         },
         "ParaContent": "",
         "IconSource": {
@@ -8888,7 +8888,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_123_3",
           "SourceString": "塔吉多……其实超级坏。",
-          "LocalizedString": "塔吉多……其实超级坏。"
+          "LocalizedString": "Taygedo… is actually super bad."
         },
         "ParaContent": "",
         "IconSource": {
@@ -8933,7 +8933,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_124_1",
           "SourceString": "蜥蜴维修员 修玻璃",
-          "LocalizedString": "蜥蜴维修员 修玻璃"
+          "LocalizedString": "lizard guy fixing glass"
         },
         "ParaContent": "",
         "IconSource": {
@@ -8978,7 +8978,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_125_1",
           "SourceString": "修好的玻璃 不会碎了",
-          "LocalizedString": "修好的玻璃 不会碎了"
+          "LocalizedString": "fixed glass wont break anymore"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9023,7 +9023,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_126_1",
           "SourceString": "安魂曲 撞得很痛",
-          "LocalizedString": "安魂曲 撞得很痛"
+          "LocalizedString": "lacrimosa head break instead"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9039,7 +9039,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_126_1_1",
               "SourceString": "听上去很尽责……",
-              "LocalizedString": "听上去很尽责……"
+              "LocalizedString": "Sounds like he's quite dedicated…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -9052,7 +9052,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_126_1_2",
               "SourceString": "听上去很过分……",
-              "LocalizedString": "听上去很过分……"
+              "LocalizedString": "Sounds pretty rough…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -9095,7 +9095,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_127_1_1",
           "SourceString": "听上去很尽责……",
-          "LocalizedString": "听上去很尽责……"
+          "LocalizedString": "Sounds like he's quite dedicated…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9140,7 +9140,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_127_1_2",
           "SourceString": "听上去很过分……",
-          "LocalizedString": "听上去很过分……"
+          "LocalizedString": "Sounds pretty rough…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9185,7 +9185,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_128_1_1",
           "SourceString": "生气.jpg",
-          "LocalizedString": "生气.jpg"
+          "LocalizedString": "angry.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9230,7 +9230,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_128_1_2",
           "SourceString": "哭哭.jpg",
-          "LocalizedString": "哭哭.jpg"
+          "LocalizedString": "crying.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9275,7 +9275,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_129_1",
           "SourceString": "还有 总是批评安魂曲",
-          "LocalizedString": "还有 总是批评安魂曲"
+          "LocalizedString": "and always criticizes lacrimosa"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9320,7 +9320,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_130_1",
           "SourceString": "很坏",
-          "LocalizedString": "很坏"
+          "LocalizedString": "super bad"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9365,7 +9365,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_124_2",
           "SourceString": "疑惑.jpg",
-          "LocalizedString": "疑惑.jpg"
+          "LocalizedString": "confused.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9410,7 +9410,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_125_2",
           "SourceString": "报修 不扣工资？",
-          "LocalizedString": "报修 不扣工资？"
+          "LocalizedString": "report broken stuff no salary cut?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9426,7 +9426,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_125_2_1",
               "SourceString": "塔吉多……",
-              "LocalizedString": "塔吉多……"
+              "LocalizedString": "Taygedo…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -9469,7 +9469,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_126_2",
           "SourceString": "呃……他应该没有这个能力吧。",
-          "LocalizedString": "呃……他应该没有这个能力吧。"
+          "LocalizedString": "Uh… I don't think he can do that."
         },
         "ParaContent": "",
         "IconSource": {
@@ -9514,7 +9514,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_127_2",
           "SourceString": "不如说，就连塔吉多自己的零花钱，也经常被娜娜莉他们克扣……",
-          "LocalizedString": "不如说，就连塔吉多自己的零花钱，也经常被娜娜莉他们克扣……"
+          "LocalizedString": "If anything, Taygedo's own pocket money often gets taken by Nanally and the others…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9559,7 +9559,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_128_2",
           "SourceString": "喔 不扣工资",
-          "LocalizedString": "喔 不扣工资"
+          "LocalizedString": "oh no salary cut"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9604,7 +9604,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_129_2",
           "SourceString": "明白了.jpg",
-          "LocalizedString": "明白了.jpg"
+          "LocalizedString": "I understand.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9649,7 +9649,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_130_2",
           "SourceString": "海獭电视机 好",
-          "LocalizedString": "海獭电视机 好"
+          "LocalizedString": "otter tv good"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9694,7 +9694,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_124_3",
           "SourceString": "惊讶.jpg",
-          "LocalizedString": "惊讶.jpg"
+          "LocalizedString": "surprised.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9710,7 +9710,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_124_3_1",
               "SourceString": "刚进伊波恩时……",
-              "LocalizedString": "刚进伊波恩时……"
+              "LocalizedString": "When I first arrived in Eibon…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -9753,7 +9753,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_125_3",
           "SourceString": "我刚来到伊波恩时，就被他用自制的神秘武器袭击了。",
-          "LocalizedString": "我刚来到伊波恩时，就被他用自制的神秘武器袭击了。"
+          "LocalizedString": "When I first arrived in Eibon, he attacked me with some improvised munitions."
         },
         "ParaContent": "",
         "IconSource": {
@@ -9798,7 +9798,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_126_3",
           "SourceString": "神秘 武器？",
-          "LocalizedString": "神秘 武器？"
+          "LocalizedString": "improvised munition?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9843,7 +9843,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_127_3",
           "SourceString": "很危险？",
-          "LocalizedString": "很危险？"
+          "LocalizedString": "dangerous?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9859,7 +9859,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_127_3_1",
               "SourceString": "很危险。",
-              "LocalizedString": "很危险。"
+              "LocalizedString": "Very dangerous."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -9902,7 +9902,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_128_3",
           "SourceString": "很危险。",
-          "LocalizedString": "很危险。"
+          "LocalizedString": "Very dangerous."
         },
         "ParaContent": "",
         "IconSource": {
@@ -9947,7 +9947,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_129_3",
           "SourceString": "歧骸 对人类安全造成威胁",
-          "LocalizedString": "歧骸 对人类安全造成威胁"
+          "LocalizedString": "oddity, threat to human safety"
         },
         "ParaContent": "",
         "IconSource": {
@@ -9992,7 +9992,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_130_3",
           "SourceString": "要泯除",
-          "LocalizedString": "要泯除"
+          "LocalizedString": "nullify"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10008,7 +10008,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_130_3_1",
               "SourceString": "欸？！",
-              "LocalizedString": "欸？！"
+              "LocalizedString": "Huh?!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10051,7 +10051,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_131_3",
           "SourceString": "欸？！",
-          "LocalizedString": "欸？！"
+          "LocalizedString": "Huh?!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10096,7 +10096,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_132_3",
           "SourceString": "但安魂曲 不想出门",
-          "LocalizedString": "但安魂曲 不想出门"
+          "LocalizedString": "but lacrimosa dont want to go outside"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10141,7 +10141,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_133_3",
           "SourceString": "下次……",
-          "LocalizedString": "下次……"
+          "LocalizedString": "next time…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10157,7 +10157,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_133_3_1",
               "SourceString": "害怕",
-              "LocalizedString": "害怕"
+              "LocalizedString": "Scared"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10200,7 +10200,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_134_3",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10245,7 +10245,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_135",
           "SourceString": "啊",
-          "LocalizedString": "啊"
+          "LocalizedString": "Ah!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10261,7 +10261,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_135_1",
               "SourceString": "？",
-              "LocalizedString": "？"
+              "LocalizedString": "?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10304,7 +10304,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_136",
           "SourceString": "？",
-          "LocalizedString": "？"
+          "LocalizedString": "?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10349,7 +10349,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_137",
           "SourceString": "口袋里有方斯",
-          "LocalizedString": "口袋里有方斯"
+          "LocalizedString": "fons in pocket"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10394,7 +10394,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_138",
           "SourceString": "以前 放进去 忘记了",
-          "LocalizedString": "以前 放进去 忘记了"
+          "LocalizedString": "put it there before forgot about it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10410,7 +10410,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_138_1",
               "SourceString": "可以吃饭了",
-              "LocalizedString": "可以吃饭了"
+              "LocalizedString": "Time to eat!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10423,7 +10423,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_138_2",
               "SourceString": "要买番茄酱吗？",
-              "LocalizedString": "要买番茄酱吗？"
+              "LocalizedString": "Tomato jelly time?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10466,7 +10466,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_139_1",
           "SourceString": "可以吃饭了",
-          "LocalizedString": "可以吃饭了"
+          "LocalizedString": "Time to eat!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10511,7 +10511,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_139_2",
           "SourceString": "要买番茄酱吗？",
-          "LocalizedString": "要买番茄酱吗？"
+          "LocalizedString": "Tomato jelly time?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10556,7 +10556,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_140",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -10601,7 +10601,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_141",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10617,7 +10617,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_1_141_1",
               "SourceString": "开心",
-              "LocalizedString": "开心"
+              "LocalizedString": "Happy"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10660,7 +10660,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_1_142",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10705,7 +10705,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_1",
           "SourceString": "你好N=8Ti#1k7zq@!uw91ai",
-          "LocalizedString": "你好N=8Ti#1k7zq@!uw91ai"
+          "LocalizedString": "hellosakdo!92391!23"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10721,7 +10721,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_1_1",
               "SourceString": "你好。",
-              "LocalizedString": "你好。"
+              "LocalizedString": "Hello."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10734,7 +10734,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_1_2",
               "SourceString": "你是……",
-              "LocalizedString": "你是……"
+              "LocalizedString": "You are…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10747,7 +10747,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_1_3",
               "SourceString": "你还好吗？",
-              "LocalizedString": "你还好吗？"
+              "LocalizedString": "Are you okay?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -10790,7 +10790,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_2_1",
           "SourceString": "你好。",
-          "LocalizedString": "你好。"
+          "LocalizedString": "Hello."
         },
         "ParaContent": "",
         "IconSource": {
@@ -10835,7 +10835,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_2_2",
           "SourceString": "你是……",
-          "LocalizedString": "你是……"
+          "LocalizedString": "You are…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10880,7 +10880,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_2_3",
           "SourceString": "你还好吗？",
-          "LocalizedString": "你还好吗？"
+          "LocalizedString": "Are you okay?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10925,7 +10925,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_3_3",
           "SourceString": "手机 砸到脸了",
-          "LocalizedString": "手机 砸到脸了"
+          "LocalizedString": "phone fell on face"
         },
         "ParaContent": "",
         "IconSource": {
@@ -10970,7 +10970,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_4_3",
           "SourceString": "鼻子很痛",
-          "LocalizedString": "鼻子很痛"
+          "LocalizedString": "nose hurts"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11015,7 +11015,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_5",
           "SourceString": "安魂曲来打招呼",
-          "LocalizedString": "安魂曲来打招呼"
+          "LocalizedString": "lacrimosa saying hi"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11060,7 +11060,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_6",
           "SourceString": "要有礼貌",
-          "LocalizedString": "要有礼貌"
+          "LocalizedString": "be polite"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11105,7 +11105,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_7",
           "SourceString": "狗狗人说的",
-          "LocalizedString": "狗狗人说的"
+          "LocalizedString": "doggo said that"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11121,7 +11121,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_7_1",
               "SourceString": "「狗狗人」……",
-              "LocalizedString": "「狗狗人」……"
+              "LocalizedString": "\"Doggo\"…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11164,7 +11164,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_8",
           "SourceString": "「狗狗人」……是说翳先生吧？",
-          "LocalizedString": "「狗狗人」……是说翳先生吧？"
+          "LocalizedString": "You're referring to Skia as \"doggo,\" right?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11209,7 +11209,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_9",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -11254,7 +11254,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_10",
           "SourceString": "鉴定师  给安魂曲番茄酱",
-          "LocalizedString": "鉴定师  给安魂曲番茄酱"
+          "LocalizedString": "appraiser give lacrimosa tomato jelly"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11299,7 +11299,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_11",
           "SourceString": "是好人",
-          "LocalizedString": "是好人"
+          "LocalizedString": "good person"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11344,7 +11344,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_12",
           "SourceString": "安魂曲 想和鉴定师做好朋友",
-          "LocalizedString": "安魂曲 想和鉴定师做好朋友"
+          "LocalizedString": "lacrimosa wants to be good friends with appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11360,7 +11360,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_12_1",
               "SourceString": "好啊",
-              "LocalizedString": "好啊"
+              "LocalizedString": "Sure."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11373,7 +11373,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_12_2",
               "SourceString": "不行",
-              "LocalizedString": "不行"
+              "LocalizedString": "No."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11416,7 +11416,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_13_1",
           "SourceString": "好啊，我也想和安魂曲做好朋友。",
-          "LocalizedString": "好啊，我也想和安魂曲做好朋友。"
+          "LocalizedString": "Of course, I'd love to be good friends with you too, Lacrimosa."
         },
         "ParaContent": "",
         "IconSource": {
@@ -11461,7 +11461,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_13_2",
           "SourceString": "不行，除非你请我吃饭。",
-          "LocalizedString": "不行，除非你请我吃饭。"
+          "LocalizedString": "No, not unless you treat me to a meal."
         },
         "ParaContent": "",
         "IconSource": {
@@ -11506,7 +11506,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_14_2",
           "SourceString": "哦",
-          "LocalizedString": "哦"
+          "LocalizedString": "oh"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11551,7 +11551,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_15_2",
           "SourceString": "（安魂曲已下线）",
-          "LocalizedString": "（安魂曲已下线）"
+          "LocalizedString": "(Lacrimosa is offline)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11567,7 +11567,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_15_2_1",
               "SourceString": "我开玩笑……",
-              "LocalizedString": "我开玩笑……"
+              "LocalizedString": "I was joking…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11610,7 +11610,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_16_2",
           "SourceString": "我只是开个玩笑……",
-          "LocalizedString": "我只是开个玩笑……"
+          "LocalizedString": "I was joking…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11655,7 +11655,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_17_2",
           "SourceString": "安魂曲？",
-          "LocalizedString": "安魂曲？"
+          "LocalizedString": "Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11700,7 +11700,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_18_2",
           "SourceString": "（五分钟后）",
-          "LocalizedString": "（五分钟后）"
+          "LocalizedString": "(Five minutes later)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11745,7 +11745,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_19_2",
           "SourceString": "安魂曲 买了番茄酱",
-          "LocalizedString": "安魂曲 买了番茄酱"
+          "LocalizedString": "lacrimosa bought tomato jelly"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11790,7 +11790,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_20_2",
           "SourceString": "鉴定师 可以做好朋友了？",
-          "LocalizedString": "鉴定师 可以做好朋友了？"
+          "LocalizedString": "appraiser can we be good friends now"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11806,7 +11806,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_20_2_1",
               "SourceString": "可以",
-              "LocalizedString": "可以"
+              "LocalizedString": "Sounds good"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11849,7 +11849,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_21_2",
           "SourceString": "当然可以。",
-          "LocalizedString": "当然可以。"
+          "LocalizedString": "Of course."
         },
         "ParaContent": "",
         "IconSource": {
@@ -11894,7 +11894,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_22",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11910,7 +11910,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_22_1",
               "SourceString": "开心",
-              "LocalizedString": "开心"
+              "LocalizedString": "Happy"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -11953,7 +11953,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_23",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -11998,7 +11998,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_24",
           "SourceString": "鉴定师",
-          "LocalizedString": "鉴定师"
+          "LocalizedString": "Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12043,7 +12043,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_25",
           "SourceString": "狗狗人说 要多和好朋友玩",
-          "LocalizedString": "狗狗人说 要多和好朋友玩"
+          "LocalizedString": "doggo says play more with friends"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12088,7 +12088,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_26",
           "SourceString": "所以 安魂曲来和鉴定师聊天",
-          "LocalizedString": "所以 安魂曲来和鉴定师聊天"
+          "LocalizedString": "so lacrimosa came to chat with appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12104,7 +12104,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_26_1",
               "SourceString": "要聊些什么？",
-              "LocalizedString": "要聊些什么？"
+              "LocalizedString": "What would you like to chat about?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12147,7 +12147,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_27",
           "SourceString": "好啊，安魂曲想聊些什么？",
-          "LocalizedString": "好啊，安魂曲想聊些什么？"
+          "LocalizedString": "Sure, what would you like to chat about, Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12192,7 +12192,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_28",
           "SourceString": "……",
-          "LocalizedString": "……"
+          "LocalizedString": "…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12237,7 +12237,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_29",
           "SourceString": "（安魂曲已下线）",
-          "LocalizedString": "（安魂曲已下线）"
+          "LocalizedString": "(Lacrimosa is offline)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12253,7 +12253,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_29_1",
               "SourceString": "？",
-              "LocalizedString": "？"
+              "LocalizedString": "?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12296,7 +12296,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_30",
           "SourceString": "安魂曲？",
-          "LocalizedString": "安魂曲？"
+          "LocalizedString": "Lacrimosa?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12341,7 +12341,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_31",
           "SourceString": "（一小时后）",
-          "LocalizedString": "（一小时后）"
+          "LocalizedString": "(One hour later)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12386,7 +12386,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_32",
           "SourceString": "安魂曲 睡着了",
-          "LocalizedString": "安魂曲 睡着了"
+          "LocalizedString": "lacrimosa fell asleep"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12402,7 +12402,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_32_1",
               "SourceString": "睡好快……",
-              "LocalizedString": "睡好快……"
+              "LocalizedString": "That was quick…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12445,7 +12445,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_33",
           "SourceString": "安魂曲睡着得好快啊……",
-          "LocalizedString": "安魂曲睡着得好快啊……"
+          "LocalizedString": "Lacrimosa falls asleep so quickly…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12490,7 +12490,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_34",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -12535,7 +12535,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_35",
           "SourceString": "就这yang",
-          "LocalizedString": "就这yang"
+          "LocalizedString": "like this"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12551,7 +12551,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_35_1",
               "SourceString": "又睡了？",
-              "LocalizedString": "又睡了？"
+              "LocalizedString": "Fell asleep again?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12564,7 +12564,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_35_2",
               "SourceString": "不需要示范！",
-              "LocalizedString": "不需要示范！"
+              "LocalizedString": "No demonstration needed!"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12607,7 +12607,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_36_1",
           "SourceString": "……安魂曲不会是……又睡着了吧？",
-          "LocalizedString": "……安魂曲不会是……又睡着了吧？"
+          "LocalizedString": "…Did Lacrimosa fell asleep… again?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12652,7 +12652,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_36_2",
           "SourceString": "等等！安魂曲不用给我示范……",
-          "LocalizedString": "等等！安魂曲不用给我示范……"
+          "LocalizedString": "Wait! Lacrimosa, you don't need to demonstrate that…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12697,7 +12697,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_37_1",
           "SourceString": "（安魂曲已下线）",
-          "LocalizedString": "（安魂曲已下线）"
+          "LocalizedString": "(Lacrimosa is offline)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12742,7 +12742,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_38_1",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12787,7 +12787,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_39_1",
           "SourceString": "（一小时后）",
-          "LocalizedString": "（一小时后）"
+          "LocalizedString": "(One hour later)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12832,7 +12832,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_37_2",
           "SourceString": "害怕.jpg",
-          "LocalizedString": "害怕.jpg"
+          "LocalizedString": "scared.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12877,7 +12877,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_38_2",
           "SourceString": "哦",
-          "LocalizedString": "哦"
+          "LocalizedString": "oh"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12922,7 +12922,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_40",
           "SourceString": "安魂曲的任务 还没完成",
-          "LocalizedString": "安魂曲的任务 还没完成"
+          "LocalizedString": "lacrimosa mission not done yet"
         },
         "ParaContent": "",
         "IconSource": {
@@ -12938,7 +12938,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_40_1",
               "SourceString": "任务？",
-              "LocalizedString": "任务？"
+              "LocalizedString": "Mission?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -12981,7 +12981,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_41",
           "SourceString": "任务？",
-          "LocalizedString": "任务？"
+          "LocalizedString": "Mission?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13026,7 +13026,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_42",
           "SourceString": "嗯",
-          "LocalizedString": "嗯"
+          "LocalizedString": "Yeah."
         },
         "ParaContent": "",
         "IconSource": {
@@ -13071,7 +13071,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_43",
           "SourceString": "<Blue>图片.jpg</>",
-          "LocalizedString": "<Blue>图片.jpg</>"
+          "LocalizedString": "<Blue>image.jpg</>"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13087,7 +13087,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_43_1",
               "SourceString": "不是任务",
-              "LocalizedString": "不是任务"
+              "LocalizedString": "Talking to people isn't a mission"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13100,7 +13100,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_43_2",
               "SourceString": "不要勉强",
-              "LocalizedString": "不要勉强"
+              "LocalizedString": "Don't push yourself"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13143,7 +13143,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_44_1",
           "SourceString": "这应该并不是一个任务……翳先生只是希望安魂曲可以更多地和朋友交流吧。",
-          "LocalizedString": "这应该并不是一个任务……翳先生只是希望安魂曲可以更多地和朋友交流吧。"
+          "LocalizedString": "This probably isn't an actual mission… Skia just wanted Lacrimosa to socialize more with friends."
         },
         "ParaContent": "",
         "IconSource": {
@@ -13188,7 +13188,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_44_2",
           "SourceString": "安魂曲也不需要勉强自己找话题……",
-          "LocalizedString": "安魂曲也不需要勉强自己找话题……"
+          "LocalizedString": "Lacrimosa, you don't need to force yourself to make conversation…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13233,7 +13233,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_45",
           "SourceString": "哦",
-          "LocalizedString": "哦"
+          "LocalizedString": "oh"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13278,7 +13278,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_46",
           "SourceString": "（安魂曲已下线）",
-          "LocalizedString": "（安魂曲已下线）"
+          "LocalizedString": "(Lacrimosa is offline)"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13294,7 +13294,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_2_46_1",
               "SourceString": "疑惑",
-              "LocalizedString": "疑惑"
+              "LocalizedString": "Confused"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13337,7 +13337,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_2_47",
           "SourceString": "疑惑.jpg",
-          "LocalizedString": "疑惑.jpg"
+          "LocalizedString": "confused.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13393,7 +13393,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_1",
           "SourceString": "鉴定师 喜欢公爵K吗？",
-          "LocalizedString": "鉴定师 喜欢公爵K吗？"
+          "LocalizedString": "Appraiser like duke k?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13409,7 +13409,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_1_a",
               "SourceString": "喜欢",
-              "LocalizedString": "喜欢"
+              "LocalizedString": "I like it"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13422,7 +13422,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_1_b",
               "SourceString": "没看过",
-              "LocalizedString": "没看过"
+              "LocalizedString": "I haven't read it yet"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13465,7 +13465,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_2_1",
           "SourceString": "挺喜欢的。怎么突然问这个？",
-          "LocalizedString": "挺喜欢的。怎么突然问这个？"
+          "LocalizedString": "I quite like it. Why ask?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13510,7 +13510,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_2_2",
           "SourceString": "是说那部漫画吧？我还没有看过。",
-          "LocalizedString": "是说那部漫画吧？我还没有看过。"
+          "LocalizedString": "You mean that manga, right? I haven't read it yet."
         },
         "ParaContent": "",
         "IconSource": {
@@ -13555,7 +13555,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_3",
           "SourceString": "公爵K 很好看",
-          "LocalizedString": "公爵K 很好看"
+          "LocalizedString": "duke k very good"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13600,7 +13600,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_4",
           "SourceString": "出了《连载周年纪念典藏版》 安魂曲 买到了",
-          "LocalizedString": "出了《连载周年纪念典藏版》 安魂曲 买到了"
+          "LocalizedString": "they released anniversary collector's edition… Lacrimosa got it"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13645,7 +13645,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_5",
           "SourceString": "「字很多网友」说 可以在家里开「鉴赏会」 会很开心",
-          "LocalizedString": "「字很多网友」说 可以在家里开「鉴赏会」 会很开心"
+          "LocalizedString": "net friend with a long name said… can have reading party at home… would be very happy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13690,7 +13690,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_6",
           "SourceString": "鉴定师 一起开鉴赏会？",
-          "LocalizedString": "鉴定师 一起开鉴赏会？"
+          "LocalizedString": "Appraiser wanna have reading party together?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13706,7 +13706,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_6_a",
               "SourceString": "好的",
-              "LocalizedString": "好的"
+              "LocalizedString": "Alright."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13719,7 +13719,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_6_b",
               "SourceString": "很有兴趣",
-              "LocalizedString": "很有兴趣"
+              "LocalizedString": "Interesting, I'll be right there."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13762,7 +13762,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_7_1",
           "SourceString": "好啊，那就一会儿见。",
-          "LocalizedString": "好啊，那就一会儿见。"
+          "LocalizedString": "Sure, see you in a bit then."
         },
         "ParaContent": "",
         "IconSource": {
@@ -13807,7 +13807,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_7_2",
           "SourceString": "听起来好像很有趣，我这就来。",
-          "LocalizedString": "听起来好像很有趣，我这就来。"
+          "LocalizedString": "That sounds really interesting, I'll be right there."
         },
         "ParaContent": "",
         "IconSource": {
@@ -13852,7 +13852,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_8",
           "SourceString": "星星眼.jpg",
-          "LocalizedString": "星星眼.jpg"
+          "LocalizedString": "starstruck.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13897,7 +13897,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_8",
           "SourceString": "星星眼.jpg",
-          "LocalizedString": "星星眼.jpg"
+          "LocalizedString": "starstruck.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13953,7 +13953,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_9",
           "SourceString": "鉴定师 什么水果好吃？",
-          "LocalizedString": "鉴定师 什么水果好吃？"
+          "LocalizedString": "Appraiser what fruit tasty?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -13969,7 +13969,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_9_a",
               "SourceString": "番茄",
-              "LocalizedString": "番茄"
+              "LocalizedString": "Tomato"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -13982,7 +13982,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_9_b",
               "SourceString": "都很好吃",
-              "LocalizedString": "都很好吃"
+              "LocalizedString": "Every kind of fruit is delicious."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14025,7 +14025,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_10_1",
           "SourceString": "安魂曲问的话，当然是番茄……不过，番茄究竟算不算水果啊……",
-          "LocalizedString": "安魂曲问的话，当然是番茄……不过，番茄究竟算不算水果啊……"
+          "LocalizedString": "For you, that would be tomatoes for sure… But wait, do tomatoes even count as fruit…?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14070,7 +14070,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_10_2",
           "SourceString": "每种水果都很好吃。",
-          "LocalizedString": "每种水果都很好吃。"
+          "LocalizedString": "Every kind of fruit is delicious."
         },
         "ParaContent": "",
         "IconSource": {
@@ -14115,7 +14115,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_11_1",
           "SourceString": "唔 安魂曲种番茄 结出来的是果子",
-          "LocalizedString": "唔 安魂曲种番茄 结出来的是果子"
+          "LocalizedString": "mm Lacrimosa grow tomato… what comes out is fruit"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14160,7 +14160,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_11_2",
           "SourceString": "这样啊 安魂曲 不知道",
-          "LocalizedString": "这样啊 安魂曲 不知道"
+          "LocalizedString": "oh… Lacrimosa dont know"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14176,7 +14176,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_13_a",
               "SourceString": "怎么了？",
-              "LocalizedString": "怎么了？"
+              "LocalizedString": "What's wrong?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14219,7 +14219,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_12_1",
           "SourceString": "但是 水果店不卖 蔬菜店卖",
-          "LocalizedString": "但是 水果店不卖 蔬菜店卖"
+          "LocalizedString": "but fruit store dont sell… vegetable store sell"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14264,7 +14264,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_13_1",
           "SourceString": "……安魂曲 也不明白",
-          "LocalizedString": "……安魂曲 也不明白"
+          "LocalizedString": "…Lacrimosa dont understand either"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14280,7 +14280,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_13_a",
               "SourceString": "怎么了？",
-              "LocalizedString": "怎么了？"
+              "LocalizedString": "What's wrong?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14323,7 +14323,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_14",
           "SourceString": "安魂曲怎么突然问这个？",
-          "LocalizedString": "安魂曲怎么突然问这个？"
+          "LocalizedString": "Why the sudden curiosity?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14368,7 +14368,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_15",
           "SourceString": "爷爷生病了 奶奶在医院里陪爷爷",
-          "LocalizedString": "爷爷生病了 奶奶在医院里陪爷爷"
+          "LocalizedString": "grandpa got sick… grandma at hospital with grandpa"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14413,7 +14413,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_16",
           "SourceString": "安魂曲也去了医院 看到其他人 都拿着水果",
-          "LocalizedString": "安魂曲也去了医院 看到其他人 都拿着水果"
+          "LocalizedString": "Lacrimosa went to hospital too… saw other people… all carrying fruit"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14458,7 +14458,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_17",
           "SourceString": "安魂曲 手里空空的",
-          "LocalizedString": "安魂曲 手里空空的"
+          "LocalizedString": "Lacrimosa hands were empty"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14474,7 +14474,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_17_a",
               "SourceString": "安魂曲也想送水果吗？",
-              "LocalizedString": "安魂曲也想送水果吗？"
+              "LocalizedString": "So you want to bring some fruit too?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14517,7 +14517,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_18",
           "SourceString": "这么说，安魂曲也想给爷爷奶奶送些水果？",
-          "LocalizedString": "这么说，安魂曲也想给爷爷奶奶送些水果？"
+          "LocalizedString": "So you want to bring some fruit for grandpa and grandma too?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14562,7 +14562,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_19",
           "SourceString": "嗯 但是 不知道水果的味道……",
-          "LocalizedString": "嗯 但是 不知道水果的味道……"
+          "LocalizedString": "mhm… but… dont know what fruit taste like…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14578,7 +14578,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_19_a",
               "SourceString": "我来帮你",
-              "LocalizedString": "我来帮你"
+              "LocalizedString": "Let me help you pick some fruit"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14621,7 +14621,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_20",
           "SourceString": "原来是这样啊。那我来帮安魂曲挑些适合探病的水果吧。",
-          "LocalizedString": "原来是这样啊。那我来帮安魂曲挑些适合探病的水果吧。"
+          "LocalizedString": "I see now. How about I help you pick some fruit that's suitable for hospital visits?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14666,7 +14666,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_21",
           "SourceString": "好 谢谢鉴定师",
-          "LocalizedString": "好 谢谢鉴定师"
+          "LocalizedString": "okay… thank u Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14711,7 +14711,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_21",
           "SourceString": "好 谢谢鉴定师",
-          "LocalizedString": "好 谢谢鉴定师"
+          "LocalizedString": "okay… thank u Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14767,7 +14767,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_22",
           "SourceString": "鉴定师 鉴定师",
-          "LocalizedString": "鉴定师 鉴定师"
+          "LocalizedString": "Appraiser Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14812,7 +14812,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_23",
           "SourceString": "爷爷 病好了",
-          "LocalizedString": "爷爷 病好了"
+          "LocalizedString": "grandpa… got better"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14828,7 +14828,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_23_a",
               "SourceString": "太好了",
-              "LocalizedString": "太好了"
+              "LocalizedString": "As long as you had fun"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14841,7 +14841,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_23_b",
               "SourceString": "是水果的功劳",
-              "LocalizedString": "是水果的功劳"
+              "LocalizedString": "It's thanks to the fruit"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -14884,7 +14884,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_24_1",
           "SourceString": "太好了！",
-          "LocalizedString": "太好了！"
+          "LocalizedString": "That's wonderful!"
         },
         "ParaContent": "",
         "IconSource": {
@@ -14929,7 +14929,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_24_2",
           "SourceString": "肯定是安魂曲送的水果的功劳。",
-          "LocalizedString": "肯定是安魂曲送的水果的功劳。"
+          "LocalizedString": "It's definitely thanks to the fruit that Lacrimosa brought."
         },
         "ParaContent": "",
         "IconSource": {
@@ -14974,7 +14974,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_25",
           "SourceString": "开心.jpg",
-          "LocalizedString": "开心.jpg"
+          "LocalizedString": "happy.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15019,7 +15019,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_26",
           "SourceString": "爷爷奶奶 收到水果 很开心",
-          "LocalizedString": "爷爷奶奶 收到水果 很开心"
+          "LocalizedString": "grandpa grandma… got fruit… very happy"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15064,7 +15064,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_27",
           "SourceString": "安魂曲说 是鉴定师帮助安魂曲",
-          "LocalizedString": "安魂曲说 是鉴定师帮助安魂曲"
+          "LocalizedString": "Lacrimosa said… Appraiser helped Lacrimosa"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15109,7 +15109,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_28",
           "SourceString": "爷爷奶奶 也想谢谢鉴定师",
-          "LocalizedString": "爷爷奶奶 也想谢谢鉴定师"
+          "LocalizedString": "grandpa grandma… also want to thank Appraiser"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15125,7 +15125,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_28_a",
               "SourceString": "不必了",
-              "LocalizedString": "不必了"
+              "LocalizedString": "That's really not necessary."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -15138,7 +15138,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_28_b",
               "SourceString": "怎么谢我？",
-              "LocalizedString": "怎么谢我？"
+              "LocalizedString": "Are they planning anything?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -15181,7 +15181,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_29_1",
           "SourceString": "这就不必了，不过是一点小忙。",
-          "LocalizedString": "这就不必了，不过是一点小忙。"
+          "LocalizedString": "That's really not necessary. It was just a small favor."
         },
         "ParaContent": "",
         "IconSource": {
@@ -15226,7 +15226,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_29_2",
           "SourceString": "具体怎么谢我，展开说说？",
-          "LocalizedString": "具体怎么谢我，展开说说？"
+          "LocalizedString": "Are they planning anything? What did they say?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15271,7 +15271,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_30",
           "SourceString": "爷爷出院 奶奶很高兴 说要做很多很多很多菜",
-          "LocalizedString": "爷爷出院 奶奶很高兴 说要做很多很多很多菜"
+          "LocalizedString": "grandpa discharged… grandma very happy… said gonna cook lots lots lots of food"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15316,7 +15316,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_31",
           "SourceString": "三个人 吃不完 鉴定师也来吃",
-          "LocalizedString": "三个人 吃不完 鉴定师也来吃"
+          "LocalizedString": "three people… can't finish eating… Appraiser come eat too"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15332,7 +15332,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_31_a",
               "SourceString": "太热情了",
-              "LocalizedString": "太热情了"
+              "LocalizedString": "They're so enthusiastic"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -15345,7 +15345,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "1004_a_31_b",
               "SourceString": "我马上到",
-              "LocalizedString": "我马上到"
+              "LocalizedString": "I'll be right there"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -15388,7 +15388,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_32_1",
           "SourceString": "安魂曲的爷爷奶奶也太热情了。但要是再推辞，反而显得我不识趣了……",
-          "LocalizedString": "安魂曲的爷爷奶奶也太热情了。但要是再推辞，反而显得我不识趣了……"
+          "LocalizedString": "Lacrimosa's grandparents are really enthusiastic. But if I keep refusing, it'll probably be a bummer for them…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15433,7 +15433,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_32_2",
           "SourceString": "既然你都这么说了……我马上就到。",
-          "LocalizedString": "既然你都这么说了……我马上就到。"
+          "LocalizedString": "Since you put it that way… I'll be right there."
         },
         "ParaContent": "",
         "IconSource": {
@@ -15478,7 +15478,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_33",
           "SourceString": "星星眼.jpg",
-          "LocalizedString": "星星眼.jpg"
+          "LocalizedString": "starstruck.jpg"
         },
         "ParaContent": "",
         "IconSource": {
@@ -15523,7 +15523,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1004_a_33",
           "SourceString": "星星眼.jpg",
-          "LocalizedString": "星星眼.jpg"
+          "LocalizedString": "starstruck.jpg"
         },
         "ParaContent": "",
         "IconSource": {

@@ -19,13 +19,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailContent": {
           "CultureInvariantString": null
@@ -35,7 +35,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FuBag_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -51,26 +51,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork",
           "SourceString": "【弧盘捕获遗漏】请查收未捕获弧盘",
-          "LocalizedString": "【弧盘捕获遗漏】请查收未捕获弧盘"
+          "LocalizedString": "Arc Capture: Uncaptured Arcs Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork",
           "SourceString": "【弧盘捕获遗漏】请查收未捕获弧盘",
-          "LocalizedString": "【弧盘捕获遗漏】请查收未捕获弧盘"
+          "LocalizedString": "Arc Capture: Uncaptured Arcs Found"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Text",
           "SourceString": "亲爱的市民，您似乎未察觉到可以收容的弧盘，这是您遗漏的弧盘，请查收。",
-          "LocalizedString": "亲爱的市民，您似乎未察觉到可以收容的弧盘，这是您遗漏的弧盘，请查收。"
+          "LocalizedString": "Dear citizen, you seem to have overlooked Arcs that can be contained. These are the Arcs you've missed. Please check."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -86,26 +86,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_fullfork",
           "SourceString": "【弧盘研募遗漏】请查收未收纳弧盘",
-          "LocalizedString": "【弧盘研募遗漏】请查收未收纳弧盘"
+          "LocalizedString": "Arc Research: Unstored Arcs Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_fullfork",
           "SourceString": "【弧盘研募遗漏】请查收未收纳弧盘",
-          "LocalizedString": "【弧盘研募遗漏】请查收未收纳弧盘"
+          "LocalizedString": "Arc Research: Unstored Arcs Found"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Forkshop_4",
           "SourceString": "亲爱的异象猎人，因背包没有足够的空间，您在参与弧盘研募计划时部分道具没有获得，现已将道具送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因背包没有足够的空间，您在参与弧盘研募计划时部分道具没有获得，现已将道具送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, some items from your participation in the Arc Research Program could not be collected due to insufficient inventory space. They have now been sent to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -121,13 +121,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_lottery_missing",
           "SourceString": "【斯卡布罗集市遗漏】请查收未收纳道具",
-          "LocalizedString": "【斯卡布罗集市遗漏】请查收未收纳道具"
+          "LocalizedString": "Scarborough Fair: Unstored Items Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_lottery_missing",
           "SourceString": "【斯卡布罗集市遗漏】请查收未收纳道具",
-          "LocalizedString": "【斯卡布罗集市遗漏】请查收未收纳道具"
+          "LocalizedString": "Scarborough Fair: Unstored Items Found"
         },
         "MailContent": {
           "CultureInvariantString": null
@@ -137,7 +137,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -153,26 +153,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_1",
           "SourceString": "因退款扣除{0}{1}。",
-          "LocalizedString": "因退款扣除{0}{1}。"
+          "LocalizedString": "{0}{1} deducted due to refund."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -188,26 +188,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_2",
           "SourceString": "因退款扣除{0}{1}、{2}{3}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}。"
+          "LocalizedString": "{0}{1}, {2}{3} deducted due to refund."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -223,26 +223,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_3",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}。"
+          "LocalizedString": "{0}{1}, {2}{3}, {4}{5} deducted due to refund."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -258,26 +258,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Title",
           "SourceString": "异晶开采凭证到期提醒",
-          "LocalizedString": "异晶开采凭证到期提醒"
+          "LocalizedString": "Riftcrystal Mining Permit Expiration Reminder"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Title",
           "SourceString": "异晶开采凭证到期提醒",
-          "LocalizedString": "异晶开采凭证到期提醒"
+          "LocalizedString": "Riftcrystal Mining Permit Expiration Reminder"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Content",
           "SourceString": "亲爱的异象猎人，您持有的异晶开采凭证即将到期，如有需要，可前往商城续约。\r\n异象猎人公会感谢您为异晶开采工作做出的一切贡献，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，您持有的异晶开采凭证即将到期，如有需要，可前往商城续约。\r\n异象猎人公会感谢您为异晶开采工作做出的一切贡献，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, your Riftcrystal Mining Permit is about to expire. If needed, you can renew it at the Mall.\r\nThe Anomaly Hunter Guild thanks you for all your contributions to Riftcrystal mining operations and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -293,26 +293,26 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_MonthCard_001",
           "SourceString": "异晶开采凭证购买异常",
-          "LocalizedString": "异晶开采凭证购买异常"
+          "LocalizedString": "Riftcrystal Mining Permit Purchase Error"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_MonthCard_001",
           "SourceString": "异晶开采凭证购买异常",
-          "LocalizedString": "异晶开采凭证购买异常"
+          "LocalizedString": "Riftcrystal Mining Permit Purchase Error"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_MonthCard_002",
           "SourceString": "亲爱的异象猎人，因异常现象干扰，您在购买「异晶开采凭证」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因异常现象干扰，您在购买「异晶开采凭证」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to interference from an Anomaly, a duplicate purchase occurred when you bought the Riftcrystal Mining Permit. The Riftcrystals from the duplicate payment has been refunded to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "drop_MonthlyCardCompensation_30",
@@ -328,26 +328,26 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_003",
           "SourceString": "亲爱的异象猎人，因异常现象干扰，您在购买「精锐猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因异常现象干扰，您在购买「精锐猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to interference from an Anomaly, a duplicate purchase occurred when you bought the Elite Hunter Supplies. The Riftcrystals from the duplicate payment has been refunded to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "drop_BPCompensation_68",
@@ -363,26 +363,26 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_004",
           "SourceString": "亲爱的异象猎人，因异常现象干扰，您在购买「荣誉猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因异常现象干扰，您在购买「荣誉猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to interference from an Anomaly, a duplicate purchase occurred when you bought the Honor Hunter Supplies. The Riftcrystals from the duplicate payment has been refunded to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "drop_BPCompensation_128",
@@ -398,26 +398,26 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_001",
           "SourceString": "环期赏令重复购买异常",
-          "LocalizedString": "环期赏令重复购买异常"
+          "LocalizedString": "Circle Bounty Duplicate Purchase Error"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_005",
           "SourceString": "亲爱的异象猎人，因异常现象干扰，您在将「精锐猎人补给」升级至「荣誉猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因异常现象干扰，您在将「精锐猎人补给」升级至「荣誉猎人补给」时，发生了重复购买现象，现已将重复支付的异晶退还至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to interference from an Anomaly, a duplicate purchase occurred when you upgraded from Elite Hunter Supplies to Honor Hunter Supplies. The Riftcrystals from the duplicate payment has been refunded to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "drop_BPCompensation_60",
@@ -433,26 +433,26 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_002",
           "SourceString": "环期赏令奖励补发",
-          "LocalizedString": "环期赏令奖励补发"
+          "LocalizedString": "Circle Bounty Reward Reissue"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_002",
           "SourceString": "环期赏令奖励补发",
-          "LocalizedString": "环期赏令奖励补发"
+          "LocalizedString": "Circle Bounty Reward Reissue"
         },
         "MailContent": {
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_CombatAwards_006",
           "SourceString": "亲爱的异象猎人，本期「环期赏令」已经结束，现补发您尚未领取的补给，请及时领取。异象猎人公会将一如既往地支援各位猎人，期待与您继续合作。",
-          "LocalizedString": "亲爱的异象猎人，本期「环期赏令」已经结束，现补发您尚未领取的补给，请及时领取。异象猎人公会将一如既往地支援各位猎人，期待与您继续合作。"
+          "LocalizedString": "Dear Anomaly Hunter, the current Circle Bounty period has ended. Supplies you did not claim have been reissued. Please collect them at your earliest convenience. The Anomaly Hunter Guild will continue to support all hunters as always, and we look forward to your continued cooperation."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -468,26 +468,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_GameBackGiftExceedMax_title",
           "SourceString": "礼包重复购买异常",
-          "LocalizedString": "礼包重复购买异常"
+          "LocalizedString": "Package Duplicate Purchase Error"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_GameBackGiftExceedMax_title",
           "SourceString": "礼包重复购买异常",
-          "LocalizedString": "礼包重复购买异常"
+          "LocalizedString": "Package Duplicate Purchase Error"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_GameBackGiftExceedMax_des",
           "SourceString": "亲爱的异象猎人，因异常现象干扰，您在购买「{0}」时发生了重复购买现象，现已将重复支付的金额转化为异晶送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因异常现象干扰，您在购买「{0}」时发生了重复购买现象，现已将重复支付的金额转化为异晶送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to interference from an anomaly, a duplicate purchase occurred when you bought {0}. The duplicate payment has been converted to Riftcrystals and sent to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -503,26 +503,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_GameBackGiftBagFull_des",
           "SourceString": "亲爱的异象猎人，因背包没有足够的空间，您在购买「{0}」时部分道具没有获得，现已将道具送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。",
-          "LocalizedString": "亲爱的异象猎人，因背包没有足够的空间，您在购买「{0}」时部分道具没有获得，现已将道具送至您的账户。异象猎人公会感谢您的支持，期待与您的再次合作。"
+          "LocalizedString": "Dear Anomaly Hunter, due to insufficient space in your inventory, some items where not received when you purchased \"{0}.\" The items have now been sent to your account. The Anomaly Hunter Guild thanks you for your support and looks forward to working with you again."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -538,26 +538,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
           "SourceString": "活动遗失奖励补发",
-          "LocalizedString": "活动遗失奖励补发"
+          "LocalizedString": "Unclaimed Event Reward Reissue"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
           "SourceString": "活动遗失奖励补发",
-          "LocalizedString": "活动遗失奖励补发"
+          "LocalizedString": "Unclaimed Event Reward Reissue"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Content",
           "SourceString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。",
-          "LocalizedString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。"
+          "LocalizedString": "Dear Citizen, You have unclaimed event rewards, which have been sent to your Mail. Please claim them promptly. Thank you for participating in our events. We hope you enjoy your time in the game!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -573,26 +573,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_fork_remove_title",
           "SourceString": "弧盘扣除返还消耗",
-          "LocalizedString": "弧盘扣除返还消耗"
+          "LocalizedString": "Arc Deduction Refund"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_fork_remove_title",
           "SourceString": "弧盘扣除返还消耗",
-          "LocalizedString": "弧盘扣除返还消耗"
+          "LocalizedString": "Arc Deduction Refund"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_fork_remove_content",
           "SourceString": "扣除弧盘{0}，返还相应消耗",
-          "LocalizedString": "扣除弧盘{0}，返还相应消耗"
+          "LocalizedString": "Arc {0} deducted. Corresponding materials refunded."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -608,26 +608,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_4",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -643,26 +643,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_5",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}, {8} ×{9}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -678,26 +678,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_6",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}, {8} ×{9}, {10} ×{11}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -713,26 +713,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_7",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}, {8} ×{9}, {10} ×{11}, {12} ×{13}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -748,26 +748,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_8",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}, {8} ×{9}, {10} ×{11}, {12} ×{13}, {14} ×{15}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -783,26 +783,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_9",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}、{16}{17}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}、{16}{17}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3}, {4} ×{5}, {6} ×{7}, {8} ×{9}, {10} ×{11}, {12} ×{13}, {14} ×{15}, {16} ×{17}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -818,26 +818,26 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund",
           "SourceString": "【退款通知】",
-          "LocalizedString": "【退款通知】"
+          "LocalizedString": "Refund Notice"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "mail_refund_10",
           "SourceString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}、{16}{17}、{18}{19}。",
-          "LocalizedString": "因退款扣除{0}{1}、{2}{3}、{4}{5}、{6}{7}、{8}{9}、{10}{11}、{12}{13}、{14}{15}、{16}{17}、{18}{19}。"
+          "LocalizedString": "The following items were deducted due to a refund: {0} ×{1}, {2} ×{3},{4} ×{5}, {6} ×{7}, {8} ×{9}, {10} ×{11}, {12} ×{13}, {14} ×{15}, {16} ×{17}, {18} ×{19}."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -853,13 +853,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FullBag",
           "SourceString": "【背包已满】请查收失物",
-          "LocalizedString": "【背包已满】请查收失物"
+          "LocalizedString": "[Inventory Full] Lost Items Found"
         },
         "MailContent": {
           "CultureInvariantString": null
@@ -869,7 +869,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_FuBag_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -885,26 +885,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_web_gift_name",
           "SourceString": "网页订购礼包",
-          "LocalizedString": "网页订购礼包"
+          "LocalizedString": "Web Order Gift"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_web_gift_name",
           "SourceString": "网页订购礼包",
-          "LocalizedString": "网页订购礼包"
+          "LocalizedString": "Web Order Gift"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "mail_web_gift_des",
           "SourceString": "您订购的礼包已送达请查收。",
-          "LocalizedString": "您订购的礼包已送达请查收。"
+          "LocalizedString": "The gift you ordered has arrived. Claim it now."
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -920,7 +920,7 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_ItemExpired_Name",
           "SourceString": "限时物品过期提醒",
-          "LocalizedString": "限时物品过期提醒"
+          "LocalizedString": "Limited-Time Item Expiration Notice"
         },
         "MailSubTitle": {
           "CultureInvariantString": null
@@ -929,14 +929,14 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_ItemExpired_Content",
           "SourceString": "亲爱的异象猎人，您持有的如下限时物品已于{0}/{1}/{2}/ {3}:{4} UTC+{5}到期。\r\n{6}*{7}",
-          "LocalizedString": "亲爱的异象猎人，您持有的如下限时物品已于{0}/{1}/{2}/ {3}:{4} UTC+{5}到期。\r\n{6}*{7}"
+          "LocalizedString": "Dear Anomaly Hunter, the following limited-time items in your inventory expired on {0}/{1}/{2} at {3}:{4} UTC+{5}.\r\n{6} ×{7}"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -952,7 +952,7 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_AlarmItemExpired_Name",
           "SourceString": "限时物品使用提醒",
-          "LocalizedString": "限时物品使用提醒"
+          "LocalizedString": "Limited-Time Item Expiration Reminder"
         },
         "MailSubTitle": {
           "CultureInvariantString": null
@@ -961,14 +961,14 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Mail_AlarmItemExpired_Content",
           "SourceString": "亲爱的异象猎人，您持有的如下限时物品将于{0}/{1}/{2}/ {3}:{4} UTC+{5}到期，请及时使用。\r\n{6}*{7}",
-          "LocalizedString": "亲爱的异象猎人，您持有的如下限时物品将于{0}/{1}/{2}/ {3}:{4} UTC+{5}到期，请及时使用。\r\n{6}*{7}"
+          "LocalizedString": "Dear Anomaly Hunter, the following limited-time items in your inventory will expire on {0}/{1}/{2} at {3}:{4} UTC+{5}. Please use them before they expire.\r\n{6} ×{7}"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "MonthlyPassExpire_Sender",
           "SourceString": "异象猎人公会",
-          "LocalizedString": "异象猎人公会"
+          "LocalizedString": "Anomaly Hunter Guild"
         },
         "MailAttachStr": "",
         "DropID": "None",
@@ -984,26 +984,26 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
           "SourceString": "活动遗失奖励补发",
-          "LocalizedString": "活动遗失奖励补发"
+          "LocalizedString": "Unclaimed Event Reward Reissue"
         },
         "MailSubTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Title",
           "SourceString": "活动遗失奖励补发",
-          "LocalizedString": "活动遗失奖励补发"
+          "LocalizedString": "Unclaimed Event Reward Reissue"
         },
         "MailContent": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_MailModel_Mail_Lotteryreissue_Content",
           "SourceString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。",
-          "LocalizedString": "亲爱的市民，查询到您有活动完成奖励尚未领取，已为您补发至邮箱，请及时领取。感谢您参与每一次活动，希望您游玩愉快。"
+          "LocalizedString": "Dear Citizen, You have unclaimed event rewards, which have been sent to your Mail. Please claim them promptly. Thank you for participating in our events. We hope you enjoy your time in the game!"
         },
         "MailParams": "",
         "MailSender": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Mail_Fork_Sender",
           "SourceString": "巡警蚁",
-          "LocalizedString": "巡警蚁"
+          "LocalizedString": "Patrol Ant"
         },
         "MailAttachStr": "",
         "DropID": "None",

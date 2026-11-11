@@ -18,7 +18,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "Anomaly_013_Name",
           "SourceString": "墨菲克斯",
-          "LocalizedString": "墨菲克斯"
+          "LocalizedString": "Morphix"
         },
         "EnemyType": "EMonsterManualEnemyType::Boss",
         "EnemyImage": {
@@ -33,19 +33,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_SubArea00101",
           "SourceString": "绿墙坡",
-          "LocalizedString": "绿墙坡"
+          "LocalizedString": "Green Wall Slope"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_05_BP_Found",
           "SourceString": "在不同人眼中呈现出不同生物形态的歧骸，掌控着一个异象空间，并且可以随心地构建与变换空间的形态。传闻每月十五晚上，如果心怀强烈至一定程度的愿望与决心，说不定有机会得到墨菲克斯的回应。\r\n「而聪明人总是乐于等价交换。」",
-          "LocalizedString": "在不同人眼中呈现出不同生物形态的歧骸，掌控着一个异象空间，并且可以随心地构建与变换空间的形态。传闻每月十五晚上，如果心怀强烈至一定程度的愿望与决心，说不定有机会得到墨菲克斯的回应。\r\n「而聪明人总是乐于等价交换。」"
+          "LocalizedString": "An Oddity that appears in different biological forms depending on the observer, controlling an Anomalous Realm that it can construct and transform at will. Rumor has it that on the night of the 15th each month, if one harbors a wish and determination strong enough, there might be a chance to receive a response from Morphix.\r\n\"Clever people are always happy to make equivalent exchanges.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_05_BP_Unfound",
           "SourceString": "是难以名状的凶残之物，还是温顺亲人的毛茸茸，皆取决于你的眼睛。",
-          "LocalizedString": "是难以名状的凶残之物，还是温顺亲人的毛茸茸，皆取决于你的眼睛。"
+          "LocalizedString": "Whether it's an unspeakably savage beast or a gentle, fluffy companion depends entirely on your eyes."
         },
         "DropID": "drop_weeklyclone_a01_lv1",
         "StaminaNum": 60,
@@ -66,7 +66,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_08_Name",
           "SourceString": "斑蝶",
-          "LocalizedString": "斑蝶"
+          "LocalizedString": "Swallowtail"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -81,19 +81,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_08_BP_Found",
           "SourceString": "笨重而庞大的蝴蝶拖着身上的电影票根，一直试图向高空飞行，却只能终日在此徘徊。\r\n「逃走吧，能逃走吗？」",
-          "LocalizedString": "笨重而庞大的蝴蝶拖着身上的电影票根，一直试图向高空飞行，却只能终日在此徘徊。\r\n「逃走吧，能逃走吗？」"
+          "LocalizedString": "A massive, lumbering butterfly drags a trail of movie ticket stubs, forever yearning for the sky, yet doomed to wander here day after day.\r\n\"Run away… but is escape even possible?\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_08_BP_Unfound",
           "SourceString": "少女潮湿而美好的心事太过沉重，几乎要淹没蝴蝶飞翔的本能。",
-          "LocalizedString": "少女潮湿而美好的心事太过沉重，几乎要淹没蝴蝶飞翔的本能。"
+          "LocalizedString": "The girl's vivid, beautiful thoughts were so heavy they nearly drowned the butterfly's instinct to fly."
         },
         "DropID": "drop_worldboss_a06",
         "StaminaNum": 60,
@@ -114,7 +114,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_09_Name",
           "SourceString": "黑之书",
-          "LocalizedString": "黑之书"
+          "LocalizedString": "Black Tome"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -129,19 +129,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_09_BP_Found",
           "SourceString": "掩藏黑渊中的罪孽终将得到彼岸的审判，成为吾主吧，只需要写下……你的名字。你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？\r\n「你的名字是？」",
-          "LocalizedString": "掩藏黑渊中的罪孽终将得到彼岸的审判，成为吾主吧，只需要写下……你的名字。你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？你的名字是？\r\n「你的名字是？」"
+          "LocalizedString": "The sins hidden in the dark abyss will finally face judgment. To become my master, you need only write down… your name. What is your name? What is your name? What is your name? What is your name? What is your name? What is your name? What is your name?\r\n\"What is your name?\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_09_BP_Unfound",
           "SourceString": "在漆黑的书页上烙下名字，将精神的重量尽数交付与吾。",
-          "LocalizedString": "在漆黑的书页上烙下名字，将精神的重量尽数交付与吾。"
+          "LocalizedString": "Brand your name upon the pitch-black pages, and surrender the full weight of your spirit to me."
         },
         "DropID": "drop_worldboss_a03",
         "StaminaNum": 60,
@@ -162,7 +162,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_10_Name",
           "SourceString": "永不谢幕的阿拉克涅",
-          "LocalizedString": "永不谢幕的阿拉克涅"
+          "LocalizedString": "The Never-ending Arachne"
         },
         "EnemyType": "EMonsterManualEnemyType::Boss",
         "EnemyImage": {
@@ -177,19 +177,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_Area00502",
           "SourceString": "塔林大道",
-          "LocalizedString": "塔林大道"
+          "LocalizedString": "Talin Avenue"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_10_BP_Found",
           "SourceString": "拥有最华丽的舞裙与摄人心魄的优美舞姿，舞池的灵魂与主宰，名副其实的「舞会皇后」，当万众瞩目的明星邀你一同翩翩，请同她一起完成这场盛大的演出。毕竟对于最优秀的舞者来说，生命可以终止，舞会永不谢幕。\r\n「舞！舞！！舞！！！」",
-          "LocalizedString": "拥有最华丽的舞裙与摄人心魄的优美舞姿，舞池的灵魂与主宰，名副其实的「舞会皇后」，当万众瞩目的明星邀你一同翩翩，请同她一起完成这场盛大的演出。毕竟对于最优秀的舞者来说，生命可以终止，舞会永不谢幕。\r\n「舞！舞！！舞！！！」"
+          "LocalizedString": "Possessing the most magnificent ball gown and captivating, graceful dance moves, she is the soul and ruler of the dance floor; a true Prom Queen. When this attention-grabbing star invites you to dance, join her in completing this grand performance. After all… while life ends for even the finest dancers, the ball will never take its final bow.\r\n\"Dance! Dance!! Dance!!!\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_10_BP_Unfound",
           "SourceString": "舞台的正中央，聚光灯下，裙摆舞动，裙裾沙沙，你此生所见最盛大的舞会即将开幕。",
-          "LocalizedString": "舞台的正中央，聚光灯下，裙摆舞动，裙裾沙沙，你此生所见最盛大的舞会即将开幕。"
+          "LocalizedString": "Center stage… beneath the spotlight… gowns swaying, fabric rustling softly… The most magnificent ball you'll ever witness in your lifetime is about to begin."
         },
         "DropID": "drop_weeklyclone_a02_lv2",
         "StaminaNum": 60,
@@ -210,7 +210,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_13_Name",
           "SourceString": "无首铁驭",
-          "LocalizedString": "无首铁驭"
+          "LocalizedString": "Headless Rider"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -225,19 +225,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_13_BP_Found",
           "SourceString": "只有深夜才会出现，骑着一台黑色摩托机车游荡于都市街头的无头骑士。据说会盯上时速超高的飙车族，与其进行竞速比赛并在胜利后用可怖的镰刀收割他们的暴走之魂。\r\n「刺骨的蓝火会燃尽一切热血。」",
-          "LocalizedString": "只有深夜才会出现，骑着一台黑色摩托机车游荡于都市街头的无头骑士。据说会盯上时速超高的飙车族，与其进行竞速比赛并在胜利后用可怖的镰刀收割他们的暴走之魂。\r\n「刺骨的蓝火会燃尽一切热血。」"
+          "LocalizedString": "A headless rider who appears only in the dead of night, roaming the city streets on a black motorcycle. Legend says it targets high-speed street racers, challenging them to races and harvesting their reckless psyches with a terrifying scythe after victory.\r\n\"Bone-chilling blue flames will burn away all passion.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_13_BP_Unfound",
           "SourceString": "传说在午夜城市街头，用力踩下油门，在轰鸣中便能看见身骑蓝火机车的无首骑士，加入一场只有输者的追逐战。",
-          "LocalizedString": "传说在午夜城市街头，用力踩下油门，在轰鸣中便能看见身骑蓝火机车的无首骑士，加入一场只有输者的追逐战。"
+          "LocalizedString": "Legend has it that on midnight city streets, when you slam the gas pedal, you'll see the headless rider on a blue-flame motorcycle, joining a chase where only losers exist."
         },
         "DropID": "drop_worldboss_a02",
         "StaminaNum": 60,
@@ -258,7 +258,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_07_Name",
           "SourceString": "塞润尼缇",
-          "LocalizedString": "塞润尼缇"
+          "LocalizedString": "Serenetti"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -273,19 +273,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_07_BP_Found",
           "SourceString": "封闭内心的失声少年误入了被言语的恶意侵染的花房，花藤扎根与少年的血肉，汲取着养料，结成花茧。由此从未说出口的言语，尽数化为万物之形。\r\n「叱骂反调，为寂然无声，一言之庭。」",
-          "LocalizedString": "封闭内心的失声少年误入了被言语的恶意侵染的花房，花藤扎根与少年的血肉，汲取着养料，结成花茧。由此从未说出口的言语，尽数化为万物之形。\r\n「叱骂反调，为寂然无声，一言之庭。」"
+          "LocalizedString": "A silent boy who had closed off his heart wandered into a greenhouse tainted by harmful words. Vines took root in the boy's flesh and blood, drawing nourishment and forming cocoons of flowers. From this, all the words never spoken transformed into the shapes of all things.\r\n\"Scolding and discord become silent stillness, a garden of words.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_07_BP_Unfound",
           "SourceString": "囿于言语的庭院主，也因言语将获得解脱。",
-          "LocalizedString": "囿于言语的庭院主，也因言语将获得解脱。"
+          "LocalizedString": "The master of the garden, confined by words, will find his liberation through them."
         },
         "DropID": "drop_worldboss_a01",
         "StaminaNum": 60,
@@ -306,7 +306,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_15_Name",
           "SourceString": "音霸魔王",
-          "LocalizedString": "音霸魔王"
+          "LocalizedString": "Beat King"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -321,19 +321,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_15_BP_Found",
           "SourceString": "跟随着音乐的节奏，只需要在恰当的时机，轻轻按下，恭喜您，您已经学会如何玩音游了。\r\n「恭喜，你在本次挑战中获得了99个完美以及1个很好。」",
-          "LocalizedString": "跟随着音乐的节奏，只需要在恰当的时机，轻轻按下，恭喜您，您已经学会如何玩音游了。\r\n「恭喜，你在本次挑战中获得了99个完美以及1个很好。」"
+          "LocalizedString": "Follow the beat, press buttons when the time is right… And there you go. You're now a rhythm gamer.\r\n\"Congratulations, you achieved 99 Perfects and 1 Great in this challenge.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_15_BP_Unfound",
           "SourceString": "据说在克莱门学院东侧公共演出广场上，存在着一个会「打碟」的奇妙异象……",
-          "LocalizedString": "据说在克莱门学院东侧公共演出广场上，存在着一个会「打碟」的奇妙异象……"
+          "LocalizedString": "Legend has it that in the plaza on the east side of Clement Academy, there exists a mysterious Anomaly that DJs…"
         },
         "DropID": "drop_worldboss_a04",
         "StaminaNum": 60,
@@ -354,7 +354,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_19_Name",
           "SourceString": "海囚",
-          "LocalizedString": "海囚"
+          "LocalizedString": "Sea Prisoner"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -369,19 +369,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_Area00506",
           "SourceString": "鹦鹉螺隧道",
-          "LocalizedString": "鹦鹉螺隧道"
+          "LocalizedString": "Nautili Tunnel"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_19_BP_Found",
           "SourceString": "在此异象空间中，巨大的鲸鱼被捕鲸船的锁链困住，不断遭到折磨，鲸鱼在寻找能帮助它毁掉锁链的强大之人。\r\n「歌声是它的呼救。」",
-          "LocalizedString": "在此异象空间中，巨大的鲸鱼被捕鲸船的锁链困住，不断遭到折磨，鲸鱼在寻找能帮助它毁掉锁链的强大之人。\r\n「歌声是它的呼救。」"
+          "LocalizedString": "Within this Anomalous Realm, a massive, constantly-suffering whale is bound by whaling ship chains. The whale searches for someone powerful enough to help destroy its bindings.\r\n\"Its song is a cry for help.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_19_BP_Unfound",
           "SourceString": "驾车通行海底隧道时，如果听到奇异的歌声并回应的话，说不定会有什么奇遇……",
-          "LocalizedString": "驾车通行海底隧道时，如果听到奇异的歌声并回应的话，说不定会有什么奇遇……"
+          "LocalizedString": "Who knows what kind of encounter awaits you when you hear a strange song echoing through the tunnels…?"
         },
         "DropID": "drop_worldboss_a07",
         "StaminaNum": 60,
@@ -402,7 +402,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_33_name",
           "SourceString": "囿巢鸟",
-          "LocalizedString": "囿巢鸟"
+          "LocalizedString": "Nestbound Bird"
         },
         "EnemyType": "EMonsterManualEnemyType::WeeklyBoss",
         "EnemyImage": {
@@ -417,19 +417,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_33_BP_Found",
           "SourceString": "暗中结巢的鸟母，会以温柔慈爱的女性声音呼唤迷路的儿童，询问他们是否想成为自己的孩子，倘若答应，那孩子就会永远留在鸟母的巢中。\r\n「不要夺走我的孩子……」",
-          "LocalizedString": "暗中结巢的鸟母，会以温柔慈爱的女性声音呼唤迷路的儿童，询问他们是否想成为自己的孩子，倘若答应，那孩子就会永远留在鸟母的巢中。\r\n「不要夺走我的孩子……」"
+          "LocalizedString": "The mother bird, nesting deep in the shadows, calls out to lost children with its gentle, sweet female voice, asking if they would like to become her children. If the poor child agrees, they will remain in the it's nest forever.\r\n\"Don't take my children away from me…\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_33_BP_Unfound",
           "SourceString": "在热闹的地方寻找隐秘的角落结巢，等待成为母亲的机会。",
-          "LocalizedString": "在热闹的地方寻找隐秘的角落结巢，等待成为母亲的机会。"
+          "LocalizedString": "She haunts bustling districts, seeking out hidden corners to build her nest, biding her time for the chance to finally become a mother."
         },
         "DropID": "drop_worldboss_a05",
         "StaminaNum": 60,
@@ -450,7 +450,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_01_Name",
           "SourceString": "低语种",
-          "LocalizedString": "低语种"
+          "LocalizedString": "Whisper Spawn"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -465,19 +465,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_01_BP_Found",
           "SourceString": "没有找到自己稳定形态的生物异象。\r\n原核体中最基础的生物，虽无自主意识，但战斗的本能已经深深刻入它们的血肉中。",
-          "LocalizedString": "没有找到自己稳定形态的生物异象。\r\n原核体中最基础的生物，虽无自主意识，但战斗的本能已经深深刻入它们的血肉中。"
+          "LocalizedString": "A Bio Anomaly that has not found a stable form.\r\nThe most basic creatures within the Protocore. They lack autonomous consciousness, but battle instincts are deeply ingrained in their flesh and blood."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_01_BP_Unfound",
           "SourceString": "无意识游荡的怪物，能够唤醒它们的只有侵袭的本能。",
-          "LocalizedString": "无意识游荡的怪物，能够唤醒它们的只有侵袭的本能。"
+          "LocalizedString": "Monsters that wander without consciousness, roused only by the instinct to attack."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -620,7 +620,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_02_Name",
           "SourceString": "风洞种",
-          "LocalizedString": "风洞种"
+          "LocalizedString": "Wind Spawn"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -635,19 +635,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_02_BP_Found",
           "SourceString": "没有找到自己稳定形态的生物异象。\r\n少数拥有远程攻击能力的原核体。靠近至一定范围内便会进入攻击状态，不顾一切地要将敌人驱除。",
-          "LocalizedString": "没有找到自己稳定形态的生物异象。\r\n少数拥有远程攻击能力的原核体。靠近至一定范围内便会进入攻击状态，不顾一切地要将敌人驱除。"
+          "LocalizedString": "A Bio Anomaly that has not found a stable form.\r\nOne of the few Protocores with ranged attack capabilities. When its range is breached, it will begin relentlessly trying to drive away enemies."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_02_BP_Unfound",
           "SourceString": "无意识游荡的怪物，任何轻微的动作都可能将其激怒。",
-          "LocalizedString": "无意识游荡的怪物，任何轻微的动作都可能将其激怒。"
+          "LocalizedString": "Monsters that wander without consciousness, easily enraged by even the slightest movement."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -736,7 +736,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_04_Name",
           "SourceString": "迷失种",
-          "LocalizedString": "迷失种"
+          "LocalizedString": "Lost Spawn"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -751,19 +751,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_04_BP_Found",
           "SourceString": "没有找到自己稳定形态的生物异象。\r\n身形佝偻的原核体。行动缓慢，手持短刀，完全凭本能行动，会无差别攻击眼前的目标。",
-          "LocalizedString": "没有找到自己稳定形态的生物异象。\r\n身形佝偻的原核体。行动缓慢，手持短刀，完全凭本能行动，会无差别攻击眼前的目标。"
+          "LocalizedString": "A Bio Anomaly that has not found a stable form.\r\nA hunched Protocore. It moves slowly and carries a short blade, acting purely on instinct. Indiscriminately attacks any target in sight."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_04_BP_Unfound",
           "SourceString": "无意识游荡的怪物，对靠近它的任何生物都怀有强烈的敌意。",
-          "LocalizedString": "无意识游荡的怪物，对靠近它的任何生物都怀有强烈的敌意。"
+          "LocalizedString": "Monsters that wander without consciousness, harboring intense hostility toward any creature that approaches."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -852,7 +852,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_05_Name",
           "SourceString": "凭依种",
-          "LocalizedString": "凭依种"
+          "LocalizedString": "Leech Spawn"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -867,19 +867,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_05_BP_Found",
           "SourceString": "没有找到自己稳定形态的生物异象。\r\n野兽形态的原核体。发现目标后将其视为敌人，并不顾一切发起攻击，直至击退敌人或自身被泯除。\r\n只会在夜间出现。",
-          "LocalizedString": "没有找到自己稳定形态的生物异象。\r\n野兽形态的原核体。发现目标后将其视为敌人，并不顾一切发起攻击，直至击退敌人或自身被泯除。\r\n只会在夜间出现。"
+          "LocalizedString": "A Bio Anomaly that has not found a stable form.\r\nA beast-shaped Protocore. Upon spotting a target, it automatically considers them an enemy and will relentlessly attack until either the enemy is driven away or it is nullified.\r\nOnly appears at night."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_05_BP_Unfound",
           "SourceString": "无意识游荡的怪物，面对侵扰会不顾一切地发起最狠厉的攻击。\r\n只会在夜间出现。",
-          "LocalizedString": "无意识游荡的怪物，面对侵扰会不顾一切地发起最狠厉的攻击。\r\n只会在夜间出现。"
+          "LocalizedString": "A monster that wanders without consciousness, launching the most vicious attacks without hesitation when disturbed.\r\nOnly appears at night."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -932,7 +932,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_11_Name",
           "SourceString": "抱抱藤",
-          "LocalizedString": "抱抱藤"
+          "LocalizedString": "Huggy Vines"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -947,19 +947,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_011_BP_Found",
           "SourceString": "拥有蛇状须藤的藤蔓植物形生物异象。\r\n据现有记录，最高可长达12米。擅长伪装，喜阴暗潮湿。有吞噬同类的习性，动植物以及一些低级异象都在它的「菜谱」上。",
-          "LocalizedString": "拥有蛇状须藤的藤蔓植物形生物异象。\r\n据现有记录，最高可长达12米。擅长伪装，喜阴暗潮湿。有吞噬同类的习性，动植物以及一些低级异象都在它的「菜谱」上。"
+          "LocalizedString": "A plant-type Bio Anomaly with snake-like tendrils.\r\nAccording to existing records, it can grow up to 12 meters tall. Excels at camouflage and prefers dark, humid environments. Has cannibalistic habits, with animals, plants, and some low threat Anomalies all on its menu."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_011_BP_Unfound",
           "SourceString": "嘶嘶响，嘶嘶响\r\n玛丽的花园有什么？\r\n不见啦，不见啦\r\n玛丽的小狗去哪啦？",
-          "LocalizedString": "嘶嘶响，嘶嘶响\r\n玛丽的花园有什么？\r\n不见啦，不见啦\r\n玛丽的小狗去哪啦？"
+          "LocalizedString": "Hiss, hiss, hissing away\r\nWhat's in Mary's garden today?\r\nGone, gone, gone away\r\nWhere did Mary's little dog stray?"
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_04",
         "StaminaNum": 0,
@@ -1078,7 +1078,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_12_Name",
           "SourceString": "波普",
-          "LocalizedString": "波普"
+          "LocalizedString": "Bopp"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1093,19 +1093,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_012_BP_Found",
           "SourceString": "藏匿在街头涂鸦中的物体异象。\r\n身体由鲜艳的色块组成，爱好是吓唬市民，热衷以喷漆的艺术在大街小巷中留下自己的印记。\r\n「三分钟内，我要知道创造这幅涂鸦的艺术家的全部信息。」\r\n「等，等等，墙壁里探出来的是……两只手臂？」",
-          "LocalizedString": "藏匿在街头涂鸦中的物体异象。\r\n身体由鲜艳的色块组成，爱好是吓唬市民，热衷以喷漆的艺术在大街小巷中留下自己的印记。\r\n「三分钟内，我要知道创造这幅涂鸦的艺术家的全部信息。」\r\n「等，等等，墙壁里探出来的是……两只手臂？」"
+          "LocalizedString": "An Object Anomaly that hides within street graffiti.\r\nIts body is composed of vibrant color blocks. Its hobby is startling citizens, but it's also passionate about leaving its own imprint throughout the streets and alleys with spray paint.\r\n\"I want all the info on this graffiti artist in three minutes.\"\r\n\"Wait, wait… Are those… two arms reaching out from the wall?\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_012_1_BP_Unfound",
           "SourceString": "花里胡哨的异象游走在花里胡哨的街头涂鸦中，俨然将自己当作了艺术的一部分。",
-          "LocalizedString": "花里胡哨的异象游走在花里胡哨的街头涂鸦中，俨然将自己当作了艺术的一部分。"
+          "LocalizedString": "A flashy Anomaly that roams among the equally flashy street graffiti, fancying itself a part of the art."
         },
         "DropID": "drop_mon_012_2_BP_World",
         "StaminaNum": 0,
@@ -1164,7 +1164,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_13_Name",
           "SourceString": "妖刀",
-          "LocalizedString": "妖刀"
+          "LocalizedString": "Cursed Blade"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1179,19 +1179,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_13_BP_Found",
           "SourceString": "不知何时出现的妖刀形物体异象。\r\n靠近时会出现淡色云雾，若持续徘徊于此，就会看到不祥的雾中有一只手握住了那把刀——",
-          "LocalizedString": "不知何时出现的妖刀形物体异象。\r\n靠近时会出现淡色云雾，若持续徘徊于此，就会看到不祥的雾中有一只手握住了那把刀——"
+          "LocalizedString": "An Object Anomaly in the form of a Cursed Blade that appeared at an unknown time.\r\nA pale mist emerges when approached. Linger too long, and through the ominous haze, a hand can be seen grasping the blade…"
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_013_BP_Unfound",
           "SourceString": "本体是被一位普通的刀匠锻造出的普通的长刀，沾染了可怖的诅咒，一次次将主人斩于刃下。",
-          "LocalizedString": "本体是被一位普通的刀匠锻造出的普通的长刀，沾染了可怖的诅咒，一次次将主人斩于刃下。"
+          "LocalizedString": "Originally just an ordinary long blade forged by an ordinary swordsmith, it became tainted by a dreadful curse and has since slain master after master by its own edge."
         },
         "DropID": "drop_mon_13_1_BP_World",
         "StaminaNum": 0,
@@ -1256,7 +1256,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_14_Name",
           "SourceString": "分解者",
-          "LocalizedString": "分解者"
+          "LocalizedString": "Decomposer"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1271,19 +1271,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_14_BP_Found",
           "SourceString": "形似普通垃圾桶的物体异象。\r\n不同外观的分解者对垃圾有不同的偏好，扔垃圾时最好对它们的「口味」有所了解。",
-          "LocalizedString": "形似普通垃圾桶的物体异象。\r\n不同外观的分解者对垃圾有不同的偏好，扔垃圾时最好对它们的「口味」有所了解。"
+          "LocalizedString": "An Object Anomaly resembling an ordinary trash can.\r\nDecomposers of different appearances have different preferences for trash. When disposing of garbage, it's best to know their tastes."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_14_BP_Unfound",
           "SourceString": "垃圾分类是每位市民的责任，有时也包括一些异象在内。",
-          "LocalizedString": "垃圾分类是每位市民的责任，有时也包括一些异象在内。"
+          "LocalizedString": "Garbage sorting is every citizen's duty, and sometimes that includes certain Anomalies as well."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_03",
         "StaminaNum": 0,
@@ -1426,7 +1426,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_15_name",
           "SourceString": "拖车艄",
-          "LocalizedString": "拖车艄"
+          "LocalizedString": "Octowpus"
         },
         "EnemyType": "EMonsterManualEnemyType::Elite",
         "EnemyImage": {
@@ -1441,19 +1441,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_015_BP_Found",
           "SourceString": "寄居在老旧拖车里的生物异象。\r\n偶尔会出现在海特洛市各处的公路上。鉴于其不知何种情况下会发起攻击，建议各位市民发现有着章鱼触手的拖车后与其保持距离。",
-          "LocalizedString": "寄居在老旧拖车里的生物异象。\r\n偶尔会出现在海特洛市各处的公路上。鉴于其不知何种情况下会发起攻击，建议各位市民发现有着章鱼触手的拖车后与其保持距离。"
+          "LocalizedString": "A Bio Anomaly that dwells within an old trailer.\r\nIt occasionally appears on highways throughout Hethereau. As the conditions that trigger its attacks remain unknown, citizens are advised to keep their distance upon spotting any trailer sporting octopus tentacles."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_015_BP_Unfound",
           "SourceString": "行车时请与其他车辆保持安全距离，哪怕对方只是一辆不起眼的旧卡车。",
-          "LocalizedString": "行车时请与其他车辆保持安全距离，哪怕对方只是一辆不起眼的旧卡车。"
+          "LocalizedString": "Please maintain a safe distance from other vehicles while driving, even if it's just an unassuming old truck."
         },
         "DropID": "drop_Mon_EliteMonMaterial_01",
         "StaminaNum": 0,
@@ -1494,7 +1494,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_016_Name",
           "SourceString": "贩售机附电灵",
-          "LocalizedString": "贩售机附电灵"
+          "LocalizedString": "Haunted Vending Machine"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1509,19 +1509,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_016_BP_Found",
           "SourceString": "生物异象附电灵附身在一台自动售货机时的样子。\r\n寄居在售货机里，通过身上的屏幕来观察周围敌人。但如果敌人消失在视线内，它也会失去对目标的锁定。",
-          "LocalizedString": "生物异象附电灵附身在一台自动售货机时的样子。\r\n寄居在售货机里，通过身上的屏幕来观察周围敌人。但如果敌人消失在视线内，它也会失去对目标的锁定。"
+          "LocalizedString": "A Bio Anomaly, taking the form of a Haunted Vending Machine.\r\nIt dwells inside the machine, using the screen on its body to observe surrounding enemies. If enemies disappear from its line of sight, however, it will lose track of them entirely."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_016_BP_Unfound",
           "SourceString": "当你打量一台自动售货机时，自动售货机也在打量你。",
-          "LocalizedString": "当你打量一台自动售货机时，自动售货机也在打量你。"
+          "LocalizedString": "When you stare at a vending machine, the vending machine stares back."
         },
         "DropID": "drop_mon_016_BP_World",
         "StaminaNum": 0,
@@ -1658,7 +1658,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_17_Name",
           "SourceString": "雨人",
-          "LocalizedString": "雨人"
+          "LocalizedString": "Rainman"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1673,19 +1673,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_017_BP_Found",
           "SourceString": "通常情况下呈伞形的物体异象。\r\n会将任何试图捡起「雨伞」的人拉入「雨巷」并攻击。\r\n雨夜时则会以身着黑衣手持黑伞的「雨人」形象现身。\r\n大部分情况下，「雨人」以单体或小规模活动。特殊气象发生时也有成群出现的可能。\r\n「如果在外见到无主的雨伞，请不要贸然靠近。」",
-          "LocalizedString": "通常情况下呈伞形的物体异象。\r\n会将任何试图捡起「雨伞」的人拉入「雨巷」并攻击。\r\n雨夜时则会以身着黑衣手持黑伞的「雨人」形象现身。\r\n大部分情况下，「雨人」以单体或小规模活动。特殊气象发生时也有成群出现的可能。\r\n「如果在外见到无主的雨伞，请不要贸然靠近。」"
+          "LocalizedString": "An Object Anomaly that generally takes the form of an umbrella.\r\nIt drags anyone who tries to pick up the umbrella into the \"rain alley\" and attacks them.\r\nOn rainy nights, it manifests as a Rainman, a figure clad in black and holding a black umbrella.\r\nRainmen often operate alone or in small groups. During unusual weather events, they may appear in swarms.\r\n\"If you see an unattended umbrella outside, please do not approach it.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_17_BP_Unfound",
           "SourceString": "「海特洛城市生存指南」第26条：如您在雨夜不幸忘记带伞，请迅速寻找最近的避雨处并等待雨停，不要靠近街上撑着黑伞的黑衣「人士」；如果它们发现了您并向您移动，立刻远离并呼救。",
-          "LocalizedString": "「海特洛城市生存指南」第26条：如您在雨夜不幸忘记带伞，请迅速寻找最近的避雨处并等待雨停，不要靠近街上撑着黑伞的黑衣「人士」；如果它们发现了您并向您移动，立刻远离并呼救。"
+          "LocalizedString": "Hethereau Urban Survival Guide, Rule 26: If you unfortunately forget to bring an umbrella on a rainy night, quickly find the nearest shelter and wait for the rain to stop. Do not approach the black-clad \"individuals\" carrying black umbrellas on the street. If they notice you and start approaching, immediately flee and call for help."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_03",
         "StaminaNum": 0,
@@ -1762,7 +1762,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_18_Name",
           "SourceString": "棉绒绒",
-          "LocalizedString": "棉绒绒"
+          "LocalizedString": "Fluffy"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -1777,19 +1777,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "MM_mon_018_BP_Found",
           "SourceString": "通常情况下形似兔子的生物异象。\r\n通体柔软，手感很好，热爱晒太阳。但如果有人在它们旁边放火，或许也会讶异于这样的小东西还有两副面孔。\r\n「棉棉~棉棉~」",
-          "LocalizedString": "通常情况下形似兔子的生物异象。\r\n通体柔软，手感很好，热爱晒太阳。但如果有人在它们旁边放火，或许也会讶异于这样的小东西还有两副面孔。\r\n「棉棉~棉棉~」"
+          "LocalizedString": "A Bio Anomaly that typically resembles a rabbit.\r\nSoft throughout with a pleasant texture, it loves basking in the sun. Though, if someone starts a fire nearby, you might be surprised to see the hidden side of these little creatures.\r\n\"Fluff… Fluff…\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_18_BP_Unfound",
           "SourceString": "看上去温顺可爱，实际上也温顺可爱的毛茸茸异象……大概是吧。",
-          "LocalizedString": "看上去温顺可爱，实际上也温顺可爱的毛茸茸异象……大概是吧。"
+          "LocalizedString": "A fluffy Anomaly that looks gentle and adorable, and actually is gentle and adorable… probably."
         },
         "DropID": "drop_mon_18_BP_World",
         "StaminaNum": 0,
@@ -1902,7 +1902,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_19_name",
           "SourceString": "伤心英熊",
-          "LocalizedString": "伤心英熊"
+          "LocalizedString": "Saddy Teddy"
         },
         "EnemyType": "EMonsterManualEnemyType::Elite",
         "EnemyImage": {
@@ -1917,19 +1917,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_19_SadBear_BP",
           "SourceString": "形似破破烂烂的大型毛绒玩具的物体异象。\r\n过去曾与主人亲密无间，现在却被遗弃和冷落的玩偶若长时间未得到关爱，便可能会变成一个穿着披风，拿着武器「伤心英熊」。它的心脏部位有缝合的痕迹，被遗弃的玩偶即位于此处。\r\n「睡吧，睡吧，留在无忧无虑的梦里吧。」",
-          "LocalizedString": "形似破破烂烂的大型毛绒玩具的物体异象。\r\n过去曾与主人亲密无间，现在却被遗弃和冷落的玩偶若长时间未得到关爱，便可能会变成一个穿着披风，拿着武器「伤心英熊」。它的心脏部位有缝合的痕迹，被遗弃的玩偶即位于此处。\r\n「睡吧，睡吧，留在无忧无虑的梦里吧。」"
+          "LocalizedString": "An Object Anomaly resembling a large, tattered plush toy.\r\nOnce inseparable from its owner, an abandoned and neglected doll may transform into a caped, weapon-wielding Saddy Teddy. There are stitching marks over its heart, where the forsaken doll now resides.\r\n\"Sleep now, sleep now, and stay in your carefree dreams…\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_019_BP_Unfound",
           "SourceString": "孩提时代形影不离的伙伴一点点淡出了自己的生活，直至最后在梦中都不再出现；于是被遗弃的玩偶自己做起了梦，梦中它与主人再度亲密无间。",
-          "LocalizedString": "孩提时代形影不离的伙伴一点点淡出了自己的生活，直至最后在梦中都不再出现；于是被遗弃的玩偶自己做起了梦，梦中它与主人再度亲密无间。"
+          "LocalizedString": "The inseparable companion of childhood slowly faded from one's life, until it no longer appeared… not even in dreams. And so the abandoned doll began to dream on its own, dreaming of being close with its owner once more."
         },
         "DropID": "drop_mon_019_SadBear_BP_World",
         "StaminaNum": 0,
@@ -1982,7 +1982,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_20_Name",
           "SourceString": "空铠甲",
-          "LocalizedString": "空铠甲"
+          "LocalizedString": "Empty Shell"
         },
         "EnemyType": "EMonsterManualEnemyType::Elite",
         "EnemyImage": {
@@ -1997,19 +1997,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_020_BP_Found",
           "SourceString": "形似年代久远的铠甲的物体异象。\r\n在主人战死后觉醒了自我意识，行动有些迟缓，记忆模糊不清，好用敬语。对于每一个博物馆访客的拍照请求都不会拒绝。现为海特洛市博物馆警卫一员。",
-          "LocalizedString": "形似年代久远的铠甲的物体异象。\r\n在主人战死后觉醒了自我意识，行动有些迟缓，记忆模糊不清，好用敬语。对于每一个博物馆访客的拍照请求都不会拒绝。现为海特洛市博物馆警卫一员。"
+          "LocalizedString": "An Object Anomaly resembling ancient, weathered armor.\r\nIt attained self-awareness after its master died in battle. Its movements are somewhat sluggish, its memory is hazy, and it prefers using polite speech. It never refuses photo requests from museum visitors. Currently serves as a guard at the Hethereau Museum."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_020_BP_Unfound",
           "SourceString": "空心的铠甲竭力模仿记忆中将它披于身上之人的言行，仿佛自己仍然身处荣光的年代。",
-          "LocalizedString": "空心的铠甲竭力模仿记忆中将它披于身上之人的言行，仿佛自己仍然身处荣光的年代。"
+          "LocalizedString": "The hollow armor strives to mimic the words and deeds of the one who once wore it, as if still living in an age of glory."
         },
         "DropID": "drop_Mon_EliteMonMaterial_01",
         "StaminaNum": 0,
@@ -2038,7 +2038,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_23_Name",
           "SourceString": "长明灯",
-          "LocalizedString": "长明灯"
+          "LocalizedString": "Eternal Lamp"
         },
         "EnemyType": "EMonsterManualEnemyType::Elite",
         "EnemyImage": {
@@ -2053,19 +2053,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_023_BP_Found",
           "SourceString": "状似人形，躯干类似传统电灯泡的物体异象。\r\n出现时会窃取电力并导致其周围区域完全停电。\r\n只会在夜间出现。",
-          "LocalizedString": "状似人形，躯干类似传统电灯泡的物体异象。\r\n出现时会窃取电力并导致其周围区域完全停电。\r\n只会在夜间出现。"
+          "LocalizedString": "An Object Anomaly with a humanoid shape and a torso resembling a traditional light bulb.\r\nWhen it appears, it steals electricity and causes power outages in the surrounding area.\r\nOnly appears at night."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_023_BP_Unfound",
           "SourceString": "电灯的使命是为人们带来光明，但偶尔也有例外。\r\n只会在夜间出现。",
-          "LocalizedString": "电灯的使命是为人们带来光明，但偶尔也有例外。\r\n只会在夜间出现。"
+          "LocalizedString": "The purpose of an electric light is to shine, but there are exceptions.\r\nOnly appears at night."
         },
         "DropID": "drop_Mon_EliteMonMaterial_04",
         "StaminaNum": 0,
@@ -2130,7 +2130,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_24_Name",
           "SourceString": "诡面筝",
-          "LocalizedString": "诡面筝"
+          "LocalizedString": "Ghostly Kite"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2145,19 +2145,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_24_BP_Found",
           "SourceString": "状似三角风筝的物体异象。\r\n朝上的一面有类似人脸的花纹，仔细观察的话能够发现它们会表现出不同的怪诞表情，不知为何有种令人不寒而栗的感觉……",
-          "LocalizedString": "状似三角风筝的物体异象。\r\n朝上的一面有类似人脸的花纹，仔细观察的话能够发现它们会表现出不同的怪诞表情，不知为何有种令人不寒而栗的感觉……"
+          "LocalizedString": "An Object Anomaly resembling a triangular kite.\r\nThe upward-facing side has patterns similar to human faces. Close observation reveals they display different grotesque expressions. Spine-chilling…"
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_24_BP_Unfound",
           "SourceString": "风筝飞在天上，却似乎无时无刻不在注意地上的动静……",
-          "LocalizedString": "风筝飞在天上，却似乎无时无刻不在注意地上的动静……"
+          "LocalizedString": "The kite soars through the sky, yet seems to be watching every movement on the ground below…"
         },
         "DropID": "drop_mon_24_BP_World",
         "StaminaNum": 0,
@@ -2234,7 +2234,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_25_Name",
           "SourceString": "洄天鱼幡",
-          "LocalizedString": "洄天鱼幡"
+          "LocalizedString": "Skyfish Banner"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2249,19 +2249,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_025_BP_Found",
           "SourceString": "状似鲤鱼在空中游曳的现象异象。\r\n执着于寻找并跨越「龙门」，鲤鱼们不断地从天上到此地，在失败后又返回天上。无论失败多少次，它们对「龙门」的追求始终未变，仍然会积极地对一切可能是「龙门」的事物发起挑战……",
-          "LocalizedString": "状似鲤鱼在空中游曳的现象异象。\r\n执着于寻找并跨越「龙门」，鲤鱼们不断地从天上到此地，在失败后又返回天上。无论失败多少次，它们对「龙门」的追求始终未变，仍然会积极地对一切可能是「龙门」的事物发起挑战……"
+          "LocalizedString": "A Phenomenon Anomaly that resembles carp swimming through the air.\r\nObsessed with finding and crossing the Dragon Gate, these carp continuously descend from the heavens, just to return to the sky after failure. No matter how many times they fail, their pursuit of the Dragon Gate remains unchanged, and they will still actively challenge anything that might be Gate…"
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_025_BP_Unfound",
           "SourceString": "执着于跨越「龙门」的彩鲤，在古老的传说中就已出现在世间。",
-          "LocalizedString": "执着于跨越「龙门」的彩鲤，在古老的传说中就已出现在世间。"
+          "LocalizedString": "A colorful koi, obsessed with leaping over the Dragon Gate. It has existed in this world since the age of ancient legends."
         },
         "DropID": "drop_mon_025_BP_World",
         "StaminaNum": 0,
@@ -2368,7 +2368,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_26_Name",
           "SourceString": "纸翼战队",
-          "LocalizedString": "纸翼战队"
+          "LocalizedString": "Paper Squadron"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2383,19 +2383,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_26_BP_Found",
           "SourceString": "状似纸飞机的物体异象。\r\n由红，白，红白花色三种纸飞机组成，成群出现，通常状态下会首尾相衔缓慢转动，进入战斗状态时旋转速度加快，环绕成龙卷风形态。\r\n「纸飞机怎样才能飞得更远？」",
-          "LocalizedString": "状似纸飞机的物体异象。\r\n由红，白，红白花色三种纸飞机组成，成群出现，通常状态下会首尾相衔缓慢转动，进入战斗状态时旋转速度加快，环绕成龙卷风形态。\r\n「纸飞机怎样才能飞得更远？」"
+          "LocalizedString": "An Object Anomaly resembling paper planes.\r\nComprised of three types: red, white, and red-and-white patterned. They appear in swarms, slowly rotating nose-to-tail in their normal state. When entering battle, they speed up, swirling into a tornado formation.\r\n\"How can you make a paper plane fly farther?\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_26_BP_Unfound",
           "SourceString": "纸飞机诞生的那一刻，它的使命就是无止尽地飞翔。",
-          "LocalizedString": "纸飞机诞生的那一刻，它的使命就是无止尽地飞翔。"
+          "LocalizedString": "From the moment a paper plane is born, its mission is to fly forever."
         },
         "DropID": "drop_mon_26_BP_World",
         "StaminaNum": 0,
@@ -2490,7 +2490,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_27_Name",
           "SourceString": "诺诺斯",
-          "LocalizedString": "诺诺斯"
+          "LocalizedString": "Noros"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2505,19 +2505,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_27_BP_Found",
           "SourceString": "需使用方斯喂养，状似鹿的生物异象。\r\n由于独特的喂养方式与优雅的外形而颇受富人们的青睐。实际上生性相当凶猛，攻击时会外现体内尖利的骨刺。每年需要喂养巨额方斯才能让其保持听从指令的状态。",
-          "LocalizedString": "需使用方斯喂养，状似鹿的生物异象。\r\n由于独特的喂养方式与优雅的外形而颇受富人们的青睐。实际上生性相当凶猛，攻击时会外现体内尖利的骨刺。每年需要喂养巨额方斯才能让其保持听从指令的状态。"
+          "LocalizedString": "A deer-like Bio Anomaly that must be fed with Fons.\r\nIts unique feeding requirements and elegant appearance have made it a favorite among the wealthy. In reality, it is quite ferocious by nature, revealing sharp bone spikes from within its body when attacking. It requires massive amounts of Fons annually to remain obedient."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_27_BP_Unfound",
           "SourceString": "需要用金钱滋养的美丽怪物，远远没有看上去那么温顺无害。",
-          "LocalizedString": "需要用金钱滋养的美丽怪物，远远没有看上去那么温顺无害。"
+          "LocalizedString": "A beautiful monster that feeds on money, far less docile and harmless than it appears."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_04",
         "StaminaNum": 0,
@@ -2576,7 +2576,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_29_Name",
           "SourceString": "唱片机附电灵",
-          "LocalizedString": "唱片机附电灵"
+          "LocalizedString": "Haunted Record Player"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2591,19 +2591,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_029_BP_Found",
           "SourceString": "生物异象附电灵附身在一台唱片机时的样子。\r\n寄居在唱片机里，在人类试图靠近或者触碰时会愤怒地发起攻击。因此如果看到某个电器上贴有「触碰禁止」的黄条，请勿靠近。",
-          "LocalizedString": "生物异象附电灵附身在一台唱片机时的样子。\r\n寄居在唱片机里，在人类试图靠近或者触碰时会愤怒地发起攻击。因此如果看到某个电器上贴有「触碰禁止」的黄条，请勿靠近。"
+          "LocalizedString": "A Bio Anomaly, taking the form of a Haunted Record Player.\r\nIt dwells inside the record player and will angrily attack when humans attempt to touch or approach it. If you see yellow tape marked \"Do Not Touch\" on any electrical device, it's best to stay away."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_029_BP_Unfound",
           "SourceString": "如果听到某首并没有发行的电音版歌曲，就要留心家里的唱片机里是否住进了一位奇妙的访客了……",
-          "LocalizedString": "如果听到某首并没有发行的电音版歌曲，就要留心家里的唱片机里是否住进了一位奇妙的访客了……"
+          "LocalizedString": "If you happen to hear an electronic remix of a song that was never released, you might want to check if a peculiar visitor has moved into your record player…"
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_04",
         "StaminaNum": 0,
@@ -2680,7 +2680,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_30_Name",
           "SourceString": "扫晴娘",
-          "LocalizedString": "扫晴娘"
+          "LocalizedString": "Rain-sweeping Maid"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2695,19 +2695,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_030_BP_Found",
           "SourceString": "形似清扫工具的温和的生物异象。\r\n扫晴娘会在雨天将雨水吸收暂存并在晴天排放，在过去很适合用来处理城镇内涝。但现在受到污染的雨却让扫晴娘变得迷茫混乱，甚至对人出现了攻击性，只有将污水清理干净才能让她们重新恢复。\r\n「在雨中哀怨，哀怨又彷徨。」\r\n只会在雪天/雨天才会出现。",
-          "LocalizedString": "形似清扫工具的温和的生物异象。\r\n扫晴娘会在雨天将雨水吸收暂存并在晴天排放，在过去很适合用来处理城镇内涝。但现在受到污染的雨却让扫晴娘变得迷茫混乱，甚至对人出现了攻击性，只有将污水清理干净才能让她们重新恢复。\r\n「在雨中哀怨，哀怨又彷徨。」\r\n只会在雪天/雨天才会出现。"
+          "LocalizedString": "A gentle Bio Anomaly shaped like a cleaning tool.\r\nThe Rain-sweeping Maids absorb and store rainwater from rainy days, releasing it when the sun returns. Once, they were practical solutions for flooding, but polluted rainwater has left them confused and, sometimes, even aggressive. There have been reported incidents of Rain-sweeping Maids partaking in violent behavior. Only by clearing away any contaminated water can they be restored to their normal state.\r\n\"Drenched in the rain—lost and lamenting.\"\r\nOnly appears on days with rain or snow."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_030_BP_Unfound",
           "SourceString": "扫走乌云，扫出天晴。\r\n只会在雪天/雨天才会出现。",
-          "LocalizedString": "扫走乌云，扫出天晴。\r\n只会在雪天/雨天才会出现。"
+          "LocalizedString": "Sweep, sweep, whether rain or shine.\r\nOnly appears on days with rain or snow."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -2832,7 +2832,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_33_Name",
           "SourceString": "流梦种",
-          "LocalizedString": "流梦种"
+          "LocalizedString": "Dream Spawn"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2847,19 +2847,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_33_BP_Found",
           "SourceString": "没有找到自己稳定形态的生物异象。\r\n受到「知识、无意识」等方面影响的原核体，会流淌出带有「意识流」元素的墨汁。常出现在一些知识密集处或者与知识有关的异象附近。",
-          "LocalizedString": "没有找到自己稳定形态的生物异象。\r\n受到「知识、无意识」等方面影响的原核体，会流淌出带有「意识流」元素的墨汁。常出现在一些知识密集处或者与知识有关的异象附近。"
+          "LocalizedString": "A Bio Anomaly that has yet to find its stable form.\r\nProtocores influenced by factors such as \"knowledge\" and \"the unconscious\" secrete an ink imbued with \"stream of consciousness\" properties. Often appears in knowledge-dense areas or near Anomalies associated with knowledge."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_33_BP_Unfound",
           "SourceString": "无意识游荡的怪物，一旦感受到外界的躁动便会暴露残忍的天性。",
-          "LocalizedString": "无意识游荡的怪物，一旦感受到外界的躁动便会暴露残忍的天性。"
+          "LocalizedString": "Monsters that wander without consciousness, revealing their cruel nature once they sense any disturbance."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -2936,7 +2936,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_37_Name",
           "SourceString": "ReroRero电话亭",
-          "LocalizedString": "ReroRero电话亭"
+          "LocalizedString": "ReroRero Phone Booth"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -2951,19 +2951,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_037_BP_Found",
           "SourceString": "状似电话亭的物体异象。\r\n隶属于尤克阿什庭，具有传送功能，异能者可以借助其快速穿梭于世界各地。\r\n吞食未知食物的电话亭会出现攻击性。",
-          "LocalizedString": "状似电话亭的物体异象。\r\n隶属于尤克阿什庭，具有传送功能，异能者可以借助其快速穿梭于世界各地。\r\n吞食未知食物的电话亭会出现攻击性。"
+          "LocalizedString": "An Object Anomaly resembling a phone booth.\r\nIt belongs to the Yggash Court and has teleportation capabilities, allowing Espers to quickly travel around the world.\r\nPhone booths that consume unknown food will become aggressive."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_037_BP_Unfound",
           "SourceString": "电话亭不能打电话听起来像是一个整蛊笑话，但讲笑话的人却一脸严肃。",
-          "LocalizedString": "电话亭不能打电话听起来像是一个整蛊笑话，但讲笑话的人却一脸严肃。"
+          "LocalizedString": "A phone booth that can't make calls may sound like a prank, but the one telling the joke isn't laughing."
         },
         "DropID": "drop_Mon_EliteMonMaterial_03",
         "StaminaNum": 0,
@@ -3022,7 +3022,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_38_Name",
           "SourceString": "无明众",
-          "LocalizedString": "无明众"
+          "LocalizedString": "The Vishnus"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -3037,19 +3037,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_38_BP_Found",
           "SourceString": "海特洛市常见的小混混团体，挑衅车辆，违章超速，破坏公物，相当一部分成员狂热崇拜「无首铁驭」。虽然一般不会做出非常出格的事，但放任不管的话也会给城市治安带来不小的麻烦。",
-          "LocalizedString": "海特洛市常见的小混混团体，挑衅车辆，违章超速，破坏公物，相当一部分成员狂热崇拜「无首铁驭」。虽然一般不会做出非常出格的事，但放任不管的话也会给城市治安带来不小的麻烦。"
+          "LocalizedString": "A common street gang found throughout Hethereau. They harass vehicles, speed recklessly, and vandalize public property. A significant number of members fanatically worship the Headless Rider. While they typically don't cross any serious lines, leaving them unchecked can still cause considerable trouble for public safety."
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_38_BP_Unfound",
           "SourceString": "海特洛市的混混团体，常出现在街头巷尾，大多数时候是令治安所头疼的存在。",
-          "LocalizedString": "海特洛市的混混团体，常出现在街头巷尾，大多数时候是令治安所头疼的存在。"
+          "LocalizedString": "Street gangs of Hethereau, often found lurking in streets and alleyways. A constant headache for the Security Office."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_02",
         "StaminaNum": 0,
@@ -3228,7 +3228,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_41_Name",
           "SourceString": "羽偶",
-          "LocalizedString": "羽偶"
+          "LocalizedString": "Feather Puppet"
         },
         "EnemyType": "EMonsterManualEnemyType::Normal",
         "EnemyImage": {
@@ -3243,19 +3243,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_041_BP_Found",
           "SourceString": "囿巢鸟的衍生异象，像是粗制滥造的儿童玩具。\r\n鸟母的羽毛，小孩遗失的玩具，破烂的毛线球，撕碎的旧报纸构成一个个空心的「羽偶」。\r\n「妈妈为我做了骨，兄弟姐妹成了我的肉，『爱』在我血管里流淌。」",
-          "LocalizedString": "囿巢鸟的衍生异象，像是粗制滥造的儿童玩具。\r\n鸟母的羽毛，小孩遗失的玩具，破烂的毛线球，撕碎的旧报纸构成一个个空心的「羽偶」。\r\n「妈妈为我做了骨，兄弟姐妹成了我的肉，『爱』在我血管里流淌。」"
+          "LocalizedString": "The Nestbound Bird's Derivative Anomaly, looking like a cheap children's toy.\r\nTheir mother feathers, random toys lost by children, tattered balls of yarn, and shredded old newspapers are stitched together into hollow \"Feather Puppets\".\r\n\"My Mother made my bones, my siblings are my flesh, and my love is my blood.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_041_BP_Unfound",
           "SourceString": "嗷嗷待哺的幼鸟，每一声啼泣都是对鸟母的诘问。",
-          "LocalizedString": "嗷嗷待哺的幼鸟，每一声啼泣都是对鸟母的诘问。"
+          "LocalizedString": "A helpless fledgling—every plaintive chirp is a mute accusation aimed at its mother."
         },
         "DropID": "drop_Mon_OrdinaryMonMaterial_01",
         "StaminaNum": 0,
@@ -3308,7 +3308,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "mon_48_Name",
           "SourceString": "瓦楞城堡",
-          "LocalizedString": "瓦楞城堡"
+          "LocalizedString": "Cardboard Castle"
         },
         "EnemyType": "EMonsterManualEnemyType::Elite",
         "EnemyImage": {
@@ -3323,19 +3323,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_City01",
           "SourceString": "海特洛市",
-          "LocalizedString": "海特洛市"
+          "LocalizedString": "Hethereau"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_48_BP_Found",
           "SourceString": "状似立体书的物体异象。\r\n如果看到地上奇怪的蜡封并走过去的话，会发现脚下的大地逐渐展开……一本打开的立体书？是来到了童话中的世界吗？话说回来，这座城堡真的可以进去吗？",
-          "LocalizedString": "状似立体书的物体异象。\r\n如果看到地上奇怪的蜡封并走过去的话，会发现脚下的大地逐渐展开……一本打开的立体书？是来到了童话中的世界吗？话说回来，这座城堡真的可以进去吗？"
+          "LocalizedString": "An Object Anomaly resembling a pop-up book.\r\nIf you spot a strange wax seal on the ground and walk toward it, you'll find the earth beneath your feet gradually unfolding… into an open pop-up book? Have you stepped into a fairy tale world? Come to think of it, can you actually go inside this castle?"
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "mon_48_BP_Unfound",
           "SourceString": "打开立体书的时候发现自己跌进了一座城堡？身处奇幻的世界，一切皆有可能发生。",
-          "LocalizedString": "打开立体书的时候发现自己跌进了一座城堡？身处奇幻的世界，一切皆有可能发生。"
+          "LocalizedString": "Opened a pop-up book and found yourself tumbling into a castle? In a world of fantasy, anything is possible."
         },
         "DropID": "drop_Mon_EliteMonMaterial_03",
         "StaminaNum": 0,
@@ -3376,7 +3376,7 @@
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "boss_26_Name",
           "SourceString": "讨债人",
-          "LocalizedString": "讨债人"
+          "LocalizedString": "Debt Collector"
         },
         "EnemyType": "EMonsterManualEnemyType::Boss",
         "EnemyImage": {
@@ -3391,19 +3391,19 @@
           "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
           "Key": "Map_Area00307",
           "SourceString": "白尾树盘山公路",
-          "LocalizedString": "白尾树盘山公路"
+          "LocalizedString": "Whitetail Ridge Road"
         },
         "DiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_26_BP_Found",
           "SourceString": "因「窃取」时间的行为诞生的异象，为消除影响、索还取巧得来的时间而行动。即使是盛极一时的康斯坦丁家族，最终也在它的追索下走向覆灭。\r\n「尘归尘，土归土。」",
-          "LocalizedString": "因「窃取」时间的行为诞生的异象，为消除影响、索还取巧得来的时间而行动。即使是盛极一时的康斯坦丁家族，最终也在它的追索下走向覆灭。\r\n「尘归尘，土归土。」"
+          "LocalizedString": "An Anomaly born from the theft of time. It erases the effects of stolen time and reclaims what was gained through deception. Even the once-mighty Constantine family was ultimately brought to ruin by its relentless pursuit.\r\n\"Ashes to ashes, dust to dust.\""
         },
         "UndiscoveredDesc": {
           "TableId": "/Game/Text/ST_MonsterManual.ST_MonsterManual",
           "Key": "boss_26_BP_Unfound",
           "SourceString": "妄图逃脱时间之人，终究也只是表盘上的仓鼠。",
-          "LocalizedString": "妄图逃脱时间之人，终究也只是表盘上的仓鼠。"
+          "LocalizedString": "Those who try to escape time are still just hamsters running on a clock face."
         },
         "DropID": "drop_weeklyclone_a03_lv1",
         "StaminaNum": 60,

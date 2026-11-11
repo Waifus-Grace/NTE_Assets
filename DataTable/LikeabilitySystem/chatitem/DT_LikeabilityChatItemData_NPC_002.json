@@ -41,7 +41,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_1",
           "SourceString": "鉴定师，打扰了，这里是奈丽，代艾尔菲德局长向你问好。",
-          "LocalizedString": "鉴定师，打扰了，这里是奈丽，代艾尔菲德局长向你问好。"
+          "LocalizedString": "Greetings, Appraiser. This is Nelly, sending Director Alphard's regards."
         },
         "ParaContent": "",
         "IconSource": {
@@ -57,7 +57,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_1_a",
               "SourceString": "你是真的吧？",
-              "LocalizedString": "你是真的吧？"
+              "LocalizedString": "Are you real? Or is this another scam…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -70,7 +70,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_1_b",
               "SourceString": "你好，有什么事？",
-              "LocalizedString": "你好，有什么事？"
+              "LocalizedString": "Hello, what do you need?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -113,7 +113,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_2_1",
           "SourceString": "你是真的吧？",
-          "LocalizedString": "你是真的吧？"
+          "LocalizedString": "Are you real? Or is this another scam…"
         },
         "ParaContent": "",
         "IconSource": {
@@ -158,7 +158,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_2_2",
           "SourceString": "你好，奈丽，有什么事？",
-          "LocalizedString": "你好，奈丽，有什么事？"
+          "LocalizedString": "Hello, Nelly. What can I do for you?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -203,7 +203,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_3_1",
           "SourceString": "当然？这是我的工作账号，如有疑问，我们可以在异象管理局当面确认。",
-          "LocalizedString": "当然？这是我的工作账号，如有疑问，我们可以在异象管理局当面确认。"
+          "LocalizedString": "Of course. This is my work account. If you're still concerned, we can verify it in person at the Bureau."
         },
         "ParaContent": "",
         "IconSource": {
@@ -248,7 +248,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_4",
           "SourceString": "此次联络是为「雾巢」事件的调查工作，容我说明情况。",
-          "LocalizedString": "此次联络是为「雾巢」事件的调查工作，容我说明情况。"
+          "LocalizedString": "I'm contacting you regarding the investigation into the \"Fogden\" incident; allow me to explain the situation:"
         },
         "ParaContent": "",
         "IconSource": {
@@ -293,7 +293,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_5",
           "SourceString": "异象管理局在排查犯罪组织「红字」的总部时，查出了大量违规异象制品，以及异象非法交易的证据材料。",
-          "LocalizedString": "异象管理局在排查犯罪组织「红字」的总部时，查出了大量违规异象制品，以及异象非法交易的证据材料。"
+          "LocalizedString": "During the Bureau's investigation of the Scarlet Letter's headquarters, investigators uncovered a large cache of illicit Anomaly Products, along with evidence of illegal Anomaly trafficking."
         },
         "ParaContent": "",
         "IconSource": {
@@ -338,7 +338,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_6",
           "SourceString": "此外，尤克阿什庭和格赫罗斯岛都已介入到案件调查当中。",
-          "LocalizedString": "此外，尤克阿什庭和格赫罗斯岛都已介入到案件调查当中。"
+          "LocalizedString": "Moreover, both Yggash Court and Ghroth Island have become involved in the investigation."
         },
         "ParaContent": "",
         "IconSource": {
@@ -354,7 +354,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_6_a",
               "SourceString": "这么多部门？",
-              "LocalizedString": "这么多部门？"
+              "LocalizedString": "Is that so?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -397,7 +397,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_7",
           "SourceString": "尤克阿什庭和格赫罗斯岛……这么多部门都介入了？",
-          "LocalizedString": "尤克阿什庭和格赫罗斯岛……这么多部门都介入了？"
+          "LocalizedString": "Yggash Court and Ghroth Island… so many departments are involved?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -442,7 +442,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_8",
           "SourceString": "是的，尤克阿什庭的对接人是拉维尼娅，格赫罗斯岛那边，是E.T.D六队的卡厄斯负责联络。",
-          "LocalizedString": "是的，尤克阿什庭的对接人是拉维尼娅，格赫罗斯岛那边，是E.T.D六队的卡厄斯负责联络。"
+          "LocalizedString": "Yes. Lavinia is Yggash Court's point of contact, with Chaos from ETD-6 being Ghroth Island's. There have been extensive communications between the two."
         },
         "ParaContent": "",
         "IconSource": {
@@ -487,7 +487,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_9",
           "SourceString": "现在的情况是，异象管理局将组织一次针对要犯「残虹」的远程讯问。",
-          "LocalizedString": "现在的情况是，异象管理局将组织一次针对要犯「残虹」的远程讯问。"
+          "LocalizedString": "The Bureau will be conducting a remote interrogation of the wanted criminal, Zankou."
         },
         "ParaContent": "",
         "IconSource": {
@@ -532,7 +532,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_10",
           "SourceString": "艾尔菲德局长提议，让你作为重要证人到场，听取和补充犯人的供述。",
-          "LocalizedString": "艾尔菲德局长提议，让你作为重要证人到场，听取和补充犯人的供述。"
+          "LocalizedString": "Director Alphard suggested that you should attend as an important witness, to hear the suspect's statement and provide any additional testimony."
         },
         "ParaContent": "",
         "IconSource": {
@@ -548,7 +548,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_10_a",
               "SourceString": "还是第一次参与这种事。",
-              "LocalizedString": "还是第一次参与这种事。"
+              "LocalizedString": "I've never really been involved in something like this."
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -561,7 +561,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_10_b",
               "SourceString": "我需要做什么？",
-              "LocalizedString": "我需要做什么？"
+              "LocalizedString": "What do I need to do?"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -604,7 +604,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_11_1",
           "SourceString": "我还是第一次参与这种事，有什么需要准备的吗？",
-          "LocalizedString": "我还是第一次参与这种事，有什么需要准备的吗？"
+          "LocalizedString": "It's my first time doing something like this. Is there anything I need to know?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -649,7 +649,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_11_2",
           "SourceString": "讯问期间，我需要做什么？",
-          "LocalizedString": "讯问期间，我需要做什么？"
+          "LocalizedString": "During the questioning, what should I do?"
         },
         "ParaContent": "",
         "IconSource": {
@@ -694,7 +694,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_12_1",
           "SourceString": "不必紧张，这次讯问规模较小，而且主要的讯问内容和流程会由各部门的代表把控。",
-          "LocalizedString": "不必紧张，这次讯问规模较小，而且主要的讯问内容和流程会由各部门的代表把控。"
+          "LocalizedString": "No need to worry. The questioning is fairly limited in scope, and the main questions and process will be handled by representatives from each department."
         },
         "ParaContent": "",
         "IconSource": {
@@ -739,7 +739,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_12_2",
           "SourceString": "只需要鉴定师作为证人旁听，偶尔补充所知的细节即可。",
-          "LocalizedString": "只需要鉴定师作为证人旁听，偶尔补充所知的细节即可。"
+          "LocalizedString": "All that's needed is for the Appraiser to sit in as a witness and occasionally add any additional details."
         },
         "ParaContent": "",
         "IconSource": {
@@ -784,7 +784,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_13_1",
           "SourceString": "鉴定师只需要旁听，偶尔补充所知的细节即可。",
-          "LocalizedString": "鉴定师只需要旁听，偶尔补充所知的细节即可。"
+          "LocalizedString": "The Appraiser only needs to sit in and occasionally add any details, if need be."
         },
         "ParaContent": "",
         "IconSource": {
@@ -800,7 +800,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_13_a",
               "SourceString": "既然是局长本人的提议……",
-              "LocalizedString": "既然是局长本人的提议……"
+              "LocalizedString": "If Director Alphard herself suggested it…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -843,7 +843,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_13_2",
           "SourceString": "不必紧张，这次讯问规模较小，而且主要的讯问内容和流程会由各部门的代表把控。",
-          "LocalizedString": "不必紧张，这次讯问规模较小，而且主要的讯问内容和流程会由各部门的代表把控。"
+          "LocalizedString": "No need to worry. The questioning is fairly limited in scope, and the main questions and process will be handled by representatives from each department."
         },
         "ParaContent": "",
         "IconSource": {
@@ -859,7 +859,7 @@
               "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
               "Key": "NPC_002_a_13_a",
               "SourceString": "既然是局长本人的提议……",
-              "LocalizedString": "既然是局长本人的提议……"
+              "LocalizedString": "If Director Alphard herself suggested it…"
             },
             "OptionIcon": {
               "AssetPathName": "",
@@ -902,7 +902,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_14",
           "SourceString": "既然是局长本人的提议……我会参加的。",
-          "LocalizedString": "既然是局长本人的提议……我会参加的。"
+          "LocalizedString": "If Director Alphard herself suggested it… I'll attend."
         },
         "ParaContent": "",
         "IconSource": {
@@ -947,7 +947,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_15",
           "SourceString": "多谢鉴定师的配合。",
-          "LocalizedString": "多谢鉴定师的配合。"
+          "LocalizedString": "Thank you for your cooperation, Appraiser."
         },
         "ParaContent": "",
         "IconSource": {
@@ -992,7 +992,7 @@
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_002_a_15",
           "SourceString": "多谢鉴定师的配合。",
-          "LocalizedString": "多谢鉴定师的配合。"
+          "LocalizedString": "Thank you for your cooperation, Appraiser."
         },
         "ParaContent": "",
         "IconSource": {

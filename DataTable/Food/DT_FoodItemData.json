@@ -35,7 +35,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_001_name",
           "SourceString": "极点",
-          "LocalizedString": "极点"
+          "LocalizedString": "Apex"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -54,13 +54,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0001",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_001_desc",
           "SourceString": "畅爽系列向前迈出的新一步，来自高峰的雪山融水，畅爽，不仅仅是饮料！",
-          "LocalizedString": "畅爽系列向前迈出的新一步，来自高峰的雪山融水，畅爽，不仅仅是饮料！"
+          "LocalizedString": "A new step taken by the Refresh series. Melt water from the snowy high peaks, more than just a beverage!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -160,7 +160,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_002_name",
           "SourceString": "茶界T-Fusion",
-          "LocalizedString": "茶界T-Fusion"
+          "LocalizedString": "TeaRealm T-Fusion"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -179,13 +179,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0002",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_002_desc",
           "SourceString": "清茶，为你解锁清新篇章。茶界T-Fusion，给你不一样的都市茶语。",
-          "LocalizedString": "清茶，为你解锁清新篇章。茶界T-Fusion，给你不一样的都市茶语。"
+          "LocalizedString": "Light tea that unlocks a new refreshing chapter for you. TeaRealm T-Fusion brings you a different urban tea-drinking experience."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -285,7 +285,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_003_name",
           "SourceString": "冰点冷萃",
-          "LocalizedString": "冰点冷萃"
+          "LocalizedString": "0-K Cold Brew"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -304,13 +304,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0003",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_003_desc",
           "SourceString": "唤醒感官，启动生活，冰点冷萃，为每一天注入崭新活力。",
-          "LocalizedString": "唤醒感官，启动生活，冰点冷萃，为每一天注入崭新活力。"
+          "LocalizedString": "Arouse your senses to a new day full of impetus injected by 0-K Cold Brew."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -410,7 +410,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_004_name",
           "SourceString": "魔法膨胀全麦面包",
-          "LocalizedString": "魔法膨胀全麦面包"
+          "LocalizedString": "Magi-Puff Whole Wheat Bread"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -429,13 +429,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0004",
           "SourceString": "为当前角色恢复生命值上限的12%，并额外恢复850点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的12%，并额外恢复850点生命值。"
+          "LocalizedString": "Heals the current character for 12% of their Max HP plus an additional 850 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_004_desc",
           "SourceString": "饼干大的面包吃不饱？撕开包装，梦幻膨胀！",
-          "LocalizedString": "饼干大的面包吃不饱？撕开包装，梦幻膨胀！"
+          "LocalizedString": "Biscuit-sized bread is not enough? Unwrap it and let it puff up!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -520,7 +520,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_005_name",
           "SourceString": "坂井蜜瓜包",
-          "LocalizedString": "坂井蜜瓜包"
+          "LocalizedString": "Sakai Melon Bread"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -539,13 +539,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0005",
           "SourceString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复260点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复260点生命值。"
+          "LocalizedString": "Heals the current character for 10% of their Max HP, then restores 260 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_005_desc",
           "SourceString": "酥脆的外皮搭配松软香甜的内里，傲娇少女也会对它敞开心房！",
-          "LocalizedString": "酥脆的外皮搭配松软香甜的内里，傲娇少女也会对它敞开心房！"
+          "LocalizedString": "Its crispy crust and soft, sweet bread would warm the coldest girl."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -654,7 +654,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_006_name",
           "SourceString": "酷辣辣辣条",
-          "LocalizedString": "酷辣辣辣条"
+          "LocalizedString": "Cool-lala Spicy Snack"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -673,13 +673,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0006",
           "SourceString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_006_desc",
           "SourceString": "酷辣辣辣条，潮流新款，大块才够味！",
-          "LocalizedString": "酷辣辣辣条，潮流新款，大块才够味！"
+          "LocalizedString": "Brand-new, trendy spicy strip. Light your taste buds ablaze with a mouthful of it."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -779,7 +779,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_007_name",
           "SourceString": "炫动",
-          "LocalizedString": "炫动"
+          "LocalizedString": "DynamiK"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -798,13 +798,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0007",
           "SourceString": "队伍中所有角色攻击力增加50，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加50，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 50 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_007_desc",
           "SourceString": "加倍气泡，每一口都是能量释放，劲爽炫动，让活力随心动！",
-          "LocalizedString": "加倍气泡，每一口都是能量释放，劲爽炫动，让活力随心动！"
+          "LocalizedString": "Double bubbles for double energy. Each gulp down the throat releases your vitality!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -904,7 +904,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_008_name",
           "SourceString": "炫动「零点」",
-          "LocalizedString": "炫动「零点」"
+          "LocalizedString": "DynamiK Zero"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -923,13 +923,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0008",
           "SourceString": "队伍中所有角色攻击力增加80，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加80，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 80 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_008_desc",
           "SourceString": "气泡与健康，一个都不少！「炫动·零点」，无糖更健康。",
-          "LocalizedString": "气泡与健康，一个都不少！「炫动·零点」，无糖更健康。"
+          "LocalizedString": "Bubbles and health can be a perfect combo! It is even healthier without sugar."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1029,7 +1029,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_009_name",
           "SourceString": "劲爽「果漾」",
-          "LocalizedString": "劲爽「果漾」"
+          "LocalizedString": "Refreshing Fruity"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1048,13 +1048,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0009",
           "SourceString": "队伍中所有角色暴击率增加6.4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6.4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6.4% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_009_desc",
           "SourceString": "气泡与柠檬碰撞，前所未有的酸甜劲爽！冷藏之后风味更佳~",
-          "LocalizedString": "气泡与柠檬碰撞，前所未有的酸甜劲爽！冷藏之后风味更佳~"
+          "LocalizedString": "A combo of bubbles and lemon brings you an unprecedented sour-sweet flavor! Put it in cold storage for an even better taste."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1154,7 +1154,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_010_name",
           "SourceString": "劲爽「冰川」",
-          "LocalizedString": "劲爽「冰川」"
+          "LocalizedString": "Refreshing Glacier"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1173,13 +1173,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0010",
           "SourceString": "队伍中所有角色暴击伤害增加12.8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12.8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12.8% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_010_desc",
           "SourceString": "极致冷感，瞬间爆发，劲爽冰川，激浪一夏。",
-          "LocalizedString": "极致冷感，瞬间爆发，劲爽冰川，激浪一夏。"
+          "LocalizedString": "A burst of extreme coldness, as if gulping down the glacier."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1279,7 +1279,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_011_name",
           "SourceString": "劲爽「谜」",
-          "LocalizedString": "劲爽「谜」"
+          "LocalizedString": "Refreshing Mystery"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1298,13 +1298,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0011",
           "SourceString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 140 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_011_desc",
           "SourceString": "畅爽与街头艺术家Enigma的联名之作，唤醒神秘力量，一起来解开未知的「谜」吧！（桥间地限定）",
-          "LocalizedString": "畅爽与街头艺术家Enigma的联名之作，唤醒神秘力量，一起来解开未知的「谜」吧！（桥间地限定）"
+          "LocalizedString": "A collab of Refresh series and the street artist Enigma. Tap into mysterious power and unveil the mystery! (Limited Edition in Bridge Crossings)"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1404,7 +1404,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_012_name",
           "SourceString": "咕比奇原味薯片",
-          "LocalizedString": "咕比奇原味薯片"
+          "LocalizedString": "Gubichi Original Flavor Chips"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1423,13 +1423,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0012",
           "SourceString": "为当前角色恢复生命值上限的24%。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_012_desc",
           "SourceString": "咔滋咔滋，爱来自咕比奇！",
-          "LocalizedString": "咔滋咔滋，爱来自咕比奇！"
+          "LocalizedString": "The crunching sound is the love from Gubichi!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1514,7 +1514,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_013_name",
           "SourceString": "咕比奇黄瓜薯片",
-          "LocalizedString": "咕比奇黄瓜薯片"
+          "LocalizedString": "Gubichi Cucumber Flavor Chips"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1533,13 +1533,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0013",
           "SourceString": "为当前角色恢复1750点生命值。",
-          "LocalizedString": "为当前角色恢复1750点生命值。"
+          "LocalizedString": "Heals the current character for 1,750 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_013_desc",
           "SourceString": "要是因为薯片的口味吵架的话，咕比奇是会伤心的。",
-          "LocalizedString": "要是因为薯片的口味吵架的话，咕比奇是会伤心的。"
+          "LocalizedString": "It would break Gubichi's heart to fight over the flavor of chips."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1624,7 +1624,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_014_name",
           "SourceString": "咕比奇黄油薯片",
-          "LocalizedString": "咕比奇黄油薯片"
+          "LocalizedString": "Gubichi Butter Flavor Chips"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1643,13 +1643,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0014",
           "SourceString": "当前角色在之后的30秒内，每5秒回复455生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复455生命值"
+          "LocalizedString": "Restores 455 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_014_desc",
           "SourceString": "脆口解锁桥间地手工黄油的丝滑与奇妙，限定味觉奇遇，让味蕾跳起来~（桥间地限定）",
-          "LocalizedString": "脆口解锁桥间地手工黄油的丝滑与奇妙，限定味觉奇遇，让味蕾跳起来~（桥间地限定）"
+          "LocalizedString": "Make your taste buds jump with the smooth and subtle handmade butter of Bridge Crossings. (Limited Edition in Bridge Crossings)"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1752,7 +1752,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_015_name",
           "SourceString": "再来一口！「牛奶味」",
-          "LocalizedString": "再来一口！「牛奶味」"
+          "LocalizedString": "Crave Bites! Milk Flavor"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1771,13 +1771,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0015",
           "SourceString": "队伍中所有角色暴击率增加4.8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4.8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4.8% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_015_desc",
           "SourceString": "快咬一口公司的知名饼干产品，快咬一口，再来一口牛奶味的！",
-          "LocalizedString": "快咬一口公司的知名饼干产品，快咬一口，再来一口牛奶味的！"
+          "LocalizedString": "A renowned biscuit of Quick Bite Inc. Have one more bite of the milk flavor biscuit!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -1877,7 +1877,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_016_name",
           "SourceString": "再来一口！「巧克力味」",
-          "LocalizedString": "再来一口！「巧克力味」"
+          "LocalizedString": "Crave Bites! Chocolate Flavor"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1896,13 +1896,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0016",
           "SourceString": "队伍中所有角色暴击伤害增加9.6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加9.6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 9.6% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_016_desc",
           "SourceString": "快咬一口公司的知名饼干产品，快咬一口，再来一口巧克力味的！",
-          "LocalizedString": "快咬一口公司的知名饼干产品，快咬一口，再来一口巧克力味的！"
+          "LocalizedString": "A renowned biscuit of Quick Bite Inc. Have one more bite of the chocolate flavor biscuit!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2002,7 +2002,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_017_name",
           "SourceString": "咕比脆",
-          "LocalizedString": "咕比脆"
+          "LocalizedString": "Gubicrisp"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2021,13 +2021,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0017",
           "SourceString": "为当前角色恢复生命值上限的20%。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_017_desc",
           "SourceString": "咕比奇最爱的坚果脆零食，营养，美味，我全都要！",
-          "LocalizedString": "咕比奇最爱的坚果脆零食，营养，美味，我全都要！"
+          "LocalizedString": "Gubichi's favorite nut snack, nourishing and tasty."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2112,7 +2112,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_018_name",
           "SourceString": "鲍勃茶园",
-          "LocalizedString": "鲍勃茶园"
+          "LocalizedString": "Bob's Tea Garden"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2131,13 +2131,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0018",
           "SourceString": "为当前角色恢复1450点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_018_desc",
           "SourceString": "精选优质茶叶，让每一位顾客随时随地喝到最优质的绿茶。",
-          "LocalizedString": "精选优质茶叶，让每一位顾客随时随地喝到最优质的绿茶。"
+          "LocalizedString": "Handpick high-quality tea leaves. Every customer can drink the best quality green tea anytime and anywhere."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2222,7 +2222,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_019_name",
           "SourceString": "鲍勃橙意满满",
-          "LocalizedString": "鲍勃橙意满满"
+          "LocalizedString": "Bob's Orange Delight"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2241,13 +2241,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0019",
           "SourceString": "为当前角色恢复2500点生命值。",
-          "LocalizedString": "为当前角色恢复2500点生命值。"
+          "LocalizedString": "Heals the current character for 2,500 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_043_desc",
           "SourceString": "「鲍勃叔叔」推出的橙味果汁饮料，维C每日，橙意满满，粒粒鲜橙吃得到！",
-          "LocalizedString": "「鲍勃叔叔」推出的橙味果汁饮料，维C每日，橙意满满，粒粒鲜橙吃得到！"
+          "LocalizedString": "Uncle Bob's orange-flavored juice. A source of everyday vitamin C. Each gulp contains fresh orange pulp!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2332,7 +2332,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_020_name",
           "SourceString": "鲍勃莓莓相遇",
-          "LocalizedString": "鲍勃莓莓相遇"
+          "LocalizedString": "Bob's Berry Encounter"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2351,13 +2351,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0020",
           "SourceString": "为当前角色恢复生命值上限的34%。",
-          "LocalizedString": "为当前角色恢复生命值上限的34%。"
+          "LocalizedString": "Heals the current character for 34% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_020_desc",
           "SourceString": "草莓与蓝莓最好的相遇，就在「鲍勃叔叔」果园系列！",
-          "LocalizedString": "草莓与蓝莓最好的相遇，就在「鲍勃叔叔」果园系列！"
+          "LocalizedString": "Pay a visit to Uncle Bob's Orchard series, where the strawberry meets the blueberry!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2442,7 +2442,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_021_name",
           "SourceString": "鲍勃惊喜果园",
-          "LocalizedString": "鲍勃惊喜果园"
+          "LocalizedString": "Bob's Surprise Orchard"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2461,13 +2461,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0021",
           "SourceString": "当前角色在之后的30秒内，每5秒回复650生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复650生命值"
+          "LocalizedString": "Restores 650 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_021_desc",
           "SourceString": "基于已有的果汁饮料开发出的混合果汁饮料，多种果味定能给你意外惊喜~",
-          "LocalizedString": "基于已有的果汁饮料开发出的混合果汁饮料，多种果味定能给你意外惊喜~"
+          "LocalizedString": "Blended fruit juice developed with existing juice products, a mixture of various flavors that gives you surprises."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2570,7 +2570,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_022_name",
           "SourceString": "鲍勃阳光牧场",
-          "LocalizedString": "鲍勃阳光牧场"
+          "LocalizedString": "Bob's Sunshine Ranch"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2589,13 +2589,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0022",
           "SourceString": "为当前角色恢复生命值上限的16%，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的16%，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 16% of their Max HP, then restores 299 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_022_desc",
           "SourceString": "喝牛奶当然会让你长高——不过还需要足够的锻炼和充足的营养！",
-          "LocalizedString": "喝牛奶当然会让你长高——不过还需要足够的锻炼和充足的营养！"
+          "LocalizedString": "Drinking milk alone can't make you taller; you also need adequate exercise and good nutrition!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2704,7 +2704,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_023_name",
           "SourceString": "噗卡巧克力「经典系列」",
-          "LocalizedString": "噗卡巧克力「经典系列」"
+          "LocalizedString": "Puka Chocoa Classic Series"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2723,13 +2723,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0023",
           "SourceString": "为当前角色恢复生命值上限的40%。",
-          "LocalizedString": "为当前角色恢复生命值上限的40%。"
+          "LocalizedString": "Heals the current character for 40% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_023_desc",
           "SourceString": "经典之选，回味无穷，噗卡，在你舌尖上弹跳！",
-          "LocalizedString": "经典之选，回味无穷，噗卡，在你舌尖上弹跳！"
+          "LocalizedString": "A classic choice that brings you an ever-lasting aftertaste. Puka—bouncing on your tongue!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2814,7 +2814,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_024_name",
           "SourceString": "噗卡巧克力「果仁风暴」",
-          "LocalizedString": "噗卡巧克力「果仁风暴」"
+          "LocalizedString": "Puka Chocoa Nutty Storm"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2833,13 +2833,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0024",
           "SourceString": "为当前角色恢复2950点生命值。",
-          "LocalizedString": "为当前角色恢复2950点生命值。"
+          "LocalizedString": "Heals the current character for 2,950 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_024_desc",
           "SourceString": "果仁与巧克力的完美邂逅，噗卡，每一口都是奢华盛宴。",
-          "LocalizedString": "果仁与巧克力的完美邂逅，噗卡，每一口都是奢华盛宴。"
+          "LocalizedString": "The perfect encounter between nut and chocolate. Each bite is a feast for your taste buds."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -2924,7 +2924,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_025_name",
           "SourceString": "噗卡巧克力「热辣挑战」",
-          "LocalizedString": "噗卡巧克力「热辣挑战」"
+          "LocalizedString": "Puka Chocoa Spicy Challenge"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -2943,13 +2943,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0025",
           "SourceString": "当前角色在之后的30秒内，每5秒回复767生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复767生命值"
+          "LocalizedString": "Restores 767 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_025_desc",
           "SourceString": "辣味与甜意的叛逆碰撞，噗卡，给乏味的生活加料！",
-          "LocalizedString": "辣味与甜意的叛逆碰撞，噗卡，给乏味的生活加料！"
+          "LocalizedString": "A rebellious combination of spiciness and sweetness. Spice it up!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3052,7 +3052,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_026_name",
           "SourceString": "噗卡巧克力「绘莉巡演纪念款」",
-          "LocalizedString": "噗卡巧克力「绘莉巡演纪念款」"
+          "LocalizedString": "Puka Chocoa Ellie Tour Special"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3071,13 +3071,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0026",
           "SourceString": "为当前角色恢复生命值上限的56%。",
-          "LocalizedString": "为当前角色恢复生命值上限的56%。"
+          "LocalizedString": "Heals the current character for 56% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_026_desc",
           "SourceString": "为纪念绘莉在桥间地的首场演出而发售的纪念款。\n每一块都是独家回忆，与你共享不灭的星光。（桥间地限定）",
-          "LocalizedString": "为纪念绘莉在桥间地的首场演出而发售的纪念款。\n每一块都是独家回忆，与你共享不灭的星光。（桥间地限定）"
+          "LocalizedString": "A special edition sold in memory of Ellie's debut in Bridge Crossings. \nEach one is a unique memory that shares eternal starlight. (Limited Edition in Bridge Crossings)"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3162,7 +3162,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_027_name",
           "SourceString": "噗卡好梦棉花糖",
-          "LocalizedString": "噗卡好梦棉花糖"
+          "LocalizedString": "Puka Sweet Dreams Marshmallow"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3181,13 +3181,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0027",
           "SourceString": "复活选中角色，并额外恢复2200生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复2200生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 2,200 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_027_desc",
           "SourceString": "睡前一颗好梦棉花糖，蓬蓬软软，涤净一天的劳累，做个好梦！",
-          "LocalizedString": "睡前一颗好梦棉花糖，蓬蓬软软，涤净一天的劳累，做个好梦！"
+          "LocalizedString": "A Marshmallow before sleep eases your fatigue and brings you a sweet dream!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3271,7 +3271,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_028_name",
           "SourceString": "噗卡幸运星",
-          "LocalizedString": "噗卡幸运星"
+          "LocalizedString": "Puka Lucky Star"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3290,13 +3290,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0028",
           "SourceString": "为当前角色恢复生命值上限的30%。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_028_desc",
           "SourceString": "感觉诸事不顺？来一颗噗卡幸运星，立刻转运！",
-          "LocalizedString": "感觉诸事不顺？来一颗噗卡幸运星，立刻转运！"
+          "LocalizedString": "Tough luck? A Puka Lucky Star helps you turn the table!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3381,7 +3381,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_029_name",
           "SourceString": "极品豆腐排",
-          "LocalizedString": "极品豆腐排"
+          "LocalizedString": "Premium Tofu Steak"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3400,13 +3400,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0029",
           "SourceString": "复活选中角色，并恢复生命值上限的30%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的30%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 30% of their max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_029_desc",
           "SourceString": "散发着独特香味的豆制品料理，独家烟熏工艺赋予其浓郁醇厚的香气，入口即化的豆腐带着微微焦香，此即升华！",
-          "LocalizedString": "散发着独特香味的豆制品料理，独家烟熏工艺赋予其浓郁醇厚的香气，入口即化的豆腐带着微微焦香，此即升华！"
+          "LocalizedString": "A tofu dish emitting a unique flavor. The special smoking process gives it a rich and mellow flavor, and the melt-in-your-mouth tofu is sublimely flavored with a slightly charred aroma!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3490,7 +3490,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_030_name",
           "SourceString": "炸豆腐",
-          "LocalizedString": "炸豆腐"
+          "LocalizedString": "Fried Tofu"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3509,13 +3509,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0030",
           "SourceString": "为当前角色恢复生命值上限的20%，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP, then restores 182 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_030_desc",
           "SourceString": "炸到金灿灿的豆制品料理，外壳酥脆，内心柔软，啊！要小心烫口哦！",
-          "LocalizedString": "炸到金灿灿的豆制品料理，外壳酥脆，内心柔软，啊！要小心烫口哦！"
+          "LocalizedString": "Fried until golden, this dish is crispy on the outside and soft on the inside. Careful, it's hot!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3624,7 +3624,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_031_name",
           "SourceString": "手磨纯豆乳",
-          "LocalizedString": "手磨纯豆乳"
+          "LocalizedString": "Hand-ground Pure Soy Milk"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3643,13 +3643,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0031",
           "SourceString": "为当前角色恢复1450点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP, then restores 182 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_031_desc",
           "SourceString": "散发着浓郁豆子香味的饮品，低热量，高蛋白，健康生活，不二选择！",
-          "LocalizedString": "散发着浓郁豆子香味的饮品，低热量，高蛋白，健康生活，不二选择！"
+          "LocalizedString": "This beverage fills one's mouth with a bean flavor, and it contains low calorie and high protein - the best choice for a healthy lifestyle!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3758,7 +3758,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_032_name",
           "SourceString": "白雪豆花",
-          "LocalizedString": "白雪豆花"
+          "LocalizedString": "Snowy Tofu Pudding"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3777,13 +3777,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0032",
           "SourceString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复377点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的10%，并在之后的30秒内，每5秒恢复377点生命值。"
+          "LocalizedString": "Heals the current character for 10% of their Max HP, then restores 377 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_032_desc",
           "SourceString": "洁白柔软的豆制品料理，如白雪一样可爱。虽然咸派和甜派纷争不断，那为什么不试试加辣椒呢？",
-          "LocalizedString": "洁白柔软的豆制品料理，如白雪一样可爱。虽然咸派和甜派纷争不断，那为什么不试试加辣椒呢？"
+          "LocalizedString": "As cute as snow, this pure and soft bean dish has seen struggles between the salty taste and the sweet taste. Why not try a spicy one?"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -3892,7 +3892,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_033_name",
           "SourceString": "超级豚骨拉面",
-          "LocalizedString": "超级豚骨拉面"
+          "LocalizedString": "Super Tonkotsu Ramen"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -3911,13 +3911,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0033",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_033_desc",
           "SourceString": "卜多力大厨的得意之作——精选上好鲜肉，8小时熬制大骨浓汤，卜多力大厨亲自拉面，佐以秘制酱汁，端到顾客面前时，飘出的水汽是香味的具象化，这才能称得上「超级」！",
-          "LocalizedString": "卜多力大厨的得意之作——精选上好鲜肉，8小时熬制大骨浓汤，卜多力大厨亲自拉面，佐以秘制酱汁，端到顾客面前时，飘出的水汽是香味的具象化，这才能称得上「超级」！"
+          "LocalizedString": "Chef Budori's masterpiece: premium fresh meat, a rich bone broth simmered for 8 hours, ramen hand-pulled by Chef Budori himself, all topped with secret sauce. When served, the rising steam is the very embodiment of its aroma. This is what truly deserves to be called \"Super\"!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4017,7 +4017,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_034_name",
           "SourceString": "时令寿司船",
-          "LocalizedString": "时令寿司船"
+          "LocalizedString": "Seasonal Sushi Boat"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4036,13 +4036,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0034",
           "SourceString": "队伍中所有角色暴击率增加8%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加8%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 8% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_034_desc",
           "SourceString": "满载各色手握的寿司船，储备着当季的新鲜食材，再带上一小碟承载理想的芥末酱油，向着诗和远方，前进！！！",
-          "LocalizedString": "满载各色手握的寿司船，储备着当季的新鲜食材，再带上一小碟承载理想的芥末酱油，向着诗和远方，前进！！！"
+          "LocalizedString": "A sushi boat with a variety of different handmade sushi, stocked with seasonal fresh ingredients, coupled with a small dish of wasabi soy sauce that carries your craving for food. To the faraway land, set sail!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4142,7 +4142,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_035_name",
           "SourceString": "酥酥酥天丼",
-          "LocalizedString": "酥酥酥天丼"
+          "LocalizedString": "Crunchy Tempura Rice Bowl"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4161,13 +4161,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0035",
           "SourceString": "队伍中所有角色暴击伤害增加16%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加16%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 16% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_035_desc",
           "SourceString": "咔滋——咔滋——咔滋——停……停不下来！麻烦，请，拜托！再来一碗吧！",
-          "LocalizedString": "咔滋——咔滋——咔滋——停……停不下来！麻烦，请，拜托！再来一碗吧！"
+          "LocalizedString": "Crunch crunch crunch… Can't… Can't stop! Please, I'm begging you! One more bowl!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4267,7 +4267,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_036_name",
           "SourceString": "蜜汁鸡肉串",
-          "LocalizedString": "蜜汁鸡肉串"
+          "LocalizedString": "Honey Chicken Skewers"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4286,13 +4286,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0036",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_036_desc",
           "SourceString": "店长秘制的谜之蜜汁，让鸡肉串咸香甜嫩，风味十足！",
-          "LocalizedString": "店长秘制的谜之蜜汁，让鸡肉串咸香甜嫩，风味十足！"
+          "LocalizedString": "The shop owner's secret mystery glaze makes these chicken skewers savory, sweet, and tender with incredible flavor!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4392,7 +4392,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_037_name",
           "SourceString": "炭烤青花鱼",
-          "LocalizedString": "炭烤青花鱼"
+          "LocalizedString": "Charcoal Grilled Mackerel"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4411,13 +4411,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0037",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_037_desc",
           "SourceString": "传统炭火慢烤，几十年如一日的经典味道，无论是家庭聚餐，还是好友小酌，均受到除青花鱼外的所有当事人认可。",
-          "LocalizedString": "传统炭火慢烤，几十年如一日的经典味道，无论是家庭聚餐，还是好友小酌，均受到除青花鱼外的所有当事人认可。"
+          "LocalizedString": "Slow-roasted with charcoal in a traditional way, this dish boasts a decades-old classic flavor. Whether it's for a family dinner or a small meal with good friends, it has received praise from all except the mackerel itself."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4517,7 +4517,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_038_name",
           "SourceString": "千代家自酿生啤",
-          "LocalizedString": "千代家自酿生啤"
+          "LocalizedString": "Chiyo Family Brew"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4536,13 +4536,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0038",
           "SourceString": "队伍中所有角色防御力增加50，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加50，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 50 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_038_desc",
           "SourceString": "千代婆婆自酿的植物发酵饮品。老旧的发酵桶，一道道划痕不甚清晰地映照出少女日渐佝偻的身影……\n「喂喂喂！只是麦子啊，甜水都能把你放倒？」",
-          "LocalizedString": "千代婆婆自酿的植物发酵饮品。老旧的发酵桶，一道道划痕不甚清晰地映照出少女日渐佝偻的身影……\n「喂喂喂！只是麦子啊，甜水都能把你放倒？」"
+          "LocalizedString": "Granny Chiyo's home-brewed, plant-fermented drink. Countless scratches can be seen on the old fermentation bucket, an explicit reflection of the Chiyo's sweat and toil… \nHey hey hey! It's just made of wheat. How could you get drunk drinking sweet water?"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4642,7 +4642,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_039_name",
           "SourceString": "番茄百分百",
-          "LocalizedString": "番茄百分百"
+          "LocalizedString": "Tomato 100"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4661,13 +4661,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0039",
           "SourceString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_039_desc",
           "SourceString": "精选新鲜番茄去籽研磨，经过绝密加工方式，不含精制糖却格外酸甜可口，再加上S级食品认证标志，是海特洛市最受欢迎的「番茄果冻」，百分百的番茄，制造百分百的美味！",
-          "LocalizedString": "精选新鲜番茄去籽研磨，经过绝密加工方式，不含精制糖却格外酸甜可口，再加上S级食品认证标志，是海特洛市最受欢迎的「番茄果冻」，百分百的番茄，制造百分百的美味！"
+          "LocalizedString": "Select fresh tomatoes, then deseed and grind. Processed with a secret method, it's extra tangy and sweet without refined sugar. With the S-grade food certification mark, it's Hethereau's most popular tomato jelly—100% tomatoes, 100% delicious!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4767,7 +4767,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_040_name",
           "SourceString": "咔咔蔬菜三明治",
-          "LocalizedString": "咔咔蔬菜三明治"
+          "LocalizedString": "Kaka Veggie Sandwich"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4786,13 +4786,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0040",
           "SourceString": "复活选中角色，并额外恢复1150生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复1150生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 1,150 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_040_desc",
           "SourceString": "鲜美蟹柳，爽脆蔬菜！一口咔嚓，超满足！",
-          "LocalizedString": "鲜美蟹柳，爽脆蔬菜！一口咔嚓，超满足！"
+          "LocalizedString": "Fresh crab sticks, crisp vegetables! One bite, super satisfying!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4876,7 +4876,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_041_name",
           "SourceString": "热辣烤鸡菠萝丼",
-          "LocalizedString": "热辣烤鸡菠萝丼"
+          "LocalizedString": "Pineapple Yakitori Bowl"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -4895,13 +4895,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0041",
           "SourceString": "复活选中角色，并恢复生命值上限的40%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的40%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 40% of their max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_041_desc",
           "SourceString": "辣味鸡肉与甜蜜菠萝的奇妙碰撞，为你带走疲惫，加满状态！",
-          "LocalizedString": "辣味鸡肉与甜蜜菠萝的奇妙碰撞，为你带走疲惫，加满状态！"
+          "LocalizedString": "The spicy chicken and sweet pineapple create a wonderful combination, taking away your fatigue and boosting your well-being!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -4985,7 +4985,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_044_name",
           "SourceString": "咔叽玛薯霸",
-          "LocalizedString": "咔叽玛薯霸"
+          "LocalizedString": "Clicky Fries"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5004,13 +5004,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0044",
           "SourceString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加4%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 4% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_044_desc",
           "SourceString": "咬一口，停不住！\nOnce you chop, you can't stop！",
-          "LocalizedString": "咬一口，停不住！\nOnce you chop, you can't stop！"
+          "LocalizedString": "A single crunch, endless munch!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5110,7 +5110,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_045_name",
           "SourceString": "咔叽玛熔岩瀑布堡",
-          "LocalizedString": "咔叽玛熔岩瀑布堡"
+          "LocalizedString": "Clicky Lavaburger"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5129,13 +5129,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0045",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_045_desc",
           "SourceString": "浓郁切达芝士，香滑车打芝士，层层熔融在鲜嫩牛肉饼上——一场芝士的角逐即将爆发！",
-          "LocalizedString": "浓郁切达芝士，香滑车打芝士，层层熔融在鲜嫩牛肉饼上——一场芝士的角逐即将爆发！"
+          "LocalizedString": "Rich cheddar cheese and creamy gouda cheese molten layer by layer on fresh beef patties—a cheesy showdown is about to erupt!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5235,7 +5235,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_046_name",
           "SourceString": "咔叽玛火山哞哞堡",
-          "LocalizedString": "咔叽玛火山哞哞堡"
+          "LocalizedString": "Clicky Fireburger"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5254,13 +5254,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0046",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_046_desc",
           "SourceString": "勇敢的斗牛士啊，眼前的斗牛已被注入火山般的热辣能量，正等待迎接你的挑战！快来挥舞你的旗帜，争夺你的辣味勋章吧！",
-          "LocalizedString": "勇敢的斗牛士啊，眼前的斗牛已被注入火山般的热辣能量，正等待迎接你的挑战！快来挥舞你的旗帜，争夺你的辣味勋章吧！"
+          "LocalizedString": "Brave matador, the bull before you has been infused with volcanic heat and fire, ready to take your challenge! Wave your flag and claim your spicy medal!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5360,7 +5360,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_047_name",
           "SourceString": "咔叽玛浓情蜜翼",
-          "LocalizedString": "咔叽玛浓情蜜翼"
+          "LocalizedString": "Clicky Honey Wings"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5379,13 +5379,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0047",
           "SourceString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_047_desc",
           "SourceString": "想要和天空来一次甜蜜接触？用咔叽玛给你的翅膀飞，多远都不累！",
-          "LocalizedString": "想要和天空来一次甜蜜接触？用咔叽玛给你的翅膀飞，多远都不累！"
+          "LocalizedString": "Want to have a sweet encounter with the sky? With wings from Clicky, you can fly without feeling tired, no matter how far!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5485,7 +5485,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_048_name",
           "SourceString": "青酱培根司康",
-          "LocalizedString": "青酱培根司康"
+          "LocalizedString": "Pesto Bacon Scone"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5504,13 +5504,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0048",
           "SourceString": "为当前角色恢复生命值上限的20%，并额外回复1450点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并额外回复1450点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP plus an additional 1,450 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_048_desc",
           "SourceString": "外脆内软的司康，搭配罗勒青酱与香脆培根。是深受咸党喜爱的咸香点心！",
-          "LocalizedString": "外脆内软的司康，搭配罗勒青酱与香脆培根。是深受咸党喜爱的咸香点心！"
+          "LocalizedString": "Crispy on the outside and soft inside scone, paired with basil pesto and crispy bacon. A savory delight loved by the salty party!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5595,7 +5595,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_049_name",
           "SourceString": "斑斓椰果子",
-          "LocalizedString": "斑斓椰果子"
+          "LocalizedString": "Coconut Delights"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5614,13 +5614,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0049",
           "SourceString": "为当前角色恢复850点生命值，并在之后的30秒内，每5秒恢复377点生命值。",
-          "LocalizedString": "为当前角色恢复850点生命值，并在之后的30秒内，每5秒恢复377点生命值。"
+          "LocalizedString": "Heals the current character for 850 HP, then restores 377 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_049_desc",
           "SourceString": "色泽清新斑斓果子，内里是香甜的椰子奶霜酱，一口咬下去超级柔软！",
-          "LocalizedString": "色泽清新斑斓果子，内里是香甜的椰子奶霜酱，一口咬下去超级柔软！"
+          "LocalizedString": "Vivid and fresh fruit, with sweet coconut cream sauce inside, super soft with every bite!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5729,7 +5729,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_050_name",
           "SourceString": "莓果总汇奶油长棍面包",
-          "LocalizedString": "莓果总汇奶油长棍面包"
+          "LocalizedString": "Creamy Berry Baguette"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5748,13 +5748,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0050",
           "SourceString": "为当前角色恢复生命值上限的20%，并额外回复850点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%，并额外回复850点生命值。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP plus an additional 850 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_050_desc",
           "SourceString": "黄油奶油在新鲜出炉的长棍面包表面轻微融化，内里酸甜的莓果奶油保持冰凉的口感，为你带来冰火两重天的独特感受！",
-          "LocalizedString": "黄油奶油在新鲜出炉的长棍面包表面轻微融化，内里酸甜的莓果奶油保持冰凉的口感，为你带来冰火两重天的独特感受！"
+          "LocalizedString": "Butter and cream slightly melt on the surface of the fresh-out-of-the-oven baguette, with the tangy berry cream inside balancing out a cool taste! You're guaranteed a unique ice and fire sensation!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5839,7 +5839,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_051_name",
           "SourceString": "玫瑰荔枝蛋糕",
-          "LocalizedString": "玫瑰荔枝蛋糕"
+          "LocalizedString": "Rose Lychee Cake"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5858,13 +5858,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0051",
           "SourceString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 1,600 HP, then restores 416 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_051_desc",
           "SourceString": "玫瑰调味的鲜果啫喱与荔枝果肉奶油层叠交融，呈现出浪漫的花香与清新的果香。是本店的浪漫人气甜品~",
-          "LocalizedString": "玫瑰调味的鲜果啫喱与荔枝果肉奶油层叠交融，呈现出浪漫的花香与清新的果香。是本店的浪漫人气甜品~"
+          "LocalizedString": "Rose-flavored fresh fruit jelly and lychee flesh cream layer merge, presenting romantic floral and fresh fruity aromas. It's the store's romantic popular dessert!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -5973,7 +5973,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_052_name",
           "SourceString": "奶油柿子千层",
-          "LocalizedString": "奶油柿子千层"
+          "LocalizedString": "Persimmon Butter Millefeuille"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -5992,13 +5992,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0052",
           "SourceString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP plus an additional 1,600 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_052_desc",
           "SourceString": "这份千层蛋糕的精髓是每日现做的柿子果酱与手剥柿子溏心，店里每天只能供应8份，想要吃到一定要早点来！",
-          "LocalizedString": "这份千层蛋糕的精髓是每日现做的柿子果酱与手剥柿子溏心，店里每天只能供应8份，想要吃到一定要早点来！"
+          "LocalizedString": "The essence of this millefeuille is the daily-made persimmon jam and hand-peeled persimmon heart. Only 8 servings are available daily; come early if you want to taste it!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6083,7 +6083,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_053_name",
           "SourceString": "开心果榛子千层",
-          "LocalizedString": "开心果榛子千层"
+          "LocalizedString": "Pistachio Hazelnut Millefeuille"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6102,13 +6102,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0053",
           "SourceString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP, then restores 416 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_053_desc",
           "SourceString": "层层酥脆的千层蛋糕，夹杂着香浓的榛子奶油与开心果酱。是不计热量的美味甜点，用它来作为工作日最后一天的奖励吧！",
-          "LocalizedString": "层层酥脆的千层蛋糕，夹杂着香浓的榛子奶油与开心果酱。是不计热量的美味甜点，用它来作为工作日最后一天的奖励吧！"
+          "LocalizedString": "Layer upon layer of crispy millefeuille cake, filled with rich hazelnut cream and pistachio paste. A delicious dessert where calories don't count—treat yourself as a reward for the last workday of the week!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6217,7 +6217,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_054_name",
           "SourceString": "夏日冷萃",
-          "LocalizedString": "夏日冷萃"
+          "LocalizedString": "Cold Brew"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6236,13 +6236,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0054",
           "SourceString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_054_desc",
           "SourceString": "丝丝沁凉的冷萃咖啡，为您卷走夏日的暑气与班味。",
-          "LocalizedString": "丝丝沁凉的冷萃咖啡，为您卷走夏日的暑气与班味。"
+          "LocalizedString": "Cool and refreshing cold brew coffee, taking away the summer heat and workday fatigue."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6342,7 +6342,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_055_name",
           "SourceString": "沸腾炼金术",
-          "LocalizedString": "沸腾炼金术"
+          "LocalizedString": "Modern Alchemy"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6361,13 +6361,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0055",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_055_desc",
           "SourceString": "牛奶与咖啡在适宜温度下的完美融合，这不是魔法，是现代炼金术！",
-          "LocalizedString": "牛奶与咖啡在适宜温度下的完美融合，这不是魔法，是现代炼金术！"
+          "LocalizedString": "Milk and coffee perfectly fused at the right temperature, it's not magic, it's modern alchemy!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6467,7 +6467,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_056_name",
           "SourceString": "热巧元气弹",
-          "LocalizedString": "热巧元气弹"
+          "LocalizedString": "Hot Chocolate Energy Bomb"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6486,13 +6486,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0056",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_056_desc",
           "SourceString": "由热巧克力、双倍浓缩咖啡、鲜奶油调和而成，既能提神也能供应充足的能量，给你提供满满元气！",
-          "LocalizedString": "由热巧克力、双倍浓缩咖啡、鲜奶油调和而成，既能提神也能供应充足的能量，给你提供满满元气！"
+          "LocalizedString": "Made of hot chocolate, double espresso, and fresh cream, it energizes and provides ample energy, giving you full vitality!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6592,7 +6592,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_057_name",
           "SourceString": "白胡子拍档",
-          "LocalizedString": "白胡子拍档"
+          "LocalizedString": "Whitebeard"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6611,13 +6611,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0057",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_057_desc",
           "SourceString": "让双唇与绵密的奶泡来一次亲密接触吧，要小心奶泡底下滚烫的咖啡哦！",
-          "LocalizedString": "让双唇与绵密的奶泡来一次亲密接触吧，要小心奶泡底下滚烫的咖啡哦！"
+          "LocalizedString": "Let your lips have an intimate encounter with the creamy milk foam, but be careful of the hot coffee beneath the foam!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6717,7 +6717,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_058_name",
           "SourceString": "砂海白",
-          "LocalizedString": "砂海白"
+          "LocalizedString": "Seaside White"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6736,13 +6736,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0058",
           "SourceString": "队伍中所有角色体力回复速度提升15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_058_desc",
           "SourceString": "砂海白的灵感源于店主人生中第一杯拿铁，其中掺杂着家乡的海风，和姥姥亲手研磨的黄冰糖的味道。",
-          "LocalizedString": "砂海白的灵感源于店主人生中第一杯拿铁，其中掺杂着家乡的海风，和姥姥亲手研磨的黄冰糖的味道。"
+          "LocalizedString": "The inspiration for Seaside White comes from the shop owner's first latte in life, mixed with the sea breeze of their hometown and the taste of grandma's hand-ground yellow rock sugar."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6842,7 +6842,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_059_name",
           "SourceString": "海特威",
-          "LocalizedString": "海特威"
+          "LocalizedString": "Heitwein"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6861,13 +6861,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0059",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_059_desc",
           "SourceString": "「抓住今天。」\r\n从大木桶的水龙头里接出一大杯气泡四溢、深金色的「海特威」，与身边的朋友或是陌生人高举双手，纵情欢笑，将所有的不愉快抛诸脑后，沉浸在此刻的满足之中吧！",
-          "LocalizedString": "「抓住今天。」\r\n从大木桶的水龙头里接出一大杯气泡四溢、深金色的「海特威」，与身边的朋友或是陌生人高举双手，纵情欢笑，将所有的不愉快抛诸脑后，沉浸在此刻的满足之中吧！"
+          "LocalizedString": "Seize the day. \r\nFill a large mug from the barrel's spout with frothy, deep golden Heitwein. Raise it high with friends, or even strangers! Laugh heartily, and relieve all unhappiness! Immerse yourself in the satisfaction of the moment!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -6967,7 +6967,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_name",
           "SourceString": "心迷宫",
-          "LocalizedString": "心迷宫"
+          "LocalizedString": "Deep in the Heart"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -6986,13 +6986,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0060",
           "SourceString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 12% for 600s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_desc",
           "SourceString": "柑橘和香料勾勒出回忆的轮廓。人们的过去撕碎又缝补在一起，觥筹交错间分不清那些真心假意，那就不妨不分。",
-          "LocalizedString": "柑橘和香料勾勒出回忆的轮廓。人们的过去撕碎又缝补在一起，觥筹交错间分不清那些真心假意，那就不妨不分。"
+          "LocalizedString": "Citrus and spices sketch out the contours of memories. People's pasts are torn apart and sewn back together, indistinguishable between genuine and insincere amidst clinking glasses. It's better not to distinguish."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7091,7 +7091,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_01_name",
           "SourceString": "海盐心迷宫",
-          "LocalizedString": "海盐心迷宫"
+          "LocalizedString": "Sea Salt Deep in the Heart"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7110,13 +7110,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0060",
           "SourceString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加12%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 12% for 600s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_060_01_desc",
           "SourceString": "在杯口沾上少许海盐，轻微的咸涩能让酒的酸甜更显绵长。这是翳过去最喜欢的喝法……尽管他现在觉得有点不健康。",
-          "LocalizedString": "在杯口沾上少许海盐，轻微的咸涩能让酒的酸甜更显绵长。这是翳过去最喜欢的喝法……尽管他现在觉得有点不健康。"
+          "LocalizedString": "The glass's rim is coated with a touch of sea salt. The subtle saltiness enhances the drink's sweet and sour notes, making them linger longer. This was Skia's favorite way to drink it in the past… though he now thinks it's a bit unhealthy."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7216,7 +7216,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_061_name",
           "SourceString": "浪人的班卓琴",
-          "LocalizedString": "浪人的班卓琴"
+          "LocalizedString": "Wanderer's Banjo"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7235,13 +7235,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0061",
           "SourceString": "队伍中所有角色暴击伤害增加24%，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加24%，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 24% for 600s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_061_desc",
           "SourceString": "带有淡淡的烟熏味和坚果香味，混合一点麦芽的甜香，余味悠长。浪人说，令他心安的地方便是家，新的家人正随着琴声打拍起舞。到天明以前，这里都是流浪的终点。",
-          "LocalizedString": "带有淡淡的烟熏味和坚果香味，混合一点麦芽的甜香，余味悠长。浪人说，令他心安的地方便是家，新的家人正随着琴声打拍起舞。到天明以前，这里都是流浪的终点。"
+          "LocalizedString": "With a hint of smoky flavor and nut aroma, blended with a touch of malt sweetness, the aftertaste lingers. The wanderer says that the place where he feels at peace is home, and the new family is dancing to the beat of the music. Until dawn, this is the end of the wandering."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7341,7 +7341,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_062_name",
           "SourceString": "角斗士之歌",
-          "LocalizedString": "角斗士之歌"
+          "LocalizedString": "Song of the Gladiator"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7360,13 +7360,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0062",
           "SourceString": "队伍中所有角色攻击力增加150，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加150，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 150 for 600s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_062_desc",
           "SourceString": "丰富的焦糖味夹杂着恰到好处的苦涩，回味带有一丝橡木的香气。向你致敬，我的朋友，向我们生活中的每一场战斗致敬。",
-          "LocalizedString": "丰富的焦糖味夹杂着恰到好处的苦涩，回味带有一丝橡木的香气。向你致敬，我的朋友，向我们生活中的每一场战斗致敬。"
+          "LocalizedString": "Rich caramel flavor mixed with just the right amount of bitterness, with a hint of oak in the aftertaste. Here's to you, my friend, and to every battle in our lives."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7466,7 +7466,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_063_name",
           "SourceString": "猫猫猛锤荔浦芋头布丁奶茶",
-          "LocalizedString": "猫猫猛锤荔浦芋头布丁奶茶"
+          "LocalizedString": "Nyanko Punch Taro Pudding Milktea"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7485,13 +7485,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0063",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_063_desc",
           "SourceString": "蒸得软软糯糯的荔浦芋头超好欺负喵！左右开弓捶打喵！这次就放过布丁喵！",
-          "LocalizedString": "蒸得软软糯糯的荔浦芋头超好欺负喵！左右开弓捶打喵！这次就放过布丁喵！"
+          "LocalizedString": "The steamy softy tawo iws super easy tuwu buwwy, meow! Weft punch >u<, wight punch >v<, doubwe punch meow >A<! Puddings awe good tuwu gow! OwO"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7591,7 +7591,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_064_name",
           "SourceString": "猫猫噗通噗通黑糖丸子脏脏茶",
-          "LocalizedString": "猫猫噗通噗通黑糖丸子脏脏茶"
+          "LocalizedString": "Nyanko Splash Black Sugar Boba Dirty Chai"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7610,13 +7610,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0064",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_064_desc",
           "SourceString": "猫猫噗通噗通用尽全力喵，每一颗都是爱你的形状喵！",
-          "LocalizedString": "猫猫噗通噗通用尽全力喵，每一颗都是爱你的形状喵！"
+          "LocalizedString": "Nyanko spwash spwash >w<! Love in the shape of bobas meow! >.0"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7716,7 +7716,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_065_name",
           "SourceString": "猫猫讨厌柠檬冰茶",
-          "LocalizedString": "猫猫讨厌柠檬冰茶"
+          "LocalizedString": "Nyanko Enemy Iced Lemon Tea"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7735,13 +7735,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0065",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_065_desc",
           "SourceString": "猫猫大人躲远远喵，酸酸茶都是坏仆人的主意喵！",
-          "LocalizedString": "猫猫大人躲远远喵，酸酸茶都是坏仆人的主意喵！"
+          "LocalizedString": "Mee-owww! Wun and hide meow! Nyanko hates sour tea! ;-;"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7841,7 +7841,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_066_name",
           "SourceString": "猫猫惬意鱼治摸茶",
-          "LocalizedString": "猫猫惬意鱼治摸茶"
+          "LocalizedString": "Nyanko Cozy Uji Matcha"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7860,13 +7860,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0066",
           "SourceString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击伤害增加12%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT DMG by 12% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_066_desc",
           "SourceString": "帅气爪子摸一摸，茶也能变得更美味喵！摸完茶要堂堂正正摸鱼喵！",
-          "LocalizedString": "帅气爪子摸一摸，茶也能变得更美味喵！摸完茶要堂堂正正摸鱼喵！"
+          "LocalizedString": "Evewything the paw touches becomes dewicious meow OuO! Bwack tuwu slacking off! UuU"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -7966,7 +7966,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_067_name",
           "SourceString": "经典提拉米苏",
-          "LocalizedString": "经典提拉米苏"
+          "LocalizedString": "Tiramisu"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -7985,13 +7985,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0067",
           "SourceString": "为当前角色恢复生命值上限的32%。",
-          "LocalizedString": "为当前角色恢复生命值上限的32%。"
+          "LocalizedString": "Heals the current character for 32% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_067_desc",
           "SourceString": "咖啡和柔脂乳酪，一对甜蜜拍档——「带我走吧！」",
-          "LocalizedString": "咖啡和柔脂乳酪，一对甜蜜拍档——「带我走吧！」"
+          "LocalizedString": "Coffee and cream cheese, a sweet duo—\"Take me with you!\"."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8076,7 +8076,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_068_name",
           "SourceString": "奶油香草梦",
-          "LocalizedString": "奶油香草梦"
+          "LocalizedString": "Creamy Vanilla"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8095,13 +8095,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0068",
           "SourceString": "为当前角色恢复2350点生命值。",
-          "LocalizedString": "为当前角色恢复2350点生命值。"
+          "LocalizedString": "Heals the current character for 2,350 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_068_desc",
           "SourceString": "一百万颗香草籽陷入了奶油做的云朵——用你的嘴唇融化这一份绵软的香甜吧！",
-          "LocalizedString": "一百万颗香草籽陷入了奶油做的云朵——用你的嘴唇融化这一份绵软的香甜吧！"
+          "LocalizedString": "A million vanilla seeds trapped in cream clouds—let your lips melt this soft sweetness!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8186,7 +8186,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_069_name",
           "SourceString": "缤纷果香派对",
-          "LocalizedString": "缤纷果香派对"
+          "LocalizedString": "Fruity Rainbow Party"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8205,13 +8205,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0069",
           "SourceString": "当前角色在之后的30秒内，每5秒回复611生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复611生命值"
+          "LocalizedString": "Restores 611 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_069_desc",
           "SourceString": "芒果、菠萝和香蕉的派对，带着你直接飞往热带岛屿，在夏夜晚风中随着尤克里里的节拍，舞！舞！舞！",
-          "LocalizedString": "芒果、菠萝和香蕉的派对，带着你直接飞往热带岛屿，在夏夜晚风中随着尤克里里的节拍，舞！舞！舞！"
+          "LocalizedString": "A party of mango, pineapple, and banana takes you straight to a tropical island. Dance to the rhythm of the ukulele in the summer night breeze! Dance! Dance!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8314,7 +8314,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_070_name",
           "SourceString": "莓莓四重奏",
-          "LocalizedString": "莓莓四重奏"
+          "LocalizedString": "Berry Quartet"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8333,13 +8333,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0070",
           "SourceString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 1,150 HP, then restores 299 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_070_desc",
           "SourceString": "草莓、蓝莓、覆盆子和黑莓的组合，仿佛置身清晨的林间，采撷灌木丛中散落的晨星，擦去昨夜的落霜，品尝它们的酸甜青涩。",
-          "LocalizedString": "草莓、蓝莓、覆盆子和黑莓的组合，仿佛置身清晨的林间，采撷灌木丛中散落的晨星，擦去昨夜的落霜，品尝它们的酸甜青涩。"
+          "LocalizedString": "A combination of strawberries, blueberries, raspberries, and blackberries, as if you are in a forest in the early morning, picking the stardust scattered among the bushes, wiping away last night's frost, and tasting their sweet and sour freshness."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8448,7 +8448,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_071_name",
           "SourceString": "坚果焦糖爆爆杯",
-          "LocalizedString": "坚果焦糖爆爆杯"
+          "LocalizedString": "Nut & Caramel Cupcake"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8467,13 +8467,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0071",
           "SourceString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。"
+          "LocalizedString": "Heals the current character for 16% of their Max HP plus an additional 1,150 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_071_desc",
           "SourceString": "焦糖与香脆坚果在舌尖上跳跃，好似徜徉在庆祝丰收的金秋盛宴之中。谁此时计算卡路里，就让他永远孤独！",
-          "LocalizedString": "焦糖与香脆坚果在舌尖上跳跃，好似徜徉在庆祝丰收的金秋盛宴之中。谁此时计算卡路里，就让他永远孤独！"
+          "LocalizedString": "Caramel and crunchy nuts jump on the tip of your tongue, as if reveling in a golden autumn harvest feast. Whoever counts calories at this moment, let them be forever alone!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8558,7 +8558,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_072_name",
           "SourceString": "炭火脆皮烤肉",
-          "LocalizedString": "炭火脆皮烤肉"
+          "LocalizedString": "Charcoal Grilled Crispy BBQ"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8577,13 +8577,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0072",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_072_desc",
           "SourceString": "外皮金黄酥脆，瘦肉弹牙多汁，一口下去，酥脆的油香和饱满的肉汁充盈口腔，让人欲罢不能。",
-          "LocalizedString": "外皮金黄酥脆，瘦肉弹牙多汁，一口下去，酥脆的油香和饱满的肉汁充盈口腔，让人欲罢不能。"
+          "LocalizedString": "Golden crispy on the outside, juicy meat on the inside! With just one bite, the crispy, savory fragrance and rich meat juices fill your mouth… You won't be able to stop eating!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8667,7 +8667,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_073_name",
           "SourceString": "蒜香筋道烤肉",
-          "LocalizedString": "蒜香筋道烤肉"
+          "LocalizedString": "Garlic Infused Tender BBQ"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8686,13 +8686,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0073",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_073_desc",
           "SourceString": "筋道饱满的大块精瘦肉，搭配烤得软糯浓香的蒜瓣——趁热一口，绝对过瘾！",
-          "LocalizedString": "筋道饱满的大块精瘦肉，搭配烤得软糯浓香的蒜瓣——趁热一口，绝对过瘾！"
+          "LocalizedString": "Tender and juicy chunks of lean meat paired with soft, aromatic roasted garlic cloves! Take a bite while it's hot!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8776,7 +8776,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_074_name",
           "SourceString": "孜然飘香烤肉",
-          "LocalizedString": "孜然飘香烤肉"
+          "LocalizedString": "Cumin Aromatic BBQ"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8795,13 +8795,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0074",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_074_desc",
           "SourceString": "滋滋冒油的焦香肉串，搭配浓郁扑鼻的孜然香味，常让在喜欢夜跑的健身爱好者魂牵梦萦。",
-          "LocalizedString": "滋滋冒油的焦香肉串，搭配浓郁扑鼻的孜然香味，常让在喜欢夜跑的健身爱好者魂牵梦萦。"
+          "LocalizedString": "Sizzling, juicy meat skewers with the rich, intoxicating aroma of cumin. A temptation that haunts even the most dedicated fitness enthusiasts."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -8885,7 +8885,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_075_name",
           "SourceString": "人间土豆",
-          "LocalizedString": "人间土豆"
+          "LocalizedString": "Once a Potato"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -8904,13 +8904,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0075",
           "SourceString": "当前角色在之后的30秒内，每5秒回复338生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复338生命值"
+          "LocalizedString": "Restores 338 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_075_desc",
           "SourceString": "刷上油脂，经过炭火的烘烤，变得焦脆，拥有金黄的人生。很难想象这是当初埋在泥土中那颗其貌不扬的土豆。",
-          "LocalizedString": "刷上油脂，经过炭火的烘烤，变得焦脆，拥有金黄的人生。很难想象这是当初埋在泥土中那颗其貌不扬的土豆。"
+          "LocalizedString": "Brushed with oil, roasted over a charcoal fire, becoming crispy and golden. It's hard to imagine this was once an unremarkable potato buried in the soil."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9011,7 +9011,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_076_name",
           "SourceString": "烤玉米",
-          "LocalizedString": "烤玉米"
+          "LocalizedString": "Grilled Corn"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9030,13 +9030,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0076",
           "SourceString": "复活选中角色，并额外恢复100生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复100生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 100 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_076_desc",
           "SourceString": "是大玉米棒子，不是玉米粒。",
-          "LocalizedString": "是大玉米棒子，不是玉米粒。"
+          "LocalizedString": "Corn. Big. Grilled."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9120,7 +9120,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_077_name",
           "SourceString": "大肉包",
-          "LocalizedString": "大肉包"
+          "LocalizedString": "Meat Baozi"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9139,13 +9139,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0077",
           "SourceString": "为当前角色恢复生命值上限的20%。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_077_desc",
           "SourceString": "外皮软和，包裹着内里紧实鲜嫩的大肉丸。带着油花的汤汁浸润面皮，滋味鲜美无比！",
-          "LocalizedString": "外皮软和，包裹着内里紧实鲜嫩的大肉丸。带着油花的汤汁浸润面皮，滋味鲜美无比！"
+          "LocalizedString": "Soft outer skin encases a firm and tender large meatball. The broth with oil flowers soaks into the dough, making it incredibly delicious!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9230,7 +9230,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_078_name",
           "SourceString": "巨嘴奶黄包",
-          "LocalizedString": "巨嘴奶黄包"
+          "LocalizedString": "Bigmouth Custard Baozi"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9249,13 +9249,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0078",
           "SourceString": "为当前角色恢复1450点生命值。",
-          "LocalizedString": "为当前角色恢复1450点生命值。"
+          "LocalizedString": "Heals the current character for 1,450 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_078_desc",
           "SourceString": "白胖Q萌的巨嘴怪，内里包裹着细腻的奶黄馅。一口咬下，浓浓奶香，香甜爆浆！",
-          "LocalizedString": "白胖Q萌的巨嘴怪，内里包裹着细腻的奶黄馅。一口咬下，浓浓奶香，香甜爆浆！"
+          "LocalizedString": "A white, chubby, cute giant-mouthed monster, filled with delicate custard filling. One bite releases a rich milky aroma, bursting with sweet cream!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9340,7 +9340,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_079_name",
           "SourceString": "叉烧包",
-          "LocalizedString": "叉烧包"
+          "LocalizedString": "Char Siu Bao"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9359,13 +9359,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0079",
           "SourceString": "当前角色在之后的30秒内，每5秒回复377生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复377生命值"
+          "LocalizedString": "Restores 377 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_079_desc",
           "SourceString": "使用传统工艺制作的广式叉烧包，老面松软化渣，叉烧嫩滑香浓。黄金配比，甜咸适中，油而不腻！",
-          "LocalizedString": "使用传统工艺制作的广式叉烧包，老面松软化渣，叉烧嫩滑香浓。黄金配比，甜咸适中，油而不腻！"
+          "LocalizedString": "Cantonese-style char siu baos made with traditional craftsmanship, with soft and crumbly aged dough, tender and flavorful char siu. Perfect balance, sweet and savory, oily yet not greasy!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9468,7 +9468,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_080_name",
           "SourceString": "蟹粉小笼",
-          "LocalizedString": "蟹粉小笼"
+          "LocalizedString": "Crab Roe Soup Dumpling"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9487,13 +9487,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0080",
           "SourceString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 700 HP, then restores 182 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_080_desc",
           "SourceString": "推荐吃法：轻轻戳开柔韧的外皮，先品尝金黄咸香的汤汁。推荐搭配本店特调的玫瑰醋，滋味更丰富！",
-          "LocalizedString": "推荐吃法：轻轻戳开柔韧的外皮，先品尝金黄咸香的汤汁。推荐搭配本店特调的玫瑰醋，滋味更丰富！"
+          "LocalizedString": "Recommended eating method: Gently puncture the pliable outer skin to reveal the golden, savory broth. For an even richer flavor, pair it with the shop's special rose vinegar!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9602,7 +9602,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_081_name",
           "SourceString": "猫丸秘制豚骨拉面",
-          "LocalizedString": "猫丸秘制豚骨拉面"
+          "LocalizedString": "Nekomaru Tonkotsu Ramen"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9621,13 +9621,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0081",
           "SourceString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP, then restores 143 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_081_desc",
           "SourceString": "长时间熬煮的浓郁汤头，超大块厚切的叉烧肉软嫩入味，再佐以海苔、溏心蛋和笋干，是猫丸师傅最为自满的招牌拉面！",
-          "LocalizedString": "长时间熬煮的浓郁汤头，超大块厚切的叉烧肉软嫩入味，再佐以海苔、溏心蛋和笋干，是猫丸师傅最为自满的招牌拉面！"
+          "LocalizedString": "A rich broth, slowly simmered to perfection, infused with thick slices of tender char siu pork, complemented by seaweed, soft-boiled egg, and bamboo shoots. This is Chef Nekomaru's proudest signature ramen!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9736,7 +9736,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_082_name",
           "SourceString": "猫丸秘制鸡白汤拉面",
-          "LocalizedString": "猫丸秘制鸡白汤拉面"
+          "LocalizedString": "Nekomaru Tori Paitan Ramen"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9755,13 +9755,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0082",
           "SourceString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的24%，并在之后的30秒内，每5秒恢复143点生命值。"
+          "LocalizedString": "Heals the current character for 24% of their Max HP, then restores 143 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_082_desc",
           "SourceString": "用洋葱激发出鸡肉的鲜甜，汤底浓郁不腻口。马铃薯泥、奶油、白胡椒碎搅打制成奶泡。再佐以溏心蛋与超细的金黄马铃薯丝，味道绝赞！",
-          "LocalizedString": "用洋葱激发出鸡肉的鲜甜，汤底浓郁不腻口。马铃薯泥、奶油、白胡椒碎搅打制成奶泡。再佐以溏心蛋与超细的金黄马铃薯丝，味道绝赞！"
+          "LocalizedString": "Onions bring out the natural sweetness of the chicken, complemented by a rich yet light broth. Mashed potatoes, cream, and white pepper are whipped into a fluffy froth. When paired with a soft-boiled egg and ultra-fine golden potato shreds, the flavors come together superbly!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -9870,7 +9870,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_083_name",
           "SourceString": "猫丸秘制豆乳拉面",
-          "LocalizedString": "猫丸秘制豆乳拉面"
+          "LocalizedString": "Nekomaru Vegan Ramen"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -9889,13 +9889,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0083",
           "SourceString": "为当前角色恢复2200点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复2200点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 2,200 HP, then restores 182 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_083_desc",
           "SourceString": "汤清味鲜、筋道弹牙的拉面，令人食欲大振！汤底以豆浆为基底，加入昆布和松茸慢火熬制，佐以手工制作的油炸豆皮，豆香浓郁，不容错过！",
-          "LocalizedString": "汤清味鲜、筋道弹牙的拉面，令人食欲大振！汤底以豆浆为基底，加入昆布和松茸慢火熬制，佐以手工制作的油炸豆皮，豆香浓郁，不容错过！"
+          "LocalizedString": "Springy ramen in a rich soy-based broth, simmered with kombu and matsutake. Topped with crispy handmade tofu skin—both fragrant and irresistible!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10004,7 +10004,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_084_name",
           "SourceString": "猫丸秘制辛红拉面",
-          "LocalizedString": "猫丸秘制辛红拉面"
+          "LocalizedString": "Nekomaru Oni Ramen"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10023,13 +10023,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0084",
           "SourceString": "为当前角色恢复生命值上限的30%，并额外回复700点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%，并额外回复700点生命值。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP plus an additional 700 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_084_desc",
           "SourceString": "鸡汤混合香味辣油、特制辣味噌、多种辣椒和新鲜辣椒酱，汤色呈鲜红色，再佐以浅浅炙烤过的超大青色辣椒，光是看一眼都让人冒汗的地狱拉面！",
-          "LocalizedString": "鸡汤混合香味辣油、特制辣味噌、多种辣椒和新鲜辣椒酱，汤色呈鲜红色，再佐以浅浅炙烤过的超大青色辣椒，光是看一眼都让人冒汗的地狱拉面！"
+          "LocalizedString": "Chicken broth mixed with aromatic chili oil, special spicy miso, various chilies, and fresh chili sauce, with a bright red broth, paired with lightly roasted large green chilies. Just one look will make you sweat—the hellish ramen!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10114,7 +10114,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_085_name",
           "SourceString": "经典三重奏",
-          "LocalizedString": "经典三重奏"
+          "LocalizedString": "Classic Trio"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10133,13 +10133,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0085",
           "SourceString": "为当前角色恢复3250点生命值。",
-          "LocalizedString": "为当前角色恢复3250点生命值。"
+          "LocalizedString": "Heals the current character for 3,250 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_085_desc",
           "SourceString": "经典的三重奏：番茄酱、新鲜奶酪和罗勒叶。红番茄酱打底，奶白色的奶酪和翠绿的罗勒叶点缀其上，再撒点盐和淋上橄榄油。是最经典的披萨。",
-          "LocalizedString": "经典的三重奏：番茄酱、新鲜奶酪和罗勒叶。红番茄酱打底，奶白色的奶酪和翠绿的罗勒叶点缀其上，再撒点盐和淋上橄榄油。是最经典的披萨。"
+          "LocalizedString": "Classic trio: tomato sauce, fresh cheese, and basil leaves. A tomato sauce base topped with the white cheese and the green basil leaves, sprinkled with salt, drizzled with olive oil… thus comes the most classic of pizzas."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10224,7 +10224,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_086_name",
           "SourceString": "浓香火腿披萨",
-          "LocalizedString": "浓香火腿披萨"
+          "LocalizedString": "Rich and Savory Ham Pizza"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10243,13 +10243,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0086",
           "SourceString": "为当前角色恢复3250点生命值。",
-          "LocalizedString": "为当前角色恢复3250点生命值。"
+          "LocalizedString": "Heals the current character for 3,250 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_086_desc",
           "SourceString": "醇香的奶酪，粉嫩的火腿薄片，微酸的番茄酱，再点缀上樱桃番茄和脆嫩的芝麻菜与罗勒叶。用料十足，色彩饱满，是本店的人气披萨。",
-          "LocalizedString": "醇香的奶酪，粉嫩的火腿薄片，微酸的番茄酱，再点缀上樱桃番茄和脆嫩的芝麻菜与罗勒叶。用料十足，色彩饱满，是本店的人气披萨。"
+          "LocalizedString": "Rich cheese, thin slices of ham, slightly sour tomato sauce, garnished with cherry tomatoes, crispy arugula, and basil leaves. Packed with ingredients and vibrant colors, it's the store's most popular pizza!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10334,7 +10334,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_087_name",
           "SourceString": "番茄罗勒通心粉",
-          "LocalizedString": "番茄罗勒通心粉"
+          "LocalizedString": "Tomato Basil Macaroni"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10353,13 +10353,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0087",
           "SourceString": "当前角色在之后的30秒内，每5秒回复845生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复845生命值"
+          "LocalizedString": "Restores 845 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_087_desc",
           "SourceString": "经典的通心粉，搭配新鲜的番茄酱和芳香的罗勒叶，撒上香浓的奶酪。简单又美味，每一口都是让人怀念的味道。",
-          "LocalizedString": "经典的通心粉，搭配新鲜的番茄酱和芳香的罗勒叶，撒上香浓的奶酪。简单又美味，每一口都是让人怀念的味道。"
+          "LocalizedString": "Classic macaroni, paired with fresh tomato sauce and aromatic basil leaves, sprinkled with rich cheese. Simple yet delicious, every bite's a piece of nostalgia!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10462,7 +10462,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_088_name",
           "SourceString": "肉酱千层面",
-          "LocalizedString": "肉酱千层面"
+          "LocalizedString": "Lasagna alla Bolognese"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10481,13 +10481,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0088",
           "SourceString": "当前角色在之后的30秒内，每5秒回复845生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复845生命值"
+          "LocalizedString": "Restores 845 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_088_desc",
           "SourceString": "层层叠叠的千层面，裹满浓郁的肉酱和奶油酱，再撒上浓香奶酪，烤至金黄……所有美食爱好者都不该错过这道佳肴。",
-          "LocalizedString": "层层叠叠的千层面，裹满浓郁的肉酱和奶油酱，再撒上浓香奶酪，烤至金黄……所有美食爱好者都不该错过这道佳肴。"
+          "LocalizedString": "Layered lasagna wrapped in rich meat sauce and creamy sauce, sprinkled with fragrant cheese and baked to golden perfection… A dish that no food lover should miss."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10590,7 +10590,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_089_name",
           "SourceString": "柠檬气泡水",
-          "LocalizedString": "柠檬气泡水"
+          "LocalizedString": "Acqua Frizzante al Limone"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10609,13 +10609,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0089",
           "SourceString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP, then restores 416 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_089_desc",
           "SourceString": "清新的柠檬片与气泡水的完美结合，再加上一点点薄荷叶，带来清爽的口感。",
-          "LocalizedString": "清新的柠檬片与气泡水的完美结合，再加上一点点薄荷叶，带来清爽的口感。"
+          "LocalizedString": "The perfect combination of fresh lemon slices and Acqua Frizzante al Limone, with a touch of mint leaves, brings a refreshing taste."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10724,7 +10724,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_090_name",
           "SourceString": "辣鸡扒咖喱饭",
-          "LocalizedString": "辣鸡扒咖喱饭"
+          "LocalizedString": "Spicy Chicken Cutlet Curry Rice"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10743,13 +10743,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0090",
           "SourceString": "复活选中角色，并恢复生命值上限的14%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的14%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 14% of their max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_090_desc",
           "SourceString": "超大块现炸辣鸡扒，配上香浓咖喱与蛋包饭，再佐以清爽的蔬菜沙拉，分量十足，让你吃得超满足！",
-          "LocalizedString": "超大块现炸辣鸡扒，配上香浓咖喱与蛋包饭，再佐以清爽的蔬菜沙拉，分量十足，让你吃得超满足！"
+          "LocalizedString": "A large, freshly fried spicy chicken cutlet, served with rich curry and omelette rice, accompanied by a refreshing vegetable salad. A hearty portion that is guaranteed to leave you feeling fully satisfied!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10833,7 +10833,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_091_name",
           "SourceString": "巨型汉堡肉",
-          "LocalizedString": "巨型汉堡肉"
+          "LocalizedString": "Hamburger Steak XL"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10852,13 +10852,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0091",
           "SourceString": "复活选中角色，并额外恢复1000生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复1000生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 1,000 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_091_desc",
           "SourceString": "是让人忍不住惊呼的巨大牛肉饼！为肉食爱好者量身打造！",
-          "LocalizedString": "是让人忍不住惊呼的巨大牛肉饼！为肉食爱好者量身打造！"
+          "LocalizedString": "A gigantic hamburger steak that will make you gasp! Tailored for meat lovers, it's the ultimate indulgence!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -10942,7 +10942,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_092_name",
           "SourceString": "缤纷轻食沙拉",
-          "LocalizedString": "缤纷轻食沙拉"
+          "LocalizedString": "Colorful Light Salad"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -10961,13 +10961,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0092",
           "SourceString": "当前角色在之后的30秒内，每5秒回复572生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复572生命值"
+          "LocalizedString": "Restores 572 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_092_desc",
           "SourceString": "健康沙拉碗，搭配新鲜的生菜、脆烤面包丁和嫩煎鸡胸肉，再撒上少许干酪，是轻食爱好者的理想选择！",
-          "LocalizedString": "健康沙拉碗，搭配新鲜的生菜、脆烤面包丁和嫩煎鸡胸肉，再撒上少许干酪，是轻食爱好者的理想选择！"
+          "LocalizedString": "Healthy salad bowl with fresh lettuce, crispy croutons, and tender pan-seared chicken breast, topped with a light sprinkling of cheese. A perfect choice for light meal enthusiasts!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11070,7 +11070,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_093_name",
           "SourceString": "元气儿童套餐",
-          "LocalizedString": "元气儿童套餐"
+          "LocalizedString": "Kids Energy Meal"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11089,13 +11089,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0093",
           "SourceString": "为当前角色恢复生命值上限的30%。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_093_desc",
           "SourceString": "欢迎来到梦幻岛！当小英雄补充好元气以后，尝试在店内搜寻人气异象的踪影吧！你将会获得一个超酷的异象手办！",
-          "LocalizedString": "欢迎来到梦幻岛！当小英雄补充好元气以后，尝试在店内搜寻人气异象的踪影吧！你将会获得一个超酷的异象手办！"
+          "LocalizedString": "Welcome to Dream Island! After your little hero has recharged, try searching the store for traces of popular Anomalies! You'll get a super cool Anomaly figurine as a reward!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11180,7 +11180,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_094_name",
           "SourceString": "清凉凉提神药",
-          "LocalizedString": "清凉凉提神药"
+          "LocalizedString": "Cooly Cool Refresher"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11199,13 +11199,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0094",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_094_desc",
           "SourceString": "让疲惫在清凉凉的轻抚下化为乌有，恢复你的生命力！",
-          "LocalizedString": "让疲惫在清凉凉的轻抚下化为乌有，恢复你的生命力！"
+          "LocalizedString": "Let the fatigue vanish under the gentle touch of Cooly Cool Pain Relief, restoring your health!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11305,7 +11305,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_095_name",
           "SourceString": "净化守护含片",
-          "LocalizedString": "净化守护含片"
+          "LocalizedString": "Purification Guard Lozenges"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11324,13 +11324,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0095",
           "SourceString": "为当前角色恢复1000点生命值，并在之后的30秒内，每5秒恢复260点生命值。",
-          "LocalizedString": "为当前角色恢复1000点生命值，并在之后的30秒内，每5秒恢复260点生命值。"
+          "LocalizedString": "Heals the current character for 1,000 HP, then restores 260 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_095_desc",
           "SourceString": "警报！警报！炎症来袭，召唤特别行动组！净化炎症因子，全方位守护家人的健康！",
-          "LocalizedString": "警报！警报！炎症来袭，召唤特别行动组！净化炎症因子，全方位守护家人的健康！"
+          "LocalizedString": "Alert! Alert! Inflammation attack, summon the special action team! Purify inflammation factors, fully protect the family's health!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11439,7 +11439,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_096_name",
           "SourceString": "明亮~wink大作战！",
-          "LocalizedString": "明亮~wink大作战！"
+          "LocalizedString": "Blink! Wink Battle!"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11458,13 +11458,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0096",
           "SourceString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_096_desc",
           "SourceString": "明亮~wink大作战！双眼瞬间Bling bling，今天的你也是闪闪发光的主角！",
-          "LocalizedString": "明亮~wink大作战！双眼瞬间Bling bling，今天的你也是闪闪发光的主角！"
+          "LocalizedString": "Blink! Wink Battle! Your eyes sparkle instantly, and today you are the shining star!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11564,7 +11564,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_097_name",
           "SourceString": "大防御家！",
-          "LocalizedString": "大防御家！"
+          "LocalizedString": "Great Defender!"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11583,13 +11583,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0097",
           "SourceString": "队伍中所有角色防御力增加175，持续600秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加175，持续600秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 175 for 600s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_097_desc",
           "SourceString": "护甲等级Max！这位守护伤口的勇士明明超强却过分谨慎！",
-          "LocalizedString": "护甲等级Max！这位守护伤口的勇士明明超强却过分谨慎！"
+          "LocalizedString": "Armor level Max! The Guardian of Wounds Is Overpowered but Overly Cautious!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11689,7 +11689,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_098_name",
           "SourceString": "竹本！Vitamin！",
-          "LocalizedString": "竹本！Vitamin！"
+          "LocalizedString": "Zhu! Vitamin!"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11708,13 +11708,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0098",
           "SourceString": "队伍中所有角色暴击率增加10%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加10%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 10% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_098_desc",
           "SourceString": "每日一颗「竹本！Vitamin！」，与健康生活打出完美Combo！",
-          "LocalizedString": "每日一颗「竹本！Vitamin！」，与健康生活打出完美Combo！"
+          "LocalizedString": "A daily Zhu! Vitamin! for a perfect combo with a healthy lifestyle!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11814,7 +11814,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_100_name",
           "SourceString": "番茄百分百果冻",
-          "LocalizedString": "番茄百分百果冻"
+          "LocalizedString": "Tomato 100 Jelly"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11833,13 +11833,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0100",
           "SourceString": "为当前角色恢复2350点生命值。",
-          "LocalizedString": "为当前角色恢复2350点生命值。"
+          "LocalizedString": "Heals the current character for 2,350 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_100_desc",
           "SourceString": "可口的番茄果冻，为了被美食鉴赏家一口吃掉，成为百分百的美味。",
-          "LocalizedString": "可口的番茄果冻，为了被美食鉴赏家一口吃掉，成为百分百的美味。"
+          "LocalizedString": "Delicious tomato jelly that exists to be devoured in one bite by food connoisseurs, providing 100% pure deliciousness."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -11924,7 +11924,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_100_sp_name",
           "SourceString": "咔叽玛番茄酱",
-          "LocalizedString": "咔叽玛番茄酱"
+          "LocalizedString": "Clicky Ketchup"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -11943,13 +11943,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0100",
           "SourceString": "为当前角色恢复2350点生命值。",
-          "LocalizedString": "为当前角色恢复2350点生命值。"
+          "LocalizedString": "Heals the current character for 2,350 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_100_sp_desc",
           "SourceString": "印有「咔叽玛特供」的番茄酱，一般来说只会和咔叽玛的薯条搭配出售……希望没人发现薯条套餐中的番茄酱消失了。",
-          "LocalizedString": "印有「咔叽玛特供」的番茄酱，一般来说只会和咔叽玛的薯条搭配出售……希望没人发现薯条套餐中的番茄酱消失了。"
+          "LocalizedString": "Ketchup labeled \"Clicky Selection\", usually sold only with Clicky french fries… Here's hoping nobody notices the ketchup missing from their fries combo."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12034,7 +12034,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_101_name",
           "SourceString": "番茄百分百果汁",
-          "LocalizedString": "番茄百分百果汁"
+          "LocalizedString": "Tomato 100 Juice"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12053,13 +12053,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0101",
           "SourceString": "当前角色在之后的30秒内，每5秒回复611生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复611生命值"
+          "LocalizedString": "Restores 611 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_101_desc",
           "SourceString": "可口的番茄果汁，于无止境的番茄物语中，献上美味。",
-          "LocalizedString": "可口的番茄果汁，于无止境的番茄物语中，献上美味。"
+          "LocalizedString": "Delectable tomato juice, offering up its delicious flavor in an endless tale of tomatoes."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12162,7 +12162,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_102_name",
           "SourceString": "番茄百分百奶昔",
-          "LocalizedString": "番茄百分百奶昔"
+          "LocalizedString": "Tomato 100 Milkshake"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12181,13 +12181,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0102",
           "SourceString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。",
-          "LocalizedString": "为当前角色恢复1150点生命值，并在之后的30秒内，每5秒恢复299点生命值。"
+          "LocalizedString": "Heals the current character for 1,150 HP, then restores 299 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_102_desc",
           "SourceString": "香甜的番茄奶昔，无论如何都想要寻求与心跳邂逅~",
-          "LocalizedString": "香甜的番茄奶昔，无论如何都想要寻求与心跳邂逅~"
+          "LocalizedString": "A sweet tomato milkshake, eagerly seeking an encounter with your heartbeat!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12296,7 +12296,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_103_name",
           "SourceString": "惠比寿宫廷小塔",
-          "LocalizedString": "惠比寿宫廷小塔"
+          "LocalizedString": "Ebisu Royal Tower"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12315,13 +12315,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0103",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_103_desc",
           "SourceString": "白贝壳星级主厨的甜品代表作之一。外层选用上等黄油起酥，精选小布妮种植鲜橙为夹层，辅以蓝莓果酱基底。入口如天鹅羽毛般轻盈，让你体验到前所未有的清新丝滑感受。",
-          "LocalizedString": "白贝壳星级主厨的甜品代表作之一。外层选用上等黄油起酥，精选小布妮种植鲜橙为夹层，辅以蓝莓果酱基底。入口如天鹅羽毛般轻盈，让你体验到前所未有的清新丝滑感受。"
+          "LocalizedString": "One of the signature desserts from a La Palourde Blanche chef. The exterior features premium butter puff pastry, with fresh oranges grown by Little Buni as the filling, complemented by a blueberry jam base. The texture is as light as swan feathers upon tasting, offering an unprecedented refreshing smoothness."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12421,7 +12421,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_104_name",
           "SourceString": "大将军章鱼烧",
-          "LocalizedString": "大将军章鱼烧"
+          "LocalizedString": "Taishou Takoyaki"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12440,13 +12440,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0103",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "food_104_desc",
           "SourceString": "无愧于「大将军」之名的招牌超大章鱼烧。整只章鱼霸气入料，颗颗软糯弹牙，鲜味十足，即使是「章鱼」亲手制作的章鱼烧，论风味也与之难分高下。",
-          "LocalizedString": "无愧于「大将军」之名的招牌超大章鱼烧。整只章鱼霸气入料，颗颗软糯弹牙，鲜味十足，即使是「章鱼」亲手制作的章鱼烧，论风味也与之难分高下。"
+          "LocalizedString": "A signature super-sized takoyaki worthy of the \"Taishou\" title. Made with whole octopus for maximum impact, each piece is soft, chewy, and bursting with fresh flavor. Even takoyaki made by an actual octopus would be hard-pressed to match this incredible taste."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12545,7 +12545,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_105_name",
           "SourceString": "绵软番茄",
-          "LocalizedString": "绵软番茄"
+          "LocalizedString": "Soft Tomato"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12564,13 +12564,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0105",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_105_desc",
           "SourceString": "绵软可口的薯条蘸番茄酱，黄金搭档，老少皆宜。",
-          "LocalizedString": "绵软可口的薯条蘸番茄酱，黄金搭档，老少皆宜。"
+          "LocalizedString": "Soft and delicious french fries dipped in tomato jelly—a golden combo that's perfect for all ages."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12654,7 +12654,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_106_name",
           "SourceString": "盐盐轻语",
-          "LocalizedString": "盐盐轻语"
+          "LocalizedString": "Salty Whisper"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12673,13 +12673,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0106",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_106_desc",
           "SourceString": "绵软可口的原味薯条，最大限度地保留了马铃薯的原始风味。",
-          "LocalizedString": "绵软可口的原味薯条，最大限度地保留了马铃薯的原始风味。"
+          "LocalizedString": "Soft and delicious french fries that preserve the original flavor of potato to the fullest."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12763,7 +12763,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_107_name",
           "SourceString": "霜云交响",
-          "LocalizedString": "霜云交响"
+          "LocalizedString": "Frost Cloud Symphony"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12782,13 +12782,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0107",
           "SourceString": "为当前角色恢复生命值上限的50%。",
-          "LocalizedString": "为当前角色恢复生命值上限的50%。"
+          "LocalizedString": "Heals the current character for 50% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_107_desc",
           "SourceString": "绵软可口的薯条蘸冰淇淋，一口下去仿佛坠入云端。",
-          "LocalizedString": "绵软可口的薯条蘸冰淇淋，一口下去仿佛坠入云端。"
+          "LocalizedString": "Soft and delicious french fries paired with ice cream—one bite and you'll feel like you're floating on clouds."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12872,7 +12872,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_108_name",
           "SourceString": "经典番茄",
-          "LocalizedString": "经典番茄"
+          "LocalizedString": "Classic Tomato"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -12891,13 +12891,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0108",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_108_desc",
           "SourceString": "美味可口的薯条蘸番茄酱，经典永不过时。",
-          "LocalizedString": "美味可口的薯条蘸番茄酱，经典永不过时。"
+          "LocalizedString": "Delicious french fries with tomato jelly! A classic that never goes out of style."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -12996,7 +12996,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_109_name",
           "SourceString": "盐盐王牌",
-          "LocalizedString": "盐盐王牌"
+          "LocalizedString": "Salty Ace"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13015,13 +13015,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0109",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_109_desc",
           "SourceString": "美味可口的原味薯条，纯粹无需多盐。",
-          "LocalizedString": "美味可口的原味薯条，纯粹无需多盐。"
+          "LocalizedString": "Delicious plain french fries. Pure perfection that requires no extra salt."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13120,7 +13120,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_110_name",
           "SourceString": "冰霜交响",
-          "LocalizedString": "冰霜交响"
+          "LocalizedString": "Frost Ice Symphony"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13139,13 +13139,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0110",
           "SourceString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加200，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 200 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_110_desc",
           "SourceString": "美味可口的薯条蘸冰淇淋，挑战不一样的感觉。",
-          "LocalizedString": "美味可口的薯条蘸冰淇淋，挑战不一样的感觉。"
+          "LocalizedString": "Delicious french fries with ice cream. Challenge yourself with a whole new sensation."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13244,7 +13244,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_111_name",
           "SourceString": "硬核番茄",
-          "LocalizedString": "硬核番茄"
+          "LocalizedString": "Hardcore Tomato"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13263,13 +13263,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0111",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_111_desc",
           "SourceString": "酥脆可口的薯条蘸番茄酱，有些刺激的口感。",
-          "LocalizedString": "酥脆可口的薯条蘸番茄酱，有些刺激的口感。"
+          "LocalizedString": "Crispy french fries with tomato jelly! An exciting burst of texture and flavor."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13368,7 +13368,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_112_name",
           "SourceString": "盐盐烈风",
-          "LocalizedString": "盐盐烈风"
+          "LocalizedString": "Salty Tornado"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13387,13 +13387,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0112",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_112_desc",
           "SourceString": "酥脆可口的原味薯条，盐粒粗粝，滋味狂野。",
-          "LocalizedString": "酥脆可口的原味薯条，盐粒粗粝，滋味狂野。"
+          "LocalizedString": "Crispy plain french fries with coarse salt grains that deliver a wild burst of flavor."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13492,7 +13492,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_113_name",
           "SourceString": "霜铁交响",
-          "LocalizedString": "霜铁交响"
+          "LocalizedString": "Frost Iron Symphony"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13511,13 +13511,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0113",
           "SourceString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加20%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 20% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_113_desc",
           "SourceString": "酥脆可口的薯条蘸冰淇淋，冰火两重天的风味令人上瘾。",
-          "LocalizedString": "酥脆可口的薯条蘸冰淇淋，冰火两重天的风味令人上瘾。"
+          "LocalizedString": "Crispy french fries with ice cream. The addictive contrast of hot and cold creates an irresistible flavor experience."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13617,7 +13617,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_114_name",
           "SourceString": "「惬意猫猫鱼」",
-          "LocalizedString": "「惬意猫猫鱼」"
+          "LocalizedString": "\"Cozy Nyanko\""
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13636,13 +13636,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0114",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team CRIT Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_114_desc",
           "SourceString": "达芙蒂尔凭印象记下的名字「猫猫鱼」，听起来比奶茶原本的名字更顺口",
-          "LocalizedString": "达芙蒂尔凭印象记下的名字「猫猫鱼」，听起来比奶茶原本的名字更顺口"
+          "LocalizedString": "The name \"Nyanko\" that Daffodill wrote down from memory sounds much more catchy than the milk tea's original name."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13741,7 +13741,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_baselunch_name",
           "SourceString": "标准午餐",
-          "LocalizedString": "标准午餐"
+          "LocalizedString": "Standard Lunch"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13760,13 +13760,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0115",
           "SourceString": "为当前角色恢复2500点生命值。",
-          "LocalizedString": "为当前角色恢复2500点生命值。"
+          "LocalizedString": "Heals the current character for 2,500 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_baselunch_desc",
           "SourceString": "难吃的牢饭，人人有份。分量勉强能填饱肚子，要是能和厨师搞好关系，她或许会在打饭时为你额外手抖一下。",
-          "LocalizedString": "难吃的牢饭，人人有份。分量勉强能填饱肚子，要是能和厨师搞好关系，她或许会在打饭时为你额外手抖一下。"
+          "LocalizedString": "Tasteless prison grub, served to everyone equally. The portion barely fills you up, but if you get on the cook's good side, she might just \"accidentally\" give you a little extra."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13850,7 +13850,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_Analgesic_name",
           "SourceString": "强效止疼片",
-          "LocalizedString": "强效止疼片"
+          "LocalizedString": "Strong Painkiller"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13869,13 +13869,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0116",
           "SourceString": "为当前角色恢复生命值上限的30%。",
-          "LocalizedString": "为当前角色恢复生命值上限的30%。"
+          "LocalizedString": "Heals the current character for 30% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_Analgesic_desc",
           "SourceString": "比起自己服用，想想用这种「硬通货」能换来多少实用东西，或许会起到更好的镇痛效果——「一想到有赚头，哪儿都不疼了！」",
-          "LocalizedString": "比起自己服用，想想用这种「硬通货」能换来多少实用东西，或许会起到更好的镇痛效果——「一想到有赚头，哪儿都不疼了！」"
+          "LocalizedString": "Rather than taking it yourself, think about how much useful stuff you could trade this \"hard currency\" for. That might actually be better for the pain… \"When there's profit to be made, nothing hurts anymore!\""
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -13959,7 +13959,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_goodlunch_name",
           "SourceString": "工作午餐",
-          "LocalizedString": "工作午餐"
+          "LocalizedString": "Working Lunch"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -13978,13 +13978,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0117",
           "SourceString": "为当前角色恢复生命值上限的25%，并额外回复1000生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的25%，并额外回复1000生命值。"
+          "LocalizedString": "Heals the current character for 25% of their Max HP plus an additional 1,000 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_goodlunch_desc",
           "SourceString": "一顿丰盛的午餐，美味到让人想把盘子都舔干净。要是能和厨师搞好关系——非常好的关系，得让她像看自己犯错的孩子那样看你——或许就可以得到一份这样的小灶。",
-          "LocalizedString": "一顿丰盛的午餐，美味到让人想把盘子都舔干净。要是能和厨师搞好关系——非常好的关系，得让她像看自己犯错的孩子那样看你——或许就可以得到一份这样的小灶。"
+          "LocalizedString": "A hearty lunch so delicious it makes you want to lick the plate clean. If you can get on the cook's good side- I mean really good side, enough for her to see you as her own troublemaking kid- you might just score a special meal like this."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14069,7 +14069,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_118_name",
           "SourceString": "解困蜜",
-          "LocalizedString": "解困蜜"
+          "LocalizedString": "Somnosweet"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14088,13 +14088,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0067",
           "SourceString": "为当前角色恢复生命值上限的32%。",
-          "LocalizedString": "为当前角色恢复生命值上限的32%。"
+          "LocalizedString": "Heals the current character for 32% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_118_desc",
           "SourceString": "由「解困蜂」采摘他人的困意，加工酿造而成。兑水服用可促进睡眠，并缓解失眠造成的偏头痛。",
-          "LocalizedString": "由「解困蜂」采摘他人的困意，加工酿造而成。兑水服用可促进睡眠，并缓解失眠造成的偏头痛。"
+          "LocalizedString": "Honey brewed from the drowsiness Wakeybees gather from others. Dilute with water before use to promote sleep and ease insomnia-related migraines."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14179,7 +14179,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_119_name",
           "SourceString": "焰火海鲜饭",
-          "LocalizedString": "焰火海鲜饭"
+          "LocalizedString": "Firework Seafood Paella"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14198,13 +14198,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0033",
           "SourceString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加100，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 100 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Food_119_desc",
           "SourceString": "卡厄斯执意要把这碗不含任何海鲜成分的饭称作「海鲜饭」，甚至不惜改口说自己的名字就叫「海鲜」。",
-          "LocalizedString": "卡厄斯执意要把这碗不含任何海鲜成分的饭称作「海鲜饭」，甚至不惜改口说自己的名字就叫「海鲜」。"
+          "LocalizedString": "Chaos insists on calling this bowl of rice, which contains absolutely no seafood, \"seafood paella\"—even going so far as to claim that his own name is \"Seafood.\""
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14304,7 +14304,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0120_name",
           "SourceString": "扭扭饼干",
-          "LocalizedString": "扭扭饼干"
+          "LocalizedString": "Twisty Cookies"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14323,13 +14323,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0120",
           "SourceString": "为当前角色恢复生命值上限的56%。",
-          "LocalizedString": "为当前角色恢复生命值上限的56%。"
+          "LocalizedString": "Heals the current character for 56% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0120_desc",
           "SourceString": "向阳岛义工们手工制作的饼干，做成了最受欢迎的扭扭模样。\n「每一袋饼干的盈利都将用于『一意向阳』异象福利院的建设，感谢您为海特洛市福利事业做出的贡献。」",
-          "LocalizedString": "向阳岛义工们手工制作的饼干，做成了最受欢迎的扭扭模样。\n「每一袋饼干的盈利都将用于『一意向阳』异象福利院的建设，感谢您为海特洛市福利事业做出的贡献。」"
+          "LocalizedString": "Handmade cookies prepared by volunteers on Sunward Island, shaped like everyone's favorite Twisty.\n\"All proceeds from each bag will support the construction of the Sunward Anomaly Charity House. Thank you for supporting Hethereau's public welfare efforts.\""
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14414,7 +14414,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0121_name",
           "SourceString": "向阳一日",
-          "LocalizedString": "向阳一日"
+          "LocalizedString": "Sunward Day"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14433,13 +14433,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0121",
           "SourceString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加140，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 140 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0121_desc",
           "SourceString": "第一层的蔚蓝，是向阳岛的清晨，清澈的海水卷过沙滩；\n第二层的灿金，是向阳岛的午后，慵懒的阳光透过纱幔；\n第三层的绛红，是向阳岛的落日，当最后一抹晚霞也消失于天际，向阳岛的一日就走进了尾声。",
-          "LocalizedString": "第一层的蔚蓝，是向阳岛的清晨，清澈的海水卷过沙滩；\n第二层的灿金，是向阳岛的午后，慵懒的阳光透过纱幔；\n第三层的绛红，是向阳岛的落日，当最后一抹晚霞也消失于天际，向阳岛的一日就走进了尾声。"
+          "LocalizedString": "The first layer holds the azure blue of Sunward Island at dawn, when clear seawater rolls across the beach.\nThe second layer holds the brilliant gold of a lazy afternoon, with sunlight filtering through gauze curtains.\nThe third layer holds the deep crimson of sunset. As the last glow fades beyond the horizon, another day on Sunward Island draws to a close."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14539,7 +14539,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0122_name",
           "SourceString": "包装完好的止痛药",
-          "LocalizedString": "包装完好的止痛药"
+          "LocalizedString": "Sealed Painkillers"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14558,13 +14558,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0122",
           "SourceString": "队伍中所有角色消耗的体力降低10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0122_desc",
           "SourceString": "瓶盖拧得很紧，药片保存完好，应该还能用。",
-          "LocalizedString": "瓶盖拧得很紧，药片保存完好，应该还能用。"
+          "LocalizedString": "The cap is screwed on tight, and the tablets seem largely intact—they should still be usable."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14664,7 +14664,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0123_name",
           "SourceString": "过期的止痛药",
-          "LocalizedString": "过期的止痛药"
+          "LocalizedString": "Expired Painkillers"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14683,13 +14683,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0123",
           "SourceString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升10%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 10% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0123_desc",
           "SourceString": "看起来埋在这里很久了，药效已大打折扣，但是总比没有好。",
-          "LocalizedString": "看起来埋在这里很久了，药效已大打折扣，但是总比没有好。"
+          "LocalizedString": "It looks like it's been buried here for a long time. The medicine has long since passed the expiration date, but it's better than nothing."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14790,7 +14790,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0124_name",
           "SourceString": "风化的面包",
-          "LocalizedString": "风化的面包"
+          "LocalizedString": "Bone-Dry Bread"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14809,13 +14809,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0124",
           "SourceString": "为当前角色恢复800点生命值。",
-          "LocalizedString": "为当前角色恢复800点生命值。"
+          "LocalizedString": "Heals the current character for 800 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0124_desc",
           "SourceString": "已经完全风化了，用手一捏就碎成粉末，吃起来如同在啃墙皮，但还能填肚子。",
-          "LocalizedString": "已经完全风化了，用手一捏就碎成粉末，吃起来如同在啃墙皮，但还能填肚子。"
+          "LocalizedString": "It's completely stale—one touch and it'll crumble into powder. The texture reminds you of wood stove bricks, but it'll fill you up nonetheless."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -14900,7 +14900,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0125_name",
           "SourceString": "可可粉",
-          "LocalizedString": "可可粉"
+          "LocalizedString": "Cocoa Powder"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -14919,13 +14919,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0125",
           "SourceString": "为当前角色恢复生命值上限的10%。",
-          "LocalizedString": "为当前角色恢复生命值上限的10%。"
+          "LocalizedString": "Heals the current character for 10% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0125_desc",
           "SourceString": "包装完好。粉末已经没有香气，只剩下苦涩的气息。用水冲开应该还能喝。",
-          "LocalizedString": "包装完好。粉末已经没有香气，只剩下苦涩的气息。用水冲开应该还能喝。"
+          "LocalizedString": "The packaging is intact. The powder itself no longer has any aroma, besides a bitter aftertaste. It should still be drinkable if mixed with water."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15010,7 +15010,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0126_name",
           "SourceString": "风干的牛排",
-          "LocalizedString": "风干的牛排"
+          "LocalizedString": "Dried-Out Steak"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15029,13 +15029,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0126",
           "SourceString": "当前角色在之后的30秒内，每5秒回复515生命值",
-          "LocalizedString": "当前角色在之后的30秒内，每5秒回复515生命值"
+          "LocalizedString": "Restores 515 HP every 5s to the current character for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0126_desc",
           "SourceString": "表面氧化发黑，切掉外层后内部还完好，嚼劲十足。",
-          "LocalizedString": "表面氧化发黑，切掉外层后内部还完好，嚼劲十足。"
+          "LocalizedString": "The surface has oxidized and blackened, but once the outer layer is trimmed away, the meat should still be edible."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15138,7 +15138,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0127_name",
           "SourceString": "发霉的火腿",
-          "LocalizedString": "发霉的火腿"
+          "LocalizedString": "Moldy Ham"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15157,13 +15157,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_0127",
           "SourceString": "为当前角色恢复生命值上限的15%。",
-          "LocalizedString": "为当前角色恢复生命值上限的15%。"
+          "LocalizedString": "Heals the current character for 15% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0127_desc",
           "SourceString": "外表有些发霉，表皮氧化变色，切开后内部仍可食用，风味差了些但能补充体力。",
-          "LocalizedString": "外表有些发霉，表皮氧化变色，切开后内部仍可食用，风味差了些但能补充体力。"
+          "LocalizedString": "A little moldy on the outside, with an ugly, discolored surface. If cut open, it should still be edible. It might taste terrible, but its purpose of restoring stamina remains the same."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15248,7 +15248,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_Stride_name",
           "SourceString": "炫迈口香糖",
-          "LocalizedString": "炫迈口香糖"
+          "LocalizedString": "Stride Gum"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15267,13 +15267,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_usedesc_Stride",
           "SourceString": "为当前角色恢复生命值上限的40%。",
-          "LocalizedString": "为当前角色恢复生命值上限的40%。"
+          "LocalizedString": "Heals the current character for 40% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_Stride_desc",
           "SourceString": "来片炫迈，异能爆棚，调查异象根本停不下来！",
-          "LocalizedString": "来片炫迈，异能爆棚，调查异象根本停不下来！"
+          "LocalizedString": "Pop a piece of Stride Gum in your mouth, and your Esper Ability will soar—you'll be unable to stop investigating Anomalies!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15358,7 +15358,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0128_name",
           "SourceString": "噗噗暖香纪念咖啡",
-          "LocalizedString": "噗噗暖香纪念咖啡"
+          "LocalizedString": "Puka Keepsake Coffee"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15377,13 +15377,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0128_usedesc",
           "SourceString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色消耗的体力降低15%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Reduces Team Stamina Cost by 15% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0128_desc",
           "SourceString": "杯身与杯套印有鲜亮的pukaland乐园标识，是来自噗卡乐园的小小伴手礼。温热醇香的咖啡缓缓流淌，所有奔波游玩产生的疲惫，都在此刻烟消云散。",
-          "LocalizedString": "杯身与杯套印有鲜亮的pukaland乐园标识，是来自噗卡乐园的小小伴手礼。温热醇香的咖啡缓缓流淌，所有奔波游玩产生的疲惫，都在此刻烟消云散。"
+          "LocalizedString": "The cup and sleeve are printed with the bright Pukaland logo—a little keepsake from the park. A warm, rich coffee fragrance emanates from the cup, and all the fatigue from a day of wandering and play melts away in an instant."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15483,7 +15483,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0129_name",
           "SourceString": "云絮棉花糖奶茶",
-          "LocalizedString": "云絮棉花糖奶茶"
+          "LocalizedString": "Cloud Candy Milk Tea"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15502,13 +15502,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0129_usedesc",
           "SourceString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色暴击率增加6%，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Crit Rate by 6% for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0129_desc",
           "SourceString": "乐园里人气超高的梦幻饮品，喝下之后脚步轻快如风，足够你继续走遍乐园每一处角落。",
-          "LocalizedString": "乐园里人气超高的梦幻饮品，喝下之后脚步轻快如风，足够你继续走遍乐园每一处角落。"
+          "LocalizedString": "A wildly popular dreamy drink from the park—sip it, and you'll feel light on your feet, floating away in the wind."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15608,7 +15608,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0130_name",
           "SourceString": "可可熔心巧克力奶茶",
-          "LocalizedString": "可可熔心巧克力奶茶"
+          "LocalizedString": "Molten Cocoa Milk Tea"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15627,13 +15627,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0130_usedesc",
           "SourceString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0130_desc",
           "SourceString": "半拆包装的噗卡巧克力缓缓沉入奶茶，香甜温暖，是专属于乐园的甜蜜印记。",
-          "LocalizedString": "半拆包装的噗卡巧克力缓缓沉入奶茶，香甜温暖，是专属于乐园的甜蜜印记。"
+          "LocalizedString": "A half-unwrapped piece of Puka Chocoa slowly sinks into the milk tea, mixing into the warmth and sweetness—a dulcet taste unique to the park."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15733,7 +15733,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0131_name",
           "SourceString": "微缩蛋糕山",
-          "LocalizedString": "微缩蛋糕山"
+          "LocalizedString": "Tiny Cake Peak"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15752,13 +15752,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0131_usedesc",
           "SourceString": "为当前角色恢复生命值上限的56%。",
-          "LocalizedString": "为当前角色恢复生命值上限的56%。"
+          "LocalizedString": "Heals the current character for 56% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0131_desc",
           "SourceString": "噗卡乐园标志性的巨型多层蛋糕山就在你的盘中！从哪一层开始享用呢？",
-          "LocalizedString": "噗卡乐园标志性的巨型多层蛋糕山就在你的盘中！从哪一层开始享用呢？"
+          "LocalizedString": "Pukaland's signature giant multi-layer Cakehill! Which layer will you take a bite out of first?"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15843,7 +15843,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0132_name",
           "SourceString": "幽灵蘸酱诡乐华夫饼",
-          "LocalizedString": "幽灵蘸酱诡乐华夫饼"
+          "LocalizedString": "Spooky Dip Waffle"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15862,13 +15862,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0132_usedesc",
           "SourceString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的16%，并额外回复1150点生命值。"
+          "LocalizedString": "Heals the current character for 16% of their Max HP plus an additional 1,150 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0132_desc",
           "SourceString": "来自鬼屋餐厅的特色餐点！幽灵模样的冰淇淋缓缓融化，藏着暗夜幽灵小小的恶作剧。",
-          "LocalizedString": "来自鬼屋餐厅的特色餐点！幽灵模样的冰淇淋缓缓融化，藏着暗夜幽灵小小的恶作剧。"
+          "LocalizedString": "A signature treat from the Haunted House Diner! The ghost-shaped ice cream melts slowly, revealing a tiny mischievous ghost within."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -15953,7 +15953,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0133_name",
           "SourceString": "脆筒布丁冒险船",
-          "LocalizedString": "脆筒布丁冒险船"
+          "LocalizedString": "Crispy Cone Pudding Boat"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -15972,13 +15972,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0133_usedesc",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0133_desc",
           "SourceString": "复刻矿山区域巨型甜筒火山的模样，一口下去，仿佛搭乘矿车穿梭于甜蜜的糖果山谷。",
-          "LocalizedString": "复刻矿山区域巨型甜筒火山的模样，一口下去，仿佛搭乘矿车穿梭于甜蜜的糖果山谷。"
+          "LocalizedString": "Modeled after the mine area's giant ice-cream-cone volcano—one bite, and you'll be transported to the mine cart ride through candy-sweet valleys."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16078,7 +16078,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0134_name",
           "SourceString": "噗仔手套冰棒",
-          "LocalizedString": "噗仔手套冰棒"
+          "LocalizedString": "Pukaboo Glove Pop"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16097,13 +16097,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0134_usedesc",
           "SourceString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色防御力增加75，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team DEF by 75 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0134_desc",
           "SourceString": "造型复刻噗仔软乎乎的肉垫手套，带着清甜果香的冰棒，连密封包装袋上都印有可爱的噗仔图案，不可错过的乐园限定！",
-          "LocalizedString": "造型复刻噗仔软乎乎的肉垫手套，带着清甜果香的冰棒，连密封包装袋上都印有可爱的噗仔图案，不可错过的乐园限定！"
+          "LocalizedString": "A popsicle modeled after Pukaboo's squishy paw-pads, accompanied by a light, sweet, fruity flavor. Even the sealed wrapper is printed with an adorable Pukaboo pattern—an exclusive Pukaland treat!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16203,7 +16203,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0135_name",
           "SourceString": "棉絮甜树棒棒糖",
-          "LocalizedString": "棉絮甜树棒棒糖"
+          "LocalizedString": "Cotton Candy Tree Pop"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16222,13 +16222,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0135_usedesc",
           "SourceString": "为当前角色恢复生命值上限的20%。",
-          "LocalizedString": "为当前角色恢复生命值上限的20%。"
+          "LocalizedString": "Heals the current character for 20% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0135_desc",
           "SourceString": "噗卡乐园的人气糖果！宛如一株小小的棉花糖树，一口吃下乐园独一份的甜蜜。",
-          "LocalizedString": "噗卡乐园的人气糖果！宛如一株小小的棉花糖树，一口吃下乐园独一份的甜蜜。"
+          "LocalizedString": "Pukaland's most popular candy! Resembling a tiny cotton candy tree, each bite delivers the park's extraordinary sweetness."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16313,7 +16313,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0136_name",
           "SourceString": "礼帽猫咪糖果棒",
-          "LocalizedString": "礼帽猫咪糖果棒"
+          "LocalizedString": "Top-Hat Kitty Candy Stick"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16332,13 +16332,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0136_usedesc",
           "SourceString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。",
-          "LocalizedString": "为当前角色恢复700点生命值，并在之后的30秒内，每5秒恢复182点生命值。"
+          "LocalizedString": "Heals the current character for 700 HP, then restores 182 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0136_desc",
           "SourceString": "吃下糖果，仿佛再次体验高空摇摆时直冲云霄的畅快，我要再去畅游大摆锤啦——",
-          "LocalizedString": "吃下糖果，仿佛再次体验高空摇摆时直冲云霄的畅快，我要再去畅游大摆锤啦——"
+          "LocalizedString": "With each bite, it feels like soaring into the sky on the Pendulum all over again. Let's go ride it again!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16447,7 +16447,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0137_name",
           "SourceString": "海盗章鱼泡泡糖",
-          "LocalizedString": "海盗章鱼泡泡糖"
+          "LocalizedString": "Pirate Octopus Bubble Gum"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16466,13 +16466,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0137_usedesc",
           "SourceString": "复活选中角色，并额外恢复700生命值。",
-          "LocalizedString": "复活选中角色，并额外恢复700生命值。"
+          "LocalizedString": "Resurrects the selected character and heals them for 700 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0137_desc",
           "SourceString": "海盗章鱼船长紧紧抱着它收获的泡泡糖宝箱！",
-          "LocalizedString": "海盗章鱼船长紧紧抱着它收获的泡泡糖宝箱！"
+          "LocalizedString": "The pirate octopus captain clutches his bubblegum treasure chest tightly!"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16556,7 +16556,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0138_name",
           "SourceString": "鸡兔同笼炸鸡餐",
-          "LocalizedString": "鸡兔同笼炸鸡餐"
+          "LocalizedString": "Cage Match Chicken Combo"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16575,13 +16575,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0138_usedesc",
           "SourceString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。",
-          "LocalizedString": "为当前角色恢复1600点生命值，并在之后的30秒内，每5秒恢复416点生命值。"
+          "LocalizedString": "Heals the current character for 1,600 HP, then restores 416 HP every 5s for the next 30s."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0138_desc",
           "SourceString": "来自旋转木马摊位的特色美食！餐盒中铺满炸鸡，木马兔子饼干与姜饼人散落其间，咸甜交织，就是热量也很爆炸……",
-          "LocalizedString": "来自旋转木马摊位的特色美食！餐盒中铺满炸鸡，木马兔子饼干与姜饼人散落其间，咸甜交织，就是热量也很爆炸……"
+          "LocalizedString": "A signature treat from the carousel stall! The box is packed with fried chicken and carousel bunny cookies, with gingerbread men scattered throughout. A divine mix of sweet and savory—but the calorie count is outrageous…"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16690,7 +16690,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0139_name",
           "SourceString": "烟火熏烤超大火鸡腿",
-          "LocalizedString": "烟火熏烤超大火鸡腿"
+          "LocalizedString": "Firecracker Jumbo Turkey Leg"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16709,13 +16709,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0139_usedesc",
           "SourceString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色攻击力增加125，持续180秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases Team ATK by 125 for 180s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0139_desc",
           "SourceString": "乐园标志性的人气美食！油润红亮的超大熏烤火鸡腿，分量十足。传闻在异世界的游乐园中也很受欢迎……暂时没人能证实。",
-          "LocalizedString": "乐园标志性的人气美食！油润红亮的超大熏烤火鸡腿，分量十足。传闻在异世界的游乐园中也很受欢迎……暂时没人能证实。"
+          "LocalizedString": "The park's signature crowd-pleaser! A jumbo smoked turkey leg, richly glazed and burnished gold, with plenty of meat on the bone. Rumor has it that it's a hit in amusement parks in the Other World too… though no one's been able to confirm it yet."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16815,7 +16815,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0140_name",
           "SourceString": "巨无霸热狗",
-          "LocalizedString": "巨无霸热狗"
+          "LocalizedString": "Colossal Hot Dog"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16834,13 +16834,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0140_usedesc",
           "SourceString": "为当前角色恢复生命值上限的40%。",
-          "LocalizedString": "为当前角色恢复生命值上限的40%。"
+          "LocalizedString": "Heals the current character for 40% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0140_desc",
           "SourceString": "长度超 35 厘米的巨型热狗，一口下去肉香浓郁，唯一的缺点是真的吃不完……",
-          "LocalizedString": "长度超 35 厘米的巨型热狗，一口下去肉香浓郁，唯一的缺点是真的吃不完……"
+          "LocalizedString": "A giant hot dog over a foot long. One bite is packed with a rich, meaty flavor—the only downside is that it's impossible to finish…"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -16925,7 +16925,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0141_name",
           "SourceString": "噗仔主题甜点套装",
-          "LocalizedString": "噗仔主题甜点套装"
+          "LocalizedString": "Pukaboo Treat Sampler"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -16944,13 +16944,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0141_usedesc",
           "SourceString": "复活选中角色，并恢复生命值上限的40%。",
-          "LocalizedString": "复活选中角色，并恢复生命值上限的40%。"
+          "LocalizedString": "Resurrects the selected character and heals them for 40% of their Max HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0141_desc",
           "SourceString": "一套集齐四种噗仔小可爱！可以随意享用……什么，因为太可爱了不舍得吃？",
-          "LocalizedString": "一套集齐四种噗仔小可爱！可以随意享用……什么，因为太可爱了不舍得吃？"
+          "LocalizedString": "A full set of four adorable Pukaboo cuties! Enjoy them however you like… What, too cute to eat?"
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -17034,7 +17034,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0142_name",
           "SourceString": "赤焰凤腿牛腩米线",
-          "LocalizedString": "赤焰凤腿牛腩米线"
+          "LocalizedString": "Firebird & Brisket Rice Noodles"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -17053,13 +17053,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0142_usedesc",
           "SourceString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。",
-          "LocalizedString": "为当前角色恢复生命值上限的22%，并额外回复1600点生命值。"
+          "LocalizedString": "Heals the current character for 22% of their Max HP plus an additional 1,600 HP."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0142_desc",
           "SourceString": "荤素满满的丰盛米线大餐！建议不要和烟火熏烤超大火鸡腿一起食用。",
-          "LocalizedString": "荤素满满的丰盛米线大餐！建议不要和烟火熏烤超大火鸡腿一起食用。"
+          "LocalizedString": "A hearty rice noodle feast, loaded with meat and veggies! Best not to pair it with the Firecracker Jumbo Turkey Leg."
         },
         "LimitScenes": [],
         "ToolDatas": [
@@ -17144,7 +17144,7 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0143_name",
           "SourceString": "空想特饮",
-          "LocalizedString": "空想特饮"
+          "LocalizedString": "Daydream Tonic"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -17163,13 +17163,13 @@
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0143_usedesc",
           "SourceString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。",
-          "LocalizedString": "队伍中所有角色体力回复速度提升20%，持续900秒。多人游戏时，仅对自己的角色生效。"
+          "LocalizedString": "Increases allies' Stamina Recovery Speed by 20% for 900s. Affects only your characters in multiplayer mode."
         },
         "Description": {
           "TableId": "/Game/Text/ST_food.ST_food",
           "Key": "Food_0143_desc",
           "SourceString": "曳尔沐的特别定制，萦绕着略带焦苦的温暖气息。很久以后，当你再次嗅到同样的味道时，咖啡表面画着的涂鸦，还会映入记忆的眼帘吗？",
-          "LocalizedString": "曳尔沐的特别定制，萦绕着略带焦苦的温暖气息。很久以后，当你再次嗅到同样的味道时，咖啡表面画着的涂鸦，还会映入记忆的眼帘吗？"
+          "LocalizedString": "Elyms's special custom blend, with a comforting warmth and a faintly bitter aroma. Later, when you eventually catch the same scent, will the doodle on the coffee's surface come to mind?"
         },
         "LimitScenes": [],
         "ToolDatas": [

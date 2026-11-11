@@ -23,13 +23,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Chaos_2",
               "SourceString": "史诗！[2]：暗属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：暗属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Chaos DMG +10%."
             }
           },
           {
@@ -44,13 +44,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Chaos_4",
               "SourceString": "传说！[4]：无视敌人12%暗属性异能抗性。当装备者参与触发「黯星」或「浊燃」反应之后则提升至无视敌人24%暗属性异能抗性，持续20秒。",
-              "LocalizedString": "传说！[4]：无视敌人12%暗属性异能抗性。当装备者参与触发「黯星」或「浊燃」反应之后则提升至无视敌人24%暗属性异能抗性，持续20秒。"
+              "LocalizedString": "Legendary (4): Ignores 12% of enemies' Chaos RES. Ignores 24% of enemies' Chaos RES for 20s after the wearer participates in Nova or Scorch reactions."
             }
           }
         ],
@@ -89,7 +89,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Chaos",
           "SourceString": "「迪亚波罗斯」",
-          "LocalizedString": "「迪亚波罗斯」"
+          "LocalizedString": "Diabolos"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -109,13 +109,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Nature_2",
               "SourceString": "史诗！[2]：灵属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：灵属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Anima DMG +10%."
             }
           },
           {
@@ -130,13 +130,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Nature_4",
               "SourceString": "传说！[4]：附近每有敌人受到由己方编队造成的灵属性异能伤害，则装备者暴击伤害提升8%，最多叠加7层，每层持续10秒，角色位于后台依旧生效。",
-              "LocalizedString": "传说！[4]：附近每有敌人受到由己方编队造成的灵属性异能伤害，则装备者暴击伤害提升8%，最多叠加7层，每层持续10秒，角色位于后台依旧生效。"
+              "LocalizedString": "Legendary (4): Increases wearer's CRIT DMG by 8% when a nearby enemy takes Anima DMG from the Team, up to 7 stacks. Each stack lasts 10s. Effect remains active when the character is off-field."
             }
           }
         ],
@@ -175,7 +175,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Nature",
           "SourceString": "「森林萤火之心」",
-          "LocalizedString": "「森林萤火之心」"
+          "LocalizedString": "Fireflies and the Forest"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -195,13 +195,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Psyche_2",
               "SourceString": "史诗！[2]：魂属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：魂属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Psyche DMG +10%."
             }
           },
           {
@@ -216,13 +216,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Psyche_4",
               "SourceString": "传说！[4]：造成的伤害提升18%。攻击受到「黯星」或「浸染」影响的单位时，伤害提升效果变为36%。",
-              "LocalizedString": "传说！[4]：造成的伤害提升18%。攻击受到「黯星」或「浸染」影响的单位时，伤害提升效果变为36%。"
+              "LocalizedString": "Legendary (4): Increases wearer's DMG by 18%. The bonus becomes 36% against units affected by Nova or Stain."
             }
           }
         ],
@@ -261,7 +261,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Psyche",
           "SourceString": "「恶魔之血：诅咒」",
-          "LocalizedString": "「恶魔之血：诅咒」"
+          "LocalizedString": "Devil's Blood: Curse"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -281,13 +281,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Incantation_2",
               "SourceString": "史诗！[2]：咒属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：咒属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Incantation DMG +10%."
             }
           },
           {
@@ -302,13 +302,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Incantation_4",
               "SourceString": "传说！[4]：附近敌人每受到一次己方编队造成的咒属性异能伤害，则装备者攻击力提升6%，最多叠加6层，每层持续10秒，角色位于后台依旧生效。",
-              "LocalizedString": "传说！[4]：附近敌人每受到一次己方编队造成的咒属性异能伤害，则装备者攻击力提升6%，最多叠加6层，每层持续10秒，角色位于后台依旧生效。"
+              "LocalizedString": "Legendary (4): Increases wearer's ATK by 6% when a nearby enemy takes Incantation DMG from the Team, up to 6 stacks. Each stack lasts 10s. Effect remains active when the character is off-field."
             }
           }
         ],
@@ -347,7 +347,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Incantation",
           "SourceString": "「真红：双生蝶」",
-          "LocalizedString": "「真红：双生蝶」"
+          "LocalizedString": "Crimson: Twin Butterflies"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -367,13 +367,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Lakshana_2",
               "SourceString": "史诗！[2]：相属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：相属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Lakshana DMG +10%."
             }
           },
           {
@@ -388,13 +388,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Lakshana_4",
               "SourceString": "传说！[4]：暴击率提升14%。己方编队触发「延滞」或「浸染」之后，则暴击率额外提升14%，持续20秒。",
-              "LocalizedString": "传说！[4]：暴击率提升14%。己方编队触发「延滞」或「浸染」之后，则暴击率额外提升14%，持续20秒。"
+              "LocalizedString": "Legendary (4): Increases Crit Chance by 14%. Team triggering Remora or Stain increases the bonus to 14% for 20s."
             }
           }
         ],
@@ -433,7 +433,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Lakshana",
           "SourceString": "「街头拳王」",
-          "LocalizedString": "「街头拳王」"
+          "LocalizedString": "Street Boxer"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -453,13 +453,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Cosmos_2",
               "SourceString": "史诗！[2]：光属性异能伤害提升10%。",
-              "LocalizedString": "史诗！[2]：光属性异能伤害提升10%。"
+              "LocalizedString": "Epic (2): Cosmos DMG +10%."
             }
           },
           {
@@ -474,13 +474,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Cosmos_4",
               "SourceString": "传说！[4]：装备者释放「极轨终结」后，造成的伤害将无视25%防御力，持续20秒，该效果不可叠加。",
-              "LocalizedString": "传说！[4]：装备者释放「极轨终结」后，造成的伤害将无视25%防御力，持续20秒，该效果不可叠加。"
+              "LocalizedString": "Legendary (4): Ignores 25% of enemies' DEF for 20s after the wearer casts Ultimate. Effect does not stack."
             }
           }
         ],
@@ -519,7 +519,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Cosmos",
           "SourceString": "「失落光芒」",
-          "LocalizedString": "「失落光芒」"
+          "LocalizedString": "Lost Radiance"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -539,13 +539,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Shield_2",
               "SourceString": "史诗！[2]：防御力提升15%。",
-              "LocalizedString": "史诗！[2]：防御力提升15%。"
+              "LocalizedString": "Epic (2): DEF +15%."
             }
           },
           {
@@ -557,13 +557,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Shield_4",
               "SourceString": "传说！[4]：装备者的护盾效果提升20%。",
-              "LocalizedString": "传说！[4]：装备者的护盾效果提升20%。"
+              "LocalizedString": "Legendary (4): Increases wearer's shields by 20%."
             }
           }
         ],
@@ -602,7 +602,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Shield",
           "SourceString": "「守卫王国」",
-          "LocalizedString": "「守卫王国」"
+          "LocalizedString": "Kingdom's Guard"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -622,13 +622,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Attack_2",
               "SourceString": "史诗！[2]：攻击力提升10%。",
-              "LocalizedString": "史诗！[2]：攻击力提升10%。"
+              "LocalizedString": "Epic (2): ATK +10%."
             }
           },
           {
@@ -643,13 +643,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Attack_4",
               "SourceString": "传说！[4]：装备者释放「变轨技能」以后，攻击力增加25%，持续20秒。",
-              "LocalizedString": "传说！[4]：装备者释放「变轨技能」以后，攻击力增加25%，持续20秒。"
+              "LocalizedString": "Legendary (4): Increases wearer's ATK by 25% for 20s after casting a Skill."
             }
           }
         ],
@@ -688,7 +688,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Attack",
           "SourceString": "「影之信条」",
-          "LocalizedString": "「影之信条」"
+          "LocalizedString": "Shadow Creed"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -708,13 +708,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Heal_2",
               "SourceString": "史诗！[2]：生命值提升10%。",
-              "LocalizedString": "史诗！[2]：生命值提升10%。"
+              "LocalizedString": "Epic (2): HP +10%."
             }
           },
           {
@@ -726,13 +726,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Heal_4",
               "SourceString": "传说！[4]：装备者的治疗效率提升20%。",
-              "LocalizedString": "传说！[4]：装备者的治疗效率提升20%。"
+              "LocalizedString": "Legendary (4): Increases wearer's Healing Bonus by 20%."
             }
           }
         ],
@@ -771,7 +771,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Heal",
           "SourceString": "「缇娅的夜间酒馆」",
-          "LocalizedString": "「缇娅的夜间酒馆」"
+          "LocalizedString": "Thea's Night Tavern"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -791,13 +791,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Mag_2",
               "SourceString": "史诗！[2]：生命值提升10%。",
-              "LocalizedString": "史诗！[2]：生命值提升10%。"
+              "LocalizedString": "Epic (2): HP +10%."
             }
           },
           {
@@ -812,13 +812,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Mag_4",
               "SourceString": "传说！[4]：装备者每次降低血量时，生命值上限提升4%，最多叠加10层，每层持续10秒。释放「极轨终结」时，直接获得10层该效果。",
-              "LocalizedString": "传说！[4]：装备者每次降低血量时，生命值上限提升4%，最多叠加10层，每层持续10秒。释放「极轨终结」时，直接获得10层该效果。"
+              "LocalizedString": "Legendary (4): Increases wearer's Max HP by 4% when taking damage, up to 10 stacks. Each stack lasts 10s. Casting Ultimate instantly grants 10 stacks."
             }
           }
         ],
@@ -857,7 +857,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Mag",
           "SourceString": "「小小大冒险」",
-          "LocalizedString": "「小小大冒险」"
+          "LocalizedString": "Tiny Big Adventure"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -877,13 +877,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "GetEfficiency_2",
               "SourceString": "史诗！[2]：充能效率提高12%。",
-              "LocalizedString": "史诗！[2]：充能效率提高12%。"
+              "LocalizedString": "Epic (2): Charge Efficiency +12%."
             }
           },
           {
@@ -898,13 +898,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "GetEfficiency_4",
               "SourceString": "传说！[4]：装备者释放「极轨终结」以后，全队角色获得15%攻击力提升(该效果不可叠加)，持续20秒。",
-              "LocalizedString": "传说！[4]：装备者释放「极轨终结」以后，全队角色获得15%攻击力提升(该效果不可叠加)，持续20秒。"
+              "LocalizedString": "Legendary (4): Increases all allies' ATK by 15% for 20s after the wearer casts Ultimate. Effect does not stack."
             }
           }
         ],
@@ -943,7 +943,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_GetEfficiency",
           "SourceString": "「音速蓝刺猬」",
-          "LocalizedString": "「音速蓝刺猬」"
+          "LocalizedString": "Speedy Hedgehog"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
@@ -963,13 +963,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_3",
               "SourceString": "史诗！[2]：",
-              "LocalizedString": "史诗！[2]："
+              "LocalizedString": "Epic [2]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Psychically_2",
               "SourceString": "史诗！[2]：心灵伤害提高10%。",
-              "LocalizedString": "史诗！[2]：心灵伤害提高10%。"
+              "LocalizedString": "Epic (2): Mental DMG +10%."
             }
           },
           {
@@ -984,13 +984,13 @@
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "suit_6",
               "SourceString": "传说！[4]：",
-              "LocalizedString": "传说！[4]："
+              "LocalizedString": "Legendary [4]:"
             },
             "SuitBuffDescription": {
               "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
               "Key": "Psychically_4",
               "SourceString": "传说！[4]：装备者普通攻击后，造成的心灵伤害提升12%，最多叠加3层，每层持续6秒。",
-              "LocalizedString": "传说！[4]：装备者普通攻击后，造成的心灵伤害提升12%，最多叠加3层，每层持续6秒。"
+              "LocalizedString": "Legendary (4): Grants wearer a 12% Mental DMG Bonus per Basic Attack, up to 3 stacks. Each stack lasts 6s."
             }
           }
         ],
@@ -1029,7 +1029,7 @@
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
           "Key": "Suit_Psychically",
           "SourceString": "「静谧山庄」",
-          "LocalizedString": "「静谧山庄」"
+          "LocalizedString": "Quiet Manor"
         },
         "SuitDescription": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",

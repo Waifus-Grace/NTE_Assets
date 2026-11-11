@@ -17,15 +17,17 @@
         "QuestName": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_Yeermu_Unlock",
-          "SourceString": "使用20次仪器",
-          "LocalizedString": "使用20次仪器"
+          "SourceString": "累计参加15场竞拍",
+          "LocalizedString": "Join 15 Auctions"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKingCharacterUnlock",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
         "ObjectiveInfo": {
-          "ItemID": "None",
-          "ObjectiveType": "ESimpleQuestObjType::BidKingUseItemCount",
-          "Amount": 20
+          "CloneIDArray": [],
+          "CloneType": "ECloneType::BidKing",
+          "CloneDifficultyLevel": 0,
+          "ObjectiveType": "ESimpleQuestObjType::CloneCompleted",
+          "Amount": 15
         },
         "QuestAwardData": {
           "AwardGroupID": "None",
@@ -92,7 +94,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_SC_01",
           "SourceString": "成功拍下1件藏品",
-          "LocalizedString": "成功拍下1件藏品"
+          "LocalizedString": "Win 1 Collectible at Auction"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKingCharacterUnlock",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -167,7 +169,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_S1_Heiyu",
           "SourceString": "成功拍下10件红色藏品",
-          "LocalizedString": "成功拍下10件红色藏品"
+          "LocalizedString": "Win 10 bids on Red Collectibles."
         },
         "SimpleQuestType": "ESimpleQuestType::BidKingCharacterUnlock",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -242,7 +244,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_02",
           "SourceString": "单次盈利超过100000金贝铢",
-          "LocalizedString": "单次盈利超过100000金贝铢"
+          "LocalizedString": "Earn over 100,000 Gold Shells in a single round"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKingCharacterUnlock",
         "QuestRefreshType": "ESimpleQuestRefresh::None",
@@ -316,7 +318,7 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingSimpleQuest_BN_04",
           "SourceString": "累计盈利500000金贝铢",
-          "LocalizedString": "累计盈利500000金贝铢"
+          "LocalizedString": "Earn a total of 500,000 Gold Shells"
         },
         "SimpleQuestType": "ESimpleQuestType::BidKingCharacterUnlock",
         "QuestRefreshType": "ESimpleQuestRefresh::None",

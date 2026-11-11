@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star1_name",
               "SourceString": "排斥变节的规程",
-              "LocalizedString": "排斥变节的规程"
+              "LocalizedString": "Process of Elimination"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_1.1008_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star1_des",
               "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>自动攻击的伤害倍率提升<NumGreen>60%</>。",
-              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>自动攻击的伤害倍率提升<NumGreen>60%</>。"
+              "LocalizedString": "Increses the auto-attack DMG Ratio for <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</> by <NumGreen>60%</>."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star2_name",
               "SourceString": "秩序井然的待办",
-              "LocalizedString": "秩序井然的待办"
+              "LocalizedString": "Law and Order"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_2.1008_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star2_des",
               "SourceString": "翳在释放「变轨技能：潜影追击」后，使自身的暴击率提升<NumGreen>10%</>，抗打断能力提升<NumGreen>50%</>，持续<NumGreen>15</>秒。",
-              "LocalizedString": "翳在释放「变轨技能：潜影追击」后，使自身的暴击率提升<NumGreen>10%</>，抗打断能力提升<NumGreen>50%</>，持续<NumGreen>15</>秒。"
+              "LocalizedString": "Increases Skia's Crit Chance by <NumGreen>10%</> and Resistance to Interruptions by <NumGreen>50%</> for <NumGreen>15s</> after casting Shadow Hound Chase."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star3_name",
               "SourceString": "异类处理的草案",
-              "LocalizedString": "异类处理的草案"
+              "LocalizedString": "Solution"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_3.1008_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star3_des",
               "SourceString": "翳对已被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的目标造成的伤害提升<NumGreen>4%</>。\r\n如果场上仅有一个被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的目标，翳对其造成的伤害额外提升<NumGreen>4%</>。",
-              "LocalizedString": "翳对已被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的目标造成的伤害提升<NumGreen>4%</>。\r\n如果场上仅有一个被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的目标，翳对其造成的伤害额外提升<NumGreen>4%</>。"
+              "LocalizedString": "Skia's damage to targets locked by <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</> is increased by <NumGreen>4%</>.\r\nIf only one target is locked onto by <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</> on the field, Skia's damage to it is further increased by <NumGreen>4%</>."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star4_name",
               "SourceString": "划定常规的决议",
-              "LocalizedString": "划定常规的决议"
+              "LocalizedString": "Resolution"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_4.1008_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star4_des",
               "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill1\">「尾追」</>状态的持续时间延长至<NumGreen>12</>秒。目标每被<hot textstyle=\"TextEXPL\" param=\"nouns&attach\">附着</>1秒，受到的附着伤害提高2%，最高提升至40%。",
-              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill1\">「尾追」</>状态的持续时间延长至<NumGreen>12</>秒。目标每被<hot textstyle=\"TextEXPL\" param=\"nouns&attach\">附着</>1秒，受到的附着伤害提高2%，最高提升至40%。"
+              "LocalizedString": "Extends the duration of <hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill1\">Tailed</> to <NumGreen>12s</>. Increases Attachment DMG by 2% per second a target is <hot textstyle=\"TextEXPL\" param=\"nouns&attach\">attached</>, up to 40%."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star5_name",
               "SourceString": "社会适应的重任",
-              "LocalizedString": "社会适应的重任"
+              "LocalizedString": "Social Contract"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_5.1008_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star5_des",
               "SourceString": "目标每被1个<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定，质量提升<NumGreen>50</>点，移动速度降低<NumGreen>20%</>。",
-              "LocalizedString": "目标每被1个<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定，质量提升<NumGreen>50</>点，移动速度降低<NumGreen>20%</>。"
+              "LocalizedString": "Increases the target's mass by <NumGreen>50</> and reduces its Movement Speed by <NumGreen>20%</> for each <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</> locked onto it."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star6_name",
               "SourceString": "无谓形貌的立身",
-              "LocalizedString": "无谓形貌的立身"
+              "LocalizedString": "Unbothered Appearance"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1008_6.1008_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_star6_des",
               "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill2\">「啮逐潜影」</>模式下，触碰已被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的敌方目标，使<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>造成的额外伤害倍率提升<NumGreen>20%</>。",
-              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill2\">「啮逐潜影」</>模式下，触碰已被<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>锁定的敌方目标，使<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>造成的额外伤害倍率提升<NumGreen>20%</>。"
+              "LocalizedString": "Increases the Extra DMG Ratio of <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</> by <NumGreen>20%</> while in <hot textstyle=\"TextEXPL\" param=\"nouns&skiaskill2\">Shadow Hound Gnaw</> mode when touching an enemy locked onto by <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</>."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_starExtra1_name",
               "SourceString": "职场生存守则",
-              "LocalizedString": "职场生存守则"
+              "LocalizedString": "Cubical Survival Manual"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_starExtra1_des",
               "SourceString": "「普通攻击：拘管格斗术」「变轨技能：潜影追击」「极轨终结：群犬吠形」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「普通攻击：拘管格斗术」「变轨技能：潜影追击」「极轨终结：群犬吠形」的技能等级提升<NumGreen>1</>级。"
+              "LocalizedString": "Increases the skill level of Arresting Art, Shadow Hound Chase, and The Pack by <NumGreen>1</>."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_starExtra2_name",
               "SourceString": "工作模范准则",
-              "LocalizedString": "工作模范准则"
+              "LocalizedString": "Employee of the Month"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Skia_SkillDes.Skia_SkillDes",
               "Key": "GA_Skia_starExtra2_des",
               "SourceString": "每个<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>降低其锁定目标2%的相异能属性抗性，最多降低6%。",
-              "LocalizedString": "每个<hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">「兽牙影刺」</>降低其锁定目标2%的相异能属性抗性，最多降低6%。"
+              "LocalizedString": "Reduces the locked-on target's Lakshana RES by 2% per <hot textstyle=\"TextEXPL\" param=\"nouns&skiamelee1\">Fang Thrust</>, up to 6%."
             },
             "GEIdArray": []
           }

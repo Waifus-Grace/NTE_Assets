@@ -1402,18 +1402,10 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {
@@ -1593,18 +1585,10 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {
@@ -1784,18 +1768,10 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {
@@ -1975,18 +1951,10 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {
@@ -2166,18 +2134,10 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {
@@ -2357,18 +2317,193 @@
           "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
         },
         "AimFOVs": [
-          70.0,
-          50.0,
-          30.0,
-          10.0,
-          5.0
+          30.0
         ],
         "AimInputRates": [
-          0.35,
-          0.25,
-          0.1,
-          0.1,
-          0.05
+          0.1
+        ],
+        "RecoilProfile": {
+          "PitchKickByShotIndex": {
+            "EditorCurveData": {
+              "Keys": [],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": {
+              "ObjectName": "CurveFloat'Curve_Combat_RPG_Pitch'",
+              "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/CameraFix/Curve_Combat_RPG_Pitch.0"
+            }
+          },
+          "YawKickByShotIndex": {
+            "EditorCurveData": {
+              "Keys": [],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": null
+          },
+          "KickStiffness": 40.0,
+          "RecoveryStiffness": 8.0,
+          "RecoveryDelay": 0.1,
+          "MaxAccumulatedPitch": 30.0,
+          "PitchCompensationRatio": 1.0,
+          "YawCompensationRatio": 0.4,
+          "MobileOptRatio": 1.0,
+          "GamepadOptRatio": 1.0,
+          "AutoRemoveTime": 2.0
+        },
+        "AimLock": {
+          "bUseAimLock": false,
+          "LockAngle": 30.0,
+          "MobileLockAngleScale": 1.0,
+          "GamepadLockAngleScale": 1.0,
+          "LockRange": 5000.0,
+          "LockDistance": 5000.0,
+          "BreakTime": 1.2,
+          "SnapStrengthPitch": {
+            "EditorCurveData": {
+              "Keys": [
+                {
+                  "InterpMode": "RCIM_Linear",
+                  "TangentMode": "RCTM_Auto",
+                  "TangentWeightMode": "RCTWM_WeightedNone",
+                  "Time": 0.0,
+                  "Value": 3.0,
+                  "ArriveTangent": 0.0,
+                  "ArriveTangentWeight": 0.0,
+                  "LeaveTangent": 0.0,
+                  "LeaveTangentWeight": 0.0
+                }
+              ],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": null
+          },
+          "SnapStrengthYaw": {
+            "EditorCurveData": {
+              "Keys": [
+                {
+                  "InterpMode": "RCIM_Linear",
+                  "TangentMode": "RCTM_Auto",
+                  "TangentWeightMode": "RCTWM_WeightedNone",
+                  "Time": 0.0,
+                  "Value": 8.0,
+                  "ArriveTangent": 0.0,
+                  "ArriveTangentWeight": 0.0,
+                  "LeaveTangent": 0.0,
+                  "LeaveTangentWeight": 0.0
+                }
+              ],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": null
+          },
+          "SnapSpeedPitch": {
+            "EditorCurveData": {
+              "Keys": [
+                {
+                  "InterpMode": "RCIM_Linear",
+                  "TangentMode": "RCTM_Auto",
+                  "TangentWeightMode": "RCTWM_WeightedNone",
+                  "Time": 0.0,
+                  "Value": 20.0,
+                  "ArriveTangent": 0.0,
+                  "ArriveTangentWeight": 0.0,
+                  "LeaveTangent": 0.0,
+                  "LeaveTangentWeight": 0.0
+                }
+              ],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": null
+          },
+          "SnapSpeedYaw": {
+            "EditorCurveData": {
+              "Keys": [
+                {
+                  "InterpMode": "RCIM_Linear",
+                  "TangentMode": "RCTM_Auto",
+                  "TangentWeightMode": "RCTWM_WeightedNone",
+                  "Time": 0.0,
+                  "Value": 20.0,
+                  "ArriveTangent": 0.0,
+                  "ArriveTangentWeight": 0.0,
+                  "LeaveTangent": 0.0,
+                  "LeaveTangentWeight": 0.0
+                }
+              ],
+              "DefaultValue": 3.4028235E+38,
+              "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+              "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+            },
+            "ExternalCurve": null
+          },
+          "MobileSnapStrengthScale": 1.0,
+          "GamepadSnapStrengthScale": 1.0,
+          "BreakAngle": 15.0,
+          "LockSocketNames": [
+            "Driver",
+            "car_wheel_L1Socket",
+            "car_wheel_R1Socket"
+          ],
+          "LockMuzzleSocketName": "root",
+          "LockMuzzleLocationOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 20.0
+          },
+          "TargetStrategy": {}
+        }
+      },
+      "TankBattleItem_Bullet_Game": {
+        "ReloadDuration": 0.0,
+        "Buff": {
+          "ObjectName": "BlueprintGeneratedClass'Buff_CarWeapon_Tank_RPG_C'",
+          "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/Buff_CarWeapon_Tank_RPG.1"
+        },
+        "WeaponBase": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/BP_Tank_RPG.BP_Tank_RPG_C",
+          "SubPathString": ""
+        },
+        "SocketOffsetTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 60.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "CrossHairWidget": "VehicleCombatShoot_Tank",
+        "CameraSettingModifier": {
+          "ObjectName": "BlueprintGeneratedClass'CameraMod_Tank_General_C'",
+          "ObjectPath": "/Game/Blueprints/Abilities/Buff/ScrimmageWeapon/Tank/CameraMod_Tank_General.0"
+        },
+        "AimFOVs": [
+          30.0
+        ],
+        "AimInputRates": [
+          0.1
         ],
         "RecoilProfile": {
           "PitchKickByShotIndex": {

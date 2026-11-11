@@ -21,13 +21,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guangxiang",
           "SourceString": "延滞",
-          "LocalizedString": "延滞"
+          "LocalizedString": "Remora"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guangxiang_des",
           "SourceString": "触发异能环合后的<NumGreen>5</>秒内，目标进入延滞状态，移动及攻击速度降低，并随时间逐渐复原。如频繁进入延滞状态，目标恢复至常态的速度将会加快。",
-          "LocalizedString": "触发异能环合后的<NumGreen>5</>秒内，目标进入延滞状态，移动及攻击速度降低，并随时间逐渐复原。如频繁进入延滞状态，目标恢复至常态的速度将会加快。"
+          "LocalizedString": "The target enters Remora for <NumGreen>5s</> after triggering Esper Cycle, slowing their movement and attack speed. The effect decays over time, and will have a shorter duration if repeatedly applied."
         },
         "InnerData": [
           {
@@ -70,7 +70,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
               "Key": "GA_Elyms_Passive_1_2",
               "SourceString": "<TextHLT>「延滞」强化</>：队伍中任意角色对目标施加「延滞」时，曳尔沐会在<NumGreen>7.5</>秒后对该目标追加一次「延滞」。该效果每<NumGreen>7</>秒至多触发一次，且通过该效果施加的「延滞」不会再次触发该效果。",
-              "LocalizedString": "<TextHLT>「延滞」强化</>：队伍中任意角色对目标施加「延滞」时，曳尔沐会在<NumGreen>7.5</>秒后对该目标追加一次「延滞」。该效果每<NumGreen>7</>秒至多触发一次，且通过该效果施加的「延滞」不会再次触发该效果。"
+              "LocalizedString": "<TextHLT>Remora Enhancement</>: Causes Elyms to reapply Remora to the same target after <NumGreen>7.5</>s whenever an ally applies Remora. Triggers at most once every <NumGreen>7</>s. Remora applied this way cannot trigger this effect again."
             }
           }
         ],
@@ -87,13 +87,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guangling",
           "SourceString": "创生",
-          "LocalizedString": "创生"
+          "LocalizedString": "Blossom"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guangling_des",
           "SourceString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。\r\n场上最多同时存在<NumGreen>3</>株<bule>「创生株」</>。",
-          "LocalizedString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。\r\n场上最多同时存在<NumGreen>3</>株<bule>「创生株」</>。"
+          "LocalizedString": "Generates <NumGreen>1</> <bule>Vita Bud</> near the target after triggering Esper Cycle, which blossoms <NumGreen>5</> <bule>Vita Pistils</>.\r\n<bule>Vita Pistils</> then fly toward targets within range, exploding every <NumGreen>2s</> and dealing DMG to an area.\r\nUp to <NumGreen>3</> <bule>Vita Buds</> can exist on the field at once."
         },
         "InnerData": [
           {
@@ -150,13 +150,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_lingzhou",
           "SourceString": "覆纹",
-          "LocalizedString": "覆纹"
+          "LocalizedString": "Hexed"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_lingzhou_des",
           "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵属性或咒属性异能伤害</>时，将额外受到一次原伤害<NumGreen>20%</>的<bule>追加攻击伤害</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵属性或咒属性异能伤害</>时，将额外受到一次原伤害<NumGreen>20%</>的<bule>追加攻击伤害</>。"
+          "LocalizedString": "Deals an additional instance of <bule>follow-up attack DMG</> to the target equal to <NumGreen>20%</> of <bule>Anima and Incantation DMG</> taken within <NumGreen>12s</> after triggering Esper Cycle."
         },
         "InnerData": [
           {
@@ -181,13 +181,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_anhun",
           "SourceString": "黯星",
-          "LocalizedString": "黯星"
+          "LocalizedString": "Nova"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_anhun_des",
           "SourceString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>心灵伤害</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>心灵伤害</>。"
+          "LocalizedString": "Inflicts Nova on the target for <NumGreen>5s</> after triggering Esper Cycle. When the effect ends, the target takes massive <bule>Mental Damage</>."
         },
         "InnerData": [
           {
@@ -222,7 +222,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
               "Key": "GA_BlackBird_Passive_1_1",
               "SourceString": "<TextHLT>「黯星」强化</>：「黯星」状态结束时，根据「黯星」期间目标实际受到的累计伤害，黑羽额外对其造成相当于累计伤害<NumGreen>20%</>的心灵伤害（累计伤害不包含触发该次黯星状态的援护技和该次黯星状态自身造成的伤害），最高不超过黑羽基础攻击力的<NumGreen>1000</>倍，且不受其他伤害增减益效果影响。随后，由黑羽为目标施加1次「黯星」。\r\n通过本效果施加的「黯星」无法再次触发施加「黯星」效果。",
-              "LocalizedString": "<TextHLT>「黯星」强化</>：「黯星」状态结束时，根据「黯星」期间目标实际受到的累计伤害，黑羽额外对其造成相当于累计伤害<NumGreen>20%</>的心灵伤害（累计伤害不包含触发该次黯星状态的援护技和该次黯星状态自身造成的伤害），最高不超过黑羽基础攻击力的<NumGreen>1000</>倍，且不受其他伤害增减益效果影响。随后，由黑羽为目标施加1次「黯星」。\r\n通过本效果施加的「黯星」无法再次触发施加「黯星」效果。"
+              "LocalizedString": "<TextHLT>Nova Enhancement</>: When Nova ends, deals additional Mental DMG equal to <NumGreen>20%</> of the actual total DMG taken by the target while Nova was active (excluding DMG dealt by the Support Skill that triggered Nova and by Nova itself), up to <NumGreen>1,000×</> of Blackbird's Base ATK. This additional DMG is not affected by any other DMG Buffs or Debuffs. Inflicts Nova on the target once afterward.\r\nPrevents Nova inflicted by this effect from triggering the Nova reapplication effect again."
             }
           }
         ],
@@ -239,13 +239,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_zhouan",
           "SourceString": "浊燃",
-          "LocalizedString": "浊燃"
+          "LocalizedString": "Scorch"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_zhouan_des",
           "SourceString": "触发异能环合后的<NumGreen>15</>秒内，目标进入浊燃状态，期间受到持续伤害。",
-          "LocalizedString": "触发异能环合后的<NumGreen>15</>秒内，目标进入浊燃状态，期间受到持续伤害。"
+          "LocalizedString": "Inflicts Scorch on the target for <NumGreen>15s</>, dealing DoT after triggering Esper Cycle."
         },
         "InnerData": [
           {
@@ -294,13 +294,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_hunxiang",
           "SourceString": "浸染",
-          "LocalizedString": "浸染"
+          "LocalizedString": "Stain"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_hunxiang_des",
           "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂属性或相属性异能伤害</>时，所受伤害量提升<NumGreen>20%</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂属性或相属性异能伤害</>时，所受伤害量提升<NumGreen>20%</>。"
+          "LocalizedString": "Increases the target's <bule>Psyche and Lakshana DMG</> taken by <NumGreen>20%</> for <NumGreen>12s</> after triggering Esper Cycle."
         },
         "InnerData": [
           {
@@ -311,7 +311,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/BlackBird_SkillDes.BlackBird_SkillDes",
               "Key": "GA_BlackBird_Passive_1_2",
               "SourceString": "<TextHLT>「浸染」强化</>：「浸染」的基础增伤效果提升至<NumGreen>30%</>，持续时间延长至<NumGreen>20</>秒。",
-              "LocalizedString": "<TextHLT>「浸染」强化</>：「浸染」的基础增伤效果提升至<NumGreen>30%</>，持续时间延长至<NumGreen>20</>秒。"
+              "LocalizedString": "<TextHLT>Stain Enhancement</>: Increases Stain's base DMG Bonus to <NumGreen>30%</> and extends its duration to <NumGreen>20</>s."
             }
           }
         ],
@@ -329,13 +329,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guanglingxiang",
           "SourceString": "盈蓄",
-          "LocalizedString": "盈蓄"
+          "LocalizedString": "Charge"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guanglingxiang_des",
           "SourceString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>10</>点<bule>终结能量</>。",
-          "LocalizedString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>10</>点<bule>终结能量</>。"
+          "LocalizedString": "Grants the active character <NumGreen>10</> additional <bule>Ultimate Energy</> when <bule>Vita Pistils</> hit targets affected by Remora."
         },
         "InnerData": [
           {
@@ -378,7 +378,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Elyms_SkillDes.Elyms_SkillDes",
               "Key": "GA_Elyms_Passive_1_1",
               "SourceString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。",
-              "LocalizedString": "<TextHLT>「盈蓄」强化</>：当前驻场角色获得终结能量时，全队角色的<Guang>光属性异能伤害</>提升<NumGreen>3.75%</>，持续<NumGreen>30</>秒，最多叠加<NumGreen>8</>层，重复触发刷新持续时间。"
+              "LocalizedString": "<TextHLT>Charge Enhancement</>: Increases the whole team's <Guang>Cosmos DMG</> by <NumGreen>3.75%</> for <NumGreen>30</>s whenever the active character gains Ultimate Energy, up to <NumGreen>8</> stacks. Resets the duration when triggered again."
             }
           }
         ],
@@ -396,13 +396,13 @@
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_zhouanhun",
           "SourceString": "失谐",
-          "LocalizedString": "失谐"
+          "LocalizedString": "Discord"
         },
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_zhouanhun_des",
           "SourceString": "当目标同时处于黯星与浊燃状态时，扣除其一定比例的<bule>倾陷值</>。",
-          "LocalizedString": "当目标同时处于黯星与浊燃状态时，扣除其一定比例的<bule>倾陷值</>。"
+          "LocalizedString": "Deducts a percentage of the target's <bule>Break</> when they are simultaneously affected by Nova and Scorch."
         },
         "InnerData": [
           {

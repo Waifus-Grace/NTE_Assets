@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star1_name",
               "SourceString": "太阳太阳请回答",
-              "LocalizedString": "太阳太阳请回答"
+              "LocalizedString": "Sun, Sun… speak to me!"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_1.1073_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star1_des",
               "SourceString": "「金谷」和「金谷贷款」的存储上限提升10%。",
-              "LocalizedString": "「金谷」和「金谷贷款」的存储上限提升10%。"
+              "LocalizedString": "Increases the storage capacity of Grain and Grain Loan by 10%."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star2_name",
               "SourceString": "烟花，悄然无声",
-              "LocalizedString": "烟花，悄然无声"
+              "LocalizedString": "Fireworks in Silence"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_2.1073_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star2_des",
               "SourceString": "当小吱处于「盈余」状态时，每秒可获得当前「金谷」10%的利息。",
-              "LocalizedString": "当小吱处于「盈余」状态时，每秒可获得当前「金谷」10%的利息。"
+              "LocalizedString": "Grants 10% of current Grain as interest per second while Chiz is in the Surplus state."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star3_name",
               "SourceString": "倘若没有雨天",
-              "LocalizedString": "倘若没有雨天"
+              "LocalizedString": "If There Were No Rainy Days"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_3.1073_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star3_des",
               "SourceString": "「金谷K线」中「金谷」价格上涨的概率提高50%。",
-              "LocalizedString": "「金谷K线」中「金谷」价格上涨的概率提高50%。"
+              "LocalizedString": "Increases the chance of a Grain Price increase by 50%."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star4_name",
               "SourceString": "致饭团·绷带·方斯",
-              "LocalizedString": "致饭团·绷带·方斯"
+              "LocalizedString": "To Riceball, Bandage, Fons"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_4.1073_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star4_des",
               "SourceString": "「金谷」的获取速率提升20%。",
-              "LocalizedString": "「金谷」的获取速率提升20%。"
+              "LocalizedString": "Increases Grain acquisition efficiency by 20%."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star5_name",
               "SourceString": "日记的空白页",
-              "LocalizedString": "日记的空白页"
+              "LocalizedString": "Blank Diary Pages"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_5.1073_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star5_des",
               "SourceString": "小吱入战后立刻获得当前「金谷」存储上限100%的「金谷」。",
-              "LocalizedString": "小吱入战后立刻获得当前「金谷」存储上限100%的「金谷」。"
+              "LocalizedString": "Grants Chiz Grain equal to 100% of the Grain storage limit upon entering combat."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star6_name",
               "SourceString": "三十三天",
-              "LocalizedString": "三十三天"
+              "LocalizedString": "Thirty-Three Days"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1073_6.1073_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_star6_des",
               "SourceString": "「金谷」造成的额外光属性异能伤害提高15%。",
-              "LocalizedString": "「金谷」造成的额外光属性异能伤害提高15%。"
+              "LocalizedString": "Increases the Bonus Cosmos DMG of Grain by 15%."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_starExtra1_name",
               "SourceString": "是朋友，是家人",
-              "LocalizedString": "是朋友，是家人"
+              "LocalizedString": "Friends and Family"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -227,7 +227,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_starExtra1_des",
               "SourceString": "「负债」状态下，「金谷」的获取效率额外提升50%。",
-              "LocalizedString": "「负债」状态下，「金谷」的获取效率额外提升50%。"
+              "LocalizedString": "Increases Grain acquisition efficiency by an extra 50% while in the Debt state."
             },
             "GEIdArray": []
           },
@@ -238,7 +238,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Chiichan_SkillDes.Chiichan_SkillDes",
               "Key": "GA_Chiichan_starExtra2_name",
               "SourceString": "归乡",
-              "LocalizedString": "归乡"
+              "LocalizedString": "Homecoming"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",

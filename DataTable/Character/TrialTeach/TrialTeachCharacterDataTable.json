@@ -29,7 +29,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -51,7 +51,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -175,7 +175,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -297,7 +297,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -360,7 +360,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Zaowu_Phase2",
                   "SourceString": "<Title>长按普攻可进入</><TitleOrange>「摄食模式」</><Title>吞噬</><TitleOrange>低等级敌人。</>\r\n进入<DefaultOrange>「摄食模式」</>吞噬一次敌人",
-                  "LocalizedString": "<Title>长按普攻可进入</><TitleOrange>「摄食模式」</><Title>吞噬</><TitleOrange>低等级敌人。</>\r\n进入<DefaultOrange>「摄食模式」</>吞噬一次敌人"
+                  "LocalizedString": "<Title>Hold Basic Attack to enter </><TitleOrange>Eating Mode</><Title> and devour </><TitleOrange>low-level enemies</>.\r\nEnters <DefaultOrange>Eating Mode</> and devours an enemy once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -459,7 +459,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Zaowu_Phase2_1",
                       "SourceString": "<Title>点按释放</><TitleOrange>「变轨技能：打嗝」</><Title>可</><TitleOrange>吸附附近敌人</>\r\n释放一次<DefaultOrange>「变轨技能：打嗝」</>",
-                      "LocalizedString": "<Title>点按释放</><TitleOrange>「变轨技能：打嗝」</><Title>可</><TitleOrange>吸附附近敌人</>\r\n释放一次<DefaultOrange>「变轨技能：打嗝」</>"
+                      "LocalizedString": "<Title>Press to cast </><TitleOrange>Burp</><Title> to </><TitleOrange>pull in nearby enemies</>.\r\nCasts <DefaultOrange>Burp</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -500,7 +500,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Zaowu_Phase2_2",
                       "SourceString": "<Title>长按释放</><TitleOrange>「变轨技能：噬重」</><Title>可</><TitleOrange>击飞</><Title>并使</><TitleOrange>附近敌人悬空</>\r\n释放一次<DefaultOrange>「变轨技能：噬重」</>",
-                      "LocalizedString": "<Title>长按释放</><TitleOrange>「变轨技能：噬重」</><Title>可</><TitleOrange>击飞</><Title>并使</><TitleOrange>附近敌人悬空</>\r\n释放一次<DefaultOrange>「变轨技能：噬重」</>"
+                      "LocalizedString": "<Title>Hold to cast </><TitleOrange>Gravity Eater</><Title> to </><TitleOrange>suspend</><Title> nearby enemies and </><TitleOrange>knock them up.</>\r\nCasts <DefaultOrange>Gravity Eater</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -613,7 +613,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase4",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                  "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -718,7 +718,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -858,7 +858,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -963,7 +963,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1004,7 +1004,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Nanali_Phase2",
                   "SourceString": "长按<DefaultOrange>普通攻击</>使用3次「普通攻击：重拳出击！」",
-                  "LocalizedString": "长按<DefaultOrange>普通攻击</>使用3次「普通攻击：重拳出击！」"
+                  "LocalizedString": "Hold <DefaultOrange>Basic Attack</> to use Heavy Hitter! 3 times."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1045,7 +1045,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase3",
                   "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1136,7 +1136,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Nanali_Phase4",
                   "SourceString": "<Title>释放终结技能后娜娜莉的副手会触发</><TitleOrange>追加攻击</>\r\n触发10次副手的<DefaultOrange>追加攻击</>",
-                  "LocalizedString": "<Title>释放终结技能后娜娜莉的副手会触发</><TitleOrange>追加攻击</>\r\n触发10次副手的<DefaultOrange>追加攻击</>"
+                  "LocalizedString": "<Title>Nanally's Underboss triggers </><TitleOrange>follow-up attacks</> after casting Ultimate.\r\nTriggers 10 Underboss <DefaultOrange>follow-up attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1225,7 +1225,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -1349,7 +1349,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1454,7 +1454,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1495,7 +1495,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Bohe_Phase2",
                   "SourceString": "长按<DefaultOrange>普通攻击</>使用「普通攻击：薄荷味旋风」",
-                  "LocalizedString": "长按<DefaultOrange>普通攻击</>使用「普通攻击：薄荷味旋风」"
+                  "LocalizedString": "Hold <DefaultOrange>Basic Attack</> to use Minty Whirlwind."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1536,7 +1536,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase3",
                   "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1619,7 +1619,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase4",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                  "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1724,7 +1724,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -1848,7 +1848,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1953,7 +1953,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -1994,7 +1994,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Edgar_Phase2_2",
                   "SourceString": "长按<DefaultOrange>变轨技能</>并治疗自身",
-                  "LocalizedString": "长按<DefaultOrange>变轨技能</>并治疗自身"
+                  "LocalizedString": "Hold <DefaultOrange>Redirect Skill</> and heal yourself."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot.BP_UI_CloneSystemTeachMainFormSlot_C",
@@ -2086,7 +2086,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Edgar_Phase3",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>并治疗当前角色",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>并治疗当前角色"
+                  "LocalizedString": "Use <DefaultOrange>Ultimate</> once and heal the current character."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -2200,7 +2200,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -2324,7 +2324,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -2429,7 +2429,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -2469,7 +2469,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase2",
                   "SourceString": "长按普通攻击键使用3次「普通攻击：漪澜」",
-                  "LocalizedString": "长按普通攻击键使用3次「普通攻击：漪澜」"
+                  "LocalizedString": "Hold Basic Attack to use Rippling Waves 3 times"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -2519,7 +2519,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xun_Phase3_1",
                       "SourceString": "释放一次浔的变轨技能",
-                      "LocalizedString": "释放一次浔的变轨技能"
+                      "LocalizedString": "Cast Hotori's Skill once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -2541,7 +2541,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xun_Phase3_2",
                       "SourceString": "记录薄荷的异能环合",
-                      "LocalizedString": "记录薄荷的异能环合"
+                      "LocalizedString": "Record Mint's Esper Cycle"
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -2592,7 +2592,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xun_Phase3_3",
                       "SourceString": "记录法帝娅的变轨技能",
-                      "LocalizedString": "记录法帝娅的变轨技能"
+                      "LocalizedString": "Record Fadia's Skill"
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -2711,7 +2711,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xun_Phase4_1",
                       "SourceString": "释放一次极轨终结",
-                      "LocalizedString": "释放一次极轨终结"
+                      "LocalizedString": "Casts Ultimate once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -2788,7 +2788,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xun_Phase4_2",
                       "SourceString": "触发一次终结伤害",
-                      "LocalizedString": "触发一次终结伤害"
+                      "LocalizedString": "Trigger Ultimate DMG once."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -2892,7 +2892,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -3016,7 +3016,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3138,7 +3138,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3210,7 +3210,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xiaozhi_Phase2",
                   "SourceString": "<Title>长按</><TitleOrange>普通攻击</><Title>使用「普通攻击：荒谷」可</><Title>吞噬小型怪物</>并获得<TitleOrange>「金谷」</>\r\n长按<DefaultOrange>普通攻击</>吞噬怪物",
-                  "LocalizedString": "<Title>长按</><TitleOrange>普通攻击</><Title>使用「普通攻击：荒谷」可</><Title>吞噬小型怪物</>并获得<TitleOrange>「金谷」</>\r\n长按<DefaultOrange>普通攻击</>吞噬怪物"
+                  "LocalizedString": "<Title>Hold</> <TitleOrange>Basic Attack</><Title> to use Basic Attack: Blighted Vale to </><Title>devour small mobs</> and gain <TitleOrange>Grain</>.\r\nHold <DefaultOrange>Basic Attack</> to devour mobs."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3309,7 +3309,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xiaozhi_Phase3",
                   "SourceString": "连续点按3次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "连续点按3次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Press <DefaultOrange>Redirect Skill</> 3 times consecutively."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3417,7 +3417,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xiaozhi_Phase4",
                   "SourceString": "<Title>当「变轨技能：粉爪在上原则」拥有</><TitleOrange>3次</><Title>使用次数时，长按</><TitleOrange>变轨技能</><Title>可触发分支攻击</>\r\n长按<DefaultOrange>变轨技能</>触发分支攻击1次",
-                  "LocalizedString": "<Title>当「变轨技能：粉爪在上原则」拥有</><TitleOrange>3次</><Title>使用次数时，长按</><TitleOrange>变轨技能</><Title>可触发分支攻击</>\r\n长按<DefaultOrange>变轨技能</>触发分支攻击1次"
+                  "LocalizedString": "Hold <TitleOrange>Redirect Skill</> to <Title>trigger a Branch Attack</> when <Title>Pink Paws Priority Principle</> has <TitleOrange>3</> <Title>uses</> left.\r\nHold <DefaultOrange>Redirect Skill</> to trigger a Branch Attack once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3525,7 +3525,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Adler_Phase4",
                       "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                      "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                      "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -3566,7 +3566,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Xiaozhi_Phase5_2",
                       "SourceString": "在「金谷K线」<DefaultOrange>最高峰</>时使用1次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "在「金谷K线」<DefaultOrange>最高峰</>时使用1次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "Use <DefaultOrange>Redirect Skill</> once at the <DefaultOrange>peak</> of Grain Price."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -3676,7 +3676,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -3800,7 +3800,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3905,7 +3905,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Fadia_Phase2",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -3945,7 +3945,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase1_1",
                       "SourceString": "切换至<DefaultOrange>2号位</>角色",
-                      "LocalizedString": "切换至<DefaultOrange>2号位</>角色"
+                      "LocalizedString": "Switch to <DefaultOrange>Character 2</>."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -3974,7 +3974,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase1_2",
                       "SourceString": "被怪物攻击2次",
-                      "LocalizedString": "被怪物攻击2次"
+                      "LocalizedString": "Hit by mobs twice"
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -4052,7 +4052,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase3_1",
                       "SourceString": "<Title>使用</><TitleOrange>变轨技能</><Title>后可以对范围内</><TitleOrange>生命上限最高</><Title>的敌方单位施加「破灭体验」</>\r\n释放一次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "<Title>使用</><TitleOrange>变轨技能</><Title>后可以对范围内</><TitleOrange>生命上限最高</><Title>的敌方单位施加「破灭体验」</>\r\n释放一次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "<Title>Inflicts Destructive Experience</> on the enemy with the <TitleOrange>highest Max HP</> <Title>within range</> after <Title>casting</> a <TitleOrange>Redirect Skill</>.\r\nCast a <DefaultOrange>Redirect Skill</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -4075,7 +4075,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase3_3",
                       "SourceString": "<Title>「破灭体验」生效期间，法帝娅自身收到的</><TitleOrange>一部分伤害</><Title>会与带有「破灭体验」的敌人共享</>\r\n被怪物攻击2次",
-                      "LocalizedString": "<Title>「破灭体验」生效期间，法帝娅自身收到的</><TitleOrange>一部分伤害</><Title>会与带有「破灭体验」的敌人共享</>\r\n被怪物攻击2次"
+                      "LocalizedString": "Fadia <Title>shares</> a <TitleOrange>portion of the damage</> she takes with enemies affectd by <Title>Destructive Experience while it's active</>.\r\nHit by mobs twice."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -4186,7 +4186,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Fadia_Phase4_1",
                   "SourceString": "通过使生命值<DefaultOrange>低于</>「破灭阈值」为极轨终结充能",
-                  "LocalizedString": "通过使生命值<DefaultOrange>低于</>「破灭阈值」为极轨终结充能"
+                  "LocalizedString": "Charge Ultimate by reducing HP <DefaultOrange>below</> Destructive Threshold."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4275,7 +4275,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase5_1",
                       "SourceString": "<Title>使用「极轨终结：痛苦让位于狂喜」后一段时间内，法帝娅将进入</><TitleOrange>「敌神者」状态</>\r\n释放一次<DefaultOrange>极轨终结</>",
-                      "LocalizedString": "<Title>使用「极轨终结：痛苦让位于狂喜」后一段时间内，法帝娅将进入</><TitleOrange>「敌神者」状态</>\r\n释放一次<DefaultOrange>极轨终结</>"
+                      "LocalizedString": "<Title>Fadia enters the </><TitleOrange>Lilith state</> for a period of time after casting Agony to Euphoria.\r\nCasts <DefaultOrange>Ultimate</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -4375,7 +4375,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Fadia_Phase5_3",
                       "SourceString": "<TitleOrange>「敌神者」</><Title>状态下</><TitleOrange>普通攻击</><Title>将造成</><TitleOrange>心灵伤害</>\r\n在<DefaultOrange>「敌神者」</>状态下进行连续的5次<DefaultOrange>普通攻击</>",
-                      "LocalizedString": "<TitleOrange>「敌神者」</><Title>状态下</><TitleOrange>普通攻击</><Title>将造成</><TitleOrange>心灵伤害</>\r\n在<DefaultOrange>「敌神者」</>状态下进行连续的5次<DefaultOrange>普通攻击</>"
+                      "LocalizedString": "<TitleOrange>Basic Attacks</> <Title>deal</> <TitleOrange>Mental DMG</> while in <TitleOrange>Lilith</> <Title>state</>.\r\nPerforms 5 consecutive <DefaultOrange>Basic Attacks</> while in <DefaultOrange>Lilith</> state."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -4478,7 +4478,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -4600,7 +4600,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4705,7 +4705,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4763,7 +4763,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase2",
                   "SourceString": "点按<DefaultOrange>瞄准键</>进入瞄准状态，进行3次连续的远程攻击",
-                  "LocalizedString": "点按<DefaultOrange>瞄准键</>进入瞄准状态，进行3次连续的远程攻击"
+                  "LocalizedString": "Press the <DefaultOrange>Aim button</> to enter Aim status, then perform 3 consecutive ranged attacks."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4821,7 +4821,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase3",
                   "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4904,7 +4904,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase4",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                  "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -4993,7 +4993,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -5115,7 +5115,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5156,7 +5156,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Yi_Phase0",
                   "SourceString": "移动中长按闪避进入<DefaultOrange>「潜影」</>状态",
-                  "LocalizedString": "移动中长按闪避进入<DefaultOrange>「潜影」</>状态"
+                  "LocalizedString": "Hold Dodge while moving to enter <DefaultOrange>Shadow Hound</> state."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5261,7 +5261,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Yi_Phase1_1",
                   "SourceString": "<Title>翳的</><TitleOrange>普通攻击</><Title>和</><TitleOrange>变轨技能</><Title>都会令敌人附着</><TitleOrange>「兽牙影刺」</>\r\n进行连续5次<DefaultOrange>普通攻击</>并令敌人附着<DefaultOrange>「兽牙影刺」</>",
-                  "LocalizedString": "<Title>翳的</><TitleOrange>普通攻击</><Title>和</><TitleOrange>变轨技能</><Title>都会令敌人附着</><TitleOrange>「兽牙影刺」</>\r\n进行连续5次<DefaultOrange>普通攻击</>并令敌人附着<DefaultOrange>「兽牙影刺」</>"
+                  "LocalizedString": "<Title>Skia's </><TitleOrange>Basic Attacks</><Title> and </><TitleOrange>Redirect Skills</><Title> inflict </><TitleOrange>Fang Thrust</> on enemies.\r\nPerforms 5 consecutive <DefaultOrange>Basic Attacks</> and inflicts <DefaultOrange>Fang Thrust</> on enemies."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5285,7 +5285,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Yi_Phase3_1",
                       "SourceString": "<Title>使用「变轨技能：潜影追击」后进入</><TitleOrange>「啮逐潜影」</><Title>状态</>\r\n释放一次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "<Title>使用「变轨技能：潜影追击」后进入</><TitleOrange>「啮逐潜影」</><Title>状态</>\r\n释放一次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "Enters the <TitleOrange>Shadow Hound Gnaw</> <Title>state</> <Title>after using Shadow Hound Chase</>.\r\nCasts a <DefaultOrange>Redirect Skill</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -5306,7 +5306,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Yi_Phase3_3",
                       "SourceString": "<TitleOrange>「啮逐潜影」</><Title>状态下，翳与附着有</><TitleOrange>「兽牙影刺」</><Title>的敌人</><TitleOrange>接触</><Title>时会对其造成伤害</>\r\n在<DefaultOrange>「啮逐潜影」</>状态下对附着有<DefaultOrange>「兽牙影刺」</>的敌人造成3次伤害",
-                      "LocalizedString": "<TitleOrange>「啮逐潜影」</><Title>状态下，翳与附着有</><TitleOrange>「兽牙影刺」</><Title>的敌人</><TitleOrange>接触</><Title>时会对其造成伤害</>\r\n在<DefaultOrange>「啮逐潜影」</>状态下对附着有<DefaultOrange>「兽牙影刺」</>的敌人造成3次伤害"
+                      "LocalizedString": "Skia <Title>deals damage</> to <Title>enemies</> <Title>afflicted with</> <TitleOrange>Fang Thrust</> upon <TitleOrange>contact</> while in the <TitleOrange>Shadow Hound Gnaw</> state.\r\nDeals damage 3 times to enemies with <DefaultOrange>Fang Thrust</> while in the <DefaultOrange>Shadow Hound Gnaw</> state."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -5408,7 +5408,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Yi_Phase4",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                  "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5513,7 +5513,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -5635,7 +5635,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5740,7 +5740,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase1",
                   "SourceString": "进行连续5次<DefaultOrange>普通攻击</>，每3次攻击会生成言灵字<DefaultOrange>「祝」</>",
-                  "LocalizedString": "进行连续5次<DefaultOrange>普通攻击</>，每3次攻击会生成言灵字<DefaultOrange>「祝」</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>. Every 3 attacks generate the Power Word <DefaultOrange>\"Bless.\"</>"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5781,7 +5781,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase2",
                   "SourceString": "长按<DefaultOrange>普通攻击</>或长按<DefaultOrange>后闪避</>使用「普通攻击：无状之言」",
-                  "LocalizedString": "长按<DefaultOrange>普通攻击</>或长按<DefaultOrange>后闪避</>使用「普通攻击：无状之言」"
+                  "LocalizedString": "Hold <DefaultOrange>Basic Attack</> or hold <DefaultOrange>Dodge Back</> to use Formless Words."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5822,7 +5822,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase3",
                   "SourceString": "连续使用两次<DefaultOrange>普通攻击</>后长按<DefaultOrange>普通攻击</>或<DefaultOrange>长按前闪避</>使用「普通攻击：无讳之语」",
-                  "LocalizedString": "连续使用两次<DefaultOrange>普通攻击</>后长按<DefaultOrange>普通攻击</>或<DefaultOrange>长按前闪避</>使用「普通攻击：无讳之语」"
+                  "LocalizedString": "Hold <DefaultOrange>Basic Attack</> after 2 consecutive <DefaultOrange>hits</>, or hold <DefaultOrange>Dodge Forward</> to activate Unrestrained Words."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5863,7 +5863,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase5",
                   "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -5946,7 +5946,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase6",
                   "SourceString": "闪避后释放<DefaultOrange>变轨技能</>生成言灵字<DefaultOrange>「噤」</>",
-                  "LocalizedString": "闪避后释放<DefaultOrange>变轨技能</>生成言灵字<DefaultOrange>「噤」</>"
+                  "LocalizedString": "Cast <DefaultOrange>Redirect Skill</> after dodging to generate the Power Word <DefaultOrange>\"Silence.\"</>"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6020,7 +6020,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "BaiCang_Phase7",
                   "SourceString": "长按<DefaultOrange>普通攻击</>触发「普通攻击：无状之言」后释放<DefaultOrange>变轨技能</>生成言灵字<DefaultOrange>「詈」</>",
-                  "LocalizedString": "长按<DefaultOrange>普通攻击</>触发「普通攻击：无状之言」后释放<DefaultOrange>变轨技能</>生成言灵字<DefaultOrange>「詈」</>"
+                  "LocalizedString": "Hold <DefaultOrange>Basic Attack</> to trigger Formless Words, then cast a <DefaultOrange>Redirect Skill</> to generate the Power Word <DefaultOrange>Objurgate</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6076,7 +6076,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "BaiCang_Phase8_1",
                       "SourceString": "<Title>白藏的「极轨终结：判予秋」持续时间内会</><TitleOrange>自动触发</><Title>言灵字，不同的言灵字会触发不同的效果</>\r\n每3次<DefaultOrange>普通攻击</>会生成言灵字<DefaultOrange>「祝」</>\r\n生成一次言灵字<DefaultOrange>「祝」</>",
-                      "LocalizedString": "<Title>白藏的「极轨终结：判予秋」持续时间内会</><TitleOrange>自动触发</><Title>言灵字，不同的言灵字会触发不同的效果</>\r\n每3次<DefaultOrange>普通攻击</>会生成言灵字<DefaultOrange>「祝」</>\r\n生成一次言灵字<DefaultOrange>「祝」</>"
+                      "LocalizedString": "<Title>During Baicang's Ultimate: Judgment of Autumn duration, Power Words will </><TitleOrange>automatically trigger</><Title>. Different Power Words trigger different effects.</>\r\nPerform 3 <DefaultOrange>Basic Attacks</> to generate Power Word <DefaultOrange>\"Bless.\"</>\r\nGenerates Power Word <DefaultOrange>\"Bless.\"</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -6091,7 +6091,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "BaiCang_Phase8_2",
                       "SourceString": "释放<DefaultOrange>极轨终结</>触发生成的言灵字",
-                      "LocalizedString": "释放<DefaultOrange>极轨终结</>触发生成的言灵字"
+                      "LocalizedString": "Casts <DefaultOrange>Ultimate</> to trigger the generated Power Words."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -6177,7 +6177,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -6299,7 +6299,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6404,7 +6404,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6454,7 +6454,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "JiuYuan_Phase2_1",
                       "SourceString": "积攒<DefaultOrange>「玫约子弹」</>至上限",
-                      "LocalizedString": "积攒<DefaultOrange>「玫约子弹」</>至上限"
+                      "LocalizedString": "Accumulate <DefaultOrange>Rose Pact Bullet</> to max stacks."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -6495,7 +6495,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "JiuYuan_Phase2_2",
                       "SourceString": "发射六颗<DefaultOrange>「玫约子弹」</>",
-                      "LocalizedString": "发射六颗<DefaultOrange>「玫约子弹」</>"
+                      "LocalizedString": "Fire six <DefaultOrange>Rose Pact Bullets</>."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -6606,7 +6606,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "JiuYuan_Phase3",
                   "SourceString": "使用一次<DefaultOrange>变轨技能</>并赋予敌人<DefaultOrange>「致命玫约」</>",
-                  "LocalizedString": "使用一次<DefaultOrange>变轨技能</>并赋予敌人<DefaultOrange>「致命玫约」</>"
+                  "LocalizedString": "Use <DefaultOrange>Redirect Skill</> once to inflict <DefaultOrange>Lethal Rose Pact</> on the enemy."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6710,7 +6710,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "JiuYuan_Phase4",
                   "SourceString": "释放<DefaultOrange>极轨终结</>并触发<DefaultOrange>「致约清算」</>",
-                  "LocalizedString": "释放<DefaultOrange>极轨终结</>并触发<DefaultOrange>「致约清算」</>"
+                  "LocalizedString": "Cast <DefaultOrange>Ultimate</> to trigger <DefaultOrange>Pact Settlement</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6799,7 +6799,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -6923,7 +6923,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -6966,7 +6966,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase1",
                   "SourceString": "完成3次<DefaultOrange>极限闪避</>",
-                  "LocalizedString": "完成3次<DefaultOrange>极限闪避</>"
+                  "LocalizedString": "Complete 3 <DefaultOrange>Critical Dodges</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7009,7 +7009,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase2",
                   "SourceString": "完成3次<DefaultOrange>极限反击</>",
-                  "LocalizedString": "完成3次<DefaultOrange>极限反击</>"
+                  "LocalizedString": "Complete 3 <DefaultOrange>Critical Ripostes</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7034,7 +7034,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase3",
                   "SourceString": "<Title>战斗中造成伤害可以积攒</><TitleOrange>环合值</>\r\n积攒异能者·零的<DefaultOrange>环合值</>",
-                  "LocalizedString": "<Title>战斗中造成伤害可以积攒</><TitleOrange>环合值</>\r\n积攒异能者·零的<DefaultOrange>环合值</>"
+                  "LocalizedString": "<Title>Dealing damage in battle accumulates </><TitleOrange>Cycle Rate</>.\r\nAccumulate Esper Zero's <DefaultOrange>Cycle Rate</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7071,7 +7071,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase4",
                   "SourceString": "释放一次薄荷的<DefaultOrange>异能环合</>",
-                  "LocalizedString": "释放一次薄荷的<DefaultOrange>异能环合</>"
+                  "LocalizedString": "Casts Mint's <DefaultOrange>Esper Cycle</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7106,7 +7106,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase5",
                   "SourceString": "<Title>造成伤害可以积攒敌人的</><TitleOrange>倾陷值</>\r\n使敌人进入一次<DefaultOrange>倾陷状态</>",
-                  "LocalizedString": "<Title>造成伤害可以积攒敌人的</><TitleOrange>倾陷值</>\r\n使敌人进入一次<DefaultOrange>倾陷状态</>"
+                  "LocalizedString": "<Title>Dealing damage accumulates enemy </><TitleOrange>Break</>.\r\nCause an enemy to become <DefaultOrange>Broken</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7173,7 +7173,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase6",
                   "SourceString": "使用<DefaultOrange>普通攻击</>完成3次<DefaultOrange>承轨反击</>",
-                  "LocalizedString": "使用<DefaultOrange>普通攻击</>完成3次<DefaultOrange>承轨反击</>"
+                  "LocalizedString": "Complete 3 <DefaultOrange>Parry Attacks</> using <DefaultOrange>Basic Attack</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7214,7 +7214,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase7",
                   "SourceString": "使用<DefaultOrange>变轨技能</>完成1次<DefaultOrange>承轨反击</>",
-                  "LocalizedString": "使用<DefaultOrange>变轨技能</>完成1次<DefaultOrange>承轨反击</>"
+                  "LocalizedString": "Use <DefaultOrange>Redirect Skill</> to complete 1 <DefaultOrange>Parry Attack</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7289,7 +7289,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Common_Phase8",
                   "SourceString": "使用<DefaultOrange>异能环合</>完成1次<DefaultOrange>承轨反击</>",
-                  "LocalizedString": "使用<DefaultOrange>异能环合</>完成1次<DefaultOrange>承轨反击</>"
+                  "LocalizedString": "Perform 1 <DefaultOrange>Parry Attack</> using <DefaultOrange>Esper Cycle</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7321,7 +7321,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -7445,7 +7445,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7479,7 +7479,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7582,7 +7582,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7694,7 +7694,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -7843,7 +7843,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7877,7 +7877,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -7980,7 +7980,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8092,7 +8092,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -8241,7 +8241,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8275,7 +8275,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8378,7 +8378,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8490,7 +8490,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -8639,7 +8639,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8673,7 +8673,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8776,7 +8776,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -8888,7 +8888,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -9037,7 +9037,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9071,7 +9071,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9174,7 +9174,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9286,7 +9286,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -9435,7 +9435,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9469,7 +9469,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9572,7 +9572,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9684,7 +9684,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -9833,7 +9833,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9871,7 +9871,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -9990,7 +9990,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10102,7 +10102,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -10251,7 +10251,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10289,7 +10289,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillEnemy",
                   "SourceString": "击败当前敌人",
-                  "LocalizedString": "击败当前敌人"
+                  "LocalizedString": "Defeat the current enemy"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10408,7 +10408,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "KillAllEnemy",
                   "SourceString": "击败所有敌人",
-                  "LocalizedString": "击败所有敌人"
+                  "LocalizedString": "Defeat all the enemies"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10520,7 +10520,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -10669,7 +10669,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10774,7 +10774,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10832,7 +10832,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Hasuoer_Phase2",
                   "SourceString": "<Title>长按</><TitleOrange>普通攻击</><Title>可触发</><TitleOrange>分支攻击</>\r\n触发一次<DefaultOrange>分支攻击</>",
-                  "LocalizedString": "<Title>长按</><TitleOrange>普通攻击</><Title>可触发</><TitleOrange>分支攻击</>\r\n触发一次<DefaultOrange>分支攻击</>"
+                  "LocalizedString": "<Title>Hold</> <TitleOrange>Basic Attack</><Title> to trigger a </><TitleOrange>Branch Attack</>.\r\nTrigger <DefaultOrange>Branch Attack</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10875,7 +10875,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Hasuoer_Phase3",
                   "SourceString": "<Title>哈索尔使用</><TitleOrange>变轨技能</><Title>可获得</><TitleOrange>「闪送之力」</>\r\n通过<DefaultOrange>变轨技能</>获得<DefaultOrange>「闪送之力」</>至上限",
-                  "LocalizedString": "<Title>哈索尔使用</><TitleOrange>变轨技能</><Title>可获得</><TitleOrange>「闪送之力」</>\r\n通过<DefaultOrange>变轨技能</>获得<DefaultOrange>「闪送之力」</>至上限"
+                  "LocalizedString": "<Title>When Hathor casts</> a <TitleOrange>Redirect Skill</>, <Title>she gains</> <TitleOrange>Express Delivery Power</>.\r\nUse <DefaultOrange>Redirect Skill</> to build <DefaultOrange>Express Delivery Power</> to max stacks."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -10953,7 +10953,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Adler_Phase4",
                       "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                      "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                      "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -11021,7 +11021,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Hasuoer_Phase4",
                       "SourceString": "在<DefaultOrange>极轨终结</>持续时间内连续释放3次<DefaultOrange>变轨技能</>消耗所有<DefaultOrange>「闪送之力」</>",
-                      "LocalizedString": "在<DefaultOrange>极轨终结</>持续时间内连续释放3次<DefaultOrange>变轨技能</>消耗所有<DefaultOrange>「闪送之力」</>"
+                      "LocalizedString": "Consecutively cast <DefaultOrange>Redirect Skill</> three times to consume all <DefaultOrange>Express Delivery Power</> while <DefaultOrange>Ultimate</> is active."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -11038,7 +11038,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Hasuoer_Phase4",
                   "SourceString": "在<DefaultOrange>极轨终结</>持续时间内连续释放3次<DefaultOrange>变轨技能</>消耗所有<DefaultOrange>「闪送之力」</>",
-                  "LocalizedString": "在<DefaultOrange>极轨终结</>持续时间内连续释放3次<DefaultOrange>变轨技能</>消耗所有<DefaultOrange>「闪送之力」</>"
+                  "LocalizedString": "Consecutively cast <DefaultOrange>Redirect Skill</> three times to consume all <DefaultOrange>Express Delivery Power</> while <DefaultOrange>Ultimate</> is active."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -11134,7 +11134,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -11258,7 +11258,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -11363,7 +11363,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -11404,7 +11404,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Dafudier_Phase2",
                   "SourceString": "<Title>长按</><TitleOrange>普通攻击</><Title>可触发</><TitleOrange>分支攻击</>\r\n触发三次<DefaultOrange>分支攻击</>",
-                  "LocalizedString": "<Title>长按</><TitleOrange>普通攻击</><Title>可触发</><TitleOrange>分支攻击</>\r\n触发三次<DefaultOrange>分支攻击</>"
+                  "LocalizedString": "<Title>Hold</> <TitleOrange>Basic Attack</> <Title>to trigger a </><TitleOrange>Branch Attack</>.\r\nTrigger <DefaultOrange>Branch Attack</> three times."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -11449,7 +11449,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Dafudier_Phase3_1",
                       "SourceString": "<Title>队伍内角色释放</><TitleOrange>援护技</><Title>后会强化达芙蒂尔的</><TitleOrange>变轨技能</><Title>，最多强化</><TitleOrange>两次</>\r\n释放一次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "<Title>队伍内角色释放</><TitleOrange>援护技</><Title>后会强化达芙蒂尔的</><TitleOrange>变轨技能</><Title>，最多强化</><TitleOrange>两次</>\r\n释放一次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "<Title>When allies cast a</><TitleOrange> Support Skill</><Title>, it boosts Daffodill's</><TitleOrange> Redirect Skill</><Title>, up to</><TitleOrange>twice</>.\r\nCast a <DefaultOrange>Redirect Skill</>."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -11490,7 +11490,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Dafudier_Phase3_2",
                       "SourceString": "释放1次强化后的<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "释放1次强化后的<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "Cast the enhanced <DefaultOrange>Redirect Skill</> twice."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -11614,7 +11614,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Adler_Phase4",
                       "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                      "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                      "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -11683,7 +11683,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Dafudier_Phase4_2",
                       "SourceString": "触发2次<DefaultOrange>「幻影移形」</>",
-                      "LocalizedString": "触发2次<DefaultOrange>「幻影移形」</>"
+                      "LocalizedString": "Trigger <DefaultOrange>Phantom Step</> twice."
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -11700,7 +11700,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Dafudier_Phase4_2",
                   "SourceString": "触发2次<DefaultOrange>「幻影移形」</>",
-                  "LocalizedString": "触发2次<DefaultOrange>「幻影移形」</>"
+                  "LocalizedString": "Trigger <DefaultOrange>Phantom Step</> twice."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -11780,7 +11780,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -11902,7 +11902,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12008,7 +12008,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase1",
                   "SourceString": "进行连续的5次普通攻击",
-                  "LocalizedString": "进行连续的5次普通攻击"
+                  "LocalizedString": "Perform 5 consecutive Basic Attacks."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12113,7 +12113,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase2",
                   "SourceString": "在远程战斗状态下，进行连续的5次普通攻击",
-                  "LocalizedString": "在远程战斗状态下，进行连续的5次普通攻击"
+                  "LocalizedString": "Perform 5 consecutive Basic Attacks while in ranged combat mode."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12189,7 +12189,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "BaiCang_Phase5",
                       "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -12260,7 +12260,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Lacrimosa_Phase3",
                       "SourceString": "释放一次变轨技能后，立刻衔接普通攻击",
-                      "LocalizedString": "释放一次变轨技能后，立刻衔接普通攻击"
+                      "LocalizedString": "Cast a Redirect Skill once, then immediately use a Basic Attack."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -12287,7 +12287,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase3",
                   "SourceString": "释放一次变轨技能后，立刻衔接普通攻击",
-                  "LocalizedString": "释放一次变轨技能后，立刻衔接普通攻击"
+                  "LocalizedString": "Cast a Redirect Skill once, then immediately use a Basic Attack."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12348,7 +12348,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Lacrimosa_Phase4_1",
                       "SourceString": "长按普通攻击键，记忆长明灯技能",
-                      "LocalizedString": "长按普通攻击键，记忆长明灯技能"
+                      "LocalizedString": "Hold Basic Attack to memorize the Eternal Lamp's skill."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -12395,7 +12395,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Lacrimosa_Phase4_2",
                       "SourceString": "释放一次记忆的技能",
-                      "LocalizedString": "释放一次记忆的技能"
+                      "LocalizedString": "Cast the acquired skill once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -12422,7 +12422,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase4",
                   "SourceString": "记忆并释放长明灯的技能",
-                  "LocalizedString": "记忆并释放长明灯的技能"
+                  "LocalizedString": "Memorize and cast Eternal Lamp's skill."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12522,7 +12522,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase6",
                   "SourceString": "记忆并释放罐头锡兵的技能",
-                  "LocalizedString": "记忆并释放罐头锡兵的技能"
+                  "LocalizedString": "Memorize and cast Tin Soldier's skill."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12622,7 +12622,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase7",
                   "SourceString": "记忆并释放无首铁驭的技能",
-                  "LocalizedString": "记忆并释放无首铁驭的技能"
+                  "LocalizedString": "Memorize and cast Headless Rider's skill."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12738,7 +12738,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase8",
                   "SourceString": "释放一次极轨终结",
-                  "LocalizedString": "释放一次极轨终结"
+                  "LocalizedString": "Cast an Ultimate once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -12852,7 +12852,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -12974,7 +12974,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13079,7 +13079,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13129,7 +13129,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Chaos_Phase3",
                   "SourceString": "释放1次强化普通攻击",
-                  "LocalizedString": "释放1次强化普通攻击"
+                  "LocalizedString": "Perform 1 Enhanced Basic Attack"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13189,7 +13189,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Chaos_Phase4",
                   "SourceString": "积攒「罪状」至上限时释放1次强化普通攻击及其衍生攻击",
-                  "LocalizedString": "积攒「罪状」至上限时释放1次强化普通攻击及其衍生攻击"
+                  "LocalizedString": "Release 1 Enhanced Basic Attack and follow-up attack when Crime reaches its cap."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13245,7 +13245,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Chaos_Phase5",
                   "SourceString": "释放变轨技能命中敌人，对敌人施加「追缉许可」",
-                  "LocalizedString": "释放变轨技能命中敌人，对敌人施加「追缉许可」"
+                  "LocalizedString": "Cast a Redirect Skill and hit an enemy to inflict Warrant."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13337,7 +13337,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Chaos_Phase9",
                       "SourceString": "释放极轨终结命中敌人，对敌人添加“追缉许可”",
-                      "LocalizedString": "释放极轨终结命中敌人，对敌人添加“追缉许可”"
+                      "LocalizedString": "Cast an Ultimate and hit an enemy to inflict Warrant."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -13371,7 +13371,7 @@
                           "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                           "Key": "Chaos_Phase10",
                           "SourceString": "在终结技赋予的强化状态下，满罪状时释放1次强化普通攻击及其衍生攻击",
-                          "LocalizedString": "在终结技赋予的强化状态下，满罪状时释放1次强化普通攻击及其衍生攻击"
+                          "LocalizedString": "Perform 1 enhanced Basic Attack and its follow-up attack when Crime is full while empowered by Ultimate."
                         },
                         "SlotClass": {
                           "AssetPathName": "",
@@ -13392,7 +13392,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Chaos_Phase11",
                       "SourceString": "释放1次强化攻击及其衍生攻击",
-                      "LocalizedString": "释放1次强化攻击及其衍生攻击"
+                      "LocalizedString": "Perform 1 Enhanced Basic Attack and its follow-up attack."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -13409,7 +13409,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Chaos_Phase6",
                   "SourceString": "\"释放极轨终结命中敌人，对敌人施加「追缉许可」\r\n在终结技赋予的「恶名往复」状态下，积攒「罪状」至上限并释放2次强化普通攻击及其衍生攻击\"",
-                  "LocalizedString": "\"释放极轨终结命中敌人，对敌人施加「追缉许可」\r\n在终结技赋予的「恶名往复」状态下，积攒「罪状」至上限并释放2次强化普通攻击及其衍生攻击\""
+                  "LocalizedString": "Cast Ultimate and hit an enemy to inflict Warrant.\r\nBuild Crime to its cap, then release 2 Enhanced Basic Attacks and their follow-up attacks while in the Dread Echo state granted by Ultimate."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13498,7 +13498,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -13624,7 +13624,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13713,7 +13713,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Mitsuki_p1",
                   "SourceString": "进行连续的4次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的4次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Perform 4 consecutive <DefaultOrange>Basic Attacks</>"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13750,7 +13750,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Mitsuki_p2",
                   "SourceString": "<DefaultOrange>长按闪避</>，攻击敌人9次",
-                  "LocalizedString": "<DefaultOrange>长按闪避</>，攻击敌人9次"
+                  "LocalizedString": "<DefaultOrange>Hold Dodge</> to attack enemies 9 times"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13795,7 +13795,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Mitsuki_p3",
                       "SourceString": "释放变轨技能<DefaultOrange>「华彩唱段」</>后，进入<DefaultOrange>「华彩」</>状态\r\n释放1次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "释放变轨技能<DefaultOrange>「华彩唱段」</>后，进入<DefaultOrange>「华彩」</>状态\r\n释放1次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "Cast <DefaultOrange>Cadenza Aria</> to enter the <DefaultOrange>Cadenza</> state.\r\nCast a <DefaultOrange>Redirect Skill</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -13827,7 +13827,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Mitsuki_p4",
                       "SourceString": "<DefaultOrange>「华彩」</>状态下，长按闪避发射水母弹造成额外伤害，并对目标周围的敌人造成范围伤害\r\n<DefaultOrange>长按闪避</>，攻击敌人9次",
-                      "LocalizedString": "<DefaultOrange>「华彩」</>状态下，长按闪避发射水母弹造成额外伤害，并对目标周围的敌人造成范围伤害\r\n<DefaultOrange>长按闪避</>，攻击敌人9次"
+                      "LocalizedString": "Hold Dodge while in the <DefaultOrange>Cadenza</> state to launch jellyfish blasts, dealing bonus DMG and AoE DMG to enemies around the target.\r\n<DefaultOrange>Hold Dodge</> to attack enemies 9 times."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -13915,7 +13915,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase4",
                   "SourceString": "释放一次<DefaultOrange>极轨终结</>",
-                  "LocalizedString": "释放一次<DefaultOrange>极轨终结</>"
+                  "LocalizedString": "Casts <DefaultOrange>Ultimate</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -13995,7 +13995,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -14117,7 +14117,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14222,7 +14222,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14267,7 +14267,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Haniya_Phase2_1",
                       "SourceString": "<Title>哈尼娅的</><TitleOrange>变轨技能</><Title>会强化全队攻击力</>\r\n释放一次<DefaultOrange>变轨技能</>",
-                      "LocalizedString": "<Title>哈尼娅的</><TitleOrange>变轨技能</><Title>会强化全队攻击力</>\r\n释放一次<DefaultOrange>变轨技能</>"
+                      "LocalizedString": "<Title>Haniel's</> <TitleOrange>Redirect Skill</> <Title>boosts the whole team's ATK</>.\r\nCast <DefaultOrange>Redirect Skill</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -14286,7 +14286,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Haniya_Phase2_2",
                       "SourceString": "<TitleOrange>「咕咕子」</><Title>驻场时，全队每累计一定次数的攻击都会触发</><TitleOrange>「合奏」</>\r\n触发3次<DefaultOrange>「合奏」</>",
-                      "LocalizedString": "<TitleOrange>「咕咕子」</><Title>驻场时，全队每累计一定次数的攻击都会触发</><TitleOrange>「合奏」</>\r\n触发3次<DefaultOrange>「合奏」</>"
+                      "LocalizedString": "When <TitleOrange>Hootie</> is <Title>active, every time the team accumulates a set number of attacks</>, <TitleOrange>Ensemble</> is triggered.\r\nTrigger <DefaultOrange>Ensemble</> 3 times."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -14378,7 +14378,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Haniya_Phase3_1",
                       "SourceString": "<Title>哈尼娅的</><TitleOrange>极轨终结</><Title>会进一步强化全队攻击力</>\r\n释放一次<DefaultOrange>极轨终结</>",
-                      "LocalizedString": "<Title>哈尼娅的</><TitleOrange>极轨终结</><Title>会进一步强化全队攻击力</>\r\n释放一次<DefaultOrange>极轨终结</>"
+                      "LocalizedString": "<Title>Haniel's</> <TitleOrange>Ultimate</> <Title>further enhances the team's ATK</>.\r\nCast <DefaultOrange>Ultimate</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -14397,7 +14397,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Haniya_Phase3_2",
                       "SourceString": "<Title>释放</><TitleOrange>极轨终结</><Title>后每次触发</><TitleOrange>「合奏」</><Title>会同步触发</><TitleOrange>「合奏·交响」</>\r\n触发3次<DefaultOrange>「合奏·交响」</>",
-                      "LocalizedString": "<Title>释放</><TitleOrange>极轨终结</><Title>后每次触发</><TitleOrange>「合奏」</><Title>会同步触发</><TitleOrange>「合奏·交响」</>\r\n触发3次<DefaultOrange>「合奏·交响」</>"
+                      "LocalizedString": "<Title>After casting</> <TitleOrange>Ultimate</>, <Title>whenever</> <TitleOrange>Ensemble</><Title> is triggered, it also triggers </><TitleOrange>Ensemble - Symphony</>.\r\nTrigger <DefaultOrange>Ensemble - Symphony</> 3 times."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -14491,7 +14491,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -14613,7 +14613,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14718,7 +14718,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14759,7 +14759,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Shinku_Phase_1",
                   "SourceString": "在普通攻击3/4/5段长按普通攻击可触发<DefaultOrange>分支攻击</>\r\n触发1次<DefaultOrange>分支攻击</>",
-                  "LocalizedString": "在普通攻击3/4/5段长按普通攻击可触发<DefaultOrange>分支攻击</>\r\n触发1次<DefaultOrange>分支攻击</>"
+                  "LocalizedString": "Hold Basic Attack during the 3rd/4th/5th hit to trigger a <DefaultOrange>Branch Attack</>.\r\nTrigger <DefaultOrange>Branch Attack</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14818,7 +14818,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Shinku_Phase_2",
                   "SourceString": "真红在战斗中保持一段时间不主动发动攻击后可进入<DefaultOrange>「威慑凝视」</>状态，并持续积攒「威慑凝视」层数；成功闪避敌人攻击时，也可额外获得「威慑凝视」层数。\r\n主动发动攻击会消耗<DefaultOrange>「威慑凝视」</>，发动<DefaultOrange>「即瞬猛袭」</>，对敌人造成高额伤害。\r\n发动一次<DefaultOrange>「即瞬猛袭」</>",
-                  "LocalizedString": "真红在战斗中保持一段时间不主动发动攻击后可进入<DefaultOrange>「威慑凝视」</>状态，并持续积攒「威慑凝视」层数；成功闪避敌人攻击时，也可额外获得「威慑凝视」层数。\r\n主动发动攻击会消耗<DefaultOrange>「威慑凝视」</>，发动<DefaultOrange>「即瞬猛袭」</>，对敌人造成高额伤害。\r\n发动一次<DefaultOrange>「即瞬猛袭」</>"
+                  "LocalizedString": "After Shinku stays in battle for a period without actively initiating an attack, she enters the <DefaultOrange>Menacing Gaze</> state and continuously builds Menacing Gaze stacks. Successfully performing a Critical Dodge grants additional Menacing Gaze stacks.\r\nWhen Shinku initiates an attack, she consumes <DefaultOrange>Menacing Gaze</> to trigger <DefaultOrange>Instant Strike</>, dealing high DMG to enemies.\r\nCast <DefaultOrange>Instant Strike</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14874,7 +14874,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Adler_Phase3",
                   "SourceString": "释放一次<DefaultOrange>变轨技能</>",
-                  "LocalizedString": "释放一次<DefaultOrange>变轨技能</>"
+                  "LocalizedString": "Casts <DefaultOrange>Redirect Skill</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -14948,7 +14948,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Shinku_Phase_3",
                   "SourceString": "释放<DefaultOrange>「极轨终结：沸血赤红」</>，进入<DefaultOrange>「升腾之赤」</>状态",
-                  "LocalizedString": "释放<DefaultOrange>「极轨终结：沸血赤红」</>，进入<DefaultOrange>「升腾之赤」</>状态"
+                  "LocalizedString": "Cast <DefaultOrange>Crimson Fury</> to enter the <DefaultOrange>Surging Crimson</> state."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15043,7 +15043,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Shinku_Phase_4",
                   "SourceString": "在<DefaultOrange>「升腾之赤」</>状态下，进行普攻可以<DefaultOrange>积攒技能能量</>\r\n积攒的能量足以释放1次变轨技能时，按下释放<DefaultOrange>「变轨技能：天降赤锋」</>\r\n释放1次<DefaultOrange>「变轨技能：天降赤锋」</>",
-                  "LocalizedString": "在<DefaultOrange>「升腾之赤」</>状态下，进行普攻可以<DefaultOrange>积攒技能能量</>\r\n积攒的能量足以释放1次变轨技能时，按下释放<DefaultOrange>「变轨技能：天降赤锋」</>\r\n释放1次<DefaultOrange>「变轨技能：天降赤锋」</>"
+                  "LocalizedString": "While in the <DefaultOrange>Surging Crimson</> state, Basic Attacks <DefaultOrange>build Skill Energy</>.\r\nPress to cast <DefaultOrange>Scarlet Descent</> once enough Energy has been built for 1 cast.\r\nCast <DefaultOrange>Scarlet Descent</> once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15172,7 +15172,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Shinku_Phase_6",
                       "SourceString": "<DefaultOrange>「升腾之赤」</>状态即将结束时，会获得1段<DefaultOrange>「极轨终结：赤红的处决」</>\r\n释放1次<DefaultOrange>「极轨终结：赤红的处决」</>",
-                      "LocalizedString": "<DefaultOrange>「升腾之赤」</>状态即将结束时，会获得1段<DefaultOrange>「极轨终结：赤红的处决」</>\r\n释放1次<DefaultOrange>「极轨终结：赤红的处决」</>"
+                      "LocalizedString": "Gain 1 use of <DefaultOrange>Crimson Judgment</> when <DefaultOrange>Surging Crimson</> is about to end.\r\nCast <DefaultOrange>Crimson Judgment</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -15208,7 +15208,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Shinku_Phase_7",
                       "SourceString": "<DefaultOrange>「升腾之赤」</>状态结束时，自动释放<DefaultOrange>「极轨终结：处决的龙炎」</>\r\n释放1次<DefaultOrange>「极轨终结：处决的龙炎」</>",
-                      "LocalizedString": "<DefaultOrange>「升腾之赤」</>状态结束时，自动释放<DefaultOrange>「极轨终结：处决的龙炎」</>\r\n释放1次<DefaultOrange>「极轨终结：处决的龙炎」</>"
+                      "LocalizedString": "<DefaultOrange>Dragonflame Verdict</> is automatically cast when the <DefaultOrange>Surging Crimson</> state ends.\r\nCast <DefaultOrange>Dragonflame Verdict</> once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -15225,7 +15225,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Shinku_Phase_5",
                   "SourceString": "<DefaultOrange>「极轨终结：赤红的处决」</>已可以释放，多次按下可以消耗次数，连续释放；「赤红的处决」次数用完后，将释放<DefaultOrange>「极轨终结：处决的龙炎」</>",
-                  "LocalizedString": "<DefaultOrange>「极轨终结：赤红的处决」</>已可以释放，多次按下可以消耗次数，连续释放；「赤红的处决」次数用完后，将释放<DefaultOrange>「极轨终结：处决的龙炎」</>"
+                  "LocalizedString": "<DefaultOrange>Crimson Judgment</> is now available. Press repeatedly to cast Crimson Judgment, consuming 1 use with each cast. Once all uses are depleted, <DefaultOrange>Dragonflame Verdict</> will be unleashed."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15302,7 +15302,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -15426,7 +15426,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15531,7 +15531,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15582,7 +15582,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Iroi_3_1",
                   "SourceString": "释放1次强化普通攻击",
-                  "LocalizedString": "释放1次强化普通攻击"
+                  "LocalizedString": "Perform 1 Enhanced Basic Attack"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15649,7 +15649,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Iroi_4_1",
                   "SourceString": "点按释放1次变轨技能",
-                  "LocalizedString": "点按释放1次变轨技能"
+                  "LocalizedString": "Press to cast Redirect Skill once"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15732,7 +15732,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Iroi_5_1",
                   "SourceString": "长按释放1次变轨技能",
-                  "LocalizedString": "长按释放1次变轨技能"
+                  "LocalizedString": "Hold to cast the Redirect Skill once"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15832,7 +15832,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Iroi_6_1",
                   "SourceString": "「臆想」超过阈值后时，释放一次极轨终结",
-                  "LocalizedString": "「臆想」超过阈值后时，释放一次极轨终结"
+                  "LocalizedString": "Cast the Ultimate once when Imagination exceeds the threshold"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -15930,7 +15930,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -16052,7 +16052,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16157,7 +16157,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16198,7 +16198,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Zankou_3",
                   "SourceString": "在「普通攻击：燎原」的第1/2段中，长按普攻触发并释放1次「普通攻击：绰影」\r\n释放1次「普通攻击：绰影」",
-                  "LocalizedString": "在「普通攻击：燎原」的第1/2段中，长按普攻触发并释放1次「普通攻击：绰影」\r\n释放1次「普通攻击：绰影」"
+                  "LocalizedString": "Hold Basic Attack during the 1st or 2nd stage of Wildfire to unleash Flickering Shadow once.\r\nCast Flickering Shadow once"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16244,7 +16244,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Zankou_4",
                   "SourceString": "释放「变轨技能：绯影闪」命中敌人，切换为幻境形态\r\n释放1次「变轨技能：绯影闪」",
-                  "LocalizedString": "释放「变轨技能：绯影闪」命中敌人，切换为幻境形态\r\n释放1次「变轨技能：绯影闪」"
+                  "LocalizedString": "Cast Sanguine Dash and hit an enemy to switch to Illusion Form.\r\nCast Sanguine Dash once"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16375,7 +16375,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Zankou_5",
                   "SourceString": "残虹处于幻境状态时：\r\n进行连续的4次幻境普通攻击",
-                  "LocalizedString": "残虹处于幻境状态时：\r\n进行连续的4次幻境普通攻击"
+                  "LocalizedString": "While in Illusion Form:\r\nPerform 4 consecutive Illusion Form Basic Attacks"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16453,7 +16453,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Zankou_6",
                       "SourceString": "残虹处于幻境状态时：\r\n在「普通攻击：魇舞」的第1/2段中，长按普攻触发并释放1次「普通攻击：落月」\r\n释放1次「普通攻击：落月」",
-                      "LocalizedString": "残虹处于幻境状态时：\r\n在「普通攻击：魇舞」的第1/2段中，长按普攻触发并释放1次「普通攻击：落月」\r\n释放1次「普通攻击：落月」"
+                      "LocalizedString": "While in Illusion Form:\r\nHold Basic Attack during the 1st or 2nd stage of Nightmare Waltz to unleash Moonfall once.\r\nCast Moonfall once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -16489,7 +16489,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Zankou_7",
                       "SourceString": "幻境状态即将结束时：\r\n释放强化版「变轨技能：离魂错」命中敌人，并激活「极轨终结：血宴入梦时」\r\n释放1次强化版「变轨技能：离魂错」",
-                      "LocalizedString": "幻境状态即将结束时：\r\n释放强化版「变轨技能：离魂错」命中敌人，并激活「极轨终结：血宴入梦时」\r\n释放1次强化版「变轨技能：离魂错」"
+                      "LocalizedString": "When Illusion Form is about to end:\r\nCast the enhanced Soulcross and hit an enemy to activate Bloodfeast Reverie.\r\nCast the enhanced Soulcross once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -16591,7 +16591,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Zankou_8",
                       "SourceString": "残虹处于幻境状态时：\r\n释放1次「极轨终结：血宴入梦时」",
-                      "LocalizedString": "残虹处于幻境状态时：\r\n释放1次「极轨终结：血宴入梦时」"
+                      "LocalizedString": "While in Illusion Form:\r\nCast Bloodfeast Reverie once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -16627,7 +16627,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Zankou_9",
                       "SourceString": "释放「极轨终结：血宴入梦时」后，可继续在限时时间内释放强化「极轨终结：焚天烬灭舞」\r\n释放1次「极轨终结：焚天烬灭舞」",
-                      "LocalizedString": "释放「极轨终结：血宴入梦时」后，可继续在限时时间内释放强化「极轨终结：焚天烬灭舞」\r\n释放1次「极轨终结：焚天烬灭舞」"
+                      "LocalizedString": "Cast Bloodfeast Reverie, then cast the enhanced Inferno Flamenco within the time limit.\r\nCast Inferno Flamenco once"
                     },
                     "SlotClass": {
                       "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot2.BP_UI_CloneSystemTeachMainFormSlot2_C",
@@ -16737,7 +16737,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -16861,7 +16861,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -16966,7 +16966,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -17022,7 +17022,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Radio_3",
                   "SourceString": "普攻任意一段后长按普攻，触发1次「普通攻击：恶灵大巴掌！」",
-                  "LocalizedString": "普攻任意一段后长按普攻，触发1次「普通攻击：恶灵大巴掌！」"
+                  "LocalizedString": "After any stage of Basic Attack, hold Basic Attack to trigger Spectral Smack once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -17067,7 +17067,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_4",
                       "SourceString": "点按释放一次「变轨技能：瞬息全频振」",
-                      "LocalizedString": "点按释放一次「变轨技能：瞬息全频振」"
+                      "LocalizedString": "Press to cast Full-Frequency Pulse once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17113,7 +17113,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_4_1",
                       "SourceString": "变轨技能命中敌人后，点按选择一名队友（或小贞）释放对应的「同频合击」",
-                      "LocalizedString": "变轨技能命中敌人后，点按选择一名队友（或小贞）释放对应的「同频合击」"
+                      "LocalizedString": "Hit an enemy with a Redirect Skill, then press to select an ally or Xiaozhen to perform the corresponding Synced Strike."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17224,7 +17224,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_5",
                       "SourceString": "释放「极轨终结：超负荷共鸣」，灵可进入异能过载状态，展开持续一定时间的「共鸣领域」1次",
-                      "LocalizedString": "释放「极轨终结：超负荷共鸣」，灵可进入异能过载状态，展开持续一定时间的「共鸣领域」1次"
+                      "LocalizedString": "Press Oversync once to enter overdrive state and deploy a Resonance Field for a set duration."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17270,7 +17270,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_5_1",
                       "SourceString": "在「共鸣领域」持续期间，点按变轨技能召唤队友，释放「同频合击」3次",
-                      "LocalizedString": "在「共鸣领域」持续期间，点按变轨技能召唤队友，释放「同频合击」3次"
+                      "LocalizedString": "Press Redirect Skill 3 times while Resonance Field is active to call on allies to perform 3 Synced Strikes."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17306,7 +17306,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_5_2",
                       "SourceString": "再次点按极轨终结，对「共鸣领域」内的所有敌方单位造成爆发伤害1次",
-                      "LocalizedString": "再次点按极轨终结，对「共鸣领域」内的所有敌方单位造成爆发伤害1次"
+                      "LocalizedString": "Press Ultimate once again to deal Burst DMG to all enemies within Resonance Field."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17454,7 +17454,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_6",
                       "SourceString": "当灵可位于后台时\r\n会周期性地派出小贞偷袭敌人，小贞造成伤害并为其施加「小鬼打这里！」标记1次",
-                      "LocalizedString": "当灵可位于后台时\r\n会周期性地派出小贞偷袭敌人，小贞造成伤害并为其施加「小鬼打这里！」标记1次"
+                      "LocalizedString": "While Linko is off-field,\r\nshe periodically sends Xiaozhen to ambush enemies, dealing DMG and inflicting a Hit 'Em Here! mark."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17490,7 +17490,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Radio_6_1",
                       "SourceString": "使用其他角色释放变轨技能击碎「小鬼打这里！」标记，召唤队伍后台中的灵可发动「同频合击」攻击敌人1次",
-                      "LocalizedString": "使用其他角色释放变轨技能击碎「小鬼打这里！」标记，召唤队伍后台中的灵可发动「同频合击」攻击敌人1次"
+                      "LocalizedString": "Use another ally's Redirect Skill to break a Hit 'Em Here! mark and call in off-field Linko to perform 1 Synced Strike."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17587,7 +17587,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -17711,7 +17711,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -17816,7 +17816,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Xun_Phase1",
                   "SourceString": "进行连续的5次<DefaultOrange>普通攻击</>",
-                  "LocalizedString": "进行连续的5次<DefaultOrange>普通攻击</>"
+                  "LocalizedString": "Performs 5 consecutive <DefaultOrange>Basic Attacks</>."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -17876,7 +17876,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_3_1",
                       "SourceString": "操作黑羽释放1次「变轨技能：葬羽冥」，给敌人施加「失乐羽」印记",
-                      "LocalizedString": "操作黑羽释放1次「变轨技能：葬羽冥」，给敌人施加「失乐羽」印记"
+                      "LocalizedString": "Cast Netherplume Rite once to inflict Forsaken Feather on an enemy."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -17927,7 +17927,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_3_2",
                       "SourceString": "施加「失乐羽」后，切换队友进行攻击，触发1次「失乐鸟」的协同攻击",
-                      "LocalizedString": "施加「失乐羽」后，切换队友进行攻击，触发1次「失乐鸟」的协同攻击"
+                      "LocalizedString": "Switch to a teammate and attack after inflicting Forsaken Feather to trigger a Forsaken Bird coordinated attack."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18049,7 +18049,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_4",
                       "SourceString": "黑羽发动「极轨终结：恳请众魂安息」，化身「救世的魔女」",
-                      "LocalizedString": "黑羽发动「极轨终结：恳请众魂安息」，化身「救世的魔女」"
+                      "LocalizedString": "Cast Requies Animarum to transform into the Witch of Deliverance."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18159,7 +18159,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_5_1",
                       "SourceString": "「救世的魔女」状态下，进行连续的5次的「普通攻击：祭火」",
-                      "LocalizedString": "「救世的魔女」状态下，进行连续的5次的「普通攻击：祭火」"
+                      "LocalizedString": "Perform 5 consecutive hits of Pyreflame while in the Witch of Deliverance state."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18205,7 +18205,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_5_2",
                       "SourceString": "「救世的魔女」状态下，激活并发动1次「变轨技能：渡世死焰」",
-                      "LocalizedString": "「救世的魔女」状态下，激活并发动1次「变轨技能：渡世死焰」"
+                      "LocalizedString": "Activate and cast Flames of Deliverance once while in the Witch of Deliverance state."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18254,7 +18254,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Blackbird_6",
                       "SourceString": "「救世的魔女」状态下，发动「极轨终结：万火归一」并恢复至原本形态",
-                      "LocalizedString": "「救世的魔女」状态下，发动「极轨终结：万火归一」并恢复至原本形态"
+                      "LocalizedString": "Cast Flammae in Unum while in the Witch of Deliverance state to return to Blackbird's base form."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18383,7 +18383,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -18509,7 +18509,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -18598,7 +18598,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Akane_2",
                   "SourceString": "进行连续的4次普通攻击",
-                  "LocalizedString": "进行连续的4次普通攻击"
+                  "LocalizedString": "Perform 4 consecutive Basic Attacks"
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -18658,7 +18658,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_3_1",
                       "SourceString": "操作明音凛，通过点按「变轨技能：律动音浪」的方式，给指定敌人附着上「泛音列」",
-                      "LocalizedString": "操作明音凛，通过点按「变轨技能：律动音浪」的方式，给指定敌人附着上「泛音列」"
+                      "LocalizedString": "Press Rhythm Wave to have Akane Rin inflict Overtone on the target enemy."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18700,7 +18700,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_3_2",
                       "SourceString": "当明音凛攻击一名未被「泛音列」附着的敌人时，会触发一次「泛音列」的传导",
-                      "LocalizedString": "当明音凛攻击一名未被「泛音列」附着的敌人时，会触发一次「泛音列」的传导"
+                      "LocalizedString": "Attack an enemy without Overtone to trigger Overtone's relay once."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18834,7 +18834,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_3_1",
                       "SourceString": "操作明音凛，通过点按「变轨技能：律动音浪」的方式，给指定敌人附着上「泛音列」",
-                      "LocalizedString": "操作明音凛，通过点按「变轨技能：律动音浪」的方式，给指定敌人附着上「泛音列」"
+                      "LocalizedString": "Press Rhythm Wave to have Akane Rin inflict Overtone on the target enemy."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18869,7 +18869,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_4_1",
                       "SourceString": "在对方附着「泛音列」的状态下，释放强化变轨技能「同调共振」，并成功命中附着有「泛音列」目标",
-                      "LocalizedString": "在对方附着「泛音列」的状态下，释放强化变轨技能「同调共振」，并成功命中附着有「泛音列」目标"
+                      "LocalizedString": "Cast the enhanced Redirect Skill Synced Resonance and hit a target affected by Overtone."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -18981,7 +18981,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Akane_5_1",
                   "SourceString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」并通过普通攻击同时命中复数敌人",
-                  "LocalizedString": "操作明音凛，通过长按「变轨技能：律动音浪」的方式，成功展开「音域」并通过普通攻击同时命中复数敌人"
+                  "LocalizedString": "Hold Rhythm Wave to have Akane Rin create a Reverb Field, and hit multiple enemies with a Basic Attack."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19096,7 +19096,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Akane_6_1",
                   "SourceString": "在「音域」内，释放强化变轨技能「同调共振」，并成功命中「音域」内的敌人",
-                  "LocalizedString": "在「音域」内，释放强化变轨技能「同调共振」，并成功命中「音域」内的敌人"
+                  "LocalizedString": "Cast the enhanced Redirect Skill Synced Resonance within a Reverb Field and hit an enemy inside the Reverb Field."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19183,7 +19183,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_7_1",
                       "SourceString": "操作明音凛，释放「极轨终结：音障爆鸣」，并进入「华彩连段」状态。",
-                      "LocalizedString": "操作明音凛，释放「极轨终结：音障爆鸣」，并进入「华彩连段」状态。"
+                      "LocalizedString": "Cast Sonic Boom to have Akane Rin enter the Solo Cadenza state."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19228,7 +19228,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_7_2",
                       "SourceString": "「极轨终结：音障爆鸣」持续期间释放一次强化变轨技能「同调共振」",
-                      "LocalizedString": "「极轨终结：音障爆鸣」持续期间释放一次强化变轨技能「同调共振」"
+                      "LocalizedString": "Cast the enhanced Redirect Skill Synced Resonance once during Sonic Boom."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19277,7 +19277,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Akane_7_3",
                       "SourceString": "「极轨终结：音障爆鸣」第一段持续时间内，再次释放「极轨终结：音障爆鸣」",
-                      "LocalizedString": "「极轨终结：音障爆鸣」第一段持续时间内，再次释放「极轨终结：音障爆鸣」"
+                      "LocalizedString": "Cast Sonic Boom again during the first stage of Sonic Boom."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19397,7 +19397,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -19525,7 +19525,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19630,7 +19630,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase1",
                   "SourceString": "进行连续的5次普通攻击",
-                  "LocalizedString": "进行连续的5次普通攻击"
+                  "LocalizedString": "Perform 5 consecutive Basic Attacks."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19671,7 +19671,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Elyms_3_1",
                   "SourceString": "长按普攻发动「普通攻击：干扰故障」",
-                  "LocalizedString": "长按普攻发动「普通攻击：干扰故障」"
+                  "LocalizedString": "Hold Basic Attack to cast Interference."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -19726,7 +19726,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_4_1",
                       "SourceString": "释放强化技能「不连续的存在」，增强至「中等信号」",
-                      "LocalizedString": "释放强化技能「不连续的存在」，增强至「中等信号」"
+                      "LocalizedString": "Cast Intermittent Existence to reach Medium Connection."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19807,7 +19807,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_5_1",
                       "SourceString": "进行连续的3次普通攻击",
-                      "LocalizedString": "进行连续的3次普通攻击"
+                      "LocalizedString": "Perform 3 consecutive Basic Attacks."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19843,7 +19843,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_5_2",
                       "SourceString": "释放进阶强化技能「对你说再见」，增强至「强信号」",
-                      "LocalizedString": "释放进阶强化技能「对你说再见」，增强至「强信号」"
+                      "LocalizedString": "Cast Goodbye to You to reach Strong Connection."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19948,7 +19948,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_6_1",
                       "SourceString": "释放1次「极轨终结：一如昨日光景」-对单",
-                      "LocalizedString": "释放1次「极轨终结：一如昨日光景」-对单"
+                      "LocalizedString": "Cast Do You Get Deja Vu (single-target) once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -19999,7 +19999,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_7_1",
                       "SourceString": "释放1次基础变轨技能「离去的人们」",
-                      "LocalizedString": "释放1次基础变轨技能「离去的人们」"
+                      "LocalizedString": "Cast The Ones Who Left once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -20048,7 +20048,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_7_2",
                       "SourceString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对单",
-                      "LocalizedString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对单"
+                      "LocalizedString": "Switch to another character and wait for Elyms to perform the coordinated attack Remembrance (single-target) while off-field."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -20192,7 +20192,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Elyms_8_1",
                   "SourceString": "前台角色切换为曳尔沐，释放1次援护技",
-                  "LocalizedString": "前台角色切换为曳尔沐，释放1次援护技"
+                  "LocalizedString": "Switch to Elyms as the active character and cast a Support Skill once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -20382,7 +20382,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_9_1",
                       "SourceString": "释放1次「极轨终结：一如昨日光景」-对群",
-                      "LocalizedString": "释放1次「极轨终结：一如昨日光景」-对群"
+                      "LocalizedString": "Cast Do You Get Deja Vu (AoE) once"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -20418,7 +20418,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Elyms_9_2",
                       "SourceString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对群",
-                      "LocalizedString": "切换至其他角色，等待曳尔沐在后台释放1次协同攻击「追忆」-对群"
+                      "LocalizedString": "Switch to another character and wait for Elyms to perform the coordinated attack Remembrance (AoE) while off-field."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -20557,7 +20557,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",
@@ -20697,7 +20697,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase1",
                   "SourceString": "靠近敌人开始教学",
-                  "LocalizedString": "靠近敌人开始教学"
+                  "LocalizedString": "Approach an enemy to start the tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -20802,7 +20802,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Lacrimosa_Phase1",
                   "SourceString": "进行连续的5次普通攻击",
-                  "LocalizedString": "进行连续的5次普通攻击"
+                  "LocalizedString": "Perform 5 consecutive Basic Attacks."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -20853,7 +20853,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Exe_3_1",
                   "SourceString": "普攻过程中长按普攻键发动1次「普通攻击：纵深侵入」",
-                  "LocalizedString": "普攻过程中长按普攻键发动1次「普通攻击：纵深侵入」"
+                  "LocalizedString": "Hold Basic Attack to trigger Network Penetration once during a Basic Attack combo."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -20894,7 +20894,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Exe_4_1",
                   "SourceString": "操作Exe释放1次变轨技能",
-                  "LocalizedString": "操作Exe释放1次变轨技能"
+                  "LocalizedString": "Use Exe's Redirect Skill once."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -20995,7 +20995,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Exe_5_1",
                       "SourceString": "释放1次极轨终结，进入「方程构建」状态",
-                      "LocalizedString": "释放1次极轨终结，进入「方程构建」状态"
+                      "LocalizedString": "Cast Ultimate once to enter the Shader Compile state"
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -21022,7 +21022,7 @@
                       "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                       "Key": "Trial_Exe_5_2",
                       "SourceString": "普攻命中敌人并导出1个「数字残像」",
-                      "LocalizedString": "普攻命中敌人并导出1个「数字残像」"
+                      "LocalizedString": "Hit an enemy with a Basic Attack and summon one Digital Echo."
                     },
                     "SlotClass": {
                       "AssetPathName": "",
@@ -21158,7 +21158,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Trial_Exe_6_1",
                   "SourceString": "Exe处于「方程构建」状态时，发动「普通攻击：纵深侵入」处决敌人",
-                  "LocalizedString": "Exe处于「方程构建」状态时，发动「普通攻击：纵深侵入」处决敌人"
+                  "LocalizedString": "Use Network Penetration to execute an enemy while Exe has Shader Compile active."
                 },
                 "SlotClass": {
                   "AssetPathName": "",
@@ -21270,7 +21270,7 @@
                   "TableId": "/Game/Text/ST_CharacterTeachGuide.ST_CharacterTeachGuide",
                   "Key": "Normal_Phase2",
                   "SourceString": "自由练习或离开教学",
-                  "LocalizedString": "自由练习或离开教学"
+                  "LocalizedString": "Practice freely or exit tutorial."
                 },
                 "SlotClass": {
                   "AssetPathName": "/Game/UI/Blueprints/CloneSystem/BP_UI_CloneSystemTeachMainFormSlot3.BP_UI_CloneSystemTeachMainFormSlot3_C",

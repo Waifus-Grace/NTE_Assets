@@ -17,13 +17,13 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_1_Name",
           "SourceString": "分解者",
-          "LocalizedString": "分解者"
+          "LocalizedString": "Decomposer"
         },
         "MonsterDescription": {
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_1_Desc",
           "SourceString": "背包中有3件以上食物时，基础属性提高10%。",
-          "LocalizedString": "背包中有3件以上食物时，基础属性提高10%。"
+          "LocalizedString": "Increases Basic Attributes by 10% while the inventory contains at least 3 Food items."
         },
         "LinkItemType": "EStowageTussleItemType::Food",
         "LinkItemAmount": 3,
@@ -60,7 +60,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_1_BirthItemName",
           "SourceString": "出生核心道具",
-          "LocalizedString": "出生核心道具"
+          "LocalizedString": "Spawn Core Item"
         },
         "BirthItemData": [
           {
@@ -116,13 +116,13 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_2_Name",
           "SourceString": "空铠甲",
-          "LocalizedString": "空铠甲"
+          "LocalizedString": "Empty Shell"
         },
         "MonsterDescription": {
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_2_Desc",
           "SourceString": "背包中有2件以上装备时，基础属性提高10%。",
-          "LocalizedString": "背包中有2件以上装备时，基础属性提高10%。"
+          "LocalizedString": "Increases Basic Attributes by 10% while the inventory contains at least 2 Food items."
         },
         "LinkItemType": "EStowageTussleItemType::Equipment",
         "LinkItemAmount": 2,
@@ -159,7 +159,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Monster_2_BirthItemName",
           "SourceString": "出生核心道具",
-          "LocalizedString": "出生核心道具"
+          "LocalizedString": "Spawn Core Item"
         },
         "BirthItemData": [
           {

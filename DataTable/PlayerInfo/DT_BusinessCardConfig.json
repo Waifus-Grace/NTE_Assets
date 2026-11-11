@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
           "Key": "ui_editbusinesscard_001",
           "SourceString": "默认名片",
-          "LocalizedString": "默认名片"
+          "LocalizedString": "Default Nameplate"
         },
         "bIsDefault": true,
         "bAutoUnlock": true,
@@ -25,13 +25,13 @@
           "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
           "Key": "ui_editbusinesscard_002",
           "SourceString": "默认获取",
-          "LocalizedString": "默认获取"
+          "LocalizedString": "Default Acquisition"
         },
         "Description": {
           "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
           "Key": "ui_editbusinesscard_002",
           "SourceString": "默认获取",
-          "LocalizedString": "默认获取"
+          "LocalizedString": "Default Acquisition"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_00_s.YH_UI_bg_card_show_strip_00_s",
@@ -59,7 +59,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1023_name",
           "SourceString": "小小纸片",
-          "LocalizedString": "小小纸片"
+          "LocalizedString": "Just a Little Card"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -67,13 +67,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1023",
           "SourceString": "白藏羁遇等级10级奖励",
-          "LocalizedString": "白藏羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Baicang Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1023_desc",
           "SourceString": "「异象管理局」E.T.D四队队长白藏的名片。\n陈述简洁，排版清晰，正经得不像是白藏的名片——当然，也确实不是他自己制作的。显而易见，功劳都得归结于他那靠谱的副队。至于他的态度嘛……一张小小的纸片而已，如何定义得了一个活生生的、复杂的人呢？",
-          "LocalizedString": "「异象管理局」E.T.D四队队长白藏的名片。\n陈述简洁，排版清晰，正经得不像是白藏的名片——当然，也确实不是他自己制作的。显而易见，功劳都得归结于他那靠谱的副队。至于他的态度嘛……一张小小的纸片而已，如何定义得了一个活生生的、复杂的人呢？"
+          "LocalizedString": "Baicang's namecard as the Captain of ETD-4.\nConcise wording, clean layout, and so professional that it doesn't seem like Baicang's card at all. Of course, that's because he didn't actually make it himself. All credit goes to his dependable Lieutenant. As for Baicang's take on it… well, how could a little piece of paper ever define a living, complex person?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_15_s.YH_UI_bg_card_show_strip_15_s",
@@ -101,7 +101,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1019_name",
           "SourceString": "微风的悄悄话",
-          "LocalizedString": "微风的悄悄话"
+          "LocalizedString": "Whispers on the Breeze"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -109,13 +109,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1019",
           "SourceString": "薄荷羁遇等级10级奖励",
-          "LocalizedString": "薄荷羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Mint Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1019_desc",
           "SourceString": "「异象管理局」收容二组薄荷的名片。\n看到这张名片，是不是就会想起薄荷呢？那就立刻打开呗果，和薄荷聊聊天吧！薄荷的话匣子里总是有聊不完的话题，她绝对会第一时间回复你！当然了，出勤时间除外。",
-          "LocalizedString": "「异象管理局」收容二组薄荷的名片。\n看到这张名片，是不是就会想起薄荷呢？那就立刻打开呗果，和薄荷聊聊天吧！薄荷的话匣子里总是有聊不完的话题，她绝对会第一时间回复你！当然了，出勤时间除外。"
+          "LocalizedString": "Mint's namecard as a member of CSU-2.\nDoes seeing this card make you think of Mint? Then open up Bagel and chat with her right away! Mint's always got endless topics to talk about, and she'll absolutely reply in a flash! Well, except when she's on duty, of course."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_09_s.YH_UI_bg_card_show_strip_09_s",
@@ -143,7 +143,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1039_name",
           "SourceString": "测试游戏",
-          "LocalizedString": "测试游戏"
+          "LocalizedString": "A Little Test"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -151,13 +151,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1039",
           "SourceString": "法帝娅羁遇等级10级奖励",
-          "LocalizedString": "法帝娅羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Fadia Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1039_desc",
           "SourceString": "「异象管理局」E.T.D四队队员法帝娅的名片。\n当名片上印着一个热烈乖张的口红印时，接收方往往会露出一个有趣的表情。譬如，误认作一场邀约的窃喜；跳脱于正常社交范围的尴尬；一闪而过的鄙夷……实际上，这只是一个测试游戏。她从中窥见对方的底色，并乐此不疲。",
-          "LocalizedString": "「异象管理局」E.T.D四队队员法帝娅的名片。\n当名片上印着一个热烈乖张的口红印时，接收方往往会露出一个有趣的表情。譬如，误认作一场邀约的窃喜；跳脱于正常社交范围的尴尬；一闪而过的鄙夷……实际上，这只是一个测试游戏。她从中窥见对方的底色，并乐此不疲。"
+          "LocalizedString": "Fadia's namecard as a member of ETD-4.\nWhen a bold and provocative lipstick mark is printed on a namecard, the recipient tends to have an interesting reaction. A secret thrill from mistaking it for an invitation, perhaps. The awkwardness of something beyond normal social norms. A fleeting flash of disdain… In truth, it's all just a little test. She uses it to catch a glimpse of their true colors, and she never gets tired of it."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_12_s.YH_UI_bg_card_show_strip_12_s",
@@ -185,7 +185,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1014_name",
           "SourceString": "玫约在先",
-          "LocalizedString": "玫约在先"
+          "LocalizedString": "Rose Pact Takes Precedence"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -193,13 +193,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1055",
           "SourceString": "九原羁遇等级10级奖励",
-          "LocalizedString": "九原羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Jiuyuan Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1014_desc",
           "SourceString": "「斯特利速递」代理店长九原的名片。\n这张名片由斯特利统一制作，照片是其中固定的部分。当它被递到你手中时，便意味着交易早已悄然开始——只是多数人总要等到很久以后，才会真正明白自己究竟同意了些什么。",
-          "LocalizedString": "「斯特利速递」代理店长九原的名片。\n这张名片由斯特利统一制作，照片是其中固定的部分。当它被递到你手中时，便意味着交易早已悄然开始——只是多数人总要等到很久以后，才会真正明白自己究竟同意了些什么。"
+          "LocalizedString": "Jiuyuan's namecard as the acting owner of Sterry Express.\nThe card was produced by Sterry in a standardized format, with the photo being a fixed element. The moment it's placed in your hands, a transaction has already quietly begun. It's just that most people don't realize what they've actually agreed to until much, much later."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_04_s.YH_UI_bg_card_show_strip_04_s",
@@ -227,7 +227,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1010_name",
           "SourceString": "老大的派头",
-          "LocalizedString": "老大的派头"
+          "LocalizedString": "Boss Vibes"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -235,13 +235,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1010",
           "SourceString": "娜娜莉羁遇等级10级奖励",
-          "LocalizedString": "娜娜莉羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Nanally Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1010_desc",
           "SourceString": "「伊波恩古董店」店员娜娜莉的名片。\n凹凸有形的纸面暗纹（睡觉时压皱的）、低奢的配色（彩印经费不够）、隐约可见的装饰性线条（手抖涂出去了）……种种细节彰显着名片持有者神秘且高贵的身份。这个叫「老大的派头」，相信有人能懂。",
-          "LocalizedString": "「伊波恩古董店」店员娜娜莉的名片。\n凹凸有形的纸面暗纹（睡觉时压皱的）、低奢的配色（彩印经费不够）、隐约可见的装饰性线条（手抖涂出去了）……种种细节彰显着名片持有者神秘且高贵的身份。这个叫「老大的派头」，相信有人能懂。"
+          "LocalizedString": "Nanally's namecard as a staff member of Eibon Antique Shop.\nThe textured watermark patterns on the paper (crumpled from sleeping on it), the understated luxury color scheme (ran out of budget for color printing), the faintly visible decorative lines (hand slipped while drawing)… Every detail speaks to the mysterious and noble identity of the card's owner. She calls this \"boss vibes.\" Surely someone out there gets it."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_08_s.YH_UI_bg_card_show_strip_08_s",
@@ -269,7 +269,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1003_name",
           "SourceString": "家族成员",
-          "LocalizedString": "家族成员"
+          "LocalizedString": "Family Member"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -277,13 +277,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1003",
           "SourceString": "早雾羁遇等级10级奖励",
-          "LocalizedString": "早雾羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Sakiri Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1003_desc",
           "SourceString": "「伊波恩古董店」店员早雾的名片。\n「什么叫你还没有名片？柯林斯家族的成员怎么能没有名片，快做一张去！」因为这种原因诞生的名片，不知道早雾对这张名片到底是什么态度，至少娜娜莉很满意。",
-          "LocalizedString": "「伊波恩古董店」店员早雾的名片。\n「什么叫你还没有名片？柯林斯家族的成员怎么能没有名片，快做一张去！」因为这种原因诞生的名片，不知道早雾对这张名片到底是什么态度，至少娜娜莉很满意。"
+          "LocalizedString": "Sakiri's namecard as a staff member of Eibon Antique Shop.\n\"What do you mean you don't have a namecard? How can a member of The Coluccis not have a namecard? Go get one made right now!\" This namecard was born from that exact demand. It's unclear how Sakiri actually feels about it, but at least Nanally is satisfied."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_05_s.YH_UI_bg_card_show_strip_05_s",
@@ -311,7 +311,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1033_name",
           "SourceString": "欢迎光临",
-          "LocalizedString": "欢迎光临"
+          "LocalizedString": "Welcome"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -319,13 +319,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1033",
           "SourceString": "阿德勒羁遇等级10级奖励",
-          "LocalizedString": "阿德勒羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Adler Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1033_desc",
           "SourceString": "「伊波恩古董店」管家的正式名片。\n持本名片到店可享受伊波恩管家亲自招待并有优惠折扣！但对阿德勒先生本人来说，这张名片的存在意味着漂泊半生的旅人，也终于有了歇脚之处。",
-          "LocalizedString": "「伊波恩古董店」管家的正式名片。\n持本名片到店可享受伊波恩管家亲自招待并有优惠折扣！但对阿德勒先生本人来说，这张名片的存在意味着漂泊半生的旅人，也终于有了歇脚之处。"
+          "LocalizedString": "The official namecard of the Butler of Eibon Antique Shop.\nPresent this card at the shop to receive personal service from the Eibon Butler, along with a special discount! But for Adler himself, the very existence of this card signifies something more: a wanderer who drifted through half a lifetime has finally found a place to call home."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_11_s.YH_UI_bg_card_show_strip_11_s",
@@ -353,7 +353,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1025_name",
           "SourceString": "S级执行担当",
-          "LocalizedString": "S级执行担当"
+          "LocalizedString": "S-Class Operations Lead"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -361,13 +361,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1025",
           "SourceString": "哈索尔羁遇等级10级奖励",
-          "LocalizedString": "哈索尔羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Hathor Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1025_desc",
           "SourceString": "「斯特利速递」精英快递员哈索尔的名片。\n这张名片由斯特利统一制作，上面的照片并非随意选取。它本身不意味着任何担保，却传递着一个无声的讯息：至少有人，已将你最坏的处境预先思量周全。",
-          "LocalizedString": "「斯特利速递」精英快递员哈索尔的名片。\n这张名片由斯特利统一制作，上面的照片并非随意选取。它本身不意味着任何担保，却传递着一个无声的讯息：至少有人，已将你最坏的处境预先思量周全。"
+          "LocalizedString": "Hathor's namecard as an Elite Courier of Sterry Express.\nThis card was produced by Sterry in a standardized format, but the photo on it was not chosen at random. It doesn't promise any guarantees, yet it carries a silent message: at the very least, someone has already thought through your worst possible situations in advance."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_17_s.YH_UI_bg_card_show_strip_17_s",
@@ -395,7 +395,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1020_name",
           "SourceString": "谜底是十字路口",
-          "LocalizedString": "谜底是十字路口"
+          "LocalizedString": "The Answer is Crossroads"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -403,13 +403,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1020",
           "SourceString": "哈尼娅羁遇等级10级奖励",
-          "LocalizedString": "哈尼娅羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Haniel Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1020_desc",
           "SourceString": "「斯特利速递」精英快递员哈尼娅的名片。\n这张名片由斯特利统一制作，但显然在拍摄时候加入了一点哈尼娅本人的小巧思。递出名片的时候应该说：樱花雨落下的时候，能不能再见面？",
-          "LocalizedString": "「斯特利速递」精英快递员哈尼娅的名片。\n这张名片由斯特利统一制作，但显然在拍摄时候加入了一点哈尼娅本人的小巧思。递出名片的时候应该说：樱花雨落下的时候，能不能再见面？"
+          "LocalizedString": "Haniel's namecard as an Elite Courier of Sterry Express.\nThe card was produced by Sterry in a standardized format, but Haniel clearly added a little personal touch during the photoshoot. Apparently, when handing over the card, she's supposed to say: \"When the cherry blossoms fall like rain, will we meet again?\""
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_18_s.YH_UI_bg_card_show_strip_18_s",
@@ -437,7 +437,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1005_name",
           "SourceString": "唯一确定性",
-          "LocalizedString": "唯一确定性"
+          "LocalizedString": "The One Certainty"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -445,13 +445,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1054",
           "SourceString": "达芙蒂尔羁遇等级10级奖励",
-          "LocalizedString": "达芙蒂尔羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Daffodill Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1005_desc",
           "SourceString": "「伊波恩古董店」店员达芙蒂尔的名片。\n人拥有名片意味着什么呢？就好像狗狗拥有了写着自己名字的铭牌吗？她尚且不太明白其中的含义。唯独能确信的是——以前，她总是在不同的任务中使用不同的姓名代号。现在，她只要做「达芙蒂尔」就可以。",
-          "LocalizedString": "「伊波恩古董店」店员达芙蒂尔的名片。\n人拥有名片意味着什么呢？就好像狗狗拥有了写着自己名字的铭牌吗？她尚且不太明白其中的含义。唯独能确信的是——以前，她总是在不同的任务中使用不同的姓名代号。现在，她只要做「达芙蒂尔」就可以。"
+          "LocalizedString": "Daffodill's namecard as a staff member of Eibon Antique Shop.\nWhat does it mean for a person to have a namecard? Is it like a dog having a tag with its name on it? She doesn't quite understand the significance yet. But one thing she knows for certain: before, she always used different codenames for different missions. Now, she just needs to be Daffodill."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_16_s.YH_UI_bg_card_show_strip_16_s",
@@ -479,7 +479,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1021_name",
           "SourceString": "正式申请",
-          "LocalizedString": "正式申请"
+          "LocalizedString": "Formal Application"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -487,13 +487,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1021",
           "SourceString": "埃德嘉羁遇等级10级奖励",
-          "LocalizedString": "埃德嘉羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Edgar Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1021_desc",
           "SourceString": "「伊波恩古董店」店员埃德嘉的名片。\n照片出自埃德嘉的个人简历。埃德嘉为应聘伊波恩古董店做足了准备……实际上，都没派上用场。\n不过，被埃德嘉当作「面试官」尊敬的塔吉多过足了瘾。",
-          "LocalizedString": "「伊波恩古董店」店员埃德嘉的名片。\n照片出自埃德嘉的个人简历。埃德嘉为应聘伊波恩古董店做足了准备……实际上，都没派上用场。\n不过，被埃德嘉当作「面试官」尊敬的塔吉多过足了瘾。"
+          "LocalizedString": "Edgar's namecard as a staff member of Eibon Antique Shop.\nThe photo is from Edgar's personal resume. Edgar went all out preparing to apply for a position at Eibon Antique Shop… but in the end, none of it was actually necessary.\nStill, Taygedo, whom Edgar respectfully treated as the \"interviewer,\" got a real kick out of it."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_13_s.YH_UI_bg_card_show_strip_13_s",
@@ -521,7 +521,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1073_name",
           "SourceString": "告白信",
-          "LocalizedString": "告白信"
+          "LocalizedString": "Love Letter"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -529,13 +529,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1073",
           "SourceString": "小吱羁遇等级10级奖励",
-          "LocalizedString": "小吱羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Chiz Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1073_desc",
           "SourceString": "「粉爪银行」大堂经理的私人名片。\n出自小吱在拍入职照时被同事抓拍的一张，只会送给亲近的人。入职本司请牢记——《粉爪银行员工守则第一条》：「浪漫」。",
-          "LocalizedString": "「粉爪银行」大堂经理的私人名片。\n出自小吱在拍入职照时被同事抓拍的一张，只会送给亲近的人。入职本司请牢记——《粉爪银行员工守则第一条》：「浪漫」。"
+          "LocalizedString": "Chiz's namecard as the Lobby Manager of Pink Paws Bank.\nThe photo on the card is a candid shot taken by a colleague during her onboarding photoshoot. She only gives this card to those close to her. A reminder to all who join the company: Pink Paws Bank Employee Code, Rule #1: Romantic."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_19_s.YH_UI_bg_card_show_strip_19_s",
@@ -563,7 +563,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1008_name",
           "SourceString": "商务模版",
-          "LocalizedString": "商务模版"
+          "LocalizedString": "Business Template"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -571,13 +571,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1008",
           "SourceString": "翳羁遇等级10级奖励",
-          "LocalizedString": "翳羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Skia Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1008_desc",
           "SourceString": "「异象管理局」E.T.D四队副队长翳的名片。\n名片应包含基本姓名、职位、公司全称、详细地址和有效联络方式，如电话号码、邮箱、呗果账号和芝码等，确保客户和合作伙伴能够便捷地取得联系——而这张在统一格式下制作的名片似乎稍显信息不足，翳颇有微词。",
-          "LocalizedString": "「异象管理局」E.T.D四队副队长翳的名片。\n名片应包含基本姓名、职位、公司全称、详细地址和有效联络方式，如电话号码、邮箱、呗果账号和芝码等，确保客户和合作伙伴能够便捷地取得联系——而这张在统一格式下制作的名片似乎稍显信息不足，翳颇有微词。"
+          "LocalizedString": "Skia's namecard as Lieutenant of ETD-4.\nA namecard should include essential information such as the holder's name, title, full company name, detailed address, and valid contact methods like phone number, email, Bagel account, and Sesame Codes, ensuring that clients and partners can easily get in touch. However, this card, produced in a standardized format, seems to fall short on information. Skia is not amused."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_07_s.YH_UI_bg_card_show_strip_07_s",
@@ -605,7 +605,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1029_name",
           "SourceString": "风水问题",
-          "LocalizedString": "风水问题"
+          "LocalizedString": "A Feng Shui Issue"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -613,13 +613,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1052",
           "SourceString": "浔羁遇等级10级奖励",
-          "LocalizedString": "浔羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Hotori Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1029_desc",
           "SourceString": "「伊波恩古董店」店长浔的名片。\n几乎每一桩结局是被次品、假货所骗的古董收购交易，都通过这张名片找到了浔的头上。所以她偶尔会掏出来打量，寻思着是不是照片文字在设计布局上的位置出了什么毛病……风水角度的。",
-          "LocalizedString": "「伊波恩古董店」店长浔的名片。\n几乎每一桩结局是被次品、假货所骗的古董收购交易，都通过这张名片找到了浔的头上。所以她偶尔会掏出来打量，寻思着是不是照片文字在设计布局上的位置出了什么毛病……风水角度的。"
+          "LocalizedString": "Hotori's namecard as the Owner of Eibon Antique Shop.\nAlmost every antique acquisition deal that ends with the buyer being duped by fakes or inferior goods somehow traces back to Hotori through this card. So every now and then, she takes it out for a good look, wondering if there's something wrong with the placement of the photo and text in the layout… from a feng shui perspective."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_14_s.YH_UI_bg_card_show_strip_14_s",
@@ -647,7 +647,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1004_name",
           "SourceString": "以下省略",
-          "LocalizedString": "以下省略"
+          "LocalizedString": "The rest is omitted."
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -655,13 +655,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1004",
           "SourceString": "安魂曲羁遇等级10级奖励",
-          "LocalizedString": "安魂曲羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Lacrimosa Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1004_desc",
           "SourceString": "「异象管理局」E.T.D四队队员安魂曲的……名片？\n「把这张卡片递给别人，不需要自我介绍，大家也能认识你。」听上去好像很方便，所以安魂曲也学着做了……或许照片不太正式，但确实令人印象深刻。",
-          "LocalizedString": "「异象管理局」E.T.D四队队员安魂曲的……名片？\n「把这张卡片递给别人，不需要自我介绍，大家也能认识你。」听上去好像很方便，所以安魂曲也学着做了……或许照片不太正式，但确实令人印象深刻。"
+          "LocalizedString": "Lacrimosa's… namecard? As a member of ETD-4.\n\"Just hand this card to someone, and they'll know who you are without any introductions.\" Sounded convenient enough, so Lacrimosa decided to make one herself… The photo might not be the most professional, but it certainly leaves an impression."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_06_s.YH_UI_bg_card_show_strip_06_s",
@@ -689,7 +689,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1070_name",
           "SourceString": "见字不如面",
-          "LocalizedString": "见字不如面"
+          "LocalizedString": "Better to Meet Face-to-Face"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -697,13 +697,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1070",
           "SourceString": "海月羁遇等级10级奖励",
-          "LocalizedString": "海月羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Aurelia Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1070_desc",
           "SourceString": "「玉饼街居民协会」街道管理员海月的名片。\n整条街上，人人都认识这位勤恳尽责的管理员；新人初来乍到，也往往先被拉着认遍了各家店铺，才来得及问一声她的名字。于是，上岗时印的一整盒名片，至今原封不动地放在海月桌上。",
-          "LocalizedString": "「玉饼街居民协会」街道管理员海月的名片。\n整条街上，人人都认识这位勤恳尽责的管理员；新人初来乍到，也往往先被拉着认遍了各家店铺，才来得及问一声她的名字。于是，上岗时印的一整盒名片，至今原封不动地放在海月桌上。"
+          "LocalizedString": "The namecard of Aurelia, the administrator of the Tamamochi Street.\nEveryone on Tamamochi Street knows about her. When newcomers arrive, she usually drags them around to every shop in town before they even have a chance to ask her for her name. No wonder the box full of namecards that she printed when she took the job remains untouched."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_36_s.YH_UI_bg_card_show_strip_36_s",
@@ -731,7 +731,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1071_name",
           "SourceString": "新身份",
-          "LocalizedString": "新身份"
+          "LocalizedString": "New Identity"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -739,13 +739,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_card_1071",
           "SourceString": "卡厄斯羁遇等级10级奖励",
-          "LocalizedString": "卡厄斯羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Chaos Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1071_desc",
           "SourceString": "「异象管理局」E.T.D六队队员卡厄斯的名片。\n为数不多仅存着的完好的一张名片，与它同时印刷的那些名片其中有一半成为廷达罗斯的玩具，毕竟狗狗的天性就是搞破坏；还有一半随机遗失在城市各处，变成了打进卡厄斯手机里的推销电话。还好异象管理局印发员工名片是免费的。",
-          "LocalizedString": "「异象管理局」E.T.D六队队员卡厄斯的名片。\n为数不多仅存着的完好的一张名片，与它同时印刷的那些名片其中有一半成为廷达罗斯的玩具，毕竟狗狗的天性就是搞破坏；还有一半随机遗失在城市各处，变成了打进卡厄斯手机里的推销电话。还好异象管理局印发员工名片是免费的。"
+          "LocalizedString": "A namecard belonging to Chaos, a member of ETD-6.\nOne of the few copies still intact. Half of the original batch became Tindalos's toys—dogs are born to destroy things, after all. The other half were scattered across the city and somehow turned into telemarketing calls to Chaos's phone. Good thing Bureau of Anomaly Control employee namecards are free."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_46_s.YH_UI_bg_card_show_strip_46_s",
@@ -773,7 +773,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1076_name",
           "SourceString": "用途未知",
-          "LocalizedString": "用途未知"
+          "LocalizedString": "Unknown Purpose"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -781,13 +781,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1076",
           "SourceString": "真红羁遇等级10级奖励",
-          "LocalizedString": "真红羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Shinku Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1076_desc",
           "SourceString": "「异象管理局」C.S.U二组成员真红的名片。\r\n收容组每天打交道的异象多半不具备辨识文字的知性，工作的危害程度也没高到会像E.T.D那样时常碰上需要向受害市民抱歉地递出名片的窘境——那还有什么场合会用得上这些印发的纸片呢？只是某种猜测，也许管理局内部有人会把它们当做集换式卡牌来收集……",
-          "LocalizedString": "「异象管理局」C.S.U二组成员真红的名片。\r\n收容组每天打交道的异象多半不具备辨识文字的知性，工作的危害程度也没高到会像E.T.D那样时常碰上需要向受害市民抱歉地递出名片的窘境——那还有什么场合会用得上这些印发的纸片呢？只是某种猜测，也许管理局内部有人会把它们当做集换式卡牌来收集……"
+          "LocalizedString": "Namecard of Shinku, a member of the Bureau of Anomaly Control's CSU-2.\r\nMost Anomalies handled by the Containment Units each day are not exactly known for their reading skills, and the work rarely places them in ETD's awkward position of handing out namecards while apologizing to affected civilians. So when would these little printed slips ever prove useful? One can only guess—but perhaps someone within the Bureau collects them like trading cards…"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_48_s.YH_UI_bg_card_show_strip_48_s",
@@ -815,7 +815,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Combat_BussinessCard_01_name",
           "SourceString": "独家风景",
-          "LocalizedString": "独家风景"
+          "LocalizedString": "Elite Viewpoint"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -823,13 +823,13 @@
           "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
           "Key": "Combat_Avatar_01_obtain",
           "SourceString": "「环期赏令」奖励",
-          "LocalizedString": "「环期赏令」奖励"
+          "LocalizedString": "Circle Bounty Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Combat_BussinessCard_01_desc",
           "SourceString": "「这可是只有本老大才能找到的，绝佳的观景点！」",
-          "LocalizedString": "「这可是只有本老大才能找到的，绝佳的观景点！」"
+          "LocalizedString": "Exclusive boss-level vantage point. Don't even think about trying to find it yourself!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_33_s.YH_UI_bg_card_show_strip_33_s",
@@ -857,7 +857,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_cang_name",
           "SourceString": "闲暇之外的闲暇",
-          "LocalizedString": "闲暇之外的闲暇"
+          "LocalizedString": "Leisure Beyond Leisure"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -865,13 +865,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1023",
           "SourceString": "白藏觉醒等级6级奖励",
-          "LocalizedString": "白藏觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Baicang Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_cang_desc",
           "SourceString": "白藏被抓拍到的一张照片。「难得」的休息时光，当然要好好享受啦！",
-          "LocalizedString": "白藏被抓拍到的一张照片。「难得」的休息时光，当然要好好享受啦！"
+          "LocalizedString": "A snapshot of Baicang. He's having his \"precious\" resting time. Of course he's chilling."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_23_s.YH_UI_bg_card_show_strip_23_s",
@@ -899,7 +899,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Mint_name",
           "SourceString": "清凉百分百",
-          "LocalizedString": "清凉百分百"
+          "LocalizedString": "Minty Breeze"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -907,13 +907,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1019",
           "SourceString": "薄荷觉醒等级6级奖励",
-          "LocalizedString": "薄荷觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Mint Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Mint_desc",
           "SourceString": "薄荷被抓拍到的一张照片。这是什么？薄荷味的冰淇淋！咬一口！",
-          "LocalizedString": "薄荷被抓拍到的一张照片。这是什么？薄荷味的冰淇淋！咬一口！"
+          "LocalizedString": "A snapshot of Mint. What's this? Mint ice cream? Nom nom nom!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_24_s.YH_UI_bg_card_show_strip_24_s",
@@ -941,7 +941,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_fadia_name",
           "SourceString": "危险游戏",
-          "LocalizedString": "危险游戏"
+          "LocalizedString": "Dangerous Game"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -949,13 +949,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1039",
           "SourceString": "法帝娅觉醒等级6级奖励",
-          "LocalizedString": "法帝娅觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Fadia Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_fadia_desc",
           "SourceString": "法帝娅被抓拍到的一张照片。熟悉她的人都知道，每当她露出这个表情时，意味着游戏才刚刚开始。",
-          "LocalizedString": "法帝娅被抓拍到的一张照片。熟悉她的人都知道，每当她露出这个表情时，意味着游戏才刚刚开始。"
+          "LocalizedString": "A snapshot of Fadia. For those who know her, whenever she wears that expression, it means the game has just begun."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_26_s.YH_UI_bg_card_show_strip_26_s",
@@ -983,7 +983,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Kuhara_name",
           "SourceString": "玫瑰的邀约",
-          "LocalizedString": "玫瑰的邀约"
+          "LocalizedString": "A Rosy Invitation"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -991,13 +991,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1055",
           "SourceString": "九原觉醒等级6级奖励",
-          "LocalizedString": "九原觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Jiuyuan Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Kuhara_desc",
           "SourceString": "九原被抓拍到的一张照片。玫瑰的芳香指引你来此地，趁着夜色未阑，与她共饮一杯吧。",
-          "LocalizedString": "九原被抓拍到的一张照片。玫瑰的芳香指引你来此地，趁着夜色未阑，与她共饮一杯吧。"
+          "LocalizedString": "A snapshot of Jiuyuan. The fragrance of roses has guided you here. While the night is still young, share a drink with her."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_29_s.YH_UI_bg_card_show_strip_29_s",
@@ -1025,7 +1025,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Nanally_name",
           "SourceString": "无重力漫游",
-          "LocalizedString": "无重力漫游"
+          "LocalizedString": "Weightless Wanderer"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1033,13 +1033,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1010",
           "SourceString": "娜娜莉觉醒等级6级奖励",
-          "LocalizedString": "娜娜莉觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Nanally Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Nanally_desc",
           "SourceString": "娜娜莉被抓拍到的一张照片。挣开重力的枷锁，少女跳跃在颠倒的世界之间。",
-          "LocalizedString": "娜娜莉被抓拍到的一张照片。挣开重力的枷锁，少女跳跃在颠倒的世界之间。"
+          "LocalizedString": "A snapshot of Nanally. The maiden breaks away from gravity and leaps through the inverted world."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_20_s.YH_UI_bg_card_show_strip_20_s",
@@ -1067,7 +1067,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Sagiri_name",
           "SourceString": "别扭的心意",
-          "LocalizedString": "别扭的心意"
+          "LocalizedString": "Not a Tsundere"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1075,13 +1075,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1003",
           "SourceString": "早雾觉醒等级6级奖励",
-          "LocalizedString": "早雾觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Sakiri Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Sagiri_desc",
           "SourceString": "早雾被抓拍到的一张照片。喏，这个给你——什么？才……才不是特意给你留的！",
-          "LocalizedString": "早雾被抓拍到的一张照片。喏，这个给你——什么？才……才不是特意给你留的！"
+          "LocalizedString": "A snapshot of Sakiri. Oi, take this. What…? It's not like I saved it for you!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_32_s.YH_UI_bg_card_show_strip_32_s",
@@ -1109,7 +1109,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Adler_name",
           "SourceString": "万能管家",
-          "LocalizedString": "万能管家"
+          "LocalizedString": "Brilliant Butler"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1117,13 +1117,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1033",
           "SourceString": "阿德勒觉醒等级6级奖励",
-          "LocalizedString": "阿德勒觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Adler Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Adler_desc",
           "SourceString": "阿德勒被抓拍到的一张照片。对于阿德勒先生这样的管家来说，完美不过是日常。",
-          "LocalizedString": "阿德勒被抓拍到的一张照片。对于阿德勒先生这样的管家来说，完美不过是日常。"
+          "LocalizedString": "A snapshot of Adler. For a butler like Adler, perfection is to be expected."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_21_s.YH_UI_bg_card_show_strip_21_s",
@@ -1151,7 +1151,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Hathor_name",
           "SourceString": "在路上",
-          "LocalizedString": "在路上"
+          "LocalizedString": "On the Road"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1159,13 +1159,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1025",
           "SourceString": "哈索尔觉醒等级6级奖励",
-          "LocalizedString": "哈索尔觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Hathor Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Hathor_desc",
           "SourceString": "哈索尔被抓拍到的一张照片。不知从何时起，她渐渐发觉，沿途的风景原来这般美好。",
-          "LocalizedString": "哈索尔被抓拍到的一张照片。不知从何时起，她渐渐发觉，沿途的风景原来这般美好。"
+          "LocalizedString": "A snapshot of Hathor. At some point, she started to realize the journey before the destination had great views."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_28_s.YH_UI_bg_card_show_strip_28_s",
@@ -1193,7 +1193,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Haniel_name",
           "SourceString": "世界即舞台",
-          "LocalizedString": "世界即舞台"
+          "LocalizedString": "The World Is a Stage"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1201,13 +1201,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1020",
           "SourceString": "哈尼娅觉醒等级6级奖励",
-          "LocalizedString": "哈尼娅觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Haniel Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Haniel_desc",
           "SourceString": "哈尼娅被抓拍到的一张照片。总有一天，全海特洛都会认可她的歌声，毕竟，这可是无敌的哈尼娅！",
-          "LocalizedString": "哈尼娅被抓拍到的一张照片。总有一天，全海特洛都会认可她的歌声，毕竟，这可是无敌的哈尼娅！"
+          "LocalizedString": "A snapshot of Haniel. One day, all of Hethereau will be listening to her songs. After all, it's the invincible Haniel!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_27_s.YH_UI_bg_card_show_strip_27_s",
@@ -1235,7 +1235,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_daffodill_name",
           "SourceString": "王牌保镖",
-          "LocalizedString": "王牌保镖"
+          "LocalizedString": "Ace Bodyguard"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1243,13 +1243,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1054",
           "SourceString": "达芙蒂尔觉醒等级6级奖励",
-          "LocalizedString": "达芙蒂尔觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Daffodill Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_daffodill_desc",
           "SourceString": "达芙蒂尔被抓拍到的一张照片。除了原本的职责外，达芙蒂尔还负责看着挑食的孩子把蔬菜全都咽下去。",
-          "LocalizedString": "达芙蒂尔被抓拍到的一张照片。除了原本的职责外，达芙蒂尔还负责看着挑食的孩子把蔬菜全都咽下去。"
+          "LocalizedString": "A snapshot of Daffodill. Apart from her usual duties, Daffodill is responsible for making sure those picky eaters eat their veggies."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_25_s.YH_UI_bg_card_show_strip_25_s",
@@ -1277,7 +1277,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_edgar_name",
           "SourceString": "下一块拼图",
-          "LocalizedString": "下一块拼图"
+          "LocalizedString": "Next Puzzle Piece"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1285,13 +1285,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1021",
           "SourceString": "埃德嘉觉醒等级6级奖励",
-          "LocalizedString": "埃德嘉觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Edgar Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_edgar_desc",
           "SourceString": "埃德嘉被抓拍到的一张照片。Tayge! Tayge Tayge!（埃德嘉！全伊波恩！拼拼图最快！塔吉多！亲自认证！）",
-          "LocalizedString": "埃德嘉被抓拍到的一张照片。Tayge! Tayge Tayge!（埃德嘉！全伊波恩！拼拼图最快！塔吉多！亲自认证！）"
+          "LocalizedString": "A snapshot of Edgar. Tayge! Tayge Tayge! (Edgar! Best at puzzles! At Eibon! Taygedo certifies!)"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_22_s.YH_UI_bg_card_show_strip_22_s",
@@ -1319,7 +1319,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_chiichan_name",
           "SourceString": "业务之星",
-          "LocalizedString": "业务之星"
+          "LocalizedString": "Model Employee"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1327,13 +1327,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1073",
           "SourceString": "小吱觉醒等级6级奖励",
-          "LocalizedString": "小吱觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Chiz Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_chiichan_desc",
           "SourceString": "小吱被抓拍到的一张照片。不要被外表迷惑哦，超强的业务能力才是小吱真正的「杀手锏」。",
-          "LocalizedString": "小吱被抓拍到的一张照片。不要被外表迷惑哦，超强的业务能力才是小吱真正的「杀手锏」。"
+          "LocalizedString": "A snapshot of Chiz. Don't be fooled by her looks. Her true strength is in her business skills."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_30_s.YH_UI_bg_card_show_strip_30_s",
@@ -1361,7 +1361,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_skia_name",
           "SourceString": "你今生的故事",
-          "LocalizedString": "你今生的故事"
+          "LocalizedString": "The Story of Your Life"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1369,13 +1369,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1008",
           "SourceString": "翳觉醒等级6级奖励",
-          "LocalizedString": "翳觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Skia Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_skia_desc",
           "SourceString": "翳被抓拍到的一张照片。偶尔放松的时候，他也会允许自己陷入回忆的漩涡中。",
-          "LocalizedString": "翳被抓拍到的一张照片。偶尔放松的时候，他也会允许自己陷入回忆的漩涡中。"
+          "LocalizedString": "A snapshot of Skia. Sometimes when Skia is relaxing, he allows his memories to haunt him."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_31_s.YH_UI_bg_card_show_strip_31_s",
@@ -1403,7 +1403,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Jin_name",
           "SourceString": "从不出错的眼光",
-          "LocalizedString": "从不出错的眼光"
+          "LocalizedString": "An Unerring Eye"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1411,13 +1411,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1052",
           "SourceString": "浔觉醒等级6级奖励",
-          "LocalizedString": "浔觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Hotori Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Jin_desc",
           "SourceString": "浔被抓拍到的一张照片。遇到稀罕宝贝，不论价值几何，该出手时就出手，这是浔一贯的作风。",
-          "LocalizedString": "浔被抓拍到的一张照片。遇到稀罕宝贝，不论价值几何，该出手时就出手，这是浔一贯的作风。"
+          "LocalizedString": "A candid photo of Hotori. When she spots a rare treasure, price is never the question. She always knows when to make her move"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_34_s.YH_UI_bg_card_show_strip_34_s",
@@ -1445,7 +1445,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_lacrimosa_name",
           "SourceString": "番茄新发现",
-          "LocalizedString": "番茄新发现"
+          "LocalizedString": "A Fresh Find in Tomatoes"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1453,13 +1453,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1004",
           "SourceString": "安魂曲觉醒等级6级奖励",
-          "LocalizedString": "安魂曲觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Lacrimosa Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_lacrimosa_desc",
           "SourceString": "安魂曲被抓拍到的一张照片。如果天上那个圆圆的东西是番茄的话，想必能做出好多好多番茄酱吧……",
-          "LocalizedString": "安魂曲被抓拍到的一张照片。如果天上那个圆圆的东西是番茄的话，想必能做出好多好多番茄酱吧……"
+          "LocalizedString": "A snapshot of Lacrimosa. If that round-shaped thing up there were a tomato, it could make a lot of Tomato Jelly…"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_42_s.YH_UI_bg_card_show_strip_42_s",
@@ -1487,7 +1487,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_haiyue_name",
           "SourceString": "往日的回声",
-          "LocalizedString": "往日的回声"
+          "LocalizedString": "Echoes of the Past"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1495,13 +1495,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1070",
           "SourceString": "海月觉醒等级6级奖励",
-          "LocalizedString": "海月觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Aurelia Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_haiyue_desc",
           "SourceString": "海月被抓拍到的一张照片。有时候，海月仍会思念她最好的朋友们：就像踏上旅程的人，偶尔也会回望故乡。",
-          "LocalizedString": "海月被抓拍到的一张照片。有时候，海月仍会思念她最好的朋友们：就像踏上旅程的人，偶尔也会回望故乡。"
+          "LocalizedString": "A candid photo of Aurelia. She still sometimes thinks of her closest friends, like a traveler glancing back at home."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_35_s.YH_UI_bg_card_show_strip_35_s",
@@ -1529,7 +1529,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_kaese_name",
           "SourceString": "真智能吗？",
-          "LocalizedString": "真智能吗？"
+          "LocalizedString": "Smart? Says Who?"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1537,13 +1537,13 @@
           "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
           "Key": "likeability_Qcard_1071",
           "SourceString": "卡厄斯觉醒等级6级奖励",
-          "LocalizedString": "卡厄斯觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Chaos Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_kaese_desc",
           "SourceString": "卡厄斯被抓拍到的一张照片。异象管理局为许多特殊员工开办了「现代智能设备常识课」，尽管如此，卡厄斯还是需要队长私下为他开小灶，以免挂科。",
-          "LocalizedString": "卡厄斯被抓拍到的一张照片。异象管理局为许多特殊员工开办了「现代智能设备常识课」，尽管如此，卡厄斯还是需要队长私下为他开小灶，以免挂科。"
+          "LocalizedString": "A candid photo of Chaos. The Bureau of Anomaly Control runs a \"Modern Smart Device Basics\" course for many of its special employees. Chaos, however, still needs Captain to tutor him on the side if he has any hope of passing."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_43_s.YH_UI_bg_card_show_strip_43_s",
@@ -1571,7 +1571,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_zhenhong_name",
           "SourceString": "赤红流星",
-          "LocalizedString": "赤红流星"
+          "LocalizedString": "Crimson Meteor"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1579,13 +1579,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1076",
           "SourceString": "真红觉醒等级6级奖励",
-          "LocalizedString": "真红觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Shinku Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_zhenhong_desc",
           "SourceString": "真红被抓拍到的一张照片。C.S.U偶尔可以放开手脚去对付棘手的目标，因此也会留下一些时髦的影像——但还是不建议市民在尚未确认异象泯除时就拿着照片去索要签名。",
-          "LocalizedString": "真红被抓拍到的一张照片。C.S.U偶尔可以放开手脚去对付棘手的目标，因此也会留下一些时髦的影像——但还是不建议市民在尚未确认异象泯除时就拿着照片去索要签名。"
+          "LocalizedString": "A candid snapshot of Shinku. CSU occasionally gets to cut loose against troublesome targets, leaving behind some pretty stylish shots—but citizens are still advised not to ask for autographs until the Anomaly has been confirmed nullified."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_50_s.YH_UI_bg_card_show_strip_50_s",
@@ -1621,13 +1621,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_SNv10_Taygedo_Obtain",
           "SourceString": "塔吉多APP-兑换中心内获得",
-          "LocalizedString": "塔吉多APP-兑换中心内获得"
+          "LocalizedString": "Obtained from the Taygedo App – Exchange Center."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_SNv10_Taygedo_Desc",
           "SourceString": "一样的词语是怎么翻译出那么多种意思的呢？",
-          "LocalizedString": "一样的词语是怎么翻译出那么多种意思的呢？"
+          "LocalizedString": "How does one phrase end up with so many meanings?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_37_s.YH_UI_bg_card_show_strip_37_s",
@@ -1655,7 +1655,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_02_Name",
           "SourceString": "绘本的一页",
-          "LocalizedString": "绘本的一页"
+          "LocalizedString": "Storybook Page"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1663,13 +1663,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_02_Obtain",
           "SourceString": "第2期环期赏令奖励",
-          "LocalizedString": "第2期环期赏令奖励"
+          "LocalizedString": "Circle Bounty Season 2 Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_02_Desc",
           "SourceString": "从前森林里有一个爱穿红外套的小女孩，因此大家都叫她「安魂曲」。",
-          "LocalizedString": "从前森林里有一个爱穿红外套的小女孩，因此大家都叫她「安魂曲」。"
+          "LocalizedString": "Once upon a time, there was a little girl who lived in the forest and loved wearing a red coat. Everyone called her \"Lacrimosa.\""
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_40_s.YH_UI_bg_card_show_strip_40_s",
@@ -1697,7 +1697,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Bagel_001_Name",
           "SourceString": "新鲜出炉",
-          "LocalizedString": "新鲜出炉"
+          "LocalizedString": "Freshly Baked"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1705,13 +1705,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Bagel_001_Obtain",
           "SourceString": "「呗果商店」兑换获得。",
-          "LocalizedString": "「呗果商店」兑换获得。"
+          "LocalizedString": "Redeem at the Bagel Shop."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Bagel_001_Desc",
           "SourceString": "新鲜出炉的热乎帖子，记得点赞关注收藏！",
-          "LocalizedString": "新鲜出炉的热乎帖子，记得点赞关注收藏！"
+          "LocalizedString": "A freshly baked Bagel post. Remember to like, follow, and save!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_38_s.YH_UI_bg_card_show_strip_38_s",
@@ -1739,7 +1739,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard__SNv11_Oversea_BeardPapa_Name",
           "SourceString": "下午茶时间",
-          "LocalizedString": "下午茶时间"
+          "LocalizedString": "Tea Time"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1747,13 +1747,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard__SNv11_Oversea_BeardPapa_Obtain",
           "SourceString": "BeardPapa's线下门店联动奖励",
-          "LocalizedString": "BeardPapa's线下门店联动奖励"
+          "LocalizedString": "BeardPapa Offline Store Collaboration Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard__SNv11_Oversea_BeardPapa_Desc",
           "SourceString": "全海特洛市最美味的泡芙！",
-          "LocalizedString": "全海特洛市最美味的泡芙！"
+          "LocalizedString": "The tastiest cream puff in all of Hethereau!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_41_s.YH_UI_bg_card_show_strip_41_s",
@@ -1781,7 +1781,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_PrisonFight_Name",
           "SourceString": "定风波",
-          "LocalizedString": "定风波"
+          "LocalizedString": "Storm Calmer"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1789,13 +1789,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_PrisonFight_Obtain",
           "SourceString": "「蜘蛛商店」兑换获得。",
-          "LocalizedString": "「蜘蛛商店」兑换获得。"
+          "LocalizedString": "Redeemed from the Spider Shop."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_PrisonFight_Desc",
           "SourceString": "肆虐的狂风，是时候停下了。",
-          "LocalizedString": "肆虐的狂风，是时候停下了。"
+          "LocalizedString": "Even the raging gale must come to rest."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_45_s.YH_UI_bg_card_show_strip_45_s",
@@ -1823,7 +1823,7 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsj_name",
           "SourceString": "赛道掠影",
-          "LocalizedString": "赛道掠影"
+          "LocalizedString": "Trackside Shadow"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1831,13 +1831,13 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "MangHe_bsj_04",
           "SourceString": "「失速狂飙」盲盒获得。",
-          "LocalizedString": "「失速狂飙」盲盒获得。"
+          "LocalizedString": "Obtained from the Everdriving Mystery Box."
         },
         "Description": {
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsj_des",
           "SourceString": "或许那真是一道影子，不然为何连最昂贵的相机也无法捕捉它的身形？",
-          "LocalizedString": "或许那真是一道影子，不然为何连最昂贵的相机也无法捕捉它的身形？"
+          "LocalizedString": "Perhaps it truly is only a shadow. Why else would even the finest camera fail to capture its form?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_MangHe_bsj_s.YH_UI_bg_card_show_strip_MangHe_bsj_s",
@@ -1865,7 +1865,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_04_Name",
           "SourceString": "夏日进行时",
-          "LocalizedString": "夏日进行时"
+          "LocalizedString": "Summer Time"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1873,13 +1873,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_04_Obtain",
           "SourceString": "第3期环期赏令奖励",
-          "LocalizedString": "第3期环期赏令奖励"
+          "LocalizedString": "Circle Bounty Season 3 Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_04_Desc",
           "SourceString": "夏天到了！和朋友们一起出去玩吧！",
-          "LocalizedString": "夏天到了！和朋友们一起出去玩吧！"
+          "LocalizedString": "Summer has arrived! Grab your friends and make the most of it."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_51_s.YH_UI_bg_card_show_strip_51_s",
@@ -1907,7 +1907,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_FT_01_1",
           "SourceString": "绵绵常驻",
-          "LocalizedString": "绵绵常驻"
+          "LocalizedString": "Fuzzy Resident"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1915,13 +1915,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_FT_01_3",
           "SourceString": "「纽扣商店」兑换获得。",
-          "LocalizedString": "「纽扣商店」兑换获得。"
+          "LocalizedString": "Redeemed from the Button Shop."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_FT_01_2",
           "SourceString": "从今天起，你就是绵绵村永远的荣誉村民啦！",
-          "LocalizedString": "从今天起，你就是绵绵村永远的荣誉村民啦！"
+          "LocalizedString": "From this day forward, you're an honorary villager of Fuzzy Village—forever!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_52_s.YH_UI_bg_card_show_strip_52_s",
@@ -1949,7 +1949,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1075_name",
           "SourceString": "名字咒语",
-          "LocalizedString": "名字咒语"
+          "LocalizedString": "Namebound Incantation"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1957,13 +1957,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1075",
           "SourceString": "伊洛伊羁遇等级10级奖励",
-          "LocalizedString": "伊洛伊羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Iroi Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1075_desc",
           "SourceString": "「异象管理局」C.S.U二组成员奥涅伊洛伊的名片。\n一张照片，还有一个名字。这是她出生时父母所起的名字，在遥远的传说里这似乎也是一位司梦的神明。名字像咒语似的贴在她头上，她的异能是拜此所赐吗？或是那位神明早知道自己要将奇迹加诸她身，于是暗自在她父母起名时，挑起关于这名字的念头？纠结错乱的问题在她脑子里飘来飘去，撞到脑门掉到地上，没有回音，没有答案。",
-          "LocalizedString": "「异象管理局」C.S.U二组成员奥涅伊洛伊的名片。\n一张照片，还有一个名字。这是她出生时父母所起的名字，在遥远的传说里这似乎也是一位司梦的神明。名字像咒语似的贴在她头上，她的异能是拜此所赐吗？或是那位神明早知道自己要将奇迹加诸她身，于是暗自在她父母起名时，挑起关于这名字的念头？纠结错乱的问题在她脑子里飘来飘去，撞到脑门掉到地上，没有回音，没有答案。"
+          "LocalizedString": "Namecard of Oneiroi, a member of the Bureau of Anomaly Control's CSU-2.\nA photograph, and a name. It is the name her parents gave her at birth—and in some distant legend, it also seems to belong to a god who rules over dreams. The name clings to her like an incantation. Was her Esper Ability granted because of it? Or had that god already foreseen the miracle that would be bestowed upon her, quietly planting this name in her parents' minds before they chose it? Tangled, disordered questions drift through her thoughts, bump against her forehead, and fall to the floor—without echo, without answer."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_47_s.YH_UI_bg_card_show_strip_47_s",
@@ -1991,7 +1991,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_yiluoyi_name",
           "SourceString": "收容没有事故",
-          "LocalizedString": "收容没有事故"
+          "LocalizedString": "Containment no Breach"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -1999,13 +1999,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1075",
           "SourceString": "伊洛伊觉醒等级6级奖励",
-          "LocalizedString": "伊洛伊觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Iroi Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_yiluoyi_desc",
           "SourceString": "伊洛伊被抓拍到的一张照片。罐头里面有什么？咖啡？可乐？还是异象？",
-          "LocalizedString": "伊洛伊被抓拍到的一张照片。罐头里面有什么？咖啡？可乐？还是异象？"
+          "LocalizedString": "A snapshot of Iroi. What's in the can? Coffee? Cola? Or perhaps an Anomaly?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_53_s.YH_UI_bg_card_show_strip_53_s",
@@ -2033,7 +2033,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_BidKing_Name",
           "SourceString": "成交！",
-          "LocalizedString": "成交！"
+          "LocalizedString": "Deal!"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2041,13 +2041,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_BidKing_Obtain",
           "SourceString": "在「即刻落槌」中完成活动任务获得。",
-          "LocalizedString": "在「即刻落槌」中完成活动任务获得。"
+          "LocalizedString": "Reward for completing event quests in Going, Going, Gone!"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_BidKing_Desc",
           "SourceString": "最后一次出价……成交！恭喜，这份拍品属于您了。",
-          "LocalizedString": "最后一次出价……成交！恭喜，这份拍品属于您了。"
+          "LocalizedString": "Final bid… sold! Congratulations, this lot is yours."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_49_s.YH_UI_bg_card_show_strip_49_s",
@@ -2075,7 +2075,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_05_Name",
           "SourceString": "浪花大作战",
-          "LocalizedString": "浪花大作战"
+          "LocalizedString": "Splash Showdown"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2083,13 +2083,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_05_Obtain",
           "SourceString": "第4期环期赏令奖励",
-          "LocalizedString": "第4期环期赏令奖励"
+          "LocalizedString": "Circle Bounty Season 4 Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_05_Desc",
           "SourceString": "太阳！沙滩！海浪！还有最最最最最重要的伙伴！",
-          "LocalizedString": "太阳！沙滩！海浪！还有最最最最最重要的伙伴！"
+          "LocalizedString": "Sun! Sand! Waves! And, don't forget, our most, most, most important companions!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_54_s.YH_UI_bg_card_show_strip_54_s",
@@ -2117,7 +2117,7 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_ScratchCard_01_name",
           "SourceString": "多谢惠顾",
-          "LocalizedString": "多谢惠顾"
+          "LocalizedString": "Come Again"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2125,13 +2125,13 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "Title_ScrachCard_01_usedesc",
           "SourceString": "在「书签商店」消耗回声书签兑换",
-          "LocalizedString": "在「书签商店」消耗回声书签兑换"
+          "LocalizedString": "Exchange Echo Bookmarks for this title at the Bookmark Shop."
         },
         "Description": {
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_ScratchCard_01_des",
           "SourceString": "感谢您对海特洛市纸媒业的支持。",
-          "LocalizedString": "感谢您对海特洛市纸媒业的支持。"
+          "LocalizedString": "Thank you for supporting Hethereau City's print media industry."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_ScratchCard_01_s.YH_UI_bg_card_show_strip_ScratchCard_01_s",
@@ -2159,7 +2159,7 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_ScratchCard_02_name",
           "SourceString": "最终大奖",
-          "LocalizedString": "最终大奖"
+          "LocalizedString": "Ultimate Prize"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2167,13 +2167,13 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "Title_ScrachCard_01_usedesc",
           "SourceString": "在「书签商店」消耗回声书签兑换",
-          "LocalizedString": "在「书签商店」消耗回声书签兑换"
+          "LocalizedString": "Exchange Echo Bookmarks for this title at the Bookmark Shop."
         },
         "Description": {
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_ScratchCard_02_des",
           "SourceString": "向您的胜利表达最诚挚的祝贺。",
-          "LocalizedString": "向您的胜利表达最诚挚的祝贺。"
+          "LocalizedString": "Our heartfelt congratulations on your victory."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_ScratchCard_02_s.YH_UI_bg_card_show_strip_ScratchCard_02_s",
@@ -2201,7 +2201,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1036_name",
           "SourceString": "余烬花名",
-          "LocalizedString": "余烬花名"
+          "LocalizedString": "Name in the Embers"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2209,13 +2209,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1036",
           "SourceString": "残虹羁遇等级10级奖励",
-          "LocalizedString": "残虹羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Zankou Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1036_desc",
           "SourceString": "前秘密组织「红字」成员、现格赫罗斯岛囚犯残虹的名片。\n其实「残虹」或者「赤葵」这样的名字并非是她与生俱来的东西。名字总是拥有神奇的力量，有人因它被记住，有人因它获得新生，也有人在某一天彻底失去原本的自己。残败的长虹高悬天边，赤葵的根系铺满记忆，总有些事物早已和那一座座废墟一样，被埋进了花园的最深处。",
-          "LocalizedString": "前秘密组织「红字」成员、现格赫罗斯岛囚犯残虹的名片。\n其实「残虹」或者「赤葵」这样的名字并非是她与生俱来的东西。名字总是拥有神奇的力量，有人因它被记住，有人因它获得新生，也有人在某一天彻底失去原本的自己。残败的长虹高悬天边，赤葵的根系铺满记忆，总有些事物早已和那一座座废墟一样，被埋进了花园的最深处。"
+          "LocalizedString": "Namecard of Zankou, a former member of Scarlet Letter and now a prisoner on Ghroth Island.\nTruthfully, \"Zankou\" and \"Red Nightshade\" aren't the names she was given at birth. You know, names have a unique, strange power. They allow people to be forgotten, but also remembered in return. They give others a new life, while simultaneously making others lose theirs. Under the stormy skies, a \"Red Nightshade\", buried and forgotten, roots through the dirt and mud, awaiting a dazzling rainbow's light."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_60_s.YH_UI_bg_card_show_strip_60_s",
@@ -2243,7 +2243,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Zankou_name",
           "SourceString": "花落再收刀",
-          "LocalizedString": "花落再收刀"
+          "LocalizedString": "After the Bloom"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2251,13 +2251,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1036",
           "SourceString": "残虹觉醒等级6级奖励",
-          "LocalizedString": "残虹觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Zankou Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Zankou_desc",
           "SourceString": "残虹被抓拍到的一张照片。刀刃出鞘的瞬间，万千幻梦升腾。",
-          "LocalizedString": "残虹被抓拍到的一张照片。刀刃出鞘的瞬间，万千幻梦升腾。"
+          "LocalizedString": "A snapshot of Zankou. The moment the blade clears its sheath, countless dreamlike visions bloom."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_57_s.YH_UI_bg_card_show_strip_57_s",
@@ -2285,7 +2285,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1072_name",
           "SourceString": "迷路电波",
-          "LocalizedString": "迷路电波"
+          "LocalizedString": "Stray Signal"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2293,13 +2293,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1072",
           "SourceString": "灵可羁遇等级10级奖励",
-          "LocalizedString": "灵可羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Linko Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1072_desc",
           "SourceString": "「异象管理局」E.T.D六队成员灵可的名片。\n灵可常常在想，也许自己从小到大的愿念，现在应该都如同未接收到的电波一样，漂浮在世界上的某个角落。它们绕过高楼、树梢和天线，有时撞上一只路过的小鸟，偶尔又躲进一台旧电视里。如果有一天，你看到了一张照片，听到一个名字，或收到了一条不知道从哪里传来的讯号……说不定只是她迷路了很久的一句「你好」。",
-          "LocalizedString": "「异象管理局」E.T.D六队成员灵可的名片。\n灵可常常在想，也许自己从小到大的愿念，现在应该都如同未接收到的电波一样，漂浮在世界上的某个角落。它们绕过高楼、树梢和天线，有时撞上一只路过的小鸟，偶尔又躲进一台旧电视里。如果有一天，你看到了一张照片，听到一个名字，或收到了一条不知道从哪里传来的讯号……说不定只是她迷路了很久的一句「你好」。"
+          "LocalizedString": "Namecard of Linko, a member of ETD-6 in the Bureau of Anomaly Control.\nLinko often wonders whether her dreams are completely out of her reach, like frequencies playing endlessly, only to never be picked up—slipping past towering high-rises, treetops, and antennas alike. If, one day, you see a photo, hear a name, or catch a signal from somewhere you can't quite place, it might just be her, sending out a long-lost \"hello\"."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_61_s.YH_UI_bg_card_show_strip_61_s",
@@ -2327,7 +2327,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Radio_name",
           "SourceString": "贞在加载",
-          "LocalizedString": "贞在加载"
+          "LocalizedString": "Now Loading: Xiaozhen"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2335,13 +2335,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1072",
           "SourceString": "灵可觉醒等级6级奖励",
-          "LocalizedString": "灵可觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Linko Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_Radio_desc",
           "SourceString": "灵可被抓拍到的一张照片。「前方监测到神秘电波！」小贞加载中，灵可向前冲！",
-          "LocalizedString": "灵可被抓拍到的一张照片。「前方监测到神秘电波！」小贞加载中，灵可向前冲！"
+          "LocalizedString": "A snapshot of Linko. \"Mysterious frequency detected ahead!\" Xiaozhen powers up as Linko charges forward!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_58_s.YH_UI_bg_card_show_strip_58_s",
@@ -2369,7 +2369,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_MBCollect_01_Name",
           "SourceString": "寻宝之旅",
-          "LocalizedString": "寻宝之旅"
+          "LocalizedString": "Treasurebound"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2377,13 +2377,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_MBCollect_01_Obtain",
           "SourceString": "「遗珍商店」兑换获得。",
-          "LocalizedString": "「遗珍商店」兑换获得。"
+          "LocalizedString": "Redeemed from the Salvage Shop."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Businesscard_MBCollect_01_Desc",
           "SourceString": "上钩了！这次是个大货！",
-          "LocalizedString": "上钩了！这次是个大货！"
+          "LocalizedString": "Got one! This one's gonna be big!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_62_s.YH_UI_bg_card_show_strip_62_s",
@@ -2411,7 +2411,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Volleyball_Name",
           "SourceString": "理想球场",
-          "LocalizedString": "理想球场"
+          "LocalizedString": "Imaginist Court"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2419,13 +2419,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Volleyball_ues",
           "SourceString": "「排球之星」限时活动获得。",
-          "LocalizedString": "「排球之星」限时活动获得。"
+          "LocalizedString": "Obtained from the limited-time Volley Star event."
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Volleyball_Desc",
           "SourceString": "理想馆排球场的照片。盛夏海边的沙滩排球？醒醒吧，当然是在有空调的室内场地打球更舒服了！",
-          "LocalizedString": "理想馆排球场的照片。盛夏海边的沙滩排球？醒醒吧，当然是在有空调的室内场地打球更舒服了！"
+          "LocalizedString": "A photo of the volleyball court at Imaginist Arena. Beach volleyball by the seaside in midsummer? Dream on. An air-conditioned indoor court is obviously way comfier!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_59_s.YH_UI_bg_card_show_strip_59_s",
@@ -2453,7 +2453,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_06_Name",
           "SourceString": "游园记",
-          "LocalizedString": "游园记"
+          "LocalizedString": "Pukaland Journal"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2461,13 +2461,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_06_Obtain",
           "SourceString": "第5期环期赏令奖励",
-          "LocalizedString": "第5期环期赏令奖励"
+          "LocalizedString": "Circle Bounty Season 5 Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_06_Desc",
           "SourceString": "让生活噗卡一下！",
-          "LocalizedString": "让生活噗卡一下！"
+          "LocalizedString": "Add a little Puka to your life!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Combat_Card_06_s.Combat_Card_06_s",
@@ -2495,7 +2495,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1042_name",
           "SourceString": "百年孤独",
-          "LocalizedString": "百年孤独"
+          "LocalizedString": "One Hundred Years of Solitude"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2503,13 +2503,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1042",
           "SourceString": "黑羽羁遇等级10级奖励",
-          "LocalizedString": "黑羽羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Blackbird Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1042_desc",
           "SourceString": "「魔女之家」主人黑羽的名片。\n无论黑羽怎样尝试，知无不言的水晶球总是在她问起自己的命运时沉默。每到这时她会看着水晶球里旋起的迷雾发呆，想象着自己生于何处，长于何处，葬于何处。想着想着她便沉沉睡去，不知道自己将做一个奇特的梦，梦里她作为一只乌羽的鸟儿飞过人们头顶，数百年的光阴跟在身后，于是她将歌声遍洒大地，无休止地飞过一季又一季春秋。",
-          "LocalizedString": "「魔女之家」主人黑羽的名片。\n无论黑羽怎样尝试，知无不言的水晶球总是在她问起自己的命运时沉默。每到这时她会看着水晶球里旋起的迷雾发呆，想象着自己生于何处，长于何处，葬于何处。想着想着她便沉沉睡去，不知道自己将做一个奇特的梦，梦里她作为一只乌羽的鸟儿飞过人们头顶，数百年的光阴跟在身后，于是她将歌声遍洒大地，无休止地飞过一季又一季春秋。"
+          "LocalizedString": "The namecard of Blackbird, proprietor of The Witch's House.\nNo matter how hard Blackbird tries, the crystal ball—so willing to reveal everything—always falls silent when she asks about her own fate. On each attempt, she stares at the mist swirling inside the ball, lost in thought, imagining where she was born, where she grew up, and where she'll be laid to rest. As her mind wanders, she drifts into a deep slumber, unaware that a peculiar dream is awaiting her: she's a bird with black feathers, soaring over people's heads, with centuries trailing behind her, as though scattering her song across the earth as she flies on endlessly through the many cycles of the world's seasons."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1042_s.Card_Likeability_1042_s",
@@ -2537,7 +2537,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_blackbird_name",
           "SourceString": "「工作」时间",
-          "LocalizedString": "「工作」时间"
+          "LocalizedString": "Working Hours"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2545,13 +2545,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1042",
           "SourceString": "黑羽觉醒等级6级奖励",
-          "LocalizedString": "黑羽觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Blackbird Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_blackbird_desc",
           "SourceString": "黑羽被抓拍到的一张照片。「工作中，请勿打扰。」黑羽房间的门上有时会挂上这样的标牌。",
-          "LocalizedString": "黑羽被抓拍到的一张照片。「工作中，请勿打扰。」黑羽房间的门上有时会挂上这样的标牌。"
+          "LocalizedString": "A snapshot of Blackbird. \"Working. Do not disturb.\" A sign bearing these words can sometimes be found hanging on her door."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1042_s.Card_Awaken_1042_s",
@@ -2579,7 +2579,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1057_name",
           "SourceString": "音乐之星",
-          "LocalizedString": "音乐之星"
+          "LocalizedString": "Akine Rin business card"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2587,13 +2587,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_card_1057",
           "SourceString": "明音羁遇等级10级奖励",
-          "LocalizedString": "明音羁遇等级10级奖励"
+          "LocalizedString": "Lvl 10 Akane Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Universal_BusinessCard_1057_desc",
           "SourceString": "「猫头音！！！！」乐队吉他手明音凛的名片。\n她拾起父亲的破木吉他，拨动琴弦。在毫无美妙可言的杂音中，她发现了属于自己的旋律，一条通往音乐的道路。一把把新的吉他，一件件新的乐器。乐队的组建、解散，再组建。即便经历无数，少女依旧期待着明天，期待着在这条道路上走得更远，期待着每一次在舞台上化身为那颗闪烁的新星。",
-          "LocalizedString": "「猫头音！！！！」乐队吉他手明音凛的名片。\n她拾起父亲的破木吉他，拨动琴弦。在毫无美妙可言的杂音中，她发现了属于自己的旋律，一条通往音乐的道路。一把把新的吉他，一件件新的乐器。乐队的组建、解散，再组建。即便经历无数，少女依旧期待着明天，期待着在这条道路上走得更远，期待着每一次在舞台上化身为那颗闪烁的新星。"
+          "LocalizedString": "Akane Rin's profile description"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1057_s.Card_Likeability_1057_s",
@@ -2621,7 +2621,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_akane_name",
           "SourceString": "比拥抱更接近的蓝",
-          "LocalizedString": "比拥抱更接近的蓝"
+          "LocalizedString": "Heartbeats in Blue"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2629,13 +2629,13 @@
           "TableId": "/Game/Text/ST_Ui_D.ST_Ui_D",
           "Key": "likeability_Qcard_1057",
           "SourceString": "明音觉醒等级6级奖励",
-          "LocalizedString": "明音觉醒等级6级奖励"
+          "LocalizedString": "Lvl 6 Akane Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Characterawaken_akane_desc",
           "SourceString": "明音凛被抓拍到的一张照片。在演出后的舞台上，两人背靠着休息。默契让她们无需多言，更不必看着对方便能相互理解。因为背靠是比拥抱更能让心脏贴近的方式。每一声心跳都在诉说：群星簇拥的满月，你是否也在某处同我一起仰望呢？",
-          "LocalizedString": "明音凛被抓拍到的一张照片。在演出后的舞台上，两人背靠着休息。默契让她们无需多言，更不必看着对方便能相互理解。因为背靠是比拥抱更能让心脏贴近的方式。每一声心跳都在诉说：群星簇拥的满月，你是否也在某处同我一起仰望呢？"
+          "LocalizedString": "A snapshot of Akane Rin. After the show, she and her companion rest back to back beneath the lingering stage lights. Between them, there is no need for words. Some bonds are quiet like that—felt rather than spoken. Beneath a full moon wreathed in stars, are you looking up at the same sky?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1057_s.Card_Awaken_1057_s",
@@ -2663,7 +2663,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_PuKaLandPlan_Name",
           "SourceString": "方斯传奇",
-          "LocalizedString": "方斯传奇"
+          "LocalizedString": "Fons Legend"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2671,13 +2671,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_PuKaLandPlan_Obtain",
           "SourceString": "都市大亨-噗卡计划获取",
-          "LocalizedString": "都市大亨-噗卡计划获取"
+          "LocalizedString": "City Tycoon - Puka Membership Program Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_PuKaLandPlan_Desc",
           "SourceString": "海特洛里真的有活着的传奇。",
-          "LocalizedString": "海特洛里真的有活着的传奇。"
+          "LocalizedString": "So there really are living legends in Hethereau."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/BusinessCard_PuKaLandPlan_s.BusinessCard_PuKaLandPlan_s",
@@ -2705,7 +2705,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv14_BusinessCard_Oversea_001_Name",
           "SourceString": "采购日",
-          "LocalizedString": "采购日"
+          "LocalizedString": "Shopping Spree"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2713,13 +2713,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv14_BusinessCard_Oversea_001_Obtain",
           "SourceString": "充值中心购买获取",
-          "LocalizedString": "充值中心购买获取"
+          "LocalizedString": "Top-Up Center Purchase Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv14_BusinessCard_Oversea_001_Desc",
           "SourceString": "「我看看清单……船员娜娜莉继续前进！」\n「是！薄荷船长！」",
-          "LocalizedString": "「我看看清单……船员娜娜莉继续前进！」\n「是！薄荷船长！」"
+          "LocalizedString": "\"Let's see who's on the list... Crew Member Nanally, onward!\"\n\"Aye, Captain Mint!\""
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/SNv14_BusinessCard_Oversea_001_s.SNv14_BusinessCard_Oversea_001_s",
@@ -2747,7 +2747,7 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsj2_name",
           "SourceString": "电掣油驰",
-          "LocalizedString": "电掣油驰"
+          "LocalizedString": "Roar Recharged"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2755,13 +2755,13 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsj2_ly",
           "SourceString": "「骏影疾驰」盲盒获得。",
-          "LocalizedString": "「骏影疾驰」盲盒获得。"
+          "LocalizedString": "Obtained from the Born to Race Mystery Box."
         },
         "Description": {
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsj2_des",
           "SourceString": "电与油的混合轰鸣，携带传承的精神续作。",
-          "LocalizedString": "电与油的混合轰鸣，携带传承的精神续作。"
+          "LocalizedString": "Electric power meets the roar of the engine—a worthy successor carrying its legacy forward."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_65_s.YH_UI_bg_card_show_strip_65_s",
@@ -2789,7 +2789,7 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsjjlb_name",
           "SourceString": "地平线幽灵",
-          "LocalizedString": "地平线幽灵"
+          "LocalizedString": "Horizon Spectre"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2797,13 +2797,13 @@
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsjjlb_ly",
           "SourceString": "「保时捷俱乐部」奖励。",
-          "LocalizedString": "「保时捷俱乐部」奖励。"
+          "LocalizedString": "Porsche Club Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_UI_hpy.ST_UI_hpy",
           "Key": "BussinessCard_MangHe_bsjjlb_des",
           "SourceString": "尾灯残影后，在地平线的尽头，疾驰着若隐若现的幽灵。",
-          "LocalizedString": "尾灯残影后，在地平线的尽头，疾驰着若隐若现的幽灵。"
+          "LocalizedString": "Beyond the fading trail of taillights, a ghostly silhouette races along the edge of the horizon."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_66_s.YH_UI_bg_card_show_strip_66_s",
@@ -2831,7 +2831,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Pukaland_name",
           "SourceString": "乐园来信",
-          "LocalizedString": "乐园来信"
+          "LocalizedString": "Greetings from Pukaland"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2839,13 +2839,13 @@
           "TableId": "/Game/Text/ST_Output.ST_Output",
           "Key": "PukaLand_name",
           "SourceString": "星票小铺兑换获取",
-          "LocalizedString": "星票小铺兑换获取"
+          "LocalizedString": "Redeemed at the Star Ticket Counter."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_Pukaland_desc",
           "SourceString": "一封来自噗卡乐园的快乐邀请，请查收！",
-          "LocalizedString": "一封来自噗卡乐园的快乐邀请，请查收！"
+          "LocalizedString": "A joyful invitation from Pukaland—please check your mail!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_68_s.YH_UI_bg_card_show_strip_68_s",
@@ -2873,7 +2873,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_07_Name",
           "SourceString": "异想迷城",
-          "LocalizedString": "异想迷城"
+          "LocalizedString": "City of Wonders"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2881,13 +2881,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_07_Obtain",
           "SourceString": "第6期环期赏令奖励",
-          "LocalizedString": "第6期环期赏令奖励"
+          "LocalizedString": "Circle Bounty Season 6 Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "Combat_BussinessCard_07_Desc",
           "SourceString": "恭喜玩家达成隐藏成就：？？我？",
-          "LocalizedString": "恭喜玩家达成隐藏成就：？？我？"
+          "LocalizedString": "Congratulations! You've unlocked the hidden achievement: ?? Me?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Combat_Card_07_s.Combat_Card_07_s",
@@ -2915,7 +2915,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Logistics_Name",
           "SourceString": "远大理想",
-          "LocalizedString": "远大理想"
+          "LocalizedString": "Big Dreams"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2923,13 +2923,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Logistics_Obtain",
           "SourceString": "限时活动「运通全城」获得",
-          "LocalizedString": "限时活动「运通全城」获得"
+          "LocalizedString": "Limited-Time Event City Logistics Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "BusinessCard_Logistics_Desc",
           "SourceString": "本店第一个小目标是：超越斯特利速递。",
-          "LocalizedString": "本店第一个小目标是：超越斯特利速递。"
+          "LocalizedString": "Our shop's first little goal? Beat Sterry Express!"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/BusinessCard_Logistics_s.BusinessCard_Logistics_s",
@@ -2957,7 +2957,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_name",
           "SourceString": "通讯官",
-          "LocalizedString": "通讯官"
+          "LocalizedString": "Comms Officer"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -2965,13 +2965,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_ly",
           "SourceString": "曳尔沐羁遇等级10奖励",
-          "LocalizedString": "曳尔沐羁遇等级10奖励"
+          "LocalizedString": "Lvl 10 Elyms Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_des",
           "SourceString": "「异象管理局」E.T.D六队副队长曳尔沐的名片。\r\n作为E.T.D六队中承担了对外交流沟通事务的人员，这张名片将会很频繁地被送到社会上各行各业人们的手中。因此采用了干净漂亮的设计款式版本，印刷了相当多的张数。不可思议的是，如果仔细盯着上面的信息看的话，会觉得名字和照片的部分都有些模糊，但标注的电话号码那一栏异常清晰……",
-          "LocalizedString": "「异象管理局」E.T.D六队副队长曳尔沐的名片。\r\n作为E.T.D六队中承担了对外交流沟通事务的人员，这张名片将会很频繁地被送到社会上各行各业人们的手中。因此采用了干净漂亮的设计款式版本，印刷了相当多的张数。不可思议的是，如果仔细盯着上面的信息看的话，会觉得名字和照片的部分都有些模糊，但标注的电话号码那一栏异常清晰……"
+          "LocalizedString": "A Namecard for Elyms, a lieutenant in the Bureau's ETD-6.\r\nAs ETD-6's communications officer, Elyms deals with people from all walks of life, so the card has a clean, attractive design and was printed in large quantities. Oddly, the name and photo look a little blurry, but the phone number is crystal clear…"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1090_s.Card_Likeability_1090_s",
@@ -2999,7 +2999,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_Q_name",
           "SourceString": "数海漫游",
-          "LocalizedString": "数海漫游"
+          "LocalizedString": "Data Surfer"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -3007,13 +3007,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_Q_ly",
           "SourceString": "曳尔沐觉醒等级6奖励",
-          "LocalizedString": "曳尔沐觉醒等级6奖励"
+          "LocalizedString": "Lvl 6 Elyms Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1090_Q_des",
           "SourceString": "曳尔沐被抓拍到的一张照片。漫游五光十色的数据之海，把好玩的新鲜趣事时时传递给朋友们，愿意接收吗？点选YES或NO？",
-          "LocalizedString": "曳尔沐被抓拍到的一张照片。漫游五光十色的数据之海，把好玩的新鲜趣事时时传递给朋友们，愿意接收吗？点选YES或NO？"
+          "LocalizedString": "A snapshot of Elyms exploring a vibrant sea of data and sharing fun new discoveries with friends in real time. Want to keep up? Tap YES or NO."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1090_s.Card_Awaken_1090_s",
@@ -3041,7 +3041,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_name",
           "SourceString": "用户名X",
-          "LocalizedString": "用户名X"
+          "LocalizedString": "User X"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -3049,13 +3049,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_ly",
           "SourceString": "EXE羁遇等级10奖励",
-          "LocalizedString": "EXE羁遇等级10奖励"
+          "LocalizedString": "Lvl 10 Exe Bond Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_des",
           "SourceString": "「异象管理局」E.T.D六队队长Exe的名片。\r\n虽说是名片，但上头所写的名字只有他的「网名」，下头有小小一行关于读音是字母「X」的备注。不知是不愿提供有关自己的真实信息，还是他素来只习惯被用那个代号来称呼。或许这个名字有寄托着什么别的含义，除了免不了让人联想到的电脑文件扩展名这一点之外……",
-          "LocalizedString": "「异象管理局」E.T.D六队队长Exe的名片。\r\n虽说是名片，但上头所写的名字只有他的「网名」，下头有小小一行关于读音是字母「X」的备注。不知是不愿提供有关自己的真实信息，还是他素来只习惯被用那个代号来称呼。或许这个名字有寄托着什么别的含义，除了免不了让人联想到的电脑文件扩展名这一点之外……"
+          "LocalizedString": "A Namecard for Exe, captain of the Bureau's ETD-6.\r\nThe only name printed on it is his \"online handle,\" with a small note underneath explaining that it's pronounced like the letter \"X.\" Is he keeping his real identity under wraps, or is he just used to going by that alias? Maybe there's more to the name than its obvious connection to the .exe file extension…"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Likeability_1074_s.Card_Likeability_1074_s",
@@ -3083,7 +3083,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_Q_name",
           "SourceString": "穿越网线",
-          "LocalizedString": "穿越网线"
+          "LocalizedString": "Across the Web"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -3091,13 +3091,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_Q_ly",
           "SourceString": "EXE觉醒等级6奖励",
-          "LocalizedString": "EXE觉醒等级6奖励"
+          "LocalizedString": "Lvl 6 Exe Awakening Reward"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BusinessCard_1074_Q_des",
           "SourceString": "Exe被抓拍到的一张照片。他那只能替他处理一切事情的「手」……？看起来完全有可能在你网上冲浪的时候，突然绕出来浮现在背后，戳戳你的肩膀……",
-          "LocalizedString": "Exe被抓拍到的一张照片。他那只能替他处理一切事情的「手」……？看起来完全有可能在你网上冲浪的时候，突然绕出来浮现在背后，戳戳你的肩膀……"
+          "LocalizedString": "A snapshot of Exe. That \"hand\" of his can apparently handle just about anything for him… It might even pop up behind you and tap you on the shoulder while you're browsing the web."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/Card_Awaken_1074_s.Card_Awaken_1074_s",
@@ -3125,7 +3125,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessCard_MangHe_005_name",
           "SourceString": "康庄大道",
-          "LocalizedString": "康庄大道"
+          "LocalizedString": "The Open Road"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -3133,13 +3133,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessCard_MangHe_005_ly",
           "SourceString": "「所行皆坦途」盲盒获得。",
-          "LocalizedString": "「所行皆坦途」盲盒获得。"
+          "LocalizedString": "Obtained from the Open Roads Ahead Mystery Box."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessCard_MangHe_005_desc",
           "SourceString": "所行之道皆为我之道。",
-          "LocalizedString": "所行之道皆为我之道。"
+          "LocalizedString": "Every path I take is my own."
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_67_s.YH_UI_bg_card_show_strip_67_s",
@@ -3167,7 +3167,7 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv15_BusinessCard_Oversea_001_Name",
           "SourceString": "神秘的屏幕",
-          "LocalizedString": "神秘的屏幕"
+          "LocalizedString": "Mysterious Screen"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
@@ -3175,13 +3175,13 @@
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv15_BusinessCard_Oversea_001_Obtain",
           "SourceString": "「E.T.D六队的神秘屏幕」网页活动获得",
-          "LocalizedString": "「E.T.D六队的神秘屏幕」网页活动获得"
+          "LocalizedString": "ETD-6 Mysterious Screen Event Reward"
         },
         "Description": {
           "TableId": "/Game/Text/UI/ST_PlayerInfoThreepieceSet.ST_PlayerInfoThreepieceSet",
           "Key": "SNv15_BusinessCard_Oversea_001_Desc",
           "SourceString": "也许这块屏幕并不存在于海特洛",
-          "LocalizedString": "也许这块屏幕并不存在于海特洛"
+          "LocalizedString": "Does this screen even exist in reality?"
         },
         "IconSource": {
           "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/SNv15_BusinessCard_Oversea_001_s.SNv15_BusinessCard_Oversea_001_s",

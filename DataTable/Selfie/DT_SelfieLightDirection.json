@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_010",
           "SourceString": "默认",
-          "LocalizedString": "默认"
+          "LocalizedString": "Default"
         },
         "LightType": "ESelfieLightType::None",
         "RelativeLocation": {
@@ -48,7 +48,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_002",
           "SourceString": "正面光",
-          "LocalizedString": "正面光"
+          "LocalizedString": "Front Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -79,7 +79,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_003",
           "SourceString": "逆光",
-          "LocalizedString": "逆光"
+          "LocalizedString": "Back Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -110,7 +110,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_004",
           "SourceString": "侧光-左",
-          "LocalizedString": "侧光-左"
+          "LocalizedString": "Left Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -141,7 +141,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_005",
           "SourceString": "侧光-右",
-          "LocalizedString": "侧光-右"
+          "LocalizedString": "Right Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -172,7 +172,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_006",
           "SourceString": "前侧光-左上",
-          "LocalizedString": "前侧光-左上"
+          "LocalizedString": "Front Upper Left Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -203,7 +203,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_007",
           "SourceString": "前侧光-右上",
-          "LocalizedString": "前侧光-右上"
+          "LocalizedString": "Front Upper Right Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -234,7 +234,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_008",
           "SourceString": "前侧光-左下",
-          "LocalizedString": "前侧光-左下"
+          "LocalizedString": "Front Lower Left Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {
@@ -265,7 +265,7 @@
           "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
           "Key": "Selfie_009",
           "SourceString": "前侧光-右下",
-          "LocalizedString": "前侧光-右下"
+          "LocalizedString": "Front Lower Right Light"
         },
         "LightType": "ESelfieLightType::Spot",
         "RelativeLocation": {

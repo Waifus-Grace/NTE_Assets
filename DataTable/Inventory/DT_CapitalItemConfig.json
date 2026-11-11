@@ -32,7 +32,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Fons_name",
           "SourceString": "方斯",
-          "LocalizedString": "方斯"
+          "LocalizedString": "Fons"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -51,13 +51,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Fons_desc",
           "SourceString": "海特洛市的流通货币。",
-          "LocalizedString": "海特洛市的流通货币。"
+          "LocalizedString": "Common currency circulated in Hethereau."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Fons_usedesc",
           "SourceString": "有泉水图案的科技感信用卡，作为货币象征经济和文化的源头和起点。",
-          "LocalizedString": "有泉水图案的科技感信用卡，作为货币象征经济和文化的源头和起点。"
+          "LocalizedString": "A tech-packed credit card featuring a fountain motif. It marks the birth of the monetary economy and culture."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -129,7 +129,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_name",
           "SourceString": "环石",
-          "LocalizedString": "环石"
+          "LocalizedString": "Annulith"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -148,13 +148,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_desc",
           "SourceString": "蕴含特殊能量的稀有货币。",
-          "LocalizedString": "蕴含特殊能量的稀有货币。"
+          "LocalizedString": "A rare currency imbued with special energy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_usedesc",
           "SourceString": "异晶加工后的稀有货币，蕴含着特殊能量。\r\n「流光溢彩的异象晶体，散落的光芒会再一次点亮旅途。」",
-          "LocalizedString": "异晶加工后的稀有货币，蕴含着特殊能量。\r\n「流光溢彩的异象晶体，散落的光芒会再一次点亮旅途。」"
+          "LocalizedString": "Rare Currency processed from Riftcrystal, containing special energy.\r\n\"Shimmering Anomaly crystals whose scattered light will illuminate the journey once more.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -226,7 +226,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_name",
           "SourceString": "异晶",
-          "LocalizedString": "异晶"
+          "LocalizedString": "Riftcrystal"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -245,13 +245,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_desc",
           "SourceString": "蕴含特殊能量的稀有货币。",
-          "LocalizedString": "蕴含特殊能量的稀有货币。"
+          "LocalizedString": "A rare currency imbued with special energy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_usedesc",
           "SourceString": "蕴含特殊能量的稀有货币。\r\n「生长在次元缝隙中的异象晶体，折射而生的光径，或许能联结世界。」",
-          "LocalizedString": "蕴含特殊能量的稀有货币。\r\n「生长在次元缝隙中的异象晶体，折射而生的光径，或许能联结世界。」"
+          "LocalizedString": "Rare Currency containing special energy.\r\n\"Anomaly crystals growing within dimensional rifts, their refracted light rays may perhaps connect worlds.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -323,7 +323,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "gold_name",
           "SourceString": "甲硬币",
-          "LocalizedString": "甲硬币"
+          "LocalizedString": "Beetle Coin"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -342,13 +342,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Gold_usedesc",
           "SourceString": "养成消耗的基础货币。",
-          "LocalizedString": "养成消耗的基础货币。"
+          "LocalizedString": "Basic currency for character and item upgrades."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "gold_desc",
           "SourceString": "一种弱小到处在食物链底端的生物类异象，形似一只小小的甲壳虫，为求生存会在城市中拟态成硬币外观与碰撞声响等待被人捡起，在流通中寻找更好的生机。",
-          "LocalizedString": "一种弱小到处在食物链底端的生物类异象，形似一只小小的甲壳虫，为求生存会在城市中拟态成硬币外观与碰撞声响等待被人捡起，在流通中寻找更好的生机。"
+          "LocalizedString": "A Bio Anomaly shaped like a small beetle, which is weak and at the bottom of the food chain. To survive in the city, it transforms into a coin upon the sound of collision, lying in wait to be picked up and thereby stands a better chance of survival through circulation."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -420,7 +420,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "dsdcoin_name",
           "SourceString": "DSD潮玩店积分",
-          "LocalizedString": "DSD潮玩店积分"
+          "LocalizedString": "DSD Point"
         },
         "MaxAmount": 999999999,
         "bUseMaxAmountLimitID": false,
@@ -439,7 +439,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "DSDvipcard_usedesc",
           "SourceString": "DSD潮玩店的vip卡，购物可以获得DSD潮玩店积分。",
-          "LocalizedString": "DSD潮玩店的vip卡，购物可以获得DSD潮玩店积分。"
+          "LocalizedString": "With this card, you can accumulate VIP Points while shopping at DSD POP."
         },
         "Description": {
           "CultureInvariantString": null
@@ -514,7 +514,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessExp_name",
           "SourceString": "「好苹」",
-          "LocalizedString": "「好苹」"
+          "LocalizedString": "Good Apple"
         },
         "MaxAmount": 999999999,
         "bUseMaxAmountLimitID": false,
@@ -533,13 +533,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessExp_usedesc",
           "SourceString": "可通过经营商铺获得，用于经营块面的升级。",
-          "LocalizedString": "可通过经营商铺获得，用于经营块面的升级。"
+          "LocalizedString": "Obtainable through Shop Management, used for upgrading Management Skills"
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BussinessExp_desc",
           "SourceString": "一天一好苹，方斯靠近我……好像不太押韵呢。",
-          "LocalizedString": "一天一好苹，方斯靠近我……好像不太押韵呢。"
+          "LocalizedString": "A good apple a day brings Fons my way… hmm, that doesn't really roll off the tongue, does it?"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -611,7 +611,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FishingCoin_name",
           "SourceString": "鱼鳞币",
-          "LocalizedString": "鱼鳞币"
+          "LocalizedString": "Scale Coin"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -630,13 +630,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FishingCoin_usedesc",
           "SourceString": "可在「月亮湾」购买钓鱼所需的工具和材料。",
-          "LocalizedString": "可在「月亮湾」购买钓鱼所需的工具和材料。"
+          "LocalizedString": "You can purchase fishing tools and materials at Luna Bay."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FishingCoin_desc",
           "SourceString": "方斯在这里并非不流通，但在已经自成体系的钓鱼爱好者圈子里，有些东西的价值不是方斯能够衡量的。\r\n「伙计，祝你永不空杆！」",
-          "LocalizedString": "方斯在这里并非不流通，但在已经自成体系的钓鱼爱好者圈子里，有些东西的价值不是方斯能够衡量的。\r\n「伙计，祝你永不空杆！」"
+          "LocalizedString": "Fons isn't worthless here, but in this tight-knit community of fishing enthusiasts, some things simply can't be measured in Fons.\r\n\"Tight lines, buddy!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -708,7 +708,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MahjongCoin_name",
           "SourceString": "啾啾雀球",
-          "LocalizedString": "啾啾雀球"
+          "LocalizedString": "Chirpy Sparrow Ball"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -727,13 +727,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MahjongCoin_usedesc",
           "SourceString": "可在「啾啾窠巢」中兑换所需物品。",
-          "LocalizedString": "可在「啾啾窠巢」中兑换所需物品。"
+          "LocalizedString": "Can be exchanged for needed items at Chirpy Nest."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MahjongCoin_desc",
           "SourceString": "手气不好时可以试着「啾啾」两声，虽然不会让手气变好，但会显得很可爱。",
-          "LocalizedString": "手气不好时可以试着「啾啾」两声，虽然不会让手气变好，但会显得很可爱。"
+          "LocalizedString": "When your luck is bad, you can try chirping twice. It won't actually improve your luck, but it will make you look very cute."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -805,7 +805,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_playboy_name",
           "SourceString": "《星闻周刊》",
-          "LocalizedString": "《星闻周刊》"
+          "LocalizedString": "Star Weekly"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -824,13 +824,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_playboy_usedesc",
           "SourceString": "知名娱乐周刊，每个在押人员的最爱。可用于交换珍贵的物品。",
-          "LocalizedString": "知名娱乐周刊，每个在押人员的最爱。可用于交换珍贵的物品。"
+          "LocalizedString": "A famous entertainment weekly and every inmate's favorite. Can be traded for valuable items."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "Prison_playboy_desc",
           "SourceString": "一成不变的日子里，每个人都在渴望新鲜东西，无论囚笼内外皆是如此。唯一不同的是，在高墙之内，一沓印满最新消息的铜版纸会被赋予远高于其售价的价值：谁能拥有它，谁就掌握了对「自由世界」的定义权——当所有人都对外界一无所知时，只有你对时下动态了如指掌。这或许帮不上你什么，但足以让你产生一种世界还没抛弃你的错觉。",
-          "LocalizedString": "一成不变的日子里，每个人都在渴望新鲜东西，无论囚笼内外皆是如此。唯一不同的是，在高墙之内，一沓印满最新消息的铜版纸会被赋予远高于其售价的价值：谁能拥有它，谁就掌握了对「自由世界」的定义权——当所有人都对外界一无所知时，只有你对时下动态了如指掌。这或许帮不上你什么，但足以让你产生一种世界还没抛弃你的错觉。"
+          "LocalizedString": "In the monotony of unchanging days, everyone craves something new, whether inside or outside the cage. The only difference is that within these walls, a stack of glossy paper printed with the latest news takes on a value far beyond its cover price. Whoever has it holds the power to define the \"free world.\" When everyone else knows nothing of the outside, only you stay informed. It might not help you in any practical way, but it's enough to create the illusion that the world hasn't forgotten you yet."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -902,7 +902,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "RobbankCoin_name",
           "SourceString": "爪爪币",
-          "LocalizedString": "爪爪币"
+          "LocalizedString": "Paw-Paw Coin"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -921,13 +921,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "RobbankCoin_usedesc",
           "SourceString": "「粉爪大劫案」活动中可获取的特制金币，将它们交给粉爪银行的小吱，可以兑换各种道具。",
-          "LocalizedString": "「粉爪大劫案」活动中可获取的特制金币，将它们交给粉爪银行的小吱，可以兑换各种道具。"
+          "LocalizedString": "A special coin obtained from the Pink Paws Heist. Give it to Chiz at Pink Paws Bank to exchange for rewards."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "RobbankCoin_desc",
           "SourceString": "颇为少见的猫爪形金币，由粉爪银行特别发行。",
-          "LocalizedString": "颇为少见的猫爪形金币，由粉爪银行特别发行。"
+          "LocalizedString": "A rare cat-paw-shaped gold coin, issued exclusively by Pink Paws Bank."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -999,7 +999,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BattleRaceCoin_name",
           "SourceString": "黑铁螺钉",
-          "LocalizedString": "黑铁螺钉"
+          "LocalizedString": "Blacksteel Bolt"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": true,
@@ -1018,13 +1018,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BattleRaceCoin_usedesc",
           "SourceString": "活动期间内可在「螺钉商店」内兑换所需道具。",
-          "LocalizedString": "活动期间内可在「螺钉商店」内兑换所需道具。"
+          "LocalizedString": "Used to exchange for desired items at the Bolt Shop during the event."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BattleRaceCoin_desc",
           "SourceString": "要知道一颗螺钉等于一个帝国。",
-          "LocalizedString": "要知道一颗螺钉等于一个帝国。"
+          "LocalizedString": "You should know that a single bolt can topple an empire."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1096,7 +1096,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "ArticleCoin_name",
           "SourceString": "过奖果酱",
-          "LocalizedString": "过奖果酱"
+          "LocalizedString": "Praise Jam"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -1115,13 +1115,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "ArticleCoin_usedesc",
           "SourceString": "可在「呗果商店」内兑换所需道具。",
-          "LocalizedString": "可在「呗果商店」内兑换所需道具。"
+          "LocalizedString": "Redeem for items at the Bagel Shop."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "ArticleCoin_desc",
           "SourceString": "为心爱的呗主献上果酱！",
-          "LocalizedString": "为心爱的呗主献上果酱！"
+          "LocalizedString": "Jam to reward the Bagel OP you stan for!"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1193,7 +1193,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTSheepCoin_name",
           "SourceString": "神秘纽扣",
-          "LocalizedString": "神秘纽扣"
+          "LocalizedString": "Mystery Button"
         },
         "MaxAmount": 99999,
         "bUseMaxAmountLimitID": false,
@@ -1212,13 +1212,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTSheepCoin_usedesc",
           "SourceString": "游玩「九百九十九夜」桌游可以获得活动代币「神秘纽扣」。",
-          "LocalizedString": "游玩「九百九十九夜」桌游可以获得活动代币「神秘纽扣」。"
+          "LocalizedString": "Mystery Button: Event token earned by playing the board game \"999 Nights.\""
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTSheepCoin_desc",
           "SourceString": "似乎有些眼熟的纽扣。神秘商绵非常喜欢收集。",
-          "LocalizedString": "似乎有些眼熟的纽扣。神秘商绵非常喜欢收集。"
+          "LocalizedString": "A strangely familiar button. The Mysterious Fuzzy Merchant is always eager to collect such curious little things."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1290,7 +1290,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTGoldCoin_name",
           "SourceString": "沃伦金币",
-          "LocalizedString": "沃伦金币"
+          "LocalizedString": "Warren Gold Coin"
         },
         "MaxAmount": 999999999,
         "bUseMaxAmountLimitID": false,
@@ -1309,13 +1309,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTGoldCoin_usedesc",
           "SourceString": "游玩「九百九十九夜」桌游可获得的玩法内货币「沃伦金币」。",
-          "LocalizedString": "游玩「九百九十九夜」桌游可获得的玩法内货币「沃伦金币」。"
+          "LocalizedString": "Warren Gold Coin: In-mode currency earned by playing the board game \"999 Nights.\""
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FTGoldCoin_desc",
           "SourceString": "沃伦大陆的通用货币。它不是金币巧克力，不可以吃！",
-          "LocalizedString": "沃伦大陆的通用货币。它不是金币巧克力，不可以吃！"
+          "LocalizedString": "The common currency of the Warren Continent. Despite its golden shine, it is not a chocolate coin—do not eat it!"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1387,7 +1387,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BidkingCoin_name",
           "SourceString": "金贝铢",
-          "LocalizedString": "金贝铢"
+          "LocalizedString": "Gold Shell"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -1406,13 +1406,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BidkingCoin_usedesc",
           "SourceString": "可在「即刻落槌」玩法中使用获得拍卖品。",
-          "LocalizedString": "可在「即刻落槌」玩法中使用获得拍卖品。"
+          "LocalizedString": "Used in Going, Going, Gone! to obtain Auction Items."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "BidkingCoin_desc",
           "SourceString": "珍珠置于骨碟之上，黄金在高脚杯中流淌。",
-          "LocalizedString": "珍珠置于骨碟之上，黄金在高脚杯中流淌。"
+          "LocalizedString": "Pearls gleam upon plates of bone, and gold runs bright within the goblets."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1484,7 +1484,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "HideSeekCoin_name",
           "SourceString": "纸杯电话",
-          "LocalizedString": "纸杯电话"
+          "LocalizedString": "Paper Cup Phone"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": true,
@@ -1503,13 +1503,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "HideSeekCoin_usedesc",
           "SourceString": "可在「徊影商店」内兑换所需道具。",
-          "LocalizedString": "可在「徊影商店」内兑换所需道具。"
+          "LocalizedString": "Used to exchange for desired items at the Shadebound Shop."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "HideSeekCoin_desc",
           "SourceString": "「嘟——嘟——喂？今天要出来玩吗？一起来玩游戏吧。」",
-          "LocalizedString": "「嘟——嘟——喂？今天要出来玩吗？一起来玩游戏吧。」"
+          "LocalizedString": "\"Brrring—brrring—hello? Want to hang out today? Let's play something together!\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1581,7 +1581,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MBCollectCoin_name",
           "SourceString": "悠悠漂流瓶",
-          "LocalizedString": "悠悠漂流瓶"
+          "LocalizedString": "Drifting Bottle"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": true,
@@ -1600,13 +1600,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MBCollectCoin_usedesc",
           "SourceString": "活动期间可在「遗珍商店」内兑换所需道具。",
-          "LocalizedString": "活动期间可在「遗珍商店」内兑换所需道具。"
+          "LocalizedString": "Used to exchange for items at the Salvage Shop during the event."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "MBCollectCoin_des",
           "SourceString": "瓶子里装载的思念，海会听到。",
-          "LocalizedString": "瓶子里装载的思念，海会听到。"
+          "LocalizedString": "The sea hears every longing sealed inside a bottle."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1678,7 +1678,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_01_name",
           "SourceString": "普通机油",
-          "LocalizedString": "普通机油"
+          "LocalizedString": "Standard Motor Oil"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1697,13 +1697,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_01_usedesc",
           "SourceString": "可用于提升摩托艇的性能。",
-          "LocalizedString": "可用于提升摩托艇的性能。"
+          "LocalizedString": "Used to improve Jet Ski performance."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_01_desc",
           "SourceString": "出发前，记得先升级装备。",
-          "LocalizedString": "出发前，记得先升级装备。"
+          "LocalizedString": "Don't forget to upgrade your gear before setting out."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1775,7 +1775,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_02_name",
           "SourceString": "高级机油",
-          "LocalizedString": "高级机油"
+          "LocalizedString": "Premium Motor Oil"
         },
         "MaxAmount": 999,
         "bUseMaxAmountLimitID": false,
@@ -1794,13 +1794,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_02_usedesc",
           "SourceString": "可用于大幅提升摩托艇的性能。",
-          "LocalizedString": "可用于大幅提升摩托艇的性能。"
+          "LocalizedString": "Used to greatly improve Jet Ski performance."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "FloatItem_Screw_02_desc",
           "SourceString": "愿这一路，风平浪静。",
-          "LocalizedString": "愿这一路，风平浪静。"
+          "LocalizedString": "May calm seas carry you on your way."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1872,7 +1872,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "PukalandTicket_name",
           "SourceString": "噗卡星票",
-          "LocalizedString": "噗卡星票"
+          "LocalizedString": "Puka Stars"
         },
         "MaxAmount": 499999,
         "bUseMaxAmountLimitID": false,
@@ -1891,13 +1891,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "PukalandTicket_usedesc",
           "SourceString": "游玩不同项目均可获得。收集噗卡星票，到星票小铺兑换心仪礼物与限定惊喜。",
-          "LocalizedString": "游玩不同项目均可获得。收集噗卡星票，到星票小铺兑换心仪礼物与限定惊喜。"
+          "LocalizedString": "Earn Puka Stars by participating in Pukaland attractions. Collect enough Puka Stars, then head to the Star Ticket Counter to exchange them for exclusive rewards and surprises."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "PukalandTicket_desc",
           "SourceString": "开启属于你的乐园冒险吧！",
-          "LocalizedString": "开启属于你的乐园冒险吧！"
+          "LocalizedString": "Embark on your very own park adventure!"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1969,7 +1969,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_name",
           "SourceString": "环石",
-          "LocalizedString": "环石"
+          "LocalizedString": "Annulith"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -1988,13 +1988,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_desc",
           "SourceString": "蕴含特殊能量的稀有货币。",
-          "LocalizedString": "蕴含特殊能量的稀有货币。"
+          "LocalizedString": "A rare currency imbued with special energy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Annulith_usedesc",
           "SourceString": "异晶加工后的稀有货币，蕴含着特殊能量。\r\n「流光溢彩的异象晶体，散落的光芒会再一次点亮旅途。」",
-          "LocalizedString": "异晶加工后的稀有货币，蕴含着特殊能量。\r\n「流光溢彩的异象晶体，散落的光芒会再一次点亮旅途。」"
+          "LocalizedString": "Rare Currency processed from Riftcrystal, containing special energy.\r\n\"Shimmering Anomaly crystals whose scattered light will illuminate the journey once more.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2066,7 +2066,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_name",
           "SourceString": "异晶",
-          "LocalizedString": "异晶"
+          "LocalizedString": "Riftcrystal"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -2085,13 +2085,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_desc",
           "SourceString": "蕴含特殊能量的稀有货币。",
-          "LocalizedString": "蕴含特殊能量的稀有货币。"
+          "LocalizedString": "A rare currency imbued with special energy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "item_Riftcrystal_usedesc",
           "SourceString": "蕴含特殊能量的稀有货币。\r\n「生长在次元缝隙中的异象晶体，折射而生的光径，或许能联结世界。」",
-          "LocalizedString": "蕴含特殊能量的稀有货币。\r\n「生长在次元缝隙中的异象晶体，折射而生的光径，或许能联结世界。」"
+          "LocalizedString": "Rare Currency containing special energy.\r\n\"Anomaly crystals growing within dimensional rifts, their refracted light rays may perhaps connect worlds.\""
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2163,7 +2163,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "DefendTowerCoin_name",
           "SourceString": "五彩花糖",
-          "LocalizedString": "五彩花糖"
+          "LocalizedString": "Prism Drop"
         },
         "MaxAmount": 9999,
         "bUseMaxAmountLimitID": true,
@@ -2182,13 +2182,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "DefendTowerCoin_usedesc",
           "SourceString": "「炭团的宝藏」的兑换货币，用于在花糖商店兑换各类商品。",
-          "LocalizedString": "「炭团的宝藏」的兑换货币，用于在花糖商店兑换各类商品。"
+          "LocalizedString": "A currency used in Coal Lump's Treasure to obtain various items from the Sweetbloom Sweets."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "DefendTowerCoin_desc",
           "SourceString": "即使是被遗失的糖果，也可以成为炭团的宝藏。",
-          "LocalizedString": "即使是被遗失的糖果，也可以成为炭团的宝藏。"
+          "LocalizedString": "Even stray candy can find its way into Coal Lump's Treasure."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2260,7 +2260,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "GingerbreadCoin_name",
           "SourceString": "焦糖风滚草",
-          "LocalizedString": "焦糖风滚草"
+          "LocalizedString": "Caramel Tumbleweed"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": true,
@@ -2279,13 +2279,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "GingerbreadCoin_usedesc",
           "SourceString": "活动期间可在「焦糖商店」内兑换所需道具。",
-          "LocalizedString": "活动期间可在「焦糖商店」内兑换所需道具。"
+          "LocalizedString": "Used to exchange for items at the Caramel Trading Post during the event."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "GingerbreadCoin_desc",
           "SourceString": "[噗仔][武器]---[风滚草]---[武器][噗仔]",
-          "LocalizedString": "[噗仔][武器]---[风滚草]---[武器][噗仔]"
+          "LocalizedString": "(Pukaboo) (Weapon)---(Tumbleweed)---(Weapon) (Pukaboo)"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2357,7 +2357,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsCoin_name",
           "SourceString": "库霸兑换币",
-          "LocalizedString": "库霸兑换币"
+          "LocalizedString": "Kool Tokens"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -2376,13 +2376,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsCoin_usedesc",
           "SourceString": "可用于在「内部采购」中兑换物品。",
-          "LocalizedString": "可用于在「内部采购」中兑换物品。"
+          "LocalizedString": "Used to redeem items through Internal Procurement."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsCoin_desc",
           "SourceString": "库霸快递用于内部激励的代币，用于兑换多样的奖品。",
-          "LocalizedString": "库霸快递用于内部激励的代币，用于兑换多样的奖品。"
+          "LocalizedString": "A token Kool Express uses to reward its staff. Can be redeemed for a variety of prizes."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2454,7 +2454,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsSkillPoint_name",
           "SourceString": "库霸资源库",
-          "LocalizedString": "库霸资源库"
+          "LocalizedString": "Kool Resources"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -2473,13 +2473,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsSkillPoint_usedesc",
           "SourceString": "可用于提高「物流策略」等级。",
-          "LocalizedString": "可用于提高「物流策略」等级。"
+          "LocalizedString": "Used to increase the level of Logistics Strategy."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "LogisticsSkillPoint_desc",
           "SourceString": "库霸快递的内部资料，通过分析，可以改善经营策略。",
-          "LocalizedString": "库霸快递的内部资料，通过分析，可以改善经营策略。"
+          "LocalizedString": "Internal Kool Express records. Analyzing them could help improve the company's business strategy."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2551,7 +2551,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "CumLotteryCoin_01_name",
           "SourceString": "分福硬币",
-          "LocalizedString": "分福硬币"
+          "LocalizedString": "Fortune Coin"
         },
         "MaxAmount": 99999999999,
         "bUseMaxAmountLimitID": false,
@@ -2570,13 +2570,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "CumLotteryCoin_01_use",
           "SourceString": "收集一定数量可解锁「集市分福」活动奖励。",
-          "LocalizedString": "收集一定数量可解锁「集市分福」活动奖励。"
+          "LocalizedString": "Collect enough to unlock rewards from the Fortune's Bounty event."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "CumLotteryCoin_01_des",
           "SourceString": "茶子说，把世界放进棋盘里吧，于是万物在此出售。",
-          "LocalizedString": "茶子说，把世界放进棋盘里吧，于是万物在此出售。"
+          "LocalizedString": "Ochako said, \"Let's put the whole world on the board.\" And just like that, everything's for sale."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -2648,7 +2648,7 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "TankBattleCoin_name",
           "SourceString": "TX纪念币",
-          "LocalizedString": "TX纪念币"
+          "LocalizedString": "TX Token"
         },
         "MaxAmount": 2000,
         "bUseMaxAmountLimitID": true,
@@ -2667,13 +2667,13 @@
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "TankBattleCoin_usedesc",
           "SourceString": "TerraX为新车发行活动的参与者颁发的特殊纪念币，可以在TX纪念商店中兑换其他物品。",
-          "LocalizedString": "TerraX为新车发行活动的参与者颁发的特殊纪念币，可以在TX纪念商店中兑换其他物品。"
+          "LocalizedString": "A special commemorative coin awarded by TerraX to participants in a new vehicle launch event. Redeem it for items at the TX Token Shop."
         },
         "Description": {
           "TableId": "/Game/Text/ST_Item.ST_Item",
           "Key": "TankBattleCoin_desc",
           "SourceString": "外表看起来只是普通的代币，纪念意义大于实际价值。",
-          "LocalizedString": "外表看起来只是普通的代币，纪念意义大于实际价值。"
+          "LocalizedString": "It may look like an ordinary token, but it's worth more as a keepsake than for any practical use."
         },
         "LimitScenes": [],
         "ToolDatas": [],

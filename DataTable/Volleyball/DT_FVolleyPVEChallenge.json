@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_1",
           "SourceString": "热身时间",
-          "LocalizedString": "热身时间"
+          "LocalizedString": "Warm-Up"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_XiuXian.YH_UI_Volleyball_XiuXian",
@@ -34,7 +34,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_2",
           "SourceString": "小展身手",
-          "LocalizedString": "小展身手"
+          "LocalizedString": "First Serve"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_ChuJi.YH_UI_Volleyball_ChuJi",
@@ -46,7 +46,7 @@
             "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
             "Key": "UI_VolleyBall_PVE_2_TJ",
             "SourceString": "通关热身时间解锁",
-            "LocalizedString": "通关热身时间解锁"
+            "LocalizedString": "Unlocks by clearing Warm-Up."
           }
         }
       },
@@ -55,7 +55,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_3",
           "SourceString": "渐入佳境",
-          "LocalizedString": "渐入佳境"
+          "LocalizedString": "Finding Form"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_ZhongJi.YH_UI_Volleyball_ZhongJi",
@@ -67,7 +67,7 @@
             "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
             "Key": "UI_VolleyBall_PVE_3_TJ",
             "SourceString": "通关小展身手解锁",
-            "LocalizedString": "通关小展身手解锁"
+            "LocalizedString": "Unlocks by clearing First Serve."
           }
         }
       },
@@ -76,7 +76,7 @@
           "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
           "Key": "UI_VolleyBall_PVE_4",
           "SourceString": "职业赛场",
-          "LocalizedString": "职业赛场"
+          "LocalizedString": "Pro Arena"
         },
         "bg": {
           "AssetPathName": "/Game/UI/UI/Volleyball/PVE/YH_UI_Volleyball_Gaoji.YH_UI_Volleyball_Gaoji",
@@ -88,7 +88,7 @@
             "TableId": "/Game/Text/ST_UI_Volleyball.ST_UI_Volleyball",
             "Key": "UI_VolleyBall_PVE_4_TJ",
             "SourceString": "通关渐入佳境解锁",
-            "LocalizedString": "通关渐入佳境解锁"
+            "LocalizedString": "Unlocks by clearing Finding Form."
           }
         }
       }

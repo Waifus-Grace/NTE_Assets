@@ -21,7 +21,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star1_name",
               "SourceString": "未来序曲",
-              "LocalizedString": "未来序曲"
+              "LocalizedString": "Futuristic Prelude"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_1.1070_1",
@@ -41,7 +41,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star1_des",
               "SourceString": "处于<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态时，海月的暴击率提高<NumGreen>15%</>。",
-              "LocalizedString": "处于<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态时，海月的暴击率提高<NumGreen>15%</>。"
+              "LocalizedString": "Increases Crit Rate by <NumGreen>15%</> while in the <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">Cadenza</> state."
             },
             "GEIdArray": []
           },
@@ -52,7 +52,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star2_name",
               "SourceString": "一支特别的歌",
-              "LocalizedString": "一支特别的歌"
+              "LocalizedString": "Unique Melody"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_2.1070_2",
@@ -72,7 +72,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star2_des",
               "SourceString": "成功进行极限闪避或释放「援护技：不协和音」后，海月将进入持续<NumGreen>5</>秒的<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态。如已处于该状态，则其持续时间在原有基础上延长<NumGreen>5</>秒。<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态最多可持续<NumGreen>12</>秒。",
-              "LocalizedString": "成功进行极限闪避或释放「援护技：不协和音」后，海月将进入持续<NumGreen>5</>秒的<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态。如已处于该状态，则其持续时间在原有基础上延长<NumGreen>5</>秒。<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态最多可持续<NumGreen>12</>秒。"
+              "LocalizedString": "Enters the <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">Cadenza</> state for <NumGreen>5</>s after a successful Critical Dodge or casting Dissonance. Extends the duration by <NumGreen>5</>s if the state's already active. The <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">Cadenza</> state lasts for up to <NumGreen>12</>s."
             },
             "GEIdArray": []
           },
@@ -83,7 +83,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star3_name",
               "SourceString": "三重奏的休止符",
-              "LocalizedString": "三重奏的休止符"
+              "LocalizedString": "Trio Rest"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_3.1070_3",
@@ -103,7 +103,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star3_des",
               "SourceString": "处于<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态时，海月释放「极轨终结：众声轮唱」所造成的伤害提高<NumGreen>20%</>。",
-              "LocalizedString": "处于<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态时，海月释放「极轨终结：众声轮唱」所造成的伤害提高<NumGreen>20%</>。"
+              "LocalizedString": "Increases Canon Chorus DMG by <NumGreen>20%</> while in the <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">Cadenza</> state."
             },
             "GEIdArray": []
           },
@@ -114,7 +114,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star4_name",
               "SourceString": "五线谱的空白处",
-              "LocalizedString": "五线谱的空白处"
+              "LocalizedString": "Staff Gap"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_4.1070_4",
@@ -134,7 +134,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star4_des",
               "SourceString": "在释放「普通攻击：顿音」时，海月的防御力增加<NumGreen>20%</>。",
-              "LocalizedString": "在释放「普通攻击：顿音」时，海月的防御力增加<NumGreen>20%</>。"
+              "LocalizedString": "Increases Aurelia's DEF by <NumGreen>20%</> when casting Staccato."
             },
             "GEIdArray": []
           },
@@ -145,7 +145,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star5_name",
               "SourceString": "一支平凡的歌",
-              "LocalizedString": "一支平凡的歌"
+              "LocalizedString": "Simple Melody"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_5.1070_5",
@@ -165,7 +165,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star5_des",
               "SourceString": "「极轨终结：众声轮唱」暴击率提高<NumGreen>15%</>。",
-              "LocalizedString": "「极轨终结：众声轮唱」暴击率提高<NumGreen>15%</>。"
+              "LocalizedString": "Increases Canon Chorus's Crit Rate by <NumGreen>15%</>."
             },
             "GEIdArray": []
           },
@@ -176,7 +176,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star6_name",
               "SourceString": "往日赋格",
-              "LocalizedString": "往日赋格"
+              "LocalizedString": "Bygone Fugue"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1070_6.1070_6",
@@ -196,7 +196,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_star6_des",
               "SourceString": "「渐强」效果的最大叠加层数提升至20层。释放「变轨攻击：华彩唱段」后，立即获得10层「渐强」效果。",
-              "LocalizedString": "「渐强」效果的最大叠加层数提升至20层。释放「变轨攻击：华彩唱段」后，立即获得10层「渐强」效果。"
+              "LocalizedString": "Increases the maximum stacks of Crescendo to 20. Grants 10 Crescendo stacks after casting Cadenza Aria."
             },
             "GEIdArray": []
           },
@@ -207,7 +207,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_starExtra1_name",
               "SourceString": "万物于此和声",
-              "LocalizedString": "万物于此和声"
+              "LocalizedString": "Universal Harmony"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -232,7 +232,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_starExtra1_des",
               "SourceString": "「普通攻击：清唱」「变轨技能：华彩唱段」「极轨终结：众声轮唱」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「普通攻击：清唱」「变轨技能：华彩唱段」「极轨终结：众声轮唱」的技能等级提升<NumGreen>1</>级。"
+              "LocalizedString": " Increases the skill levels of Cappella, Cadenza Aria, and Canon Chorus by <NumGreen>1</>."
             },
             "GEIdArray": []
           },
@@ -243,7 +243,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_starExtra2_name",
               "SourceString": "与你一同奏响",
-              "LocalizedString": "与你一同奏响"
+              "LocalizedString": "Shared Melody"
             },
             "AwakenIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_juexingICON/1009_2.1009_2",
@@ -263,7 +263,7 @@
               "TableId": "/Game/Text/PlayerSkillDes/Mitsuki_SkillDes.Mitsuki_SkillDes",
               "Key": "GA_Mitsuki_starExtra2_des",
               "SourceString": "进入<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态或<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态持续时间延长时，全队的<Hun>魂属性异能伤害</>提升<NumGreen>8%</>，持续<NumGreen>15</>秒，重复获得刷新持续时间。",
-              "LocalizedString": "进入<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态或<hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">「华彩」</>状态持续时间延长时，全队的<Hun>魂属性异能伤害</>提升<NumGreen>8%</>，持续<NumGreen>15</>秒，重复获得刷新持续时间。"
+              "LocalizedString": "Increases all allies' <Hun>Psyche DMG</> by <NumGreen>8%</> for <NumGreen>15</>s when entering the <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">Cadenza</> state or when <hot textstyle=\"TextEXPL\" param=\"nouns&MitsukiSkill\">its</> duration is extended. Resets the duration when reapplied."
             },
             "GEIdArray": []
           }

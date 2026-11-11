@@ -105,7 +105,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "item_type_2",
           "SourceString": "道具",
-          "LocalizedString": "道具"
+          "LocalizedString": "Item"
         },
         "bShowAllType": true,
         "ContainSortTypes": 4,
@@ -194,7 +194,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_characterinfo_table_04",
           "SourceString": "空幕",
-          "LocalizedString": "空幕"
+          "LocalizedString": "Console"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -248,7 +248,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "ui_characterinfo_table_02",
           "SourceString": "弧盘",
-          "LocalizedString": "弧盘"
+          "LocalizedString": "Arc"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -303,7 +303,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "bag_15",
           "SourceString": "物料",
-          "LocalizedString": "物料"
+          "LocalizedString": "Material"
         },
         "bShowAllType": false,
         "ContainSortTypes": 4,
@@ -357,7 +357,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "bag_16",
           "SourceString": "食物",
-          "LocalizedString": "食物"
+          "LocalizedString": "Food"
         },
         "bShowAllType": false,
         "ContainSortTypes": 4,
@@ -427,7 +427,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "bag_03",
           "SourceString": "重要物品",
-          "LocalizedString": "重要物品"
+          "LocalizedString": "Important Items"
         },
         "bShowAllType": true,
         "ContainSortTypes": 4,
@@ -493,7 +493,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "bag_14",
           "SourceString": "家具",
-          "LocalizedString": "家具"
+          "LocalizedString": "Furniture"
         },
         "bShowAllType": true,
         "ContainSortTypes": 4,
@@ -603,7 +603,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "ItemType_Fish",
           "SourceString": "鱼",
-          "LocalizedString": "鱼"
+          "LocalizedString": "Fish"
         },
         "bShowAllType": false,
         "ContainSortTypes": 0,
@@ -647,7 +647,7 @@
           "TableId": "/Game/Text/ST_Clone.ST_Clone",
           "Key": "DLC_bank_Safety_Name",
           "SourceString": "粉爪大劫案",
-          "LocalizedString": "粉爪大劫案"
+          "LocalizedString": "Pink Paws Heist"
         },
         "bShowAllType": false,
         "ContainSortTypes": 0,
@@ -740,7 +740,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Achievement_Play_Nickname",
           "SourceString": "玩法",
-          "LocalizedString": "玩法"
+          "LocalizedString": "Gameplay"
         },
         "bShowAllType": true,
         "ContainSortTypes": 0,
@@ -818,7 +818,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Achievement_Play_Nickname",
           "SourceString": "玩法",
-          "LocalizedString": "玩法"
+          "LocalizedString": "Gameplay"
         },
         "bShowAllType": true,
         "ContainSortTypes": 0,
@@ -882,7 +882,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Achievement_Play_Nickname",
           "SourceString": "玩法",
-          "LocalizedString": "玩法"
+          "LocalizedString": "Gameplay"
         },
         "bShowAllType": true,
         "ContainSortTypes": 0,
@@ -926,7 +926,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Weapon",
           "SourceString": "武器",
-          "LocalizedString": "武器"
+          "LocalizedString": "Weapon"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -976,7 +976,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Chest",
           "SourceString": "上衣",
-          "LocalizedString": "上衣"
+          "LocalizedString": "Body Armor"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1026,7 +1026,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Legs",
           "SourceString": "下装",
-          "LocalizedString": "下装"
+          "LocalizedString": "Leg Armor"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1076,7 +1076,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Shoulder",
           "SourceString": "肩甲",
-          "LocalizedString": "肩甲"
+          "LocalizedString": "Pauldron"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1126,7 +1126,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Shoes",
           "SourceString": "鞋子",
-          "LocalizedString": "鞋子"
+          "LocalizedString": "Boots"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1177,7 +1177,7 @@
           "TableId": "/Game/Maps_4N/DataTable/ST_FinalTower_UI.ST_FinalTower_UI",
           "Key": "Armor_Accessory",
           "SourceString": "饰品",
-          "LocalizedString": "饰品"
+          "LocalizedString": "Accessory"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1228,7 +1228,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "item_type_2",
           "SourceString": "道具",
-          "LocalizedString": "道具"
+          "LocalizedString": "Item"
         },
         "bShowAllType": true,
         "ContainSortTypes": 12,
@@ -1314,7 +1314,7 @@
           "TableId": "/Game/Text/ST_Fishing.ST_Fishing",
           "Key": "ItemType_Fish",
           "SourceString": "鱼",
-          "LocalizedString": "鱼"
+          "LocalizedString": "Fish"
         },
         "bShowAllType": false,
         "ContainSortTypes": 0,
@@ -1368,7 +1368,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Achievement_Play_Nickname",
           "SourceString": "玩法",
-          "LocalizedString": "玩法"
+          "LocalizedString": "Gameplay"
         },
         "bShowAllType": true,
         "ContainSortTypes": 0,
@@ -1407,7 +1407,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "Atk",
           "SourceString": "攻击力",
-          "LocalizedString": "攻击力"
+          "LocalizedString": "ATK"
         },
         "bShowAllType": true,
         "ContainSortTypes": 0,

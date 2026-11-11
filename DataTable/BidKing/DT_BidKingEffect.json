@@ -18,13 +18,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DarkBid",
           "SourceString": "天黑了",
-          "LocalizedString": "天黑了"
+          "LocalizedString": "Blackout"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DarkBid_Desc",
           "SourceString": "本局内，每回合不再公示每位玩家的具体出价，仅展示各玩家的出价名次。",
-          "LocalizedString": "本局内，每回合不再公示每位玩家的具体出价，仅展示各玩家的出价名次。"
+          "LocalizedString": "Hides all players' exact bids each round, showing only their bid rankings."
         },
         "EffectType": "EBidKingEffectType::BKE_TurnOff",
         "Weight": 100,
@@ -36,13 +36,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_MoreInfo",
           "SourceString": "一手情报",
-          "LocalizedString": "一手情报"
+          "LocalizedString": "Insider Intel"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_MoreInfo_Desc",
           "SourceString": "本局内，第一回合和第三回合时将额外提供一条拍卖师的公开情报。",
-          "LocalizedString": "本局内，第一回合和第三回合时将额外提供一条拍卖师的公开情报。"
+          "LocalizedString": "Provides one extra piece of public intel from the auctioneer in Rounds 1 and 3."
         },
         "EffectType": "EBidKingEffectType::BKE_Hearsay",
         "Weight": 50,
@@ -54,13 +54,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple",
           "SourceString": "加倍！",
-          "LocalizedString": "加倍！"
+          "LocalizedString": "Double Up"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple_Desc",
           "SourceString": "本局内，所有紫色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有紫色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Purple-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_PurpleDoubleValue",
         "Weight": 50,
@@ -72,13 +72,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold",
           "SourceString": "加倍！！！",
-          "LocalizedString": "加倍！！！"
+          "LocalizedString": "Super Rush"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold_Desc",
           "SourceString": "本局内，所有金色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有金色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Gold-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_OrangeDoubleValue",
         "Weight": 25,
@@ -90,13 +90,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Diamond",
           "SourceString": "闪耀之心",
-          "LocalizedString": "闪耀之心"
+          "LocalizedString": "Gemheart"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Diamond_Desc",
           "SourceString": "在本局竞拍开始时，所有轮廓为1x1的藏品全部转变为轮廓为1x1随机宝石类藏品。",
-          "LocalizedString": "在本局竞拍开始时，所有轮廓为1x1的藏品全部转变为轮廓为1x1随机宝石类藏品。"
+          "LocalizedString": "Converts all collectibles with a 1×1 silhouette into random Gem collectibles with a 1×1 silhouette at the start of the auction."
         },
         "EffectType": "EBidKingEffectType::BKE_JewelLimit1x1",
         "Weight": 5,
@@ -108,13 +108,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward",
           "SourceString": "福利多多",
-          "LocalizedString": "福利多多"
+          "LocalizedString": "Bonus Bonanza"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward_Desc",
           "SourceString": "本局结算时，奖励金的获取倍率提升至30%。",
-          "LocalizedString": "本局结算时，奖励金的获取倍率提升至30%。"
+          "LocalizedString": "Increases the Bonus earning rate to 30% at the end of the auction."
         },
         "EffectType": "EBidKingEffectType::BKE_DividendBenefits",
         "Weight": 20,
@@ -126,13 +126,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard",
           "SourceString": "标准对局",
-          "LocalizedString": "标准对局"
+          "LocalizedString": "By the Book"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard_Desc",
           "SourceString": "本局内，竞拍将按照标准规则进行。",
-          "LocalizedString": "本局内，竞拍将按照标准规则进行。"
+          "LocalizedString": "Runs this auction under standard rules."
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
         "Weight": 700,
@@ -144,13 +144,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple",
           "SourceString": "加倍！",
-          "LocalizedString": "加倍！"
+          "LocalizedString": "Double Up"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple_Desc",
           "SourceString": "本局内，所有紫色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有紫色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Purple-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_PurpleDoubleValue",
         "Weight": 75,
@@ -162,13 +162,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold",
           "SourceString": "加倍！！！",
-          "LocalizedString": "加倍！！！"
+          "LocalizedString": "Super Rush"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold_Desc",
           "SourceString": "本局内，所有金色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有金色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Gold-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_OrangeDoubleValue",
         "Weight": 25,
@@ -180,13 +180,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward",
           "SourceString": "福利多多",
-          "LocalizedString": "福利多多"
+          "LocalizedString": "Bonus Bonanza"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward_Desc",
           "SourceString": "本局结算时，奖励金的获取倍率提升至30%。",
-          "LocalizedString": "本局结算时，奖励金的获取倍率提升至30%。"
+          "LocalizedString": "Increases the Bonus earning rate to 30% at the end of the auction."
         },
         "EffectType": "EBidKingEffectType::BKE_DividendBenefits",
         "Weight": 100,
@@ -198,13 +198,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard",
           "SourceString": "标准对局",
-          "LocalizedString": "标准对局"
+          "LocalizedString": "By the Book"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard_Desc",
           "SourceString": "本局内，竞拍将按照标准规则进行。",
-          "LocalizedString": "本局内，竞拍将按照标准规则进行。"
+          "LocalizedString": "Runs this auction under standard rules."
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
         "Weight": 780,
@@ -216,13 +216,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DarkBid",
           "SourceString": "天黑了",
-          "LocalizedString": "天黑了"
+          "LocalizedString": "Blackout"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DarkBid_Desc",
           "SourceString": "本局内，每回合不再公示每位玩家的具体出价，仅展示各玩家的出价名次。",
-          "LocalizedString": "本局内，每回合不再公示每位玩家的具体出价，仅展示各玩家的出价名次。"
+          "LocalizedString": "Hides all players' exact bids each round, showing only their bid rankings."
         },
         "EffectType": "EBidKingEffectType::BKE_TurnOff",
         "Weight": 200,
@@ -234,13 +234,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_MoreInfo",
           "SourceString": "一手情报",
-          "LocalizedString": "一手情报"
+          "LocalizedString": "Insider Intel"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_MoreInfo_Desc",
           "SourceString": "本局内，第一回合和第三回合时将额外提供一条拍卖师的公开情报。",
-          "LocalizedString": "本局内，第一回合和第三回合时将额外提供一条拍卖师的公开情报。"
+          "LocalizedString": "Provides one extra piece of public intel from the auctioneer in Rounds 1 and 3."
         },
         "EffectType": "EBidKingEffectType::BKE_Hearsay",
         "Weight": 50,
@@ -252,13 +252,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple",
           "SourceString": "加倍！",
-          "LocalizedString": "加倍！"
+          "LocalizedString": "Double Up"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoublePurple_Desc",
           "SourceString": "本局内，所有紫色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有紫色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Purple-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_PurpleDoubleValue",
         "Weight": 50,
@@ -270,13 +270,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold",
           "SourceString": "加倍！！！",
-          "LocalizedString": "加倍！！！"
+          "LocalizedString": "Super Rush"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_DoubleGold_Desc",
           "SourceString": "本局内，所有金色品质的藏品价值翻倍。",
-          "LocalizedString": "本局内，所有金色品质的藏品价值翻倍。"
+          "LocalizedString": "Doubles the value of all Gold-rarity collectibles during this auction."
         },
         "EffectType": "EBidKingEffectType::BKE_OrangeDoubleValue",
         "Weight": 25,
@@ -288,13 +288,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Diamond",
           "SourceString": "闪耀之心",
-          "LocalizedString": "闪耀之心"
+          "LocalizedString": "Gemheart"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Diamond_Desc",
           "SourceString": "在本局竞拍开始时，所有轮廓为1x1的藏品全部转变为轮廓为1x1随机宝石类藏品。",
-          "LocalizedString": "在本局竞拍开始时，所有轮廓为1x1的藏品全部转变为轮廓为1x1随机宝石类藏品。"
+          "LocalizedString": "Converts all collectibles with a 1×1 silhouette into random Gem collectibles with a 1×1 silhouette at the start of the auction."
         },
         "EffectType": "EBidKingEffectType::BKE_JewelLimit1x1",
         "Weight": 5,
@@ -306,13 +306,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward",
           "SourceString": "福利多多",
-          "LocalizedString": "福利多多"
+          "LocalizedString": "Bonus Bonanza"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_SuperReward_Desc",
           "SourceString": "本局结算时，奖励金的获取倍率提升至30%。",
-          "LocalizedString": "本局结算时，奖励金的获取倍率提升至30%。"
+          "LocalizedString": "Increases the Bonus earning rate to 30% at the end of the auction."
         },
         "EffectType": "EBidKingEffectType::BKE_DividendBenefits",
         "Weight": 20,
@@ -324,13 +324,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard",
           "SourceString": "标准对局",
-          "LocalizedString": "标准对局"
+          "LocalizedString": "By the Book"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Standard_Desc",
           "SourceString": "本局内，竞拍将按照标准规则进行。",
-          "LocalizedString": "本局内，竞拍将按照标准规则进行。"
+          "LocalizedString": "Runs this auction under standard rules."
         },
         "EffectType": "EBidKingEffectType::BKE_Normal",
         "Weight": 630,
@@ -342,13 +342,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency",
           "SourceString": "紧迫危机",
-          "LocalizedString": "紧迫危机"
+          "LocalizedString": "Time Crunch"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency_Desc",
           "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
-          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+          "LocalizedString": "Reduces bidding time to 20s per round. You won't automatically forfeit when time runs out."
         },
         "EffectType": "EBidKingEffectType::BKE_Urgency",
         "Weight": 20,
@@ -360,13 +360,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency",
           "SourceString": "紧迫危机",
-          "LocalizedString": "紧迫危机"
+          "LocalizedString": "Time Crunch"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency_Desc",
           "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
-          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+          "LocalizedString": "Reduces bidding time to 20s per round. You won't automatically forfeit when time runs out."
         },
         "EffectType": "EBidKingEffectType::BKE_Urgency",
         "Weight": 50,
@@ -378,13 +378,13 @@
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency",
           "SourceString": "紧迫危机",
-          "LocalizedString": "紧迫危机"
+          "LocalizedString": "Time Crunch"
         },
         "EffectDesc": {
           "TableId": "/Game/Text/ST_UI_GYJ.ST_UI_GYJ",
           "Key": "BidKingEffect_Urgency_Desc",
           "SourceString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。",
-          "LocalizedString": "每回合的出价时间降低为20秒，时间耗尽时不会触发自动弃权。"
+          "LocalizedString": "Reduces bidding time to 20s per round. You won't automatically forfeit when time runs out."
         },
         "EffectType": "EBidKingEffectType::BKE_Urgency",
         "Weight": 20,

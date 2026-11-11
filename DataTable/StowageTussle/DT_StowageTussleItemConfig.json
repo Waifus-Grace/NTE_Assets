@@ -17,7 +17,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D01_Name",
           "SourceString": "腐蚀喷吐",
-          "LocalizedString": "腐蚀喷吐"
+          "LocalizedString": "Corrosive Spit"
         },
         "ItemShapeId": "Shape_1x2",
         "ItemIcon": {
@@ -77,7 +77,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D01_Desc",
           "SourceString": "冷却5秒，每链接1件食物急速+20。造成伤害并施加中毒。【橙】触发时，链接的食物急速+40。",
-          "LocalizedString": "冷却5秒，每链接1件食物急速+20。造成伤害并施加中毒。【橙】触发时，链接的食物急速+40。"
+          "LocalizedString": "Grants 20 Haste per linked Food item. Deals DMG and applies Poison. Cooldown: 5s. Bonus: Grants linked Food items 40 Haste when this item triggers."
         },
         "ItemType": "EStowageTussleItemType::Skill",
         "ItemActiveConditionArray": [],
@@ -254,7 +254,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D02_Name",
           "SourceString": "毒蘑菇",
-          "LocalizedString": "毒蘑菇"
+          "LocalizedString": "Poisoncap"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -314,7 +314,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D02_Desc",
           "SourceString": "冷却4秒，每链接1件食物急速+20。施加中毒。【橙】额外施加2层虚弱。",
-          "LocalizedString": "冷却4秒，每链接1件食物急速+20。施加中毒。【橙】额外施加2层虚弱。"
+          "LocalizedString": "Grants 20 Haste per linked Food item. Applies Poison. Cooldown: 4s. Bonus: Applies 2 additional stacks of Fatigue."
         },
         "ItemType": "EStowageTussleItemType::Food",
         "ItemActiveConditionArray": [],
@@ -467,7 +467,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D03_Name",
           "SourceString": "发酵菌种",
-          "LocalizedString": "发酵菌种"
+          "LocalizedString": "Starter Culture"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -527,7 +527,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D03_Desc",
           "SourceString": "链接的食物触发时，施加中毒；链接的技能触发时，施加虚弱。【橙】链接的食物触发时额外造成30伤害。",
-          "LocalizedString": "链接的食物触发时，施加中毒；链接的技能触发时，施加虚弱。【橙】链接的食物触发时额外造成30伤害。"
+          "LocalizedString": "Applies Poison whenever a linked Food item triggers, and Fatigue whenever a linked Skill triggers. Bonus: Deals an additional 30 DMG whenever a linked Food item triggers."
         },
         "ItemType": "EStowageTussleItemType::Jewelry",
         "ItemActiveConditionArray": [
@@ -690,7 +690,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D04_Name",
           "SourceString": "分解光线",
-          "LocalizedString": "分解光线"
+          "LocalizedString": "Disintegration Beam"
         },
         "ItemShapeId": "Shape_1x3",
         "ItemIcon": {
@@ -750,7 +750,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D04_Desc",
           "SourceString": "冷却10秒，每链接1件技能急速+20。引爆：移除敌方中毒，每移除1层造成伤害。【橙】引爆后重新施加8层中毒。",
-          "LocalizedString": "冷却10秒，每链接1件技能急速+20。引爆：移除敌方中毒，每移除1层造成伤害。【橙】引爆后重新施加8层中毒。"
+          "LocalizedString": "Grants 20 Haste per linked Skill. Detonate: Removes Poison from the enemy, dealing DMG for each stack removed. Cooldown: 10s. Bonus: Reapplies 8 stacks of Poison after detonation."
         },
         "ItemType": "EStowageTussleItemType::Skill",
         "ItemActiveConditionArray": [],
@@ -934,7 +934,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D05_Name",
           "SourceString": "毒囊",
-          "LocalizedString": "毒囊"
+          "LocalizedString": "Venom Sac"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -994,7 +994,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_D05_Desc",
           "SourceString": "开局10秒后触发1次，每链接1件技能急速+25。施加中毒与疾病。【橙】同时施加6层易伤。",
-          "LocalizedString": "开局10秒后触发1次，每链接1件技能急速+25。施加中毒与疾病。【橙】同时施加6层易伤。"
+          "LocalizedString": "Triggers once 10s after combat begins. Grants 25 Haste per linked Skill. Applies Poison and Disease. Bonus: Applies 6 stacks of Vulnerability."
         },
         "ItemType": "EStowageTussleItemType::Jewelry",
         "ItemActiveConditionArray": [],
@@ -1193,7 +1193,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K01_Name",
           "SourceString": "尖刺冲撞",
-          "LocalizedString": "尖刺冲撞"
+          "LocalizedString": "Spiked Charge"
         },
         "ItemShapeId": "Shape_1x2",
         "ItemIcon": {
@@ -1253,7 +1253,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K01_Desc",
           "SourceString": "冷却5秒，每链接1件装备急速+20。造成伤害并获得荆棘。【橙】额外获得2层减伤。",
-          "LocalizedString": "冷却5秒，每链接1件装备急速+20。造成伤害并获得荆棘。【橙】额外获得2层减伤。"
+          "LocalizedString": "Grants 20 Haste per linked piece of equipment. Deals DMG and grants Thorns. Cooldown: 5s. Bonus: Grants 2 stacks of DMG Reduction."
         },
         "ItemType": "EStowageTussleItemType::Skill",
         "ItemActiveConditionArray": [],
@@ -1435,7 +1435,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K02_Name",
           "SourceString": "铁处女",
-          "LocalizedString": "铁处女"
+          "LocalizedString": "Iron Maiden"
         },
         "ItemShapeId": "Shape_1x3",
         "ItemIcon": {
@@ -1479,7 +1479,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K02_Desc",
           "SourceString": "冷却9秒，自身每有1层荆棘急速+3。造成伤害，每链接1件装备伤害提高。【橙】命中时施加4层虚弱。",
-          "LocalizedString": "冷却9秒，自身每有1层荆棘急速+3。造成伤害，每链接1件装备伤害提高。【橙】命中时施加4层虚弱。"
+          "LocalizedString": "Grants 3 Haste per stack of Thorns. Deals DMG, increased for each linked piece of equipment. Cooldown: 9s. Bonus: Applies 4 stacks of Fatigue on hit."
         },
         "ItemType": "EStowageTussleItemType::Skill",
         "ItemActiveConditionArray": [],
@@ -1620,7 +1620,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K03_Name",
           "SourceString": "古铜头盔",
-          "LocalizedString": "古铜头盔"
+          "LocalizedString": "Bronze Helm"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -1680,7 +1680,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K03_Desc",
           "SourceString": "开局获得减伤与荆棘；防御力提高。【橙】开局额外获得3层强化。",
-          "LocalizedString": "开局获得减伤与荆棘；防御力提高。【橙】开局额外获得3层强化。"
+          "LocalizedString": "Grants DMG Reduction and Thorns at the start of combat. Increases DEF. Bonus: Grants 3 stacks of Empowerment at the start of combat."
         },
         "ItemType": "EStowageTussleItemType::Equipment",
         "ItemActiveConditionArray": [],
@@ -1839,7 +1839,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K04_Name",
           "SourceString": "护心镜",
-          "LocalizedString": "护心镜"
+          "LocalizedString": "Heartguard Plate"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -1899,7 +1899,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K04_Desc",
           "SourceString": "生命首次低于70%时：获得荆棘，并随机触发1个链接的技能。【橙】同时回复200生命。",
-          "LocalizedString": "生命首次低于70%时：获得荆棘，并随机触发1个链接的技能。【橙】同时回复200生命。"
+          "LocalizedString": "Grants Thorns and triggers 1 random linked Skill the first time the HP falls below 70%. Bonus: Restores 200 HP."
         },
         "ItemType": "EStowageTussleItemType::Equipment",
         "ItemActiveConditionArray": [
@@ -2018,7 +2018,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K05_Name",
           "SourceString": "卸甲冲锋",
-          "LocalizedString": "卸甲冲锋"
+          "LocalizedString": "Thornburst Charge"
         },
         "ItemShapeId": "Shape_2x1",
         "ItemIcon": {
@@ -2078,7 +2078,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_K05_Desc",
           "SourceString": "冷却8秒。卸甲：移除自身荆棘，每移除1层造成伤害；每链接1件装备可多移除2层。【橙】卸甲后获得6层减伤。",
-          "LocalizedString": "冷却8秒。卸甲：移除自身荆棘，每移除1层造成伤害；每链接1件装备可多移除2层。【橙】卸甲后获得6层减伤。"
+          "LocalizedString": "Thornburst: Removes the carried Thorns stacks, dealing DMG for each stack removed. Removes 2 additional stacks per linked piece of equipment. Cooldown: 8s. Orange: Grants 6 stacks of DMG Reduction after Thornburst."
         },
         "ItemType": "EStowageTussleItemType::Skill",
         "ItemActiveConditionArray": [],
@@ -2262,7 +2262,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G01_Name",
           "SourceString": "大餐桌",
-          "LocalizedString": "大餐桌"
+          "LocalizedString": "Banquet Table"
         },
         "ItemShapeId": "Shape_2x2",
         "ItemIcon": {
@@ -2322,7 +2322,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G01_Desc",
           "SourceString": "指向的食物触发时额外触发1次；生命上限提高。【橙】被指向的食物急速+60。",
-          "LocalizedString": "指向的食物触发时额外触发1次；生命上限提高。【橙】被指向的食物急速+60。"
+          "LocalizedString": "Causes the targeted Food item to trigger 1 additional time whenever it triggers. Increases Max HP. Bonus: Grants the targeted Food item 60 Haste."
         },
         "ItemType": "EStowageTussleItemType::Furniture",
         "ItemActiveConditionArray": [
@@ -2404,7 +2404,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G02_Name",
           "SourceString": "落地钟",
-          "LocalizedString": "落地钟"
+          "LocalizedString": "Grandfather Clock"
         },
         "ItemShapeId": "Shape_1x2",
         "ItemIcon": {
@@ -2464,7 +2464,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G02_Desc",
           "SourceString": "指向的技能触发时，对敌方施加易伤。【橙】同时获得2层强化。",
-          "LocalizedString": "指向的技能触发时，对敌方施加易伤。【橙】同时获得2层强化。"
+          "LocalizedString": "Applies Vulnerability to the enemy whenever the targeted Skill triggers. Bonus: Grants 2 stacks of Empowerment."
         },
         "ItemType": "EStowageTussleItemType::Furniture",
         "ItemActiveConditionArray": [
@@ -2574,7 +2574,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G03_Name",
           "SourceString": "武器架",
-          "LocalizedString": "武器架"
+          "LocalizedString": "Weapon Rack"
         },
         "ItemShapeId": "Shape_2x2_1",
         "ItemIcon": {
@@ -2634,7 +2634,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G03_Desc",
           "SourceString": "攻击力提高，每链接1件技能额外提高。【橙】暴击率+10%。",
-          "LocalizedString": "攻击力提高，每链接1件技能额外提高。【橙】暴击率+10%。"
+          "LocalizedString": "Increases ATK, with a further bonus for each linked Skill. Bonus: Increases Crit Rate by 10%."
         },
         "ItemType": "EStowageTussleItemType::Furniture",
         "ItemActiveConditionArray": [],
@@ -2743,7 +2743,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G04_Name",
           "SourceString": "四叶草",
-          "LocalizedString": "四叶草"
+          "LocalizedString": "Four-Leaf Clover"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -2803,7 +2803,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G04_Desc",
           "SourceString": "暴击率提高，每链接1件技能额外提高。【橙】暴击伤害+50%。",
-          "LocalizedString": "暴击率提高，每链接1件技能额外提高。【橙】暴击伤害+50%。"
+          "LocalizedString": "Increases Crit Rate, with a further bonus for each linked Skill. Bonus: Increases Crit DMG by 50%."
         },
         "ItemType": "EStowageTussleItemType::Jewelry",
         "ItemActiveConditionArray": [],
@@ -2916,7 +2916,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G05_Name",
           "SourceString": "怀表",
-          "LocalizedString": "怀表"
+          "LocalizedString": "Pocket Watch"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -2976,7 +2976,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G05_Desc",
           "SourceString": "战斗开始时，链接的物品急速提高。",
-          "LocalizedString": "战斗开始时，链接的物品急速提高。"
+          "LocalizedString": "Increases the Haste of linked items at the start of combat."
         },
         "ItemType": "EStowageTussleItemType::Jewelry",
         "ItemActiveConditionArray": [],
@@ -3033,7 +3033,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G06_Name",
           "SourceString": "偷心胸针",
-          "LocalizedString": "偷心胸针"
+          "LocalizedString": "Heartstealer Brooch"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -3093,7 +3093,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G06_Desc",
           "SourceString": "指向的技能触发时，偷取对手增益。【橙】偷取后回复80生命。",
-          "LocalizedString": "指向的技能触发时，偷取对手增益。【橙】偷取后回复80生命。"
+          "LocalizedString": "Steals buffs from the enemy whenever the targeted Skill triggers. Bonus: Restores 80 HP after stealing buffs."
         },
         "ItemType": "EStowageTussleItemType::Jewelry",
         "ItemActiveConditionArray": [
@@ -3193,7 +3193,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G07_Name",
           "SourceString": "热乎包子",
-          "LocalizedString": "热乎包子"
+          "LocalizedString": "Piping-Hot Bun"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -3253,7 +3253,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G07_Desc",
           "SourceString": "冷却5秒，每链接1件食物急速+20。回复生命。【橙】同时获得1层减伤。",
-          "LocalizedString": "冷却5秒，每链接1件食物急速+20。回复生命。【橙】同时获得1层减伤。"
+          "LocalizedString": "Grants 20 Haste per linked Food item. Restores HP. Cooldown: 5s. Bonus: Grants 1 stack of DMG Reduction."
         },
         "ItemType": "EStowageTussleItemType::Food",
         "ItemActiveConditionArray": [],
@@ -3398,7 +3398,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G08_Name",
           "SourceString": "薄荷糖",
-          "LocalizedString": "薄荷糖"
+          "LocalizedString": "Peppermint"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -3458,7 +3458,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G08_Desc",
           "SourceString": "冷却6秒，每链接1件食物急速+20。净化自身减益。【橙】同时回复40生命。",
-          "LocalizedString": "冷却6秒，每链接1件食物急速+20。净化自身减益。【橙】同时回复40生命。"
+          "LocalizedString": "Grants 20 Haste per linked Food item. Removes debuffs. Cooldown: 6s. Bonus: Restores 40 HP."
         },
         "ItemType": "EStowageTussleItemType::Food",
         "ItemActiveConditionArray": [],
@@ -3601,7 +3601,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G09_Name",
           "SourceString": "急救绷带",
-          "LocalizedString": "急救绷带"
+          "LocalizedString": "Emergency Bandage"
         },
         "ItemShapeId": "Shape_1x1",
         "ItemIcon": {
@@ -3661,7 +3661,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G09_Desc",
           "SourceString": "生命首次低于50%时消耗：回复生命并净化全部中毒。【橙】同时获得4层减伤。",
-          "LocalizedString": "生命首次低于50%时消耗：回复生命并净化全部中毒。【橙】同时获得4层减伤。"
+          "LocalizedString": "Restores HP and removes all Poison stacks the first time the HP falls below 50%, consuming this item. Bonus: Grants 4 stacks of DMG Reduction."
         },
         "ItemType": "EStowageTussleItemType::Medicine",
         "ItemActiveConditionArray": [
@@ -3754,7 +3754,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G10_Name",
           "SourceString": "应急铠甲",
-          "LocalizedString": "应急铠甲"
+          "LocalizedString": "Emergency Armor"
         },
         "ItemShapeId": "Shape_2x2",
         "ItemIcon": {
@@ -3814,7 +3814,7 @@
           "TableId": "/Game/DataTable/StowageTussle/ST_StowageTussle.ST_StowageTussle",
           "Key": "Item_G10_Desc",
           "SourceString": "生命首次低于70%时：回复生命并获得强化；防御力提高。【橙】同时获得3层吸血。",
-          "LocalizedString": "生命首次低于70%时：回复生命并获得强化；防御力提高。【橙】同时获得3层吸血。"
+          "LocalizedString": "Restores HP and grants Empowerment the first time the HP falls below 70%. Increases DEF. Bonus: Grants 3 stacks of Lifesteal."
         },
         "ItemType": "EStowageTussleItemType::Equipment",
         "ItemActiveConditionArray": [

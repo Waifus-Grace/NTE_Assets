@@ -17,7 +17,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_ExpAndCoin",
           "SourceString": "经验及甲硬币",
-          "LocalizedString": "经验及甲硬币"
+          "LocalizedString": "EXP & Beetle Coins"
         },
         "DisplayName": {
           "CultureInvariantString": "无尽深渊"
@@ -37,7 +37,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "2": {
@@ -45,7 +45,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_Talent",
           "SourceString": "异能升级材料",
-          "LocalizedString": "异能升级材料"
+          "LocalizedString": "Ability Upgrade"
         },
         "DisplayName": {
           "CultureInvariantString": "深渊无尽"
@@ -65,7 +65,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "3": {
@@ -73,7 +73,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_ArcDisk",
           "SourceString": "弧盘突破材料",
-          "LocalizedString": "弧盘突破材料"
+          "LocalizedString": "Arc Ascension"
         },
         "DisplayName": {
           "CultureInvariantString": "无深尽渊"
@@ -93,7 +93,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "4": {
@@ -101,7 +101,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_AirCutrtan",
           "SourceString": "空幕",
-          "LocalizedString": "空幕"
+          "LocalizedString": "Console"
         },
         "DisplayName": {
           "CultureInvariantString": "无深尽渊"
@@ -117,14 +117,14 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_AirCutrtan",
           "SourceString": "空幕",
-          "LocalizedString": "空幕"
+          "LocalizedString": "Console"
         },
         "RegisterGuideID": "None",
         "LockedTip": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "5": {
@@ -132,7 +132,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_CloneOverviewRow_Weekly",
           "SourceString": "异象巡礼",
-          "LocalizedString": "异象巡礼"
+          "LocalizedString": "Anomaly Pilgrimage"
         },
         "DisplayName": {
           "CultureInvariantString": "无深尽渊"
@@ -152,7 +152,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "6": {
@@ -160,7 +160,7 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "AbyssClone",
           "SourceString": "轨外之境",
-          "LocalizedString": "轨外之境"
+          "LocalizedString": "Beyond the Rails"
         },
         "DisplayName": {
           "CultureInvariantString": "无深尽渊"
@@ -180,7 +180,7 @@
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       },
       "7": {
@@ -188,13 +188,13 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "WB_AdventureManualBoss_BossRowDes",
           "SourceString": "异象追猎",
-          "LocalizedString": "异象追猎"
+          "LocalizedString": "Anomaly Hunt"
         },
         "DisplayName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "WB_AdventureManualBoss_BossRowDes",
           "SourceString": "异象追猎",
-          "LocalizedString": "异象追猎"
+          "LocalizedString": "Anomaly Hunt"
         },
         "CloneType": [
           "ECloneType::WorldBoss_Display"
@@ -207,14 +207,14 @@
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "WB_AdventureManualBoss_BossRowDes",
           "SourceString": "异象追猎",
-          "LocalizedString": "异象追猎"
+          "LocalizedString": "Anomaly Hunt"
         },
         "RegisterGuideID": "None",
         "LockedTip": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
           "Key": "common_FunctionUnlock",
           "SourceString": "该功能尚未解锁",
-          "LocalizedString": "该功能尚未解锁"
+          "LocalizedString": "Feature locked."
         }
       }
     }

@@ -25,7 +25,7 @@
           "TableId": "/Game/Text/Gamepad/ST_Gamepad.ST_Gamepad",
           "Key": "Characterfile_test001",
           "SourceString": "<!>临时译文",
-          "LocalizedString": "<!>临时译文"
+          "LocalizedString": "Temporary translation"
         },
         "BirthdaySkillName": {
           "CultureInvariantString": null
@@ -76,13 +76,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "meet_001",
               "SourceString": "初次见面",
-              "LocalizedString": "初次见面"
+              "LocalizedString": "First Meet"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_meet_001",
               "SourceString": "名字，弥斯墨。月光当铺只接待自愿交易的客人，但是只想许愿却不肯支付代价的话，还是做梦来得快点。",
-              "LocalizedString": "名字，弥斯墨。月光当铺只接待自愿交易的客人，但是只想许愿却不肯支付代价的话，还是做梦来得快点。"
+              "LocalizedString": "The name's Mismo. Pawn Moonlight only serves customers who trade voluntarily. If you're just here to make wishes without paying the price, you'd better take a hike."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_meet_001.Play_Vo_Char_NPC020_meet_001",
@@ -96,13 +96,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "meet_002",
               "SourceString": "再次见面",
-              "LocalizedString": "再次见面"
+              "LocalizedString": "Meet Again"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_meet_002",
               "SourceString": "虽然名义上月光当铺已经消失了，但我不喜欢欠下人情。有需要的话就来找我吧，可以帮你一次。",
-              "LocalizedString": "虽然名义上月光当铺已经消失了，但我不喜欢欠下人情。有需要的话就来找我吧，可以帮你一次。"
+              "LocalizedString": "Pawn Moonlight may not exist anymore, but I don't like owing anyone favors. So when you really need help, come to me."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_meet_002.Play_Vo_Char_NPC020_meet_002",
@@ -122,13 +122,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "chat_NPC020_001",
               "SourceString": "闲聊·呢喃",
-              "LocalizedString": "闲聊·呢喃"
+              "LocalizedString": "Chat: Whispers"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_chat_001",
               "SourceString": "哥哥……没什么，你听错了。",
-              "LocalizedString": "哥哥……没什么，你听错了。"
+              "LocalizedString": "Otro… no, it's nothing."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_chat_001.Play_Vo_Char_NPC020_chat_001",
@@ -142,13 +142,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "chat_NPC020_002",
               "SourceString": "闲聊·鸟雀",
-              "LocalizedString": "闲聊·鸟雀"
+              "LocalizedString": "Chat: Birds"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_chat_002",
               "SourceString": "叽叽喳喳，好吵。",
-              "LocalizedString": "叽叽喳喳，好吵。"
+              "LocalizedString": "All those chirps are so annoying."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_chat_002.Play_Vo_Char_NPC020_chat_002",
@@ -162,13 +162,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "chat_NPC020_003",
               "SourceString": "闲聊·悠闲",
-              "LocalizedString": "闲聊·悠闲"
+              "LocalizedString": "Chat: Leisure"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_chat_003",
               "SourceString": "难得没有无趣的人打扰，泡壶好茶吧。",
-              "LocalizedString": "难得没有无趣的人打扰，泡壶好茶吧。"
+              "LocalizedString": "Such a rare day of quiet. Time to enjoy some good tea."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_chat_003.Play_Vo_Char_NPC020_chat_003",
@@ -182,13 +182,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "weather_001",
               "SourceString": "大晴天",
-              "LocalizedString": "大晴天"
+              "LocalizedString": "Sunny"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_weather_001",
               "SourceString": "久违的阳光，出来走走倒也不错。",
-              "LocalizedString": "久违的阳光，出来走走倒也不错。"
+              "LocalizedString": "It's been a while since we had sunshine. It's nice to take a walk outside."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_weather_001.Play_Vo_Char_NPC020_weather_001",
@@ -202,13 +202,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "weather_002",
               "SourceString": "雨天",
-              "LocalizedString": "雨天"
+              "LocalizedString": "Rainy"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_weather_002",
               "SourceString": "麻烦的天气，早点回去吧。",
-              "LocalizedString": "麻烦的天气，早点回去吧。"
+              "LocalizedString": "Horrible weather. We should head back soon."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_weather_002.Play_Vo_Char_NPC020_weather_002",
@@ -222,13 +222,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "weather_003",
               "SourceString": "寒冷",
-              "LocalizedString": "寒冷"
+              "LocalizedString": "Cold"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_weather_003",
               "SourceString": "无能的人才会选择依靠他人取暖。",
-              "LocalizedString": "无能的人才会选择依靠他人取暖。"
+              "LocalizedString": "Only the weak huddle for warmth."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_weather_003.Play_Vo_Char_NPC020_weather_003",
@@ -242,13 +242,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "weather_004",
               "SourceString": "炎热",
-              "LocalizedString": "炎热"
+              "LocalizedString": "Hot"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_weather_004",
               "SourceString": "这种天气麻烦也会变少，这么一想，倒也不错。",
-              "LocalizedString": "这种天气麻烦也会变少，这么一想，倒也不错。"
+              "LocalizedString": "We'll encounter less trouble because of this annoying weather, which isn't so bad when you think about it."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_weather_004.Play_Vo_Char_NPC020_weather_004",
@@ -262,13 +262,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "greet_001",
               "SourceString": "早上问候",
-              "LocalizedString": "早上问候"
+              "LocalizedString": "Morning Greeting"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_greet_001",
               "SourceString": "休息好了就出发吧。",
-              "LocalizedString": "休息好了就出发吧。"
+              "LocalizedString": "Let's get going when we're done resting."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_greet_001.Play_Vo_Char_NPC020_greet_001",
@@ -282,13 +282,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "greet_002",
               "SourceString": "中午问候",
-              "LocalizedString": "中午问候"
+              "LocalizedString": "Noon Greeting"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_greet_002",
               "SourceString": "想要我来做午饭？……算了，下不为例。",
-              "LocalizedString": "想要我来做午饭？……算了，下不为例。"
+              "LocalizedString": "Want me to make lunch? …Fine, just this once."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_greet_002.Play_Vo_Char_NPC020_greet_002",
@@ -302,13 +302,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "greet_003",
               "SourceString": "傍晚问候",
-              "LocalizedString": "傍晚问候"
+              "LocalizedString": "Evening Greeting"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_greet_003",
               "SourceString": "散步消食就免了，坐着看看月亮吧。",
-              "LocalizedString": "散步消食就免了，坐着看看月亮吧。"
+              "LocalizedString": "Forget about a digestive walk. Let's sit and watch the moon."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_greet_003.Play_Vo_Char_NPC020_greet_003",
@@ -322,13 +322,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "greet_004",
               "SourceString": "晚安",
-              "LocalizedString": "晚安"
+              "LocalizedString": "Good Night"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_greet_004",
               "SourceString": "准备营业。",
-              "LocalizedString": "准备营业。"
+              "LocalizedString": "Preparing to open."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_greet_004.Play_Vo_Char_NPC020_greet_004",
@@ -342,13 +342,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hobby_001",
               "SourceString": "爱好",
-              "LocalizedString": "爱好"
+              "LocalizedString": "Hobbies"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_hobby_001",
               "SourceString": "我没什么喜好……你说小动物？那是因为哥哥喜欢罢了。",
-              "LocalizedString": "我没什么喜好……你说小动物？那是因为哥哥喜欢罢了。"
+              "LocalizedString": "I don't have any hobbies… Animals? That's because Otro likes them."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_hobby_001.Play_Vo_Char_NPC020_hobby_001",
@@ -362,13 +362,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "vexation_001",
               "SourceString": "烦恼",
-              "LocalizedString": "烦恼"
+              "LocalizedString": "Worries"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_vexation_001",
               "SourceString": "来月光当铺的，多的是自寻烦恼的人，我可不是。不过要是有人明明已经实现了愿望却不按照规定支付代价，那确实有些麻烦啊。",
-              "LocalizedString": "来月光当铺的，多的是自寻烦恼的人，我可不是。不过要是有人明明已经实现了愿望却不按照规定支付代价，那确实有些麻烦啊。"
+              "LocalizedString": "Most of the people who come to Pawn Moonlight are asking for trouble, but I'm not one of them. However, we might run into some trouble if one doesn't pay the price after having your wish fulfilled."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_vexation_001.Play_Vo_Char_NPC020_vexation_001",
@@ -382,13 +382,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "talk_NPC020_001",
               "SourceString": "话题·异象",
-              "LocalizedString": "话题·异象"
+              "LocalizedString": "Topic: Anomalies"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_talk_001",
               "SourceString": "当人的执念足够强烈时，也许能等到来自异象的回应……和异象做交易，又或者和人做交易，谈不上哪个更好，我能给你的忠告只有——得到的同时必然也会失去。",
-              "LocalizedString": "当人的执念足够强烈时，也许能等到来自异象的回应……和异象做交易，又或者和人做交易，谈不上哪个更好，我能给你的忠告只有——得到的同时必然也会失去。"
+              "LocalizedString": "When one's force of will is strong enough, they may just get a response from the anomaly… Whether dealing with anomalies or people, there's no telling which is better, but one thing's for sure—everything comes with a tradeoff."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_talk_001.Play_Vo_Char_NPC020_talk_001",
@@ -402,13 +402,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "talk_NPC020_002",
               "SourceString": "话题·料理",
-              "LocalizedString": "话题·料理"
+              "LocalizedString": "Topic: Cooking"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_talk_002",
               "SourceString": "料理是很能静下心来的活动，不用和人打交道，也不需要别人来指手画脚，全凭自己的心意。想吃我做的料理？看我心情吧。",
-              "LocalizedString": "料理是很能静下心来的活动，不用和人打交道，也不需要别人来指手画脚，全凭自己的心意。想吃我做的料理？看我心情吧。"
+              "LocalizedString": "Cooking is pretty calming. No need to interact with anyone, and you don't have anyone telling you what to do. It's all up to you. Want me to cook something for you? Well, that'll have to wait."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_talk_002.Play_Vo_Char_NPC020_talk_002",
@@ -422,13 +422,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "talk_NPC020_003",
               "SourceString": "话题·完美主义",
-              "LocalizedString": "话题·完美主义"
+              "LocalizedString": "Topic: Perfectionism"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_talk_003",
               "SourceString": "既然已经下定决心准备做了，就该做到最好。那些总是半途而废或草草了事的人，才更难以理解吧？",
-              "LocalizedString": "既然已经下定决心准备做了，就该做到最好。那些总是半途而废或草草了事的人，才更难以理解吧？"
+              "LocalizedString": "In for a penny, in for a pound. I can't wrap my head around people who call it quits halfway."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_talk_003.Play_Vo_Char_NPC020_talk_003",
@@ -442,13 +442,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_talk_004",
               "SourceString": "残疾的丈夫为了能和妻子共跳一支舞，典当了自己的「歌声」；而失聪的妻子为了能听到丈夫的歌声又当掉了自己的「舞步」……或许听起来是个「玩笑」，但比起那些无聊的愿望，还算是值得分享。",
-              "LocalizedString": "残疾的丈夫为了能和妻子共跳一支舞，典当了自己的「歌声」；而失聪的妻子为了能听到丈夫的歌声又当掉了自己的「舞步」……或许听起来是个「玩笑」，但比起那些无聊的愿望，还算是值得分享。"
+              "LocalizedString": "A disabled guy pawned his \"voice\" to dance with his wife, while the deaf wife pawned her \"ability to dance\" to hear her husband's voice… It may sound like a \"joke\", but compared to those boring wishes, it's worth sharing."
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "talk_NPC020_004",
               "SourceString": "话题·愿望",
-              "LocalizedString": "话题·愿望"
+              "LocalizedString": "Topic: Wishes"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_talk_004.Play_Vo_Char_NPC020_talk_004",
@@ -462,13 +462,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "self_NPC020_001",
               "SourceString": "关于自己·异能",
-              "LocalizedString": "关于自己·异能"
+              "LocalizedString": "About Myself: Esper Abilities"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_self_001",
               "SourceString": "等价交换是交易的前提，他们实现愿望，而我收取代价，这是很合理的行为。看在你帮过我的份上，提醒你一句，商人可不会做亏本生意。",
-              "LocalizedString": "等价交换是交易的前提，他们实现愿望，而我收取代价，这是很合理的行为。看在你帮过我的份上，提醒你一句，商人可不会做亏本生意。"
+              "LocalizedString": "An exchange of equal value is the basis of all transactions. They get their wishes fulfilled, and I take the price—it's only fair. I'm just reminding you of this since you've helped me."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_self_001.Play_Vo_Char_NPC020_self_001",
@@ -482,13 +482,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "self_NPC020_002",
               "SourceString": "关于自己·吊坠",
-              "LocalizedString": "关于自己·吊坠"
+              "LocalizedString": "About Myself: Pendant"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_self_002",
               "SourceString": "双生子的诅咒？无稽之谈。相信这种话的人，不过是命运的奴隶。就算这种无聊的假设真的发生了，消失的那个人也不该是哥哥。",
-              "LocalizedString": "双生子的诅咒？无稽之谈。相信这种话的人，不过是命运的奴隶。就算这种无聊的假设真的发生了，消失的那个人也不该是哥哥。"
+              "LocalizedString": "The curse of twins? Nonsense. Believing in such things only makes you a slave to fate. Even if, hypothetically, it were true, Otro shouldn't be the one to disappear."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_self_002.Play_Vo_Char_NPC020_self_002",
@@ -502,13 +502,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "self_NPC020_003",
               "SourceString": "关于自己·寡言",
-              "LocalizedString": "关于自己·寡言"
+              "LocalizedString": "About Myself: Being Quiet"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_self_003",
               "SourceString": "没有必要而已，聒噪的人太多了。",
-              "LocalizedString": "没有必要而已，聒噪的人太多了。"
+              "LocalizedString": "I just don't see the point. People can be unbearably noisy."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_self_003.Play_Vo_Char_NPC020_self_003",
@@ -522,13 +522,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC019_001",
               "SourceString": "关于奥托·幼时",
-              "LocalizedString": "关于奥托·幼时"
+              "LocalizedString": "About Otro: Childhood"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_about_001",
               "SourceString": "小时候哥哥总是挡在我前面，甚至那个时候……哈？他说我小时候比现在坦率多了？他的话你也信？",
-              "LocalizedString": "小时候哥哥总是挡在我前面，甚至那个时候……哈？他说我小时候比现在坦率多了？他的话你也信？"
+              "LocalizedString": "When I was a kid, Otro would always try to act like the bigger guy between the two of us, and… Huh? He told you I was more straightforward back then? Do you actually believe that?"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_about_001.Play_Vo_Char_NPC020_about_001",
@@ -542,13 +542,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC019_002",
               "SourceString": "关于奥托·成长",
-              "LocalizedString": "关于奥托·成长"
+              "LocalizedString": "About Otro: Growth"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_about_002",
               "SourceString": "只是早出生几分钟而已，就仗着哥哥的身份事事都要操心，到头来连自己的身体都管不好。现在……轮到他站在我身后了。",
-              "LocalizedString": "只是早出生几分钟而已，就仗着哥哥的身份事事都要操心，到头来连自己的身体都管不好。现在……轮到他站在我身后了。"
+              "LocalizedString": "He always saw himself as the older one between us and tried to poke his nose into everything we did, just because he was born a few minutes earlier. But he ended up messing up his own health, so now… I'm the one playing the bigger guy."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_about_002.Play_Vo_Char_NPC020_about_002",
@@ -562,13 +562,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC013A",
               "SourceString": "关于墨菲克斯",
-              "LocalizedString": "关于墨菲克斯"
+              "LocalizedString": "About Morphix"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_about_003",
               "SourceString": "相伴着走过了一段……还不赖的旅程。现在它找到了它的归宿，不用再跟着我们漂泊，也是好事。",
-              "LocalizedString": "相伴着走过了一段……还不赖的旅程。现在它找到了它的归宿，不用再跟着我们漂泊，也是好事。"
+              "LocalizedString": "That journey we shared… wasn't bad at all. It's found its home now and no longer needs to wander with us, and that's a good thing."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_about_003.Play_Vo_Char_NPC020_about_003",
@@ -582,13 +582,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC008",
               "SourceString": "关于早雾",
-              "LocalizedString": "关于早雾"
+              "LocalizedString": "About Sakiri"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_about_004",
               "SourceString": "能惹事的麻烦小鬼……还是谨慎些吧，过去了不代表结束，那些人的手段……我只说这些，至于以后她会如何，就看你们了。",
-              "LocalizedString": "能惹事的麻烦小鬼……还是谨慎些吧，过去了不代表结束，那些人的手段……我只说这些，至于以后她会如何，就看你们了。"
+              "LocalizedString": "She's a real troublemaker… You better watch out. Just because it's over doesn't mean it's done. You never really know what they are capable of… There, I said it. Whatever happens to her next, that's on you."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_about_004.Play_Vo_Char_NPC020_about_004",
@@ -602,13 +602,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_Eibon",
               "SourceString": "关于伊波恩古董店",
-              "LocalizedString": "关于伊波恩古董店"
+              "LocalizedString": "About Eibon Antique Shop"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_about_005",
               "SourceString": "连老板都懒懒散散的店铺，伊波恩开到现在还没有倒闭真是个奇迹。要是哪天待不下去了，就来投奔我吧。",
-              "LocalizedString": "连老板都懒懒散散的店铺，伊波恩开到现在还没有倒闭真是个奇迹。要是哪天待不下去了，就来投奔我吧。"
+              "LocalizedString": "A shop with such a lazy boss. It's a miracle Eibon hasn't gone bankrupt yet. Come to me whenever you feel like you've had enough of the place."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_about_005.Play_Vo_Char_NPC020_about_005",
@@ -622,13 +622,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_001",
               "SourceString": "角色突破·Ⅰ",
-              "LocalizedString": "角色突破·Ⅰ"
+              "LocalizedString": "Character Ascension I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_ug_001",
               "SourceString": "力量增强了，多谢。",
-              "LocalizedString": "力量增强了，多谢。"
+              "LocalizedString": "Power enhanced, thank you."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_ug_001.Play_Vo_Char_NPC020_ug_001",
@@ -642,13 +642,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_002",
               "SourceString": "角色突破·Ⅱ",
-              "LocalizedString": "角色突破·Ⅱ"
+              "LocalizedString": "Character Ascension II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_ug_002",
               "SourceString": "欠你的人情，我会还上的。",
-              "LocalizedString": "欠你的人情，我会还上的。"
+              "LocalizedString": "I will repay the favor I owe you."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_ug_002.Play_Vo_Char_NPC020_ug_002",
@@ -662,13 +662,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "ug_003",
               "SourceString": "角色突破·Ⅲ",
-              "LocalizedString": "角色突破·Ⅲ"
+              "LocalizedString": "Character Ascension III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_ug_003",
               "SourceString": "礼尚往来，这次我会站在前面。",
-              "LocalizedString": "礼尚往来，这次我会站在前面。"
+              "LocalizedString": "It's my turn to take the lead this time."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_ug_003.Play_Vo_Char_NPC020_ug_003",
@@ -684,13 +684,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill001",
               "SourceString": "变轨技能·Ⅰ",
-              "LocalizedString": "变轨技能·Ⅰ"
+              "LocalizedString": "Skill I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_skill_001",
               "SourceString": "无聊。",
-              "LocalizedString": "无聊。"
+              "LocalizedString": "Boring."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_skill_001.Play_Vo_Char_NPC020_skill_001",
@@ -704,13 +704,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill002",
               "SourceString": "变轨技能·Ⅱ",
-              "LocalizedString": "变轨技能·Ⅱ"
+              "LocalizedString": "Skill II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_skill_002",
               "SourceString": "羸弱。",
-              "LocalizedString": "羸弱。"
+              "LocalizedString": "Weakling."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_skill_002.Play_Vo_Char_NPC020_skill_002",
@@ -724,13 +724,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "skill003",
               "SourceString": "变轨技能·Ⅲ",
-              "LocalizedString": "变轨技能·Ⅲ"
+              "LocalizedString": "Skill III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_skill_003",
               "SourceString": "幻灭。",
-              "LocalizedString": "幻灭。"
+              "LocalizedString": "Begone."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_skill_003.Play_Vo_Char_NPC020_skill_003",
@@ -744,13 +744,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe001",
               "SourceString": "极轨终结·Ⅰ",
-              "LocalizedString": "极轨终结·Ⅰ"
+              "LocalizedString": "Ultimate I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_aoe_001",
               "SourceString": "交易即成。",
-              "LocalizedString": "交易即成。"
+              "LocalizedString": "The deal's complete."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_aoe_001.Play_Vo_Char_NPC020_aoe_001",
@@ -764,13 +764,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe002",
               "SourceString": "极轨终结·Ⅱ",
-              "LocalizedString": "极轨终结·Ⅱ"
+              "LocalizedString": "Ultimate II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_aoe_002",
               "SourceString": "月落之时。",
-              "LocalizedString": "月落之时。"
+              "LocalizedString": "At moonfall."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_aoe_002.Play_Vo_Char_NPC020_aoe_002",
@@ -784,13 +784,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "aoe003",
               "SourceString": "极轨终结·Ⅲ",
-              "LocalizedString": "极轨终结·Ⅲ"
+              "LocalizedString": "Ultimate III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_aoe_003",
               "SourceString": "如你所愿。",
-              "LocalizedString": "如你所愿。"
+              "LocalizedString": "As you wish."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_aoe_003.Play_Vo_Char_NPC020_aoe_003",
@@ -804,13 +804,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_001",
               "SourceString": "收容异象·Ⅰ",
-              "LocalizedString": "收容异象·Ⅰ"
+              "LocalizedString": "Containment I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_anomaly_001",
               "SourceString": "不是什么棘手的事。",
-              "LocalizedString": "不是什么棘手的事。"
+              "LocalizedString": "Not a tricky matter."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_containment_001.Play_Vo_Char_NPC020_containment_001",
@@ -824,13 +824,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_003",
               "SourceString": "泯除异象·Ⅰ ",
-              "LocalizedString": "泯除异象·Ⅰ "
+              "LocalizedString": "Nullification I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_anomaly_002",
               "SourceString": "我可不负责收尾工作。",
-              "LocalizedString": "我可不负责收尾工作。"
+              "LocalizedString": "I'm not responsible for cleanup."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_anomaly_002.Play_Vo_Char_NPC020_anomaly_002",
@@ -844,13 +844,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_001",
               "SourceString": "意外收获·Ⅰ",
-              "LocalizedString": "意外收获·Ⅰ"
+              "LocalizedString": "Unexpected Gains I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_windfall_001",
               "SourceString": "月光当铺不收这个。",
-              "LocalizedString": "月光当铺不收这个。"
+              "LocalizedString": "Pawn Moonlight doesn't take this."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_windfall_001.Play_Vo_Char_NPC020_windfall_001",
@@ -864,13 +864,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_002",
               "SourceString": "意外收获·Ⅱ",
-              "LocalizedString": "意外收获·Ⅱ"
+              "LocalizedString": "Unexpected Gains II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_windfall_002",
               "SourceString": "倒是意料之外的收获。",
-              "LocalizedString": "倒是意料之外的收获。"
+              "LocalizedString": "An unexpected gain."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_windfall_002.Play_Vo_Char_NPC020_windfall_002",
@@ -884,13 +884,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_003",
               "SourceString": "意外收获·Ⅲ",
-              "LocalizedString": "意外收获·Ⅲ"
+              "LocalizedString": "Unexpected Gains III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_windfall_003",
               "SourceString": "品质尚可。",
-              "LocalizedString": "品质尚可。"
+              "LocalizedString": "The quality is not bad."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_windfall_003.Play_Vo_Char_NPC020_windfall_003",
@@ -904,13 +904,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_001",
               "SourceString": "生命值低·Ⅰ",
-              "LocalizedString": "生命值低·Ⅰ"
+              "LocalizedString": "Low Health I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_hp_001",
               "SourceString": "预估有误。",
-              "LocalizedString": "预估有误。"
+              "LocalizedString": "Miscalculated."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_hp_001.Play_Vo_Char_NPC020_hp_001",
@@ -924,13 +924,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_002",
               "SourceString": "生命值低·Ⅱ",
-              "LocalizedString": "生命值低·Ⅱ"
+              "LocalizedString": "Low Health II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_hp_002",
               "SourceString": "要认真点了。",
-              "LocalizedString": "要认真点了。"
+              "LocalizedString": "Time to get serious."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_hp_002.Play_Vo_Char_NPC020_hp_002",
@@ -944,13 +944,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_001",
               "SourceString": "恢复生命·Ⅰ",
-              "LocalizedString": "恢复生命·Ⅰ"
+              "LocalizedString": "Heal I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_fh_001",
               "SourceString": "……多谢。",
-              "LocalizedString": "……多谢。"
+              "LocalizedString": "…Thank you."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_fh_001.Play_Vo_Char_NPC020_fh_001",
@@ -964,13 +964,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_002",
               "SourceString": "恢复生命·Ⅱ",
-              "LocalizedString": "恢复生命·Ⅱ"
+              "LocalizedString": "Heal II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_fh_002",
               "SourceString": "已经习惯了。",
-              "LocalizedString": "已经习惯了。"
+              "LocalizedString": "I'm used to it."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_fh_002.Play_Vo_Char_NPC020_fh_002",
@@ -984,13 +984,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_001",
               "SourceString": "力竭·Ⅰ",
-              "LocalizedString": "力竭·Ⅰ"
+              "LocalizedString": "Down I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_dead_001",
               "SourceString": "会再见吗……哥哥……",
-              "LocalizedString": "会再见吗……哥哥……"
+              "LocalizedString": "Will we meet again… brother…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_dead_001.Play_Vo_Char_NPC020_dead_001",
@@ -1004,13 +1004,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_002",
               "SourceString": "力竭·Ⅱ",
-              "LocalizedString": "力竭·Ⅱ"
+              "LocalizedString": "Down II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_dead_002",
               "SourceString": "迟来的…代价……",
-              "LocalizedString": "迟来的…代价……"
+              "LocalizedString": "A price… too late…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_dead_002.Play_Vo_Char_NPC020_dead_002",
@@ -1024,13 +1024,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_003",
               "SourceString": "力竭·Ⅲ",
-              "LocalizedString": "力竭·Ⅲ"
+              "LocalizedString": "Down III"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_dead_003",
               "SourceString": "用什么……才能留住……",
-              "LocalizedString": "用什么……才能留住……"
+              "LocalizedString": "What can… be used to keep…"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_dead_003.Play_Vo_Char_NPC020_dead_003",
@@ -1044,13 +1044,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_001",
               "SourceString": "击败怪物·Ⅰ",
-              "LocalizedString": "击败怪物·Ⅰ"
+              "LocalizedString": "Takedown I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_kill_001",
               "SourceString": "还有吗？我赶时间。",
-              "LocalizedString": "还有吗？我赶时间。"
+              "LocalizedString": "Any more? I'm in a hurry."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_kill_001.Play_Vo_Char_NPC020_kill_001",
@@ -1064,13 +1064,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_002",
               "SourceString": "击败怪物·Ⅱ",
-              "LocalizedString": "击败怪物·Ⅱ"
+              "LocalizedString": "Takedown II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_kill_002",
               "SourceString": "脆弱的愿望。",
-              "LocalizedString": "脆弱的愿望。"
+              "LocalizedString": "Fragile wish."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_kill_002.Play_Vo_Char_NPC020_kill_002",
@@ -1084,13 +1084,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_001",
               "SourceString": "普通受击·Ⅰ",
-              "LocalizedString": "普通受击·Ⅰ"
+              "LocalizedString": "Damaged I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_struck_001",
               "SourceString": "不痛不痒。",
-              "LocalizedString": "不痛不痒。"
+              "LocalizedString": "Not even a scratch."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_struck_001.Play_Vo_Char_NPC020_struck_001",
@@ -1104,13 +1104,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_002",
               "SourceString": "普通受击·Ⅱ",
-              "LocalizedString": "普通受击·Ⅱ"
+              "LocalizedString": "Damaged II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_struck_002",
               "SourceString": "让开。",
-              "LocalizedString": "让开。"
+              "LocalizedString": "Move aside."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_struck_002.Play_Vo_Char_NPC020_struck_002",
@@ -1124,13 +1124,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_001",
               "SourceString": "重受击·Ⅰ",
-              "LocalizedString": "重受击·Ⅰ"
+              "LocalizedString": "Heavily Damaged I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_hstruck_001",
               "SourceString": "麻烦的东西。",
-              "LocalizedString": "麻烦的东西。"
+              "LocalizedString": "How bothersome."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_hstruck_001.Play_Vo_Char_NPC020_hstruck_001",
@@ -1144,13 +1144,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_002",
               "SourceString": "重受击·Ⅱ",
-              "LocalizedString": "重受击·Ⅱ"
+              "LocalizedString": "Heavily Damaged II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_hstruck_002",
               "SourceString": "荒谬！",
-              "LocalizedString": "荒谬！"
+              "LocalizedString": "Absurd!"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_hstruck_002.Play_Vo_Char_NPC020_hstruck_002",
@@ -1164,13 +1164,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_001",
               "SourceString": "上阵·Ⅰ",
-              "LocalizedString": "上阵·Ⅰ"
+              "LocalizedString": "Deploy I"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_deploy_001",
               "SourceString": "记得支付报酬。",
-              "LocalizedString": "记得支付报酬。"
+              "LocalizedString": "Remember to pay the fee."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_deploy_001.Play_Vo_Char_NPC020_deploy_001",
@@ -1184,13 +1184,13 @@
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_002",
               "SourceString": "上阵·Ⅱ",
-              "LocalizedString": "上阵·Ⅱ"
+              "LocalizedString": "Deploy II"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC020_deploy_002",
               "SourceString": "知道。",
-              "LocalizedString": "知道。"
+              "LocalizedString": "Understood."
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC020/Play_Vo_Char_NPC020_deploy_002.Play_Vo_Char_NPC020_deploy_002",
